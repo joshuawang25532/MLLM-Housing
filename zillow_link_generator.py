@@ -6,6 +6,13 @@ import random
 
 BASE_URL = "https://www.zillow.com/san-francisco-ca/sold/?category=RECENT_SEARCH&searchQueryState=%7B%22isMapVisible%22%3Atrue%2C%22mapBounds%22%3A%7B%22north%22%3A37.81609909306968%2C%22south%22%3A37.703729038459144%2C%22east%22%3A-122.34046069506836%2C%22west%22%3A-122.54817096118164%7D%2C%22filterState%22%3A%7B%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%2C%22rs%22%3A%7B%22value%22%3Atrue%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A13%2C%22usersSearchTerm%22%3A%22San%20Francisco%2C%20CA%22%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A20330%2C%22regionType%22%3A6%7D%5D%7D"
 
+# Reference tile to use throughout the module
+REFERENCE_TILE = {
+    "west":  -122.42879176774504,
+    "east":  -122.41580987611296,
+    "south":  37.79044676337045,
+    "north":  37.797466660899765,
+}
 
 def extract_search_state(url: str) -> dict:
     """
@@ -102,10 +109,6 @@ def compute_subtiles(
     return tiles
 
 
-
-
-
-
 def build_url(
     base_path: str,
     search_state: dict,
@@ -151,24 +154,22 @@ if __name__ == "__main__":
     search_state = extract_search_state(BASE_URL)
     
     print("=" * 70)
-    print("COMPLETE SEARCH STATE")
+    print("mapBounds")
     print("=" * 70)
-    print(json.dumps(search_state, indent=2))
+    print()
+    print(json.dumps(search_state.get("mapBounds")))
     
-    print("\n" + "=" * 70)
-    print("OTHER PARAMETERS")
-    print("=" * 70)
-    print(f"  Map Zoom: {search_state.get('mapZoom')}")
-    print(f"  Search Term: {search_state.get('usersSearchTerm')}")
-    print(f"  Map Visible: {search_state.get('isMapVisible')}")
-    print(f"  List Visible: {search_state.get('isListVisible')}")
+    # print("\n" + "=" * 70)
+    # print("OTHER PARAMETERS")
+    # print("=" * 70)
+    # print(f"  Map Zoom: {search_state.get('mapZoom')}")
+    # print(f"  Search Term: {search_state.get('usersSearchTerm')}")
+    # print(f"  Map Visible: {search_state.get('isMapVisible')}")
+    # print(f"  List Visible: {search_state.get('isListVisible')}")
     
-    # Test rebuilding the URL
-    print("\n" + "=" * 70)
-    print("URL REBUILD TEST")
-    print("=" * 70)
+    # Test rebuilding the URL with an assert
     rebuilt_url = build_url("/san-francisco-ca/sold/", search_state)
-    print("Rebuilt URL matches original:", rebuilt_url == BASE_URL)
+    assert rebuilt_url == BASE_URL, "Rebuilt URL does not match the original BASE_URL"
 
     search_state["mapZoom"] = 17
 
@@ -179,26 +180,25 @@ if __name__ == "__main__":
         "west": search_state.get("mapBounds", {}).get("west"),
     }
 
-    # Hopefully smaller than 500 items
-    ref_tile = {
-        "west":  -122.42879176774504,
-        "east":  -122.41580987611296,
-        "south":  37.79044676337045,
-        "north":  37.797466660899765,
-    }
-
-    tiles = compute_subtiles(search_space, ref_tile)
+    # Use module REFERENCE_TILE instead of a local ref_tile
+    tiles = compute_subtiles(search_space, REFERENCE_TILE)
     print(f"Generated {len(tiles)} tiles")
 
-    for tile in tiles:
-        print(tile)
+    if tiles:
+        print("Example tile:", tiles[0])
     
+    # Generate all links
     sample_links = []
     for i, tile in enumerate(tiles):
         link = build_url("/san-francisco-ca/sold/", search_state, north=tile[3], south=tile[2], east=tile[1], west=tile[0])
         sample_links.append(link)
+    print(f"Generated {len(sample_links)} links")
 
-    random_link = random.choice(sample_links)
-    print("\nRandom sample link:")
-    print(random_link)
+    # Print a random one
+    if sample_links:
+        random_link = random.choice(sample_links)
+        print("\nRandom sample link:")
+        print(random_link)
+    else:
+        print("\nNo sample links were generated.")
 
