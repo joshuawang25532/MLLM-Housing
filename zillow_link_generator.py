@@ -202,3 +202,8 @@ if __name__ == "__main__":
     else:
         print("\nNo sample links were generated.")
 
+    # Save all generated links to a JSON file for better structure and extensibility
+    output_filename = "zillow_links.json"
+    with open(output_filename, "w") as f:
+        json.dump(sample_links, f, indent=2)
+    print(f"\nAll generated links have been saved to '{output_filename}'")
