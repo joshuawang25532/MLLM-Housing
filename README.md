@@ -8,6 +8,8 @@ and other more abstract qualities
 
 ## TODO
 
+- [X] Generate tileable blocks
+- [X] Implement single tile scraping
 - [ ] Implement large scale scraping (scrape all Zillow tiles of interest)
 - [ ] Dedupe data (remove duplicate listings/houses)
 - [ ] Data cleaning and preprocessing
