@@ -10,10 +10,15 @@ and other more abstract qualities
 
 - [X] Generate tileable blocks
 - [X] Implement single tile scraping
+- [ ] Deal with Pagination
+- [ ] Validate and parse scraped results (Individual)
 - [ ] Implement large scale scraping (scrape all Zillow tiles of interest)
+- [ ] Process and extract data
 - [ ] Dedupe data (remove duplicate listings/houses)
 - [ ] Data cleaning and preprocessing
 - [ ] Train initial model on data
 - [ ] Test and evaluate model performance
 - [ ] Integrate MLLM for evaluation of abstract qualities (beauty, cleanliness, spaciousness, etc.)
 
+
+Scraped result has a small discrepancy but it is very small so we arent worrying about it
