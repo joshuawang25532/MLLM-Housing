@@ -8,10 +8,6 @@ import pyzill_files
 
 from dotenv import load_dotenv
 load_dotenv()
-results_folder = os.getenv("SAVE_FOLDER") or "pyzill_results"
-
-if not os.path.exists(results_folder):
-    os.makedirs(results_folder)
 
 print("Generating zillow links")
 zillow_link_generator.main()
@@ -33,14 +29,33 @@ south = coords["south"]
 west = coords["west"]
 
 print("Scraping...")
-results_sold = pyzill_scraper.pyzill_scraper(north, east, south, west)
+res = pyzill_scraper.pyzill_scraper_master(north, east, south, west)
+sold_path = res["path"]
+print(f"Number of houses returned: {res['house_count']}")
 
 
-sold_filename = os.path.join(results_folder, pyzill_files.generate_tile_filename_by_coords(north, west))
-pyzill_scraper.file_save(results_sold, sold_filename)
 
-house_count_result = pyzill_scraper.house_count(results_sold)
-print(f"Number of houses returned: {house_count_result}")
+
+print("Testing empty tile handling")
+first_link = zillow_links[1]
+
+coords = first_link["coordinates"]
+
+north = coords["north"]
+east = coords["east"]
+south = coords["south"]
+west = coords["west"]
+
+print("Scraping...")
+res = pyzill_scraper.pyzill_scraper_master(north, east, south, west)
+
+if res['skipped']:
+    print(f"Previously empty tile detected, skipping scrape")
+elif res['empty_recorded']:
+    print(f"Empty tile detected and recorded")
+else:
+    print(f"Successfully scraped: {res['house_count']} houses found")
+
 
 
 
