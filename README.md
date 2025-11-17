@@ -1,6 +1,6 @@
 # MLLM-Housing
-First set up your conda environment using the environment.yml file
-Redfin data is downloaded using download_dataset.py (will rename later)
+First set up your conda environment using the environment.yml file.
+Redfin data is downloaded using download_dataset.py (will rename later).
 Zillow data is added in the github
 
 Use the MLLM to evaluate the beauty and cleanliness and spaciousness
