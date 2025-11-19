@@ -6,6 +6,8 @@ Zillow data is added in the github.
 Use the MLLM to evaluate the beauty and cleanliness and spaciousness
 and other more abstract qualities
 
+Run extract_deduplicated_urls.py after scraping all of nodriver_results
+
 ## TODO
 
 - [X] Generate tileable blocks
