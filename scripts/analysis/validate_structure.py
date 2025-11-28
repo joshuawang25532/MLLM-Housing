@@ -34,7 +34,7 @@ def get_structure(data: dict, path: str = "") -> Set[str]:
     return structure
 
 
-def validate_structure(houses_dir: str = "houses_preprocessed") -> Tuple[Dict[str, Set[str]], List[str]]:
+def validate_structure(houses_dir: str = "data/preprocessed_houses") -> Tuple[Dict[str, Set[str]], List[str]]:
     """
     Validate that all house files have the exact same structure.
     
@@ -156,8 +156,8 @@ def main():
     parser.add_argument(
         "--dir",
         type=str,
-        default="houses_preprocessed",
-        help="Directory containing house JSON files (default: houses_preprocessed)"
+        default="data/preprocessed_houses",
+        help="Directory containing house JSON files (default: data/preprocessed_houses)"
     )
     parser.add_argument(
         "--output",

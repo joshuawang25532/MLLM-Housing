@@ -7,7 +7,7 @@ import json
 
 def analyze_mismatches():
     """Analyze the types of mismatches."""
-    with open('lotsize_mismatches.json', 'r', encoding='utf-8') as f:
+    with open('data/lotsize_mismatches.json', 'r', encoding='utf-8') as f:
         mismatches = json.load(f)
     
     print(f"Total mismatches: {len(mismatches)}\n")

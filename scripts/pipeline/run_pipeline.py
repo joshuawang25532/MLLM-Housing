@@ -98,7 +98,7 @@ def main():
         "House Preprocessing (filtering, cleaning, transforming)"
     )
     
-    # Check filtered_houses exists
+    # Check preprocessed_houses exists
     filtered_path = Path("data/preprocessed_houses")
     if not filtered_path.exists() or len(list(filtered_path.glob("*.json"))) == 0:
         print("\n❌ Error: No houses in data/preprocessed_houses/ directory!")
@@ -112,7 +112,7 @@ def main():
         "One-Hot Encoding (categorical features, flattening)"
     )
     
-    # Check houses_onehot_encoded exists
+    # Check encoded_houses exists
     encoded_path = Path("data/encoded_houses")
     if not encoded_path.exists() or len(list(encoded_path.glob("*.json"))) == 0:
         print("\n❌ Error: No houses in data/encoded_houses/ directory!")
@@ -127,7 +127,7 @@ def main():
             "KNN Imputation (Phase 4 features)"
         )
         
-        # Check houses_imputed exists
+        # Check imputed_houses exists
         imputed_path = Path("data/imputed_houses")
         if not imputed_path.exists() or len(list(imputed_path.glob("*.json"))) == 0:
             print("\n❌ Error: No houses in data/imputed_houses/ directory!")
