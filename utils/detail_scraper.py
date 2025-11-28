@@ -29,13 +29,15 @@ async def get_shared_browser():
                 _shared_browser = await uc.start(
                     headless=False,
                     browser_executable_path=BROWSER_PATH,
-                    browser_args=browser_args
+                    browser_args=browser_args,
+                    no_sandbox=True  # Required to avoid connection failures
                 )
             else:
                 print("Starting browser without custom path...")
                 _shared_browser = await uc.start(
                     headless=False,
-                    browser_args=browser_args
+                    browser_args=browser_args,
+                    no_sandbox=True  # Required to avoid connection failures
                 )
             print("Browser started successfully")
             
