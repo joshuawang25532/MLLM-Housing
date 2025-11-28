@@ -1,0 +1,1270 @@
+{
+  "basic_info": {
+    "zpid": 15086014,
+    "address": "441 Baker St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94117",
+    "bedrooms": null,
+    "bathrooms": 2,
+    "livingArea": 2630,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2495,
+    "lotAreaValue": 2495,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1900,
+    "homeType": "SINGLE_FAMILY",
+    "description": "441 Baker St, San Francisco, CA 94117 is a single family home that contains 2,630 sq ft and was built in 1900. It contains 2 bathrooms. This home last sold for $2,050,000 in September 2025. \n \nThe Zestimate for this house is $1,828,000. The Rent Zestimate for this home is $7,466/mo. "
+  },
+  "location": {
+    "latitude": 37.775097,
+    "longitude": -122.44157,
+    "neighborhood": "Panhandle",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 2050000,
+    "lastSoldPrice": 2050000,
+    "dateSold": 1757980800000,
+    "dateSoldString": "2025-09-16",
+    "zestimate": 1828000,
+    "zestimateHighPercent": "17",
+    "zestimateLowPercent": "15",
+    "rentZestimate": 7466,
+    "taxAssessedValue": 76867,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 779
+  },
+  "schools": [
+    {
+      "name": "New Traditions Elementary School",
+      "rating": 9,
+      "level": "Elementary",
+      "distance": 0.5,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Roosevelt Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 1.1,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.4,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 95,
+    "transitScore": 78,
+    "bikeScore": 93
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-09-16",
+        "time": 1757980800000,
+        "price": 2050000,
+        "pricePerSquareFoot": 779,
+        "priceChangeRate": 0.5185185185185185,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2025-08-13",
+        "time": 1755043200000,
+        "price": 1350000,
+        "pricePerSquareFoot": 513,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/Denis-Dolginov/",
+          "name": "Denis Dolginov"
+        },
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763638183147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 76867,
+        "valueIncreaseRate": 0.019983811
+      },
+      {
+        "time": 1732102183147,
+        "taxPaid": 1590.06,
+        "taxIncreaseRate": 0.02345494,
+        "value": 75361,
+        "valueIncreaseRate": 0.019990796
+      },
+      {
+        "time": 1700479783147,
+        "taxPaid": 1553.62,
+        "taxIncreaseRate": 0.03259384,
+        "value": 73884,
+        "valueIncreaseRate": 0.01999006
+      },
+      {
+        "time": 1668943783147,
+        "taxPaid": 1504.58,
+        "taxIncreaseRate": 0.023036653,
+        "value": 72436,
+        "valueIncreaseRate": 0.019981131
+      },
+      {
+        "time": 1637407783147,
+        "taxPaid": 1470.7,
+        "taxIncreaseRate": -0.018617393,
+        "value": 71017,
+        "valueIncreaseRate": 0.010357239
+      },
+      {
+        "time": 1605871783147,
+        "taxPaid": 1498.6,
+        "taxIncreaseRate": 0.03271954,
+        "value": 70289,
+        "valueIncreaseRate": 0.019982006
+      },
+      {
+        "time": 1574249383147,
+        "taxPaid": 1451.12,
+        "taxIncreaseRate": 0.034445357,
+        "value": 68912,
+        "valueIncreaseRate": 0.019981647
+      },
+      {
+        "time": 1542713383147,
+        "taxPaid": 1402.8,
+        "taxIncreaseRate": 0.2913323,
+        "value": 67562,
+        "valueIncreaseRate": 0.019988526
+      },
+      {
+        "time": 1511177383147,
+        "taxPaid": 1086.32,
+        "taxIncreaseRate": 0.049300592,
+        "value": 66238,
+        "valueIncreaseRate": 0.019971974
+      },
+      {
+        "time": 1479641383147,
+        "taxPaid": 1035.28,
+        "taxIncreaseRate": 0.016016338,
+        "value": 64941,
+        "valueIncreaseRate": 0.015226602
+      },
+      {
+        "time": 1448018983147,
+        "taxPaid": 1018.96,
+        "taxIncreaseRate": 0.026701327,
+        "value": 63967,
+        "valueIncreaseRate": 0.019963326
+      },
+      {
+        "time": 1416482983147,
+        "taxPaid": 992.46,
+        "taxIncreaseRate": 0,
+        "value": 62715,
+        "valueIncreaseRate": 0.004532932
+      },
+      {
+        "time": 1384946983147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62432,
+        "valueIncreaseRate": 0.019980721
+      },
+      {
+        "time": 1353410983147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 61209,
+        "valueIncreaseRate": 0.019980004
+      },
+      {
+        "time": 1321788583147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 60010,
+        "valueIncreaseRate": 0.0074708303
+      },
+      {
+        "time": 1290252583147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59565,
+        "valueIncreaseRate": -0.0023615716
+      },
+      {
+        "time": 1258716583147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59706,
+        "valueIncreaseRate": 0.0199877
+      },
+      {
+        "time": 1227180583147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 58536,
+        "valueIncreaseRate": 0.019968636
+      },
+      {
+        "time": 1195558183147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57390,
+        "valueIncreaseRate": 0.019994669
+      },
+      {
+        "time": 1164022183147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 56265,
+        "valueIncreaseRate": 0.019977158
+      },
+      {
+        "time": 1132486183147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 55163,
+        "valueIncreaseRate": 0.03900776
+      },
+      {
+        "time": 1069327783147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 53092,
+        "valueIncreaseRate": 0.01998002
+      },
+      {
+        "time": 1037791783147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 52052,
+        "valueIncreaseRate": 0.019947486
+      },
+      {
+        "time": 1006255783147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 51034,
+        "valueIncreaseRate": 0.020006796
+      },
+      {
+        "time": 974719783147,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 50033,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15086013,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77516555786133,-122.44158172607422&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=h6HCPa7tzmVHTCPLuSoww2wHp7o="
+          }
+        ],
+        "price": 1147200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1106,
+        "livingAreaValue": 1106,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "445AA Baker St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "445AA Baker St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775166,
+        "longitude": -122.44158,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/445AA-Baker-St-San-Francisco-CA-94117/15086013_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 89239005,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/08f6e61b8592ff1c0b7ba8a5fbb71a27-p_c.jpg"
+          }
+        ],
+        "price": 1218000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1211,
+        "livingAreaValue": 1211,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "445 Baker St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "445 Baker St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775166,
+        "longitude": -122.44158,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/445-Baker-St-San-Francisco-CA-94117/89239005_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 447275331,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6004ab1999bf162255774f8f13629e4d-p_c.jpg"
+          }
+        ],
+        "price": 956500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1106,
+        "livingAreaValue": 1106,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500.344,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "445 Baker St #A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "445 Baker St #A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775166,
+        "longitude": -122.44158,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/445-Baker-St-A-San-Francisco-CA-94117/447275331_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "421577874",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332853023,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.775020599365234,-122.44165802001953&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fySCMaEtsrGDGWtHuegmSC6S1WQ="
+          }
+        ],
+        "price": 2271500,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 3350,
+        "livingAreaValue": 3350,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4299,
+        "lotAreaValue": 4299,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "433-435 Baker St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "433-435 Baker St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77502,
+        "longitude": -122.44166,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/433-435-Baker-St-San-Francisco-CA-94117/332853023_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15086033,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77495574951172,-122.44157409667969&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NHld3mA5khGAg8au9F4PSPbaBJU="
+          }
+        ],
+        "price": 1316000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1900,
+        "livingAreaValue": 1900,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3046,
+        "lotAreaValue": 3046,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "427 Baker St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "427 Baker St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.774956,
+        "longitude": -122.441574,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/427-Baker-St-San-Francisco-CA-94117/15086033_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15086034,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/b586a045243a35ae85f7b2c3f9b9aa5f-p_c.jpg"
+          }
+        ],
+        "price": 1875000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1900,
+        "livingAreaValue": 1900,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3047,
+        "lotAreaValue": 3047,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "429 Baker St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "429 Baker St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.774956,
+        "longitude": -122.44158,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/429-Baker-St-San-Francisco-CA-94117/15086034_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424017674",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332853029,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.775203704833984,-122.44181060791016&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9itb_kIA9YV3uKSIxo1Gr3i-3-0="
+          }
+        ],
+        "price": 1662500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 3220,
+        "livingAreaValue": 3220,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2395,
+        "lotAreaValue": 2395,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1523 Grove St #1525",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1523 Grove St #1525"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775204,
+        "longitude": -122.44181,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1523-Grove-St-1525-San-Francisco-CA-94117/332853029_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332853028,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1abb1dae6ae86b91eec62783be911465-p_c.jpg"
+          }
+        ],
+        "price": 1621100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1447,
+        "livingAreaValue": 1447,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2400,
+        "lotAreaValue": 2400,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1529 Grove St #1531",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1529 Grove St #1531"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775196,
+        "longitude": -122.44189,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1529-Grove-St-1531-San-Francisco-CA-94117/332853028_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pWGQU_rL7aUTlw5E0y5vSnidA0g=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=kTpkXeOKPDvLhg0OkdIdO-8F6dc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=046gIzT5xHlH4BCIO9SINq3tTn0=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zaNJ7fBEBhUQ-QmNOKifjFOIt3U=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PaWHxu3x23qb1a85whLQBlm3Sj8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=RWi_4wxatnpDnY1XLjMhT0WtIbQ=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yd_0uSlOTKPusNgqhd7rlfSGeHI=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R4na-9zCGnlxGkr_ceaj0yFYikg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HvSIOZv3sqKyY2rDp8SYMaR7QUU=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=kTpkXeOKPDvLhg0OkdIdO-8F6dc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=046gIzT5xHlH4BCIO9SINq3tTn0=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zaNJ7fBEBhUQ-QmNOKifjFOIt3U=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PaWHxu3x23qb1a85whLQBlm3Sj8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=RWi_4wxatnpDnY1XLjMhT0WtIbQ=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yd_0uSlOTKPusNgqhd7rlfSGeHI=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R4na-9zCGnlxGkr_ceaj0yFYikg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HvSIOZv3sqKyY2rDp8SYMaR7QUU=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tzMhDH1DARSjXrTy9yc6FCn_5uw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lEOghgm4hrucswrAAa6GlnzDWwY=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R4na-9zCGnlxGkr_ceaj0yFYikg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HvSIOZv3sqKyY2rDp8SYMaR7QUU=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tzMhDH1DARSjXrTy9yc6FCn_5uw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lEOghgm4hrucswrAAa6GlnzDWwY=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R4na-9zCGnlxGkr_ceaj0yFYikg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HvSIOZv3sqKyY2rDp8SYMaR7QUU=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.77509689331055,-122.44156646728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=X4zyiQ6IGm8W3jhjHBD6lRq68do="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/441-Baker-St-San-Francisco-CA-94117/15086014_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/441-Baker-St-San-Francisco-CA-94117/15086014_zpid/",
+    "zpid": 15086014
+  }
+}

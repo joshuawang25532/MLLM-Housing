@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15095218,
+    "address": "534 18th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94121",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "livingArea": 1980,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3000,
+    "lotAreaValue": 3000,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1914,
+    "homeType": "SINGLE_FAMILY",
+    "description": "534 18th Ave, San Francisco, CA 94121 is a single family home that contains 1,980 sq ft and was built in 1914. It contains 4 bedrooms and 2 bathrooms. This home last sold for $1,200,000 in June 2025. \n \nThe Zestimate for this house is $1,216,900. The Rent Zestimate for this home is $5,609/mo. "
+  },
+  "location": {
+    "latitude": 37.777824,
+    "longitude": -122.476715,
+    "neighborhood": "Inner Richmond",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1200000,
+    "lastSoldPrice": 1200000,
+    "dateSold": 1750118400000,
+    "dateSoldString": "2025-06-17",
+    "zestimate": 1216900,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 5609,
+    "taxAssessedValue": 105246,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 606
+  },
+  "schools": [
+    {
+      "name": "Argonne Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Presidio Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.8,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Washington (George) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 93,
+    "transitScore": 72,
+    "bikeScore": 86
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-06-17",
+        "time": 1750118400000,
+        "price": 1200000,
+        "pricePerSquareFoot": 606,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763638857917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 105246,
+        "valueIncreaseRate": 0.019983718
+      },
+      {
+        "time": 1732102857917,
+        "taxPaid": 1997.98,
+        "taxIncreaseRate": 0.02077332,
+        "value": 103184,
+        "valueIncreaseRate": 0.019967576
+      },
+      {
+        "time": 1700480457917,
+        "taxPaid": 1957.32,
+        "taxIncreaseRate": 0.028728155,
+        "value": 101164,
+        "valueIncreaseRate": 0.019983465
+      },
+      {
+        "time": 1668944457917,
+        "taxPaid": 1902.66,
+        "taxIncreaseRate": 0.020992301,
+        "value": 99182,
+        "valueIncreaseRate": 0.019971205
+      },
+      {
+        "time": 1637408457917,
+        "taxPaid": 1863.54,
+        "taxIncreaseRate": -0.04117188,
+        "value": 97240,
+        "valueIncreaseRate": 0.010348697
+      },
+      {
+        "time": 1605872457917,
+        "taxPaid": 1943.56,
+        "taxIncreaseRate": 0.05973831,
+        "value": 96244,
+        "valueIncreaseRate": 0.019987706
+      },
+      {
+        "time": 1574250057917,
+        "taxPaid": 1834,
+        "taxIncreaseRate": 0.03361213,
+        "value": 94358,
+        "valueIncreaseRate": 0.01997622
+      },
+      {
+        "time": 1542714057917,
+        "taxPaid": 1774.36,
+        "taxIncreaseRate": 0.21939084,
+        "value": 92510,
+        "valueIncreaseRate": 0.01997839
+      },
+      {
+        "time": 1511178057917,
+        "taxPaid": 1455.12,
+        "taxIncreaseRate": 0.03894104,
+        "value": 90698,
+        "valueIncreaseRate": 0.019995501
+      },
+      {
+        "time": 1479642057917,
+        "taxPaid": 1400.58,
+        "taxIncreaseRate": 0.014133996,
+        "value": 88920,
+        "valueIncreaseRate": 0.015230745
+      },
+      {
+        "time": 1448019657917,
+        "taxPaid": 1381.06,
+        "taxIncreaseRate": 0.025605686,
+        "value": 87586,
+        "valueIncreaseRate": 0.01995994
+      },
+      {
+        "time": 1416483657917,
+        "taxPaid": 1346.58,
+        "taxIncreaseRate": 0,
+        "value": 85872,
+        "valueIncreaseRate": 0.004515359
+      },
+      {
+        "time": 1384947657917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 85486,
+        "valueIncreaseRate": 0.019973274
+      },
+      {
+        "time": 1353411657917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 83812,
+        "valueIncreaseRate": 0.019982962
+      },
+      {
+        "time": 1321789257917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 82170,
+        "valueIncreaseRate": 0.007466804
+      },
+      {
+        "time": 1290253257917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 81561,
+        "valueIncreaseRate": -0.0023607407
+      },
+      {
+        "time": 1258717257917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 81754,
+        "valueIncreaseRate": 0.019987024
+      },
+      {
+        "time": 1227181257917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 80152,
+        "valueIncreaseRate": 0.01997913
+      },
+      {
+        "time": 1195558857917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 78582,
+        "valueIncreaseRate": 0.019989097
+      },
+      {
+        "time": 1164022857917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 77042,
+        "valueIncreaseRate": 0.01996452
+      },
+      {
+        "time": 1132486857917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 75534,
+        "valueIncreaseRate": 0.039024994
+      },
+      {
+        "time": 1069328457917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 72697,
+        "valueIncreaseRate": 0.01982212
+      },
+      {
+        "time": 1037792457917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 71284,
+        "valueIncreaseRate": 0.019974817
+      },
+      {
+        "time": 1006256457917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 69888,
+        "valueIncreaseRate": 0.019994745
+      },
+      {
+        "time": 974720457917,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68518,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 328320924,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77775955200195,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=p-1yMNJ--qVFmfHHhTrxW1UT2vQ="
+          }
+        ],
+        "price": 1533900,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 2410,
+        "livingAreaValue": 2410,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "536-538 18th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "536-538 18th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77776,
+        "longitude": -122.476715,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/536-538-18th-Ave-San-Francisco-CA-94121/328320924_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2069865515,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=536+18th+Ave%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=mEO0rSlaw2w_Q3NlLuoNZOa_xio="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "536 18th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "536 18th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77776,
+        "longitude": -122.476715,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/536-18th-Ave-San-Francisco-CA-94121/2069865515_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15095219,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.777896881103516,-122.47672271728516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HoRmpzkBzPoTj4t5Qdui-MX0y0U="
+          }
+        ],
+        "price": 1915700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 2697,
+        "livingAreaValue": 2697,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "530 18th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "530 18th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.777897,
+        "longitude": -122.47672,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/530-18th-Ave-San-Francisco-CA-94121/15095219_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15095216,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77769088745117,-122.4767074584961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MkHMCr38cA5B1ovZAf5_0wNoSbg="
+          }
+        ],
+        "price": 1787500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 2010,
+        "livingAreaValue": 2010,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "542 18th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "542 18th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77769,
+        "longitude": -122.47671,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/542-18th-Ave-San-Francisco-CA-94121/15095216_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15095220,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/44cc9c59b51b55f2b6b9521466583066-p_c.jpg"
+          }
+        ],
+        "price": 1725000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1650,
+        "livingAreaValue": 1650,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996.928,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "526 18th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "526 18th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77796,
+        "longitude": -122.476875,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/526-18th-Ave-San-Francisco-CA-94121/15095220_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424006950",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15095215,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77762222290039,-122.47669982910156&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Tr8irVhmVayR0u3YBbBDSsUuwOs="
+          }
+        ],
+        "price": 2498300,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2150,
+        "livingAreaValue": 2150,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "546 18th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "546 18th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.777622,
+        "longitude": -122.4767,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/546-18th-Ave-San-Francisco-CA-94121/15095215_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15095221,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77803039550781,-122.47673034667969&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fS9UfbNfgbtNjcuXUr67VAIh_Q4="
+          }
+        ],
+        "price": 1567400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1960,
+        "livingAreaValue": 1960,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "522 18th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "522 18th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77803,
+        "longitude": -122.47673,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/522-18th-Ave-San-Francisco-CA-94121/15095221_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15095214,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77755355834961,-122.47669982910156&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UETjgQr6gbrCxXjWwMMj0loxAAE="
+          }
+        ],
+        "price": 2353900,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "livingArea": 3637,
+        "livingAreaValue": 3637,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "550 18th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "550 18th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.777554,
+        "longitude": -122.4767,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/550-18th-Ave-San-Francisco-CA-94121/15095214_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7zVE199EfazqtymDQkNXFitKf4U=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Zm4zAw4MH0rAJONPdlfy0rRzFeo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Zy3Qx1lt4o2tF3IQJaqMxXy063A=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=SbDqdA-iorkr7st5Co6LTdMLMG8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yHDZ7zPD3Ucalq0amfW8YQdMY18=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CfUlBmoD4QJOZ6XMwCbPE23hjA8=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cRGTOgSW_XypZTpk3Pix_otOJq4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fszlTaLGusUxy_TF36wRi3ltNGU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WLnFiLqykfAulkv4GBYIZSaZKjM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Zm4zAw4MH0rAJONPdlfy0rRzFeo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Zy3Qx1lt4o2tF3IQJaqMxXy063A=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=SbDqdA-iorkr7st5Co6LTdMLMG8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yHDZ7zPD3Ucalq0amfW8YQdMY18=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CfUlBmoD4QJOZ6XMwCbPE23hjA8=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cRGTOgSW_XypZTpk3Pix_otOJq4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fszlTaLGusUxy_TF36wRi3ltNGU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WLnFiLqykfAulkv4GBYIZSaZKjM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=X3I_Ywv7wSap3sPDT7JJNPABJPk=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3KwbyzTGXkd0w33uav7WTICaQEE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fszlTaLGusUxy_TF36wRi3ltNGU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WLnFiLqykfAulkv4GBYIZSaZKjM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=X3I_Ywv7wSap3sPDT7JJNPABJPk=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3KwbyzTGXkd0w33uav7WTICaQEE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fszlTaLGusUxy_TF36wRi3ltNGU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WLnFiLqykfAulkv4GBYIZSaZKjM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.77782440185547,-122.47671508789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4wIta-OHR9DQhyd2pQ3vYr5K7CY="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/534-18th-Ave-San-Francisco-CA-94121/15095218_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/534-18th-Ave-San-Francisco-CA-94121/15095218_zpid/",
+    "zpid": 15095218
+  }
+}

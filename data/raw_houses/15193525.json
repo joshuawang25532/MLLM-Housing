@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15193525,
+    "address": "154 Ralston St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94132",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1175,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2495,
+    "lotAreaValue": 2495,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1948,
+    "homeType": "SINGLE_FAMILY",
+    "description": "154 Ralston St, San Francisco, CA 94132 is a single family home that contains 1,175 sq ft and was built in 1948. It contains 1 bathroom. This home last sold for $743,000 in August 2025. \n \nThe Zestimate for this house is $746,900. The Rent Zestimate for this home is $4,064/mo. "
+  },
+  "location": {
+    "latitude": 37.715298,
+    "longitude": -122.468636,
+    "neighborhood": "Ingleside Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 743000,
+    "lastSoldPrice": 743000,
+    "dateSold": 1756425600000,
+    "dateSoldString": "2025-08-29",
+    "zestimate": 746900,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 4064,
+    "taxAssessedValue": 57915,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 632
+  },
+  "schools": [
+    {
+      "name": "Ortega (Jose) Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Aptos Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 1,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lowell High School",
+      "rating": 10,
+      "level": "High",
+      "distance": 1.3,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 83,
+    "transitScore": 77,
+    "bikeScore": 44
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-08-29",
+        "time": 1756425600000,
+        "price": 743000,
+        "pricePerSquareFoot": 632,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763621946415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57915,
+        "valueIncreaseRate": 0.019989433
+      },
+      {
+        "time": 1732085946415,
+        "taxPaid": 694.1,
+        "taxIncreaseRate": 0.014588055,
+        "value": 56780,
+        "valueIncreaseRate": 0.01997557
+      },
+      {
+        "time": 1700463546415,
+        "taxPaid": 684.12,
+        "taxIncreaseRate": 0.017672267,
+        "value": 55668,
+        "valueIncreaseRate": 0.019990105
+      },
+      {
+        "time": 1668927546415,
+        "taxPaid": 672.24,
+        "taxIncreaseRate": 0.017127652,
+        "value": 54577,
+        "valueIncreaseRate": 0.01997832
+      },
+      {
+        "time": 1637391546415,
+        "taxPaid": 660.92,
+        "taxIncreaseRate": -0.0012995956,
+        "value": 53508,
+        "valueIncreaseRate": 0.010328355
+      },
+      {
+        "time": 1605855546415,
+        "taxPaid": 661.78,
+        "taxIncreaseRate": 0.032192677,
+        "value": 52961,
+        "valueIncreaseRate": 0.019971497
+      },
+      {
+        "time": 1574233146415,
+        "taxPaid": 641.14,
+        "taxIncreaseRate": -0.4697378,
+        "value": 51924,
+        "valueIncreaseRate": 0.019977607
+      },
+      {
+        "time": 1542697146415,
+        "taxPaid": 1209.1,
+        "taxIncreaseRate": 0.35110062,
+        "value": 50907,
+        "valueIncreaseRate": 0.019975957
+      },
+      {
+        "time": 1511161146415,
+        "taxPaid": 894.9,
+        "taxIncreaseRate": 0.05717664,
+        "value": 49910,
+        "valueIncreaseRate": 0.01998692
+      },
+      {
+        "time": 1479625146415,
+        "taxPaid": 846.5,
+        "taxIncreaseRate": -0.026429567,
+        "value": 48932,
+        "valueIncreaseRate": 0.015228848
+      },
+      {
+        "time": 1448002746415,
+        "taxPaid": 869.48,
+        "taxIncreaseRate": -0.06416962,
+        "value": 48198,
+        "valueIncreaseRate": 0.01995556
+      },
+      {
+        "time": 1416466746415,
+        "taxPaid": 929.1,
+        "taxIncreaseRate": 0,
+        "value": 47255,
+        "valueIncreaseRate": 0.0045278687
+      },
+      {
+        "time": 1384930746415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 47042,
+        "valueIncreaseRate": 0.019969212
+      },
+      {
+        "time": 1353394746415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 46121,
+        "valueIncreaseRate": 0.019969923
+      },
+      {
+        "time": 1321772346415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 45218,
+        "valueIncreaseRate": 0.0074638505
+      },
+      {
+        "time": 1290236346415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 44883,
+        "valueIncreaseRate": -0.0023561316
+      },
+      {
+        "time": 1258700346415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 44989,
+        "valueIncreaseRate": 0.0199737
+      },
+      {
+        "time": 1227164346415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 44108,
+        "valueIncreaseRate": 0.01997965
+      },
+      {
+        "time": 1195541946415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 43244,
+        "valueIncreaseRate": 0.019977828
+      },
+      {
+        "time": 1164005946415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 42397,
+        "valueIncreaseRate": 0.019967763
+      },
+      {
+        "time": 1132469946415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 41567,
+        "valueIncreaseRate": 0.038993176
+      },
+      {
+        "time": 1069311546415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 40007,
+        "valueIncreaseRate": 0.019910263
+      },
+      {
+        "time": 1037775546415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 39226,
+        "valueIncreaseRate": 0.01999636
+      },
+      {
+        "time": 1006239546415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 38457,
+        "valueIncreaseRate": 0.019998409
+      },
+      {
+        "time": 974703546415,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 37703,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15193526,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71536636352539,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5litMEZhcWAzM96IH9m1g-NiuQY="
+          }
+        ],
+        "price": 1079400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1370,
+        "livingAreaValue": 1370,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "160 Ralston St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "160 Ralston St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.715366,
+        "longitude": -122.468636,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/160-Ralston-St-San-Francisco-CA-94132/15193526_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193524,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71522903442383,-122.4686279296875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pmfwEYHzJLz-7gqGTvHW7khUCFQ="
+          }
+        ],
+        "price": 1329700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1750,
+        "livingAreaValue": 1750,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "150 Ralston St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "150 Ralston St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71523,
+        "longitude": -122.46863,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/150-Ralston-St-San-Francisco-CA-94132/15193524_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193523,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f08fbc4a99ce95b216183b756f935d30-p_c.jpg"
+          }
+        ],
+        "price": 1200000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2925,
+        "livingAreaValue": 2925,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2613,
+        "lotAreaValue": 2613.6,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "146 Ralston St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "146 Ralston St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.715168,
+        "longitude": -122.468666,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/146-Ralston-St-San-Francisco-CA-94132/15193523_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "41106776",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193527,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71543502807617,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=StgSnTUZsh74NMudMTw0Ya8Y2Rs="
+          }
+        ],
+        "price": 946000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 912,
+        "livingAreaValue": 912,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "162 Ralston St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "162 Ralston St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.715435,
+        "longitude": -122.468636,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/162-Ralston-St-San-Francisco-CA-94132/15193527_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193528,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71550369262695,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=iAog84NvFMzZLhK3SwR3_QTIzGk="
+          }
+        ],
+        "price": 946000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 912,
+        "livingAreaValue": 912,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "166 Ralston St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "166 Ralston St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.715504,
+        "longitude": -122.468636,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/166-Ralston-St-San-Francisco-CA-94132/15193528_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193522,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.715091705322266,-122.4686279296875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=l7dr1OOv6fCaVQDQIZZPRXIPR30="
+          }
+        ],
+        "price": 1097100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1080,
+        "livingAreaValue": 1080,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "142 Ralston St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "142 Ralston St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71509,
+        "longitude": -122.46863,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/142-Ralston-St-San-Francisco-CA-94132/15193522_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193529,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.715572357177734,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=itep40FhI2_O4xORU1rlKzLMfUY="
+          }
+        ],
+        "price": 928100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 800,
+        "livingAreaValue": 800,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "170 Ralston St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "170 Ralston St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.715572,
+        "longitude": -122.468636,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/170-Ralston-St-San-Francisco-CA-94132/15193529_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193521,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.715023040771484,-122.4686279296875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ea0HYMY-MjTlgkYyvzov1KnInZo="
+          }
+        ],
+        "price": 1501700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 2468,
+        "livingAreaValue": 2468,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "134 Ralston St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "134 Ralston St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.715023,
+        "longitude": -122.46863,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/134-Ralston-St-San-Francisco-CA-94132/15193521_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=w9o9KTDVcpp4PdLUb1Ce02Idyns=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IP_G-ayL3YcyslytDiuil-eUlUw=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cKAT28ONgBbFwqHdjdYJQIutC6c=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TJJbEb1J1KcS05V_hEkMNMsSMeg=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=htdogGL0nopn2qsw6kPgReBt-nA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6Hi5wUXUbRFn0_WknsBdK5nhApw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=adlDJIfcn9g0KfXfWBjFoYUtP9o=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ee3ocZ5IwUPajJ_z5zOXykNDrOk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cSzD8pIE5TqC3VSE4oify4nvMoo=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IP_G-ayL3YcyslytDiuil-eUlUw=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cKAT28ONgBbFwqHdjdYJQIutC6c=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TJJbEb1J1KcS05V_hEkMNMsSMeg=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=htdogGL0nopn2qsw6kPgReBt-nA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6Hi5wUXUbRFn0_WknsBdK5nhApw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=adlDJIfcn9g0KfXfWBjFoYUtP9o=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ee3ocZ5IwUPajJ_z5zOXykNDrOk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cSzD8pIE5TqC3VSE4oify4nvMoo=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gGBfoiFxgmj6819qn7tSsHxVBP0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NGRmIlm-niwS-hY417T_GGgRnAU=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ee3ocZ5IwUPajJ_z5zOXykNDrOk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cSzD8pIE5TqC3VSE4oify4nvMoo=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gGBfoiFxgmj6819qn7tSsHxVBP0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NGRmIlm-niwS-hY417T_GGgRnAU=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ee3ocZ5IwUPajJ_z5zOXykNDrOk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cSzD8pIE5TqC3VSE4oify4nvMoo=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.71529769897461,-122.46863555908203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=S4XVjtHdFsKkS4FdYu-Z4Wji31Q="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/154-Ralston-St-San-Francisco-CA-94132/15193525_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/154-Ralston-St-San-Francisco-CA-94132/15193525_zpid/",
+    "zpid": 15193525
+  }
+}

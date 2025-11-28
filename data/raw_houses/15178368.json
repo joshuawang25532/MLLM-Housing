@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15178368,
+    "address": "355 Chicago Way",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1325,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3432,
+    "lotAreaValue": 3432,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1924,
+    "homeType": "SINGLE_FAMILY",
+    "description": "355 Chicago Way, San Francisco, CA 94112 is a single family home that contains 1,325 sq ft and was built in 1924. It contains 1 bathroom. This home last sold for $1,200,000 in April 2025. \n \nThe Zestimate for this house is $1,180,100. The Rent Zestimate for this home is $3,151/mo. "
+  },
+  "location": {
+    "latitude": 37.708977,
+    "longitude": -122.43339,
+    "neighborhood": "Crocker Amazon",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1200000,
+    "lastSoldPrice": 1200000,
+    "dateSold": 1744934400000,
+    "dateSoldString": "2025-04-18",
+    "zestimate": 1180100,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 3151,
+    "taxAssessedValue": 271760,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 906
+  },
+  "schools": [
+    {
+      "name": "Guadalupe Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Visitacion Valley Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 1.2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Jordan (June) School For Equity",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 49,
+    "transitScore": 60,
+    "bikeScore": 19
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-04-18",
+        "time": 1744934400000,
+        "price": 1200000,
+        "pricePerSquareFoot": 906,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763577297479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 271760,
+        "valueIncreaseRate": 0.019997599
+      },
+      {
+        "time": 1732041297479,
+        "taxPaid": 4017.34,
+        "taxIncreaseRate": 0.029522313,
+        "value": 266432,
+        "valueIncreaseRate": 0.019999387
+      },
+      {
+        "time": 1700418897479,
+        "taxPaid": 3902.14,
+        "taxIncreaseRate": 0.025330134,
+        "value": 261208,
+        "valueIncreaseRate": 0.019993128
+      },
+      {
+        "time": 1668882897479,
+        "taxPaid": 3805.74,
+        "taxIncreaseRate": 0.019065253,
+        "value": 256088,
+        "valueIncreaseRate": 0.019994583
+      },
+      {
+        "time": 1637346897479,
+        "taxPaid": 3734.54,
+        "taxIncreaseRate": -0.022433132,
+        "value": 251068,
+        "valueIncreaseRate": 0.010358399
+      },
+      {
+        "time": 1605810897479,
+        "taxPaid": 3820.24,
+        "taxIncreaseRate": 0.033200994,
+        "value": 248494,
+        "valueIncreaseRate": 0.019998195
+      },
+      {
+        "time": 1574188497479,
+        "taxPaid": 3697.48,
+        "taxIncreaseRate": 0.03476956,
+        "value": 243622,
+        "valueIncreaseRate": 0.019996148
+      },
+      {
+        "time": 1542652497479,
+        "taxPaid": 3573.24,
+        "taxIncreaseRate": 0.10490479,
+        "value": 238846,
+        "valueIncreaseRate": 0.019994535
+      },
+      {
+        "time": 1511116497479,
+        "taxPaid": 3233.98,
+        "taxIncreaseRate": 0.026282407,
+        "value": 234164,
+        "valueIncreaseRate": 0.019993553
+      },
+      {
+        "time": 1479580497479,
+        "taxPaid": 3151.16,
+        "taxIncreaseRate": 0.013743219,
+        "value": 229574,
+        "valueIncreaseRate": 0.015248136
+      },
+      {
+        "time": 1447958097479,
+        "taxPaid": 3108.44,
+        "taxIncreaseRate": 0.026029965,
+        "value": 226126,
+        "valueIncreaseRate": 0.019973116
+      },
+      {
+        "time": 1416422097479,
+        "taxPaid": 3029.58,
+        "taxIncreaseRate": 0,
+        "value": 221698,
+        "valueIncreaseRate": 0.0045310785
+      },
+      {
+        "time": 1384886097479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 220698,
+        "valueIncreaseRate": 0.019993344
+      },
+      {
+        "time": 1353350097479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 216372,
+        "valueIncreaseRate": 0.019997172
+      },
+      {
+        "time": 1321727697479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 212130,
+        "valueIncreaseRate": 0.007513726
+      },
+      {
+        "time": 1290191697479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 210548,
+        "valueIncreaseRate": -0.0023691293
+      },
+      {
+        "time": 1258655697479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 211048,
+        "valueIncreaseRate": -0.32000065
+      },
+      {
+        "time": 1227119697479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 310365,
+        "valueIncreaseRate": 0.019994676
+      },
+      {
+        "time": 1195497297479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 304281,
+        "valueIncreaseRate": 0.019992156
+      },
+      {
+        "time": 1163961297479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 298317,
+        "valueIncreaseRate": 0.019991795
+      },
+      {
+        "time": 1132425297479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 292470,
+        "valueIncreaseRate": 0.03902886
+      },
+      {
+        "time": 1069266897479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 281484,
+        "valueIncreaseRate": 0.52997065
+      },
+      {
+        "time": 1037730897479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 183980,
+        "valueIncreaseRate": 0.020003105
+      },
+      {
+        "time": 1006194897479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 180372,
+        "valueIncreaseRate": 0.019995928
+      },
+      {
+        "time": 974658897479,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 176836,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15178367,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70893859863281,-122.4334945678711&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wi9djEaKTyc0Aqyigcz_q6mjANI="
+          }
+        ],
+        "price": 986000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1250,
+        "livingAreaValue": 1250,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3432,
+        "lotAreaValue": 3432,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "361 Chicago Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "361 Chicago Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.70894,
+        "longitude": -122.433495,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/361-Chicago-Way-San-Francisco-CA-94112/15178367_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178369,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.709022521972656,-122.43328857421875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cG4nMywKAv4OcJ5_bBzLebDZFcQ="
+          }
+        ],
+        "price": 1121200,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1325,
+        "livingAreaValue": 1325,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3432,
+        "lotAreaValue": 3432,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "349 Chicago Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "349 Chicago Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709023,
+        "longitude": -122.43329,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/349-Chicago-Way-San-Francisco-CA-94112/15178369_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178366,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.708900451660156,-122.43360137939453&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=QM8T5kRjmIPa8Cp770a8dTgYcGo="
+          }
+        ],
+        "price": 929600,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1201,
+        "livingAreaValue": 1201,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3432,
+        "lotAreaValue": 3432,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "365 Chicago Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "365 Chicago Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7089,
+        "longitude": -122.4336,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/365-Chicago-Way-San-Francisco-CA-94112/15178366_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178370,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d4a151ef553882094c1e74bf0a4da56f-p_c.jpg"
+          }
+        ],
+        "price": 1077300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1202,
+        "livingAreaValue": 1202,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3432,
+        "lotAreaValue": 3432,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "345 Chicago Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "345 Chicago Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.70907,
+        "longitude": -122.43318,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/345-Chicago-Way-San-Francisco-CA-94112/15178370_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178352,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/7f6eeed9aa95e2143c4668d285ad3b52-p_c.jpg"
+          }
+        ],
+        "price": 1663700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 1908,
+        "livingAreaValue": 1908,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3245,
+        "lotAreaValue": 3245,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "148 Baltimore Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "148 Baltimore Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.708736,
+        "longitude": -122.43323,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/148-Baltimore-Way-San-Francisco-CA-94112/15178352_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178365,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.708858489990234,-122.43370819091797&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=luKmU-se5yIamQK0iN5jSwKuG4c="
+          }
+        ],
+        "price": 1209900,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "livingArea": 2032,
+        "livingAreaValue": 2032,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3432,
+        "lotAreaValue": 3432,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "369 Chicago Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "369 Chicago Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.70886,
+        "longitude": -122.43371,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/369-Chicago-Way-San-Francisco-CA-94112/15178365_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178353,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70869827270508,-122.4333267211914&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=h0F6HbmEdeZ5TWwcRAbLewQycwM="
+          }
+        ],
+        "price": 1112600,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1350,
+        "livingAreaValue": 1350,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3245,
+        "lotAreaValue": 3245,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "152 Baltimore Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "152 Baltimore Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7087,
+        "longitude": -122.43333,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/152-Baltimore-Way-San-Francisco-CA-94112/15178353_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178371,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70911407470703,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ldjKOCkoXcmEljXNCixsNrgbMrE="
+          }
+        ],
+        "price": 939000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1250,
+        "livingAreaValue": 1250,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3432,
+        "lotAreaValue": 3432,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "339 Chicago Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "339 Chicago Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709114,
+        "longitude": -122.433075,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/339-Chicago-Way-San-Francisco-CA-94112/15178371_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OJTiDn7XEQHbogwNHyqJ3rffVM4=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CGdS9Y6sC5JrmB49DBTHQ3xZvzo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=vl6dJDcAWMzlla_OaXlmuMHfjxQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tScNs0BmRRFHWD0uIr3blKZBKMQ=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=szhirHhLYR2mYgDUn7GbmU62ETA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2ZNOw_Qig88p63gQvrCMA-BdhEI=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ztt9jgbLT-hSJ3zXWAQsjqZKbZM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WlKAQfHKoevzEXtUw3Rl-riBQmE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pMTZRt9xgHvDc7DmOBlPp2PvpM0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CGdS9Y6sC5JrmB49DBTHQ3xZvzo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=vl6dJDcAWMzlla_OaXlmuMHfjxQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tScNs0BmRRFHWD0uIr3blKZBKMQ=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=szhirHhLYR2mYgDUn7GbmU62ETA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2ZNOw_Qig88p63gQvrCMA-BdhEI=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ztt9jgbLT-hSJ3zXWAQsjqZKbZM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WlKAQfHKoevzEXtUw3Rl-riBQmE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pMTZRt9xgHvDc7DmOBlPp2PvpM0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mJnkMqvdum84vCKDC_L-9zytedQ=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=BDFYCXVK7QQecLT4PV__U_xV7qo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WlKAQfHKoevzEXtUw3Rl-riBQmE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pMTZRt9xgHvDc7DmOBlPp2PvpM0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mJnkMqvdum84vCKDC_L-9zytedQ=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=BDFYCXVK7QQecLT4PV__U_xV7qo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WlKAQfHKoevzEXtUw3Rl-riBQmE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pMTZRt9xgHvDc7DmOBlPp2PvpM0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.70897674560547,-122.43338775634766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8jsZWIBDCSOaDDYKG9ejpuXsNgw="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/355-Chicago-Way-San-Francisco-CA-94112/15178368_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/355-Chicago-Way-San-Francisco-CA-94112/15178368_zpid/",
+    "zpid": 15178368
+  }
+}

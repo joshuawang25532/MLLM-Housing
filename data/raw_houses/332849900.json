@@ -1,0 +1,1270 @@
+{
+  "basic_info": {
+    "zpid": 332849900,
+    "address": "719 Green St #721",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94133",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "livingArea": 2364,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1663,
+    "lotAreaValue": 1663,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1907,
+    "homeType": "MULTI_FAMILY",
+    "description": "719 Green St #721, San Francisco, CA 94133 is a multi family home that contains 2,364 sq ft and was built in 1907. It contains 4 bedrooms and 3 bathrooms. This home last sold for $2,900,000 in November 2025. \n \nThe Zestimate for this house is $2,308,500. The Rent Zestimate for this home is $5,818/mo. "
+  },
+  "location": {
+    "latitude": 37.79907,
+    "longitude": -122.410995,
+    "neighborhood": "Russian Hill",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 2900000,
+    "lastSoldPrice": 2900000,
+    "dateSold": 1762387200000,
+    "dateSoldString": "2025-11-06",
+    "zestimate": 2308500,
+    "zestimateHighPercent": "14",
+    "zestimateLowPercent": "12",
+    "rentZestimate": 5818,
+    "taxAssessedValue": 2403692,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1227
+  },
+  "schools": [
+    {
+      "name": "Yick Wo Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Francisco Middle School",
+      "rating": 5,
+      "level": "Middle",
+      "distance": 0.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 100,
+    "transitScore": 91,
+    "bikeScore": 76
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-11-06",
+        "time": 1762387200000,
+        "price": 2900000,
+        "pricePerSquareFoot": 1227,
+        "priceChangeRate": 0.45,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2015-01-07",
+        "time": 1420588800000,
+        "price": 2000000,
+        "pricePerSquareFoot": 846,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "SFAR",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/kathy-tong1281/",
+          "name": "Kathy Tong"
+        },
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "428098",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763644596177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2403692,
+        "valueIncreaseRate": 0.019999474
+      },
+      {
+        "time": 1732108596177,
+        "taxPaid": 28608.86,
+        "taxIncreaseRate": 0.018296577,
+        "value": 2356562,
+        "valueIncreaseRate": 0.019999957
+      },
+      {
+        "time": 1700486196177,
+        "taxPaid": 28094.82,
+        "taxIncreaseRate": 0.019469323,
+        "value": 2310355,
+        "valueIncreaseRate": 0.019999515
+      },
+      {
+        "time": 1668950196177,
+        "taxPaid": 27558.28,
+        "taxIncreaseRate": 0.017795539,
+        "value": 2265055,
+        "valueIncreaseRate": 0.019999612
+      },
+      {
+        "time": 1637414196177,
+        "taxPaid": 27076.44,
+        "taxIncreaseRate": -0.0076379552,
+        "value": 2220643,
+        "valueIncreaseRate": 0.010359097
+      },
+      {
+        "time": 1605878196177,
+        "taxPaid": 27284.84,
+        "taxIncreaseRate": 0.035357535,
+        "value": 2197875,
+        "valueIncreaseRate": 0.019999249
+      },
+      {
+        "time": 1574255796177,
+        "taxPaid": 26353.06,
+        "taxIncreaseRate": 0.035028253,
+        "value": 2154781,
+        "valueIncreaseRate": 0.019999707
+      },
+      {
+        "time": 1542719796177,
+        "taxPaid": 25461.2,
+        "taxIncreaseRate": 0.023956053,
+        "value": 2112531,
+        "valueIncreaseRate": 0.01999942
+      },
+      {
+        "time": 1511183796177,
+        "taxPaid": 24865.52,
+        "taxIncreaseRate": 0.015760828,
+        "value": 2071110,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1479647796177,
+        "taxPaid": 24479.7,
+        "taxIncreaseRate": 2.236557,
+        "value": 2030500,
+        "valueIncreaseRate": 2.4107935
+      },
+      {
+        "time": 1448025396177,
+        "taxPaid": 7563.5,
+        "taxIncreaseRate": 0.026539238,
+        "value": 595316,
+        "valueIncreaseRate": 0.019998493
+      },
+      {
+        "time": 1416489396177,
+        "taxPaid": 7367.96,
+        "taxIncreaseRate": 0,
+        "value": 583644,
+        "valueIncreaseRate": 0.019998217
+      },
+      {
+        "time": 1384953396177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 572201,
+        "valueIncreaseRate": 0.01999886
+      },
+      {
+        "time": 1353417396177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 560982,
+        "valueIncreaseRate": 0.019996945
+      },
+      {
+        "time": 1321794996177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 549984,
+        "valueIncreaseRate": 0.019998109
+      },
+      {
+        "time": 1290258996177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 539201,
+        "valueIncreaseRate": 0.019996973
+      },
+      {
+        "time": 1258722996177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 528630,
+        "valueIncreaseRate": 0.019997453
+      },
+      {
+        "time": 1227186996177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 518266,
+        "valueIncreaseRate": 0.019997835
+      },
+      {
+        "time": 1195564596177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 508105,
+        "valueIncreaseRate": 0.019998273
+      },
+      {
+        "time": 1164028596177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 498143,
+        "valueIncreaseRate": 0.019996846
+      },
+      {
+        "time": 1132492596177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 488377,
+        "valueIncreaseRate": 0.040394958
+      },
+      {
+        "time": 1069334196177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 469415,
+        "valueIncreaseRate": 0.019997306
+      },
+      {
+        "time": 1037798196177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 460212,
+        "valueIncreaseRate": 0.01999375
+      },
+      {
+        "time": 1006262196177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 451191,
+        "valueIncreaseRate": 0.020000271
+      },
+      {
+        "time": 974726196177,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 442344,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 456489848,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e26b387bc1d711f41dcf2b0eb0d013f4-p_c.jpg"
+          }
+        ],
+        "price": 1190000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1182,
+        "livingAreaValue": 1182,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1663,
+        "lotAreaValue": 1663.992,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "719 Green St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "719 Green St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79907,
+        "longitude": -122.410995,
+        "homeStatus": "PENDING",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/719-Green-St-San-Francisco-CA-94133/456489848_zpid/",
+        "hdpTypeDimension": "Pending",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "For Sale by Agent",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": true
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425068126",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2055276132,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=721+Green+St%2C+San+Francisco%2C+CA+94133&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DgvsErwarUCbrxbVqX1MIMrPDDM="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "721 Green St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "721 Green St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79907,
+        "longitude": -122.410995,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/721-Green-St-San-Francisco-CA-94133/2055276132_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2055278578,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=719+721+Green+St%2C+San+Francisco%2C+CA+94133&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fwxahXAMORFUKw3EzsrTRmy9bHQ="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "719 721 Green St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "719 721 Green St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79907,
+        "longitude": -122.410995,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/719-721-Green-St-San-Francisco-CA-94133/2055278578_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332849899,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7990608215332,-122.41107940673828&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DlKGvVsGQFRjXDqqXg2fpBEuKjg="
+          }
+        ],
+        "price": 1723700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2644,
+        "livingAreaValue": 2644,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1663,
+        "lotAreaValue": 1663,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "725 Green St #727",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "725 Green St #727"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79906,
+        "longitude": -122.41108,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/725-Green-St-727-San-Francisco-CA-94133/332849899_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2064085758,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/88e384c7d988310e3bb0309fa4fe2ac1-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1450,
+        "livingAreaValue": 1450,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "727 Green St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "727 Green St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79906,
+        "longitude": -122.41108,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/727-Green-St-San-Francisco-CA-94133/2064085758_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2114671401,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/516f57476423239888ce6ee5f5fa0b2f-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 531,
+        "livingAreaValue": 531,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "755 Green St APT 1C",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "755 Green St APT 1C"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79915,
+        "longitude": -122.41103,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/755-Green-St-APT-1C-San-Francisco-CA-94133/2114671401_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 456904834,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/89505bc88c1e670abc9eef3bc1635968-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1575 Powell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1575 Powell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79909,
+        "longitude": -122.41084,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1575-Powell-St-San-Francisco-CA-94133/456904834_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "1k1rfged7beqz",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2072597516,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/5fe4e64459947e2636003fca7d40667a-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1300,
+        "livingAreaValue": 1300,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1577 Powell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1577 Powell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79909,
+        "longitude": -122.41084,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1577-Powell-St-San-Francisco-CA-94133/2072597516_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "nf2xnycz9czm",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rDtV7fjf_00Af9m1GPVylKoRvHQ=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7mVAGf6oRJI4Cu-k8_nbx98GDr4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=khy4evRqPIe0muB9MEecKrCvoMQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=B263TmXVXu4ZR5AjkJ_GdaqFVeE=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IBIK8X8UU5X5EN7Yo1JARDr-t7E=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bf2Q1no51htLhs1uwYde-RAfUd0=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IzidVIUa-iFeinYRGBktzNq8dnI=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=aJ2IQ-mcpcoeeiLWa-AxX3dKHow=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ySMhrZPRDxGHSLrViciu_lLNGMc=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7mVAGf6oRJI4Cu-k8_nbx98GDr4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=khy4evRqPIe0muB9MEecKrCvoMQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=B263TmXVXu4ZR5AjkJ_GdaqFVeE=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IBIK8X8UU5X5EN7Yo1JARDr-t7E=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bf2Q1no51htLhs1uwYde-RAfUd0=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IzidVIUa-iFeinYRGBktzNq8dnI=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=aJ2IQ-mcpcoeeiLWa-AxX3dKHow=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ySMhrZPRDxGHSLrViciu_lLNGMc=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7eoHE1CVZ9lUajxsn0FxFaproR8=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TdkG2B4ICkndvU4N_jrqEuXigJE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=aJ2IQ-mcpcoeeiLWa-AxX3dKHow=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ySMhrZPRDxGHSLrViciu_lLNGMc=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7eoHE1CVZ9lUajxsn0FxFaproR8=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TdkG2B4ICkndvU4N_jrqEuXigJE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=aJ2IQ-mcpcoeeiLWa-AxX3dKHow=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ySMhrZPRDxGHSLrViciu_lLNGMc=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.799068450927734,-122.41099548339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xIDqIgpFx3Dx2R51HFqpd_IwN0E="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/719-Green-St-721-San-Francisco-CA-94133/332849900_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/719-Green-St-721-San-Francisco-CA-94133/332849900_zpid/",
+    "zpid": 332849900
+  }
+}

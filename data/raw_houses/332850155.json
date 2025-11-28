@@ -1,0 +1,1329 @@
+{
+  "basic_info": {
+    "zpid": 332850155,
+    "address": "1316-1318 Powell St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94133",
+    "bedrooms": 6,
+    "bathrooms": 2,
+    "livingArea": 2324,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2047,
+    "lotAreaValue": 2047.32,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1910,
+    "homeType": "MULTI_FAMILY",
+    "description": "Spacious and bright multiple units in desirable San Francisco Chinatown District."
+  },
+  "location": {
+    "latitude": 37.7968,
+    "longitude": -122.40992,
+    "neighborhood": "Chinatown",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": "Updated/Remodeled",
+    "architecturalStyle": "Contemporary",
+    "levels": "Two",
+    "stories": 0,
+    "hasGarage": false,
+    "garageParkingCapacity": 0,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": true,
+    "cooling": [
+      "None"
+    ],
+    "heating": [
+      "Individual"
+    ],
+    "appliances": [
+      "Free-Standing Gas Oven",
+      "Free-Standing Gas Range",
+      "Free-Standing Refrigerator",
+      "Varies By Unit",
+      "Washer/Dryer"
+    ],
+    "interiorFeatures": [
+      "Formal Entry"
+    ],
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": [
+      "Security Gate",
+      "Smoke Detector(s)"
+    ],
+    "flooring": [
+      "Laminate",
+      "Simulated Wood",
+      "Tile"
+    ],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1200000,
+    "lastSoldPrice": 1200000,
+    "dateSold": 1732233600000,
+    "dateSoldString": "2024-11-22",
+    "zestimate": 1223000,
+    "zestimateHighPercent": "12",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 7271,
+    "taxAssessedValue": 1200000,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 516
+  },
+  "schools": [
+    {
+      "name": "Parker (Jean) Elementary School",
+      "rating": 6,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Francisco Middle School",
+      "rating": 5,
+      "level": "Middle",
+      "distance": 0.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 100,
+    "transitScore": 100,
+    "bikeScore": 76
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2024-11-22",
+        "time": 1732233600000,
+        "price": 1200000,
+        "pricePerSquareFoot": 516,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "SFAR",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/Esteban-Sandoval/",
+          "name": "Esteban Sandoval Rodriguez"
+        },
+        "sellerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/bcirental/",
+          "name": "Randy Lui"
+        },
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "424074791",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "2024-10-18",
+        "time": 1729209600000,
+        "price": 1200000,
+        "pricePerSquareFoot": 516,
+        "priceChangeRate": 0.4643075045759609,
+        "event": "Listed for sale",
+        "source": "SFAR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "424074791",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "2003-06-04",
+        "time": 1054684800000,
+        "price": 819500,
+        "pricePerSquareFoot": 353,
+        "priceChangeRate": 0.21407407407407408,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2002-12-18",
+        "time": 1040169600000,
+        "price": 675000,
+        "pricePerSquareFoot": 290,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763634791570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1200000,
+        "valueIncreaseRate": -0.18605219
+      },
+      {
+        "time": 1732098791570,
+        "taxPaid": 18059.68,
+        "taxIncreaseRate": 0.27170637,
+        "value": 1474296,
+        "valueIncreaseRate": 0.29232615
+      },
+      {
+        "time": 1700476391570,
+        "taxPaid": 14201.14,
+        "taxIncreaseRate": 0.019666454,
+        "value": 1140808,
+        "valueIncreaseRate": 0.019999284
+      },
+      {
+        "time": 1668940391570,
+        "taxPaid": 13927.24,
+        "taxIncreaseRate": 0.018090995,
+        "value": 1118440,
+        "valueIncreaseRate": 0.019999817
+      },
+      {
+        "time": 1637404391570,
+        "taxPaid": 13679.76,
+        "taxIncreaseRate": -0.012052014,
+        "value": 1096510,
+        "valueIncreaseRate": 0.010359663
+      },
+      {
+        "time": 1605868391570,
+        "taxPaid": 13846.64,
+        "taxIncreaseRate": 0.035137393,
+        "value": 1085267,
+        "valueIncreaseRate": 0.019998327
+      },
+      {
+        "time": 1574245991570,
+        "taxPaid": 13376.62,
+        "taxIncreaseRate": 0.035338905,
+        "value": 1063989,
+        "valueIncreaseRate": 0.019998504
+      },
+      {
+        "time": 1542709991570,
+        "taxPaid": 12920.04,
+        "taxIncreaseRate": 0.03604495,
+        "value": 1043128,
+        "valueIncreaseRate": 0.020014472
+      },
+      {
+        "time": 1511173991570,
+        "taxPaid": 12470.54,
+        "taxIncreaseRate": 0.017602848,
+        "value": 1022660,
+        "valueIncreaseRate": 0.019997805
+      },
+      {
+        "time": 1479637991570,
+        "taxPaid": 12254.82,
+        "taxIncreaseRate": 0.0129575115,
+        "value": 1002610,
+        "valueIncreaseRate": 0.0152498605
+      },
+      {
+        "time": 1448015591570,
+        "taxPaid": 12098.06,
+        "taxIncreaseRate": 0.027008647,
+        "value": 987550,
+        "valueIncreaseRate": 0.019977113
+      },
+      {
+        "time": 1416479591570,
+        "taxPaid": 11779.9,
+        "taxIncreaseRate": 0,
+        "value": 968208,
+        "valueIncreaseRate": 0.004538126
+      },
+      {
+        "time": 1384943591570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 963834,
+        "valueIncreaseRate": 0.019997079
+      },
+      {
+        "time": 1353407591570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 944938,
+        "valueIncreaseRate": 0.019997582
+      },
+      {
+        "time": 1321785191570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 926412,
+        "valueIncreaseRate": 0.0075269905
+      },
+      {
+        "time": 1290249191570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 919491,
+        "valueIncreaseRate": -0.0023706811
+      },
+      {
+        "time": 1258713191570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 921676,
+        "valueIncreaseRate": 0.019997654
+      },
+      {
+        "time": 1227177191570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 903606,
+        "valueIncreaseRate": 0.019997967
+      },
+      {
+        "time": 1195554791570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 885890,
+        "valueIncreaseRate": 0.01999954
+      },
+      {
+        "time": 1164018791570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 868520,
+        "valueIncreaseRate": 0.019995444
+      },
+      {
+        "time": 1132482791570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 851494,
+        "valueIncreaseRate": 0.26147258
+      },
+      {
+        "time": 1069324391570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 675000,
+        "valueIncreaseRate": 1.6263773
+      },
+      {
+        "time": 1037788391570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 257008,
+        "valueIncreaseRate": 0.019978251
+      },
+      {
+        "time": 1006252391570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 251974,
+        "valueIncreaseRate": 1.5597229
+      },
+      {
+        "time": 974716391570,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 98438,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 2068627454,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6efebee9ad6ed32d2fa5098c82070651-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1318 Powell St #1318",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1318 Powell St #1318"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7968,
+        "longitude": -122.40987,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1318-Powell-St-1318-San-Francisco-CA-94133/2068627454_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241583218,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.79673385620117,-122.40988159179688&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=t35PrPYJj6PlJn9zHD5RZpocdcE="
+          }
+        ],
+        "price": 1661900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 3717,
+        "livingAreaValue": 3717,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1417,
+        "lotAreaValue": 1417,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1312-1314 Powell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1312-1314 Powell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.796734,
+        "longitude": -122.40988,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1312-1314-Powell-St-San-Francisco-CA-94133/241583218_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 452168318,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0461cc60df363a7096320316a2e5b7fe-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "livingArea": 350,
+        "livingAreaValue": 350,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1308 Powell St APT 3",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1308 Powell St APT 3"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.796646,
+        "longitude": -122.40987,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1308-Powell-St-APT-3-San-Francisco-CA-94133/452168318_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "55t8saquwcaf9",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2077735282,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0aaf7f48772eef794414b05fd7538386-p_c.jpg"
+          }
+        ],
+        "price": 2262700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 0,
+        "livingArea": 7350,
+        "livingAreaValue": 7350,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2835,
+        "lotAreaValue": 2835,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1300 Powell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1300 Powell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.796646,
+        "longitude": -122.40987,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1300-Powell-St-San-Francisco-CA-94133/2077735282_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241583217,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=874-876+Pacific+Ave%2C+San+Francisco%2C+CA+94133&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=B1vqHiUzcA5yoW1sZ08Y2ZWiTcE="
+          }
+        ],
+        "price": 1179200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2000,
+        "livingAreaValue": 2000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1260,
+        "lotAreaValue": 1260,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "874-876 Pacific Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "874-876 Pacific Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.796696,
+        "longitude": -122.40972,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/874-876-Pacific-Ave-San-Francisco-CA-94133/241583217_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 325646466,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.796974182128906,-122.40972137451172&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=C8mcRLqlqzbza0hC_ZbFVu-lr8M="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4590,
+        "lotAreaValue": 4590,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1-49 Turk Murphy Ln",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1-49 Turk Murphy Ln"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.796974,
+        "longitude": -122.40972,
+        "homeStatus": "OTHER",
+        "homeType": "LOT",
+        "hdpUrl": "/homedetails/1-49-Turk-Murphy-Ln-San-Francisco-CA-94133/325646466_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Lot",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2057116312,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/747e6f3fcf984f2d5d3328ac255bea07-p_c.jpg"
+          }
+        ],
+        "price": 1350000,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "livingArea": 4355,
+        "livingAreaValue": 4355,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1376,
+        "lotAreaValue": 1376.496,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1321-1327 Powell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1321-1327 Powell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.796795,
+        "longitude": -122.41027,
+        "homeStatus": "SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1321-1327-Powell-St-San-Francisco-CA-94133/2057116312_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423749571",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332850140,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1317-1319+Powell+St%2C+San+Francisco%2C+CA+94133&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wgkYtMk4gIfb37WYxMh6IoFvum8="
+          }
+        ],
+        "price": 1417500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2302,
+        "livingAreaValue": 2302,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1191,
+        "lotAreaValue": 1191,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1317-1319 Powell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1317-1319 Powell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.796726,
+        "longitude": -122.41032,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1317-1319-Powell-St-San-Francisco-CA-94133/332850140_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": false,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": false,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://photos.zillowstatic.com/fp/166349333a849579281378c994994248-p_a.jpg"
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1316-1318-Powell-St-San-Francisco-CA-94133/332850155_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1316-1318-Powell-St-San-Francisco-CA-94133/332850155_zpid/",
+    "zpid": 332850155
+  }
+}

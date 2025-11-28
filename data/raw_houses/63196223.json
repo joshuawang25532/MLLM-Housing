@@ -1,0 +1,1337 @@
+{
+  "basic_info": {
+    "zpid": 63196223,
+    "address": "1333 Jones St UNIT 1010",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94109",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "livingArea": 1950,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1961,
+    "homeType": "CONDO",
+    "description": "1333 Jones St UNIT 1010, San Francisco, CA 94109 is a condo home that contains 1,950 sq ft and was built in 1961. It contains 2 bedrooms and 2 bathrooms. This home last sold for $1,559,500 in October 2025. \n \nThe Zestimate for this house is $1,902,600. The Rent Zestimate for this home is $7,253/mo. "
+  },
+  "location": {
+    "latitude": 37.79362,
+    "longitude": -122.41488,
+    "neighborhood": "Nob Hill",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1559500,
+    "lastSoldPrice": 1559500,
+    "dateSold": 1761264000000,
+    "dateSoldString": "2025-10-24",
+    "zestimate": 1902600,
+    "zestimateHighPercent": "13",
+    "zestimateLowPercent": "12",
+    "rentZestimate": 7253,
+    "taxAssessedValue": 2725536,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 0,
+    "hoaFee": 1936,
+    "monthlyHoaFee": 1936,
+    "pricePerSquareFoot": 800
+  },
+  "schools": [
+    {
+      "name": "Spring Valley Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marina Middle School",
+      "rating": 6,
+      "level": "Middle",
+      "distance": 1.3,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 98,
+    "transitScore": 99,
+    "bikeScore": 63
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-10-24",
+        "time": 1761264000000,
+        "price": 1559500,
+        "pricePerSquareFoot": 800,
+        "priceChangeRate": -0.24843373493975904,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2007-11-20",
+        "time": 1195516800000,
+        "price": 2075000,
+        "pricePerSquareFoot": 1064,
+        "priceChangeRate": 0.3387096774193548,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2006-05-12",
+        "time": 1147392000000,
+        "price": 1550000,
+        "pricePerSquareFoot": 795,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763578232558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2725536,
+        "valueIncreaseRate": 0.01999928
+      },
+      {
+        "time": 1732042232558,
+        "taxPaid": 32025.28,
+        "taxIncreaseRate": 0.015231623,
+        "value": 2672096,
+        "valueIncreaseRate": 0.019999985
+      },
+      {
+        "time": 1700419832558,
+        "taxPaid": 31544.8,
+        "taxIncreaseRate": 0.018964639,
+        "value": 2619702,
+        "valueIncreaseRate": 0.01999972
+      },
+      {
+        "time": 1668883832558,
+        "taxPaid": 30957.7,
+        "taxIncreaseRate": 0.01788733,
+        "value": 2568336,
+        "valueIncreaseRate": 0.019999381
+      },
+      {
+        "time": 1637347832558,
+        "taxPaid": 30413.68,
+        "taxIncreaseRate": -0.0032347909,
+        "value": 2517978,
+        "valueIncreaseRate": 0.010359688
+      },
+      {
+        "time": 1605811832558,
+        "taxPaid": 30512.38,
+        "taxIncreaseRate": 0.035718177,
+        "value": 2492160,
+        "valueIncreaseRate": 0.019999214
+      },
+      {
+        "time": 1574189432558,
+        "taxPaid": 29460.12,
+        "taxIncreaseRate": 0.03496955,
+        "value": 2443296,
+        "valueIncreaseRate": 0.019999249
+      },
+      {
+        "time": 1542653432558,
+        "taxPaid": 28464.72,
+        "taxIncreaseRate": 0.02280635,
+        "value": 2395390,
+        "valueIncreaseRate": 0.019999813
+      },
+      {
+        "time": 1511117432558,
+        "taxPaid": 27830.02,
+        "taxIncreaseRate": 0.0153562175,
+        "value": 2348422,
+        "valueIncreaseRate": 0.01999934
+      },
+      {
+        "time": 1479581432558,
+        "taxPaid": 27409.12,
+        "taxIncreaseRate": 0.012460138,
+        "value": 2302376,
+        "valueIncreaseRate": 0.015249181
+      },
+      {
+        "time": 1447959032558,
+        "taxPaid": 27071.8,
+        "taxIncreaseRate": 0.027167533,
+        "value": 2267794,
+        "valueIncreaseRate": 0.019979563
+      },
+      {
+        "time": 1416423032558,
+        "taxPaid": 26355.78,
+        "taxIncreaseRate": 0,
+        "value": 2223372,
+        "valueIncreaseRate": 0.004539778
+      },
+      {
+        "time": 1384887032558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2213324,
+        "valueIncreaseRate": 0.019999761
+      },
+      {
+        "time": 1353351032558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2169926,
+        "valueIncreaseRate": 0.019999247
+      },
+      {
+        "time": 1321728632558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2127380,
+        "valueIncreaseRate": 0.0075283544
+      },
+      {
+        "time": 1290192632558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2111484,
+        "valueIncreaseRate": -0.0023699503
+      },
+      {
+        "time": 1258656632558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2116500,
+        "valueIncreaseRate": -0.32
+      },
+      {
+        "time": 1227120632558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 3112500,
+        "valueIncreaseRate": 0.31246048
+      },
+      {
+        "time": 1195498232558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2371500,
+        "valueIncreaseRate": 1.3250729
+      },
+      {
+        "time": 1163962232558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1019968,
+        "valueIncreaseRate": 0.0199986
+      },
+      {
+        "time": 1132426232558,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 999970,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 63152627,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e7ba9fe17ac791e21ad4d2f975dcf12b-p_c.jpg"
+          }
+        ],
+        "price": 2440800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 2273,
+        "livingAreaValue": 2273,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1333 Jones St UNIT 505",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1333 Jones St UNIT 505"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79362,
+        "longitude": -122.41488,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1333-Jones-St-UNIT-505-San-Francisco-CA-94109/63152627_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 63196154,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/b9fc9f1b8366e465bb3502b15ee35256-p_c.jpg"
+          }
+        ],
+        "price": 1510300,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "livingArea": 1807,
+        "livingAreaValue": 1807,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1333 Jones St UNIT 401",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1333 Jones St UNIT 401"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79362,
+        "longitude": -122.41488,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1333-Jones-St-UNIT-401-San-Francisco-CA-94109/63196154_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 63196155,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MmCdvDcCV9tgCDPkxngLBjqgxOM="
+          }
+        ],
+        "price": 1074600,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1590,
+        "livingAreaValue": 1590,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1333 Jones St UNIT 402",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1333 Jones St UNIT 402"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79362,
+        "longitude": -122.41488,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1333-Jones-St-UNIT-402-San-Francisco-CA-94109/63196155_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 63196156,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MmCdvDcCV9tgCDPkxngLBjqgxOM="
+          }
+        ],
+        "price": 1274800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1590,
+        "livingAreaValue": 1590,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1333 Jones St UNIT 403",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1333 Jones St UNIT 403"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79362,
+        "longitude": -122.41488,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1333-Jones-St-UNIT-403-San-Francisco-CA-94109/63196156_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 63196157,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/39aac75a1010194e7da15c08c0fea50a-p_c.jpg"
+          }
+        ],
+        "price": 1248300,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "livingArea": 1590,
+        "livingAreaValue": 1590,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1333 Jones St UNIT 404",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1333 Jones St UNIT 404"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79362,
+        "longitude": -122.41488,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1333-Jones-St-UNIT-404-San-Francisco-CA-94109/63196157_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 63196158,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/ac2332c85ab42f5b603c3d656ad54445-p_c.jpg"
+          }
+        ],
+        "price": 1551000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 2273,
+        "livingAreaValue": 2273,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1333 Jones St UNIT 405",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1333 Jones St UNIT 405"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79362,
+        "longitude": -122.41488,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1333-Jones-St-UNIT-405-San-Francisco-CA-94109/63196158_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 63196159,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/b72736495deeb3735915c39e5d95eba6-p_c.jpg"
+          }
+        ],
+        "price": 1642000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1838,
+        "livingAreaValue": 1838,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1333 Jones St UNIT 406",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1333 Jones St UNIT 406"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79362,
+        "longitude": -122.41488,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1333-Jones-St-UNIT-406-San-Francisco-CA-94109/63196159_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 63196160,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e4fc23b231307eaee02d15c0bfd04f8f-p_c.jpg"
+          }
+        ],
+        "price": 1091500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1400,
+        "livingAreaValue": 1400,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1333 Jones St UNIT 407",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1333 Jones St UNIT 407"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79362,
+        "longitude": -122.41488,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1333-Jones-St-UNIT-407-San-Francisco-CA-94109/63196160_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 63196162,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MmCdvDcCV9tgCDPkxngLBjqgxOM="
+          }
+        ],
+        "price": 698500,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 1043,
+        "livingAreaValue": 1043,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1333 Jones St UNIT 409",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1333 Jones St UNIT 409"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79362,
+        "longitude": -122.41488,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1333-Jones-St-UNIT-409-San-Francisco-CA-94109/63196162_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": true,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zUXf73aD_DUEXXQNGtlMPmz4RCc=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BX3-0asph2k31dB0gZPgHn2kutg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=O8bvvlj27ccYFA8GC-vX0A6kYdE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MRemGCJljp_qjPJOOOOnUNvKCOQ=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zhNTJ8rE6VouyVl8Te48KMJe1I8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=F__rvBCbP6rBpgBlybAvc_QwV2o=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=991jkq0E_Y2tUZfl5K10b-NyVq0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qpAKQIQ8Goc785r2pJBfsC0Y7Ho=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SvnGJ5yV3m4EFLOClXACxzLCkjk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BX3-0asph2k31dB0gZPgHn2kutg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=O8bvvlj27ccYFA8GC-vX0A6kYdE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MRemGCJljp_qjPJOOOOnUNvKCOQ=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zhNTJ8rE6VouyVl8Te48KMJe1I8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=F__rvBCbP6rBpgBlybAvc_QwV2o=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=991jkq0E_Y2tUZfl5K10b-NyVq0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qpAKQIQ8Goc785r2pJBfsC0Y7Ho=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SvnGJ5yV3m4EFLOClXACxzLCkjk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yhpoUEZwIvhqhhNyFFL5MOEBjpM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qg1kwDLwOyqIUG8WmXZb41vvFP0=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qpAKQIQ8Goc785r2pJBfsC0Y7Ho=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SvnGJ5yV3m4EFLOClXACxzLCkjk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yhpoUEZwIvhqhhNyFFL5MOEBjpM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qg1kwDLwOyqIUG8WmXZb41vvFP0=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qpAKQIQ8Goc785r2pJBfsC0Y7Ho=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SvnGJ5yV3m4EFLOClXACxzLCkjk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=1333+Jones+St%2C+San+Francisco%2C+CA+94109&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RSWVOdF8NboShzuXAB_2YALG1ps="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1333-Jones-St-UNIT-1010-San-Francisco-CA-94109/63196223_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1333-Jones-St-UNIT-1010-San-Francisco-CA-94109/63196223_zpid/",
+    "zpid": 63196223
+  }
+}

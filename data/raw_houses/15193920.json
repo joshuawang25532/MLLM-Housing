@@ -1,0 +1,1284 @@
+{
+  "basic_info": {
+    "zpid": 15193920,
+    "address": "67 Minerva St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "livingArea": 1411,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 4687,
+    "lotAreaValue": 4687,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1913,
+    "homeType": "SINGLE_FAMILY",
+    "description": "67 Minerva St, San Francisco, CA 94112 is a single family home that contains 1,411 sq ft and was built in 1913. It contains 5 bedrooms and 3 bathrooms. This home last sold for $750,000 in May 2025. \n \nThe Zestimate for this house is $761,700. The Rent Zestimate for this home is $6,309/mo. "
+  },
+  "location": {
+    "latitude": 37.71553,
+    "longitude": -122.45509,
+    "neighborhood": "Oceanview",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 750000,
+    "lastSoldPrice": 750000,
+    "dateSold": 1748563200000,
+    "dateSoldString": "2025-05-30",
+    "zestimate": 761700,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 6309,
+    "taxAssessedValue": 883106,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 532
+  },
+  "schools": [
+    {
+      "name": "Sheridan Elementary School",
+      "rating": 2,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Denman (James) Middle School",
+      "rating": 4,
+      "level": "Middle",
+      "distance": 0.8,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Balboa High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 78,
+    "transitScore": 83,
+    "bikeScore": 39
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-05-30",
+        "time": 1748563200000,
+        "price": 750000,
+        "pricePerSquareFoot": 532,
+        "priceChangeRate": 0.3274336283185841,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2016-04-08",
+        "time": 1460073600000,
+        "price": 565000,
+        "pricePerSquareFoot": 400,
+        "priceChangeRate": 0.02745953809783597,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2016-02-02",
+        "time": 1454371200000,
+        "price": 549900,
+        "pricePerSquareFoot": 390,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763627588745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 883106,
+        "valueIncreaseRate": 0.019999053
+      },
+      {
+        "time": 1732091588745,
+        "taxPaid": 10931.44,
+        "taxIncreaseRate": 0.3112053,
+        "value": 865791,
+        "valueIncreaseRate": 0.34676534
+      },
+      {
+        "time": 1700469188745,
+        "taxPaid": 8336.94,
+        "taxIncreaseRate": 0.020680705,
+        "value": 642867,
+        "valueIncreaseRate": 0.019998001
+      },
+      {
+        "time": 1668933188745,
+        "taxPaid": 8168.02,
+        "taxIncreaseRate": -0.10543917,
+        "value": 630263,
+        "valueIncreaseRate": 0.019998187
+      },
+      {
+        "time": 1637397188745,
+        "taxPaid": 9130.76,
+        "taxIncreaseRate": 0.028062792,
+        "value": 617906,
+        "valueIncreaseRate": 0.010358568
+      },
+      {
+        "time": 1605861188745,
+        "taxPaid": 8881.52,
+        "taxIncreaseRate": 0.049623996,
+        "value": 611571,
+        "valueIncreaseRate": 0.019999
+      },
+      {
+        "time": 1574238788745,
+        "taxPaid": 8461.62,
+        "taxIncreaseRate": 0.025573835,
+        "value": 599580,
+        "valueIncreaseRate": 0.019997448
+      },
+      {
+        "time": 1542702788745,
+        "taxPaid": 8250.62,
+        "taxIncreaseRate": 0.15428162,
+        "value": 587825,
+        "valueIncreaseRate": 0.019998265
+      },
+      {
+        "time": 1511166788745,
+        "taxPaid": 7147.84,
+        "taxIncreaseRate": 1.6114645,
+        "value": 576300,
+        "valueIncreaseRate": 2.0998037
+      },
+      {
+        "time": 1479630788745,
+        "taxPaid": 2737.1,
+        "taxIncreaseRate": 0.1272507,
+        "value": 185915,
+        "valueIncreaseRate": 0.015241039
+      },
+      {
+        "time": 1448008388745,
+        "taxPaid": 2428.12,
+        "taxIncreaseRate": 0.026993219,
+        "value": 183124,
+        "valueIncreaseRate": 0.019973487
+      },
+      {
+        "time": 1416472388745,
+        "taxPaid": 2364.3,
+        "taxIncreaseRate": 0,
+        "value": 179538,
+        "valueIncreaseRate": 0.004532026
+      },
+      {
+        "time": 1384936388745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 178728,
+        "valueIncreaseRate": 0.019997261
+      },
+      {
+        "time": 1353400388745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 175224,
+        "valueIncreaseRate": 0.01999546
+      },
+      {
+        "time": 1321777988745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 171789,
+        "valueIncreaseRate": 0.007518753
+      },
+      {
+        "time": 1290241988745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 170507,
+        "valueIncreaseRate": -0.0023696406
+      },
+      {
+        "time": 1258705988745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 170912,
+        "valueIncreaseRate": 0.0199926
+      },
+      {
+        "time": 1227169988745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 167562,
+        "valueIncreaseRate": 0.019990504
+      },
+      {
+        "time": 1195547588745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 164278,
+        "valueIncreaseRate": 0.019992797
+      },
+      {
+        "time": 1164011588745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 161058,
+        "valueIncreaseRate": 0.01999354
+      },
+      {
+        "time": 1132475588745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 157901,
+        "valueIncreaseRate": 0.03902744
+      },
+      {
+        "time": 1069317188745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 151970,
+        "valueIncreaseRate": 0.020056114
+      },
+      {
+        "time": 1037781188745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 148982,
+        "valueIncreaseRate": 0.0199147
+      },
+      {
+        "time": 1006245188745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 146073,
+        "valueIncreaseRate": 0.020005865
+      },
+      {
+        "time": 974709188745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 143208,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15193953,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=65+Minerva+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z4iSOGbZXRGQ_kyWgYnBSnqawG0="
+          }
+        ],
+        "price": 996900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1200,
+        "livingAreaValue": 1200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3125,
+        "lotAreaValue": 3125,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "65 Minerva St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "65 Minerva St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71553,
+        "longitude": -122.45498,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/65-Minerva-St-San-Francisco-CA-94112/15193953_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193919,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=71+Minerva+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=51r9N9-KOIZJ32l0kshgveyis7Q="
+          }
+        ],
+        "price": 1143800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1521,
+        "livingAreaValue": 1521,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4687,
+        "lotAreaValue": 4687,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "71 Minerva St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "71 Minerva St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71553,
+        "longitude": -122.45522,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/71-Minerva-St-San-Francisco-CA-94112/15193919_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193954,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a235942cefe229265a53bb5e7450159f-p_c.jpg"
+          }
+        ],
+        "price": 1099900,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2032,
+        "livingAreaValue": 2032,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "63 Minerva St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "63 Minerva St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71561,
+        "longitude": -122.454895,
+        "homeStatus": "PENDING",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/63-Minerva-St-San-Francisco-CA-94112/15193954_zpid/",
+        "hdpTypeDimension": "Pending",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "For Sale by Agent",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": true
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "200053282",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193929,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=75+Minerva+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZNmUPXLZg3sCy3FckmZCzICJDm0="
+          }
+        ],
+        "price": 1711000,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "livingArea": 3234,
+        "livingAreaValue": 3234,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3125,
+        "lotAreaValue": 3125,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "75 Minerva St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "75 Minerva St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71553,
+        "longitude": -122.45533,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/75-Minerva-St-San-Francisco-CA-94112/15193929_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193921,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/7e95fb7f07a7a941dfaf20b509a990e6-p_c.jpg"
+          }
+        ],
+        "price": 1088300,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 1475,
+        "livingAreaValue": 1475,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3123,
+        "lotAreaValue": 3123,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "61 Minerva St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "61 Minerva St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.715534,
+        "longitude": -122.45481,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/61-Minerva-St-San-Francisco-CA-94112/15193921_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193928,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=77+Minerva+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6v7RsEYSly3Hegmco_7_HALU6Ic="
+          }
+        ],
+        "price": 1276400,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 2367,
+        "livingAreaValue": 2367,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3123,
+        "lotAreaValue": 3123,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "77 Minerva St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "77 Minerva St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71553,
+        "longitude": -122.455414,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/77-Minerva-St-San-Francisco-CA-94112/15193928_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193922,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71553421020508,-122.45471954345703&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=vOdO-npUQ6R4_ZCoT8IRBGvqxsY="
+          }
+        ],
+        "price": 1047300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1650,
+        "livingAreaValue": 1650,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3125,
+        "lotAreaValue": 3125,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "59 Minerva St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "59 Minerva St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.715534,
+        "longitude": -122.45472,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/59-Minerva-St-San-Francisco-CA-94112/15193922_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15193925,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=81+Minerva+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=k3n2zp1Rfp6dx2ckdVoY-RkSX8o="
+          }
+        ],
+        "price": 1584600,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "livingArea": 3679,
+        "livingAreaValue": 3679,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "81 Minerva St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "81 Minerva St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.715565,
+        "longitude": -122.4555,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/81-Minerva-St-San-Francisco-CA-94112/15193925_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5S0XZ3Sn9rgi8KEOeHPP0gVVQiU=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BaExYmXdy_huGhSzYZ5fHliVaFQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MCuCOdHiiILcg0i86Saapn4ZftE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HPKhBPPUnGweMA2eGu-0xbcTUro=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=84qstkiJa1S1pygKkNcEDu25JKU=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MOEoklTYOQHS4RhT6lpq0CeOuk4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SXXBZZCWzFnzusFkeapC8TUsubA=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KkbJ_Hf06eO-saiY9O6breNW5YU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=a85MpL9Lob5oYlZiUM5oq0pxtmw=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BaExYmXdy_huGhSzYZ5fHliVaFQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MCuCOdHiiILcg0i86Saapn4ZftE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HPKhBPPUnGweMA2eGu-0xbcTUro=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=84qstkiJa1S1pygKkNcEDu25JKU=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MOEoklTYOQHS4RhT6lpq0CeOuk4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SXXBZZCWzFnzusFkeapC8TUsubA=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KkbJ_Hf06eO-saiY9O6breNW5YU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=a85MpL9Lob5oYlZiUM5oq0pxtmw=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=aEWha28dNujqGwvs1Ct6pQMGopQ=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0hpOEuEXeFZUN1Tu_-UM_HMocjg=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KkbJ_Hf06eO-saiY9O6breNW5YU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=a85MpL9Lob5oYlZiUM5oq0pxtmw=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=aEWha28dNujqGwvs1Ct6pQMGopQ=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0hpOEuEXeFZUN1Tu_-UM_HMocjg=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KkbJ_Hf06eO-saiY9O6breNW5YU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=a85MpL9Lob5oYlZiUM5oq0pxtmw=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=67+Minerva+St%2C+San+Francisco%2C+CA+94112&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=8JRJeCqYb-DNYXjpxe1OsF_1p1U="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/67-Minerva-St-San-Francisco-CA-94112/15193920_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/67-Minerva-St-San-Francisco-CA-94112/15193920_zpid/",
+    "zpid": 15193920
+  }
+}

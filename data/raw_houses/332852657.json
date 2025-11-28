@@ -1,0 +1,1284 @@
+{
+  "basic_info": {
+    "zpid": 332852657,
+    "address": "2-6 Rossi Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94118",
+    "bedrooms": 7,
+    "bathrooms": 3,
+    "livingArea": 4361,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3428,
+    "lotAreaValue": 3428,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1941,
+    "homeType": "MULTI_FAMILY",
+    "description": "2-6 Rossi Ave, San Francisco, CA 94118 is a multi family home that contains 4,361 sq ft and was built in 1941. It contains 7 bedrooms and 3 bathrooms. This home last sold for $790,000 in December 2024. \n \nThe Rent Zestimate for this home is $7,168/mo. "
+  },
+  "location": {
+    "latitude": 37.77963,
+    "longitude": -122.4562,
+    "neighborhood": "Lone Mountain",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 790000,
+    "lastSoldPrice": 790000,
+    "dateSold": 1733184000000,
+    "dateSoldString": "2024-12-03",
+    "zestimate": null,
+    "zestimateHighPercent": null,
+    "zestimateLowPercent": null,
+    "rentZestimate": 7168,
+    "taxAssessedValue": 3452691,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 181
+  },
+  "schools": [
+    {
+      "name": "New Traditions Elementary School",
+      "rating": 9,
+      "level": "Elementary",
+      "distance": 0.5,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Roosevelt Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 0.2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 93,
+    "transitScore": 73,
+    "bikeScore": 74
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2024-12-03",
+        "time": 1733184000000,
+        "price": 790000,
+        "pricePerSquareFoot": 181,
+        "priceChangeRate": -0.4919614147909968,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2023-03-16",
+        "time": 1678924800000,
+        "price": 1555000,
+        "pricePerSquareFoot": 357,
+        "priceChangeRate": 0.411070780399274,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2015-12-03",
+        "time": 1449100800000,
+        "price": 1102000,
+        "pricePerSquareFoot": 253,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763622316321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 3452691,
+        "valueIncreaseRate": 0.019999148
+      },
+      {
+        "time": 1732086316321,
+        "taxPaid": 40731.36,
+        "taxIncreaseRate": 0.11750321,
+        "value": 3384994,
+        "valueIncreaseRate": 0.124479614
+      },
+      {
+        "time": 1700463916321,
+        "taxPaid": 36448.54,
+        "taxIncreaseRate": 0.03947899,
+        "value": 3010276,
+        "valueIncreaseRate": 0.039905567
+      },
+      {
+        "time": 1668927916321,
+        "taxPaid": 35064.24,
+        "taxIncreaseRate": 0.017744798,
+        "value": 2894759,
+        "valueIncreaseRate": 0.020000726
+      },
+      {
+        "time": 1637391916321,
+        "taxPaid": 34452.88,
+        "taxIncreaseRate": -0.0065914593,
+        "value": 2837997,
+        "valueIncreaseRate": 0.01035886
+      },
+      {
+        "time": 1605855916321,
+        "taxPaid": 34681.48,
+        "taxIncreaseRate": 0.08394737,
+        "value": 2808900,
+        "valueIncreaseRate": 0.06945296
+      },
+      {
+        "time": 1574233516321,
+        "taxPaid": 31995.54,
+        "taxIncreaseRate": 0.034868903,
+        "value": 2626483,
+        "valueIncreaseRate": 0.01999934
+      },
+      {
+        "time": 1542697516321,
+        "taxPaid": 30917.48,
+        "taxIncreaseRate": 0.018519985,
+        "value": 2574985,
+        "valueIncreaseRate": 0.019999636
+      },
+      {
+        "time": 1511161516321,
+        "taxPaid": 30355.3,
+        "taxIncreaseRate": 0.13862978,
+        "value": 2524496,
+        "valueIncreaseRate": 0.15011312
+      },
+      {
+        "time": 1479625516321,
+        "taxPaid": 26659.5,
+        "taxIncreaseRate": 2.7513402,
+        "value": 2194998,
+        "valueIncreaseRate": 3.0392368
+      },
+      {
+        "time": 1448003116321,
+        "taxPaid": 7106.66,
+        "taxIncreaseRate": 0.0258237,
+        "value": 543419,
+        "valueIncreaseRate": 0.0199765
+      },
+      {
+        "time": 1416467116321,
+        "taxPaid": 6927.76,
+        "taxIncreaseRate": 0,
+        "value": 532776,
+        "valueIncreaseRate": 0.00453835
+      },
+      {
+        "time": 1384931116321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 530369,
+        "valueIncreaseRate": 0.019997269
+      },
+      {
+        "time": 1353395116321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 519971,
+        "valueIncreaseRate": 0.019996978
+      },
+      {
+        "time": 1321772716321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 509777,
+        "valueIncreaseRate": 0.007526153
+      },
+      {
+        "time": 1290236716321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 505969,
+        "valueIncreaseRate": -0.0023700094
+      },
+      {
+        "time": 1258700716321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 507171,
+        "valueIncreaseRate": 0.019996863
+      },
+      {
+        "time": 1227164716321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 497228,
+        "valueIncreaseRate": 0.01999881
+      },
+      {
+        "time": 1195542316321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 487479,
+        "valueIncreaseRate": 0.019996988
+      },
+      {
+        "time": 1164006316321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 477922,
+        "valueIncreaseRate": 0.019997781
+      },
+      {
+        "time": 1132470316321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 468552,
+        "valueIncreaseRate": 0.03903776
+      },
+      {
+        "time": 1069311916321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 450948,
+        "valueIncreaseRate": 0.019997422
+      },
+      {
+        "time": 1037775916321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 442107,
+        "valueIncreaseRate": 0.0199982
+      },
+      {
+        "time": 1006239916321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 433439,
+        "valueIncreaseRate": 0.01999807
+      },
+      {
+        "time": 974703916321,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 424941,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15084552,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xK8d_ecZVyOE5jauZ2aXWC-NO-c="
+          }
+        ],
+        "price": 2808200,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 3200,
+        "livingAreaValue": 3200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2382,
+        "lotAreaValue": 2382,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "26 Rossi Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "26 Rossi Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77963,
+        "longitude": -122.4562,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/26-Rossi-Ave-San-Francisco-CA-94118/15084552_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2101153805,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/faa8d43708595e2564e1068dfbe54711-p_c.jpg"
+          }
+        ],
+        "price": 1307300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1912,
+        "livingAreaValue": 1912,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "6 Rossi Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "6 Rossi Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77963,
+        "longitude": -122.4562,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/6-Rossi-Ave-San-Francisco-CA-94118/2101153805_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 441874232,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/8102a1b10e6c34e31b7f9f3a42e4846e-p_c.jpg"
+          }
+        ],
+        "price": 790000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 835,
+        "livingAreaValue": 835,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3428,
+        "lotAreaValue": 3428.172,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2 Rossi Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2 Rossi Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.779613,
+        "longitude": -122.45621,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2-Rossi-Ave-San-Francisco-CA-94118/441874232_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424074424",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2101153804,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/c4b016d5ff5077c2d973449f514e33be-p_c.jpg"
+          }
+        ],
+        "price": 1555000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1736,
+        "livingAreaValue": 1736,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3428,
+        "lotAreaValue": 3428.172,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "4 Rossi Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4 Rossi Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.779613,
+        "longitude": -122.456215,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/4-Rossi-Ave-San-Francisco-CA-94118/2101153804_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423718383",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15084558,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=8+Rossi+Ave%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Bq5qsvx4GMg6110DEkbAaSoUfIk="
+          }
+        ],
+        "price": 1236500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1431,
+        "livingAreaValue": 1431,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3023,
+        "lotAreaValue": 3023,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "8 Rossi Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "8 Rossi Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.779533,
+        "longitude": -122.45622,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/8-Rossi-Ave-San-Francisco-CA-94118/15084558_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15084559,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=10+Rossi+Ave%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_LdDY_aibnBiKgSEWeIQEFW98kk="
+          }
+        ],
+        "price": 1287600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1519,
+        "livingAreaValue": 1519,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "10 Rossi Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "10 Rossi Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.779533,
+        "longitude": -122.45622,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/10-Rossi-Ave-San-Francisco-CA-94118/15084559_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332852588,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.779693603515625,-122.4560317993164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TfOtKrx6lulEFdNkg5k3-UMpv48="
+          }
+        ],
+        "price": 1471800,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2600,
+        "livingAreaValue": 2600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1298,
+        "lotAreaValue": 1298,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "915-917 Anza St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "915-917 Anza St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.779694,
+        "longitude": -122.45603,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/915-917-Anza-St-San-Francisco-CA-94118/332852588_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15084556,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77945327758789,-122.45620727539062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6JO0qHkmyAX4N1JbTy2aO6lqZzY="
+          }
+        ],
+        "price": 2113300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1800,
+        "livingAreaValue": 1800,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2382,
+        "lotAreaValue": 2382,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "12 Rossi Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "12 Rossi Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.779453,
+        "longitude": -122.45621,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/12-Rossi-Ave-San-Francisco-CA-94118/15084556_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=aL27Gs_gkPlKYqzj715i0iBfmtc=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Qca61SikjLRQEHVGSJQe3eTO-rQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=_YO7-h4gLyiv3CeEPDzlFaAScTI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=KJzF2Vnwh11WPZOS1Ao-U5ChC-Q=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pHRO4bnA0zlijaIqSJGk28HpB5w=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=aqMOWNjJwXSwGk55PU7pobjDtS4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R0tBpx93MA_ICXhuTjov_T5d9ho=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R_37TodEZGYb5vXsQzxLppzdBtY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZgrGIFBnDoePMqwWYnFVtGaCUFE=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Qca61SikjLRQEHVGSJQe3eTO-rQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=_YO7-h4gLyiv3CeEPDzlFaAScTI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=KJzF2Vnwh11WPZOS1Ao-U5ChC-Q=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pHRO4bnA0zlijaIqSJGk28HpB5w=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=aqMOWNjJwXSwGk55PU7pobjDtS4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R0tBpx93MA_ICXhuTjov_T5d9ho=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R_37TodEZGYb5vXsQzxLppzdBtY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZgrGIFBnDoePMqwWYnFVtGaCUFE=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CvpguP9H9dFR6-E2bpewYJtTmfA=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cafWF7FM--pWymAQeRTabv9Ab2s=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R_37TodEZGYb5vXsQzxLppzdBtY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZgrGIFBnDoePMqwWYnFVtGaCUFE=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CvpguP9H9dFR6-E2bpewYJtTmfA=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cafWF7FM--pWymAQeRTabv9Ab2s=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R_37TodEZGYb5vXsQzxLppzdBtY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZgrGIFBnDoePMqwWYnFVtGaCUFE=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.77962875366211,-122.4561996459961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MMGWmcsgTn0RdKcZ0zSfHfeuqjQ="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2-6-Rossi-Ave-San-Francisco-CA-94118/332852657_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2-6-Rossi-Ave-San-Francisco-CA-94118/332852657_zpid/",
+    "zpid": 332852657
+  }
+}

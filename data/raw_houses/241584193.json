@@ -1,0 +1,1150 @@
+{
+  "basic_info": {
+    "zpid": 241584193,
+    "address": "1268 20th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94122",
+    "bedrooms": null,
+    "bathrooms": 2,
+    "livingArea": 1356,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3000,
+    "lotAreaValue": 3000,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1956,
+    "homeType": "SINGLE_FAMILY",
+    "description": "1268 20th Ave, San Francisco, CA 94122 is a single family home that contains 1,356 sq ft and was built in 1956. It contains 2 bathrooms. This home last sold for $1,400,000 in September 2025. \n \nThe Zestimate for this house is $1,403,000. The Rent Zestimate for this home is $5,615/mo. "
+  },
+  "location": {
+    "latitude": 37.764156,
+    "longitude": -122.477905,
+    "neighborhood": "Outer Sunset",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1400000,
+    "lastSoldPrice": 1400000,
+    "dateSold": 1758499200000,
+    "dateSoldString": "2025-09-22",
+    "zestimate": 1403000,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 5615,
+    "taxAssessedValue": 748622,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1032
+  },
+  "schools": [
+    {
+      "name": "Jefferson Elementary School",
+      "rating": 6,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Giannini (A.P.) Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 1.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lincoln (Abraham) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 1.2,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 97,
+    "transitScore": 68,
+    "bikeScore": 89
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-09-22",
+        "time": 1758499200000,
+        "price": 1400000,
+        "pricePerSquareFoot": 1032,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763621686833,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 748622,
+        "valueIncreaseRate": 0.01999741
+      },
+      {
+        "time": 1732085686833,
+        "taxPaid": 9600.96,
+        "taxIncreaseRate": 0.02573267,
+        "value": 733945,
+        "valueIncreaseRate": 0.019997053
+      },
+      {
+        "time": 1700463286833,
+        "taxPaid": 9360.1,
+        "taxIncreaseRate": 0.021954324,
+        "value": 719556,
+        "valueIncreaseRate": 0.019997193
+      },
+      {
+        "time": 1668927286833,
+        "taxPaid": 9159.02,
+        "taxIncreaseRate": 0.018125867,
+        "value": 705449,
+        "valueIncreaseRate": 0.019998034
+      },
+      {
+        "time": 1637391286833,
+        "taxPaid": 8995.96,
+        "taxIncreaseRate": -0.0112091815,
+        "value": 691618,
+        "valueIncreaseRate": 0.010357502
+      },
+      {
+        "time": 1605855286833,
+        "taxPaid": 9097.94,
+        "taxIncreaseRate": 0.03453399,
+        "value": 684528,
+        "valueIncreaseRate": 0.01999678
+      },
+      {
+        "time": 1574232886833,
+        "taxPaid": 8794.24,
+        "taxIncreaseRate": 0.03468711,
+        "value": 671108,
+        "valueIncreaseRate": 0.01999848
+      },
+      {
+        "time": 1542696886833,
+        "taxPaid": 8499.42,
+        "taxIncreaseRate": 0.048945937,
+        "value": 657950,
+        "valueIncreaseRate": 0.019996868
+      },
+      {
+        "time": 1511160886833,
+        "taxPaid": 8102.82,
+        "taxIncreaseRate": 0.018792054,
+        "value": 645051,
+        "valueIncreaseRate": 0.019996678
+      },
+      {
+        "time": 1479624886833,
+        "taxPaid": 7953.36,
+        "taxIncreaseRate": 0.012810796,
+        "value": 632405,
+        "valueIncreaseRate": 0.015249492
+      },
+      {
+        "time": 1448002486833,
+        "taxPaid": 7852.76,
+        "taxIncreaseRate": 0,
+        "value": 622906,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 2055945128,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1262+20th+Ave%2C+San+Francisco%2C+CA+94122&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WNe25Ytx0JNRrfOc8z_kT0RrgmI="
+          }
+        ],
+        "price": 1473500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1262 20th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1262 20th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.764225,
+        "longitude": -122.47791,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1262-20th-Ave-San-Francisco-CA-94122/2055945128_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241584192,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1270-1272+20th+Ave%2C+San+Francisco%2C+CA+94122&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9sMQoNd-I8MSmaowXrnQGFnkMy8="
+          }
+        ],
+        "price": 2009400,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 6200,
+        "livingAreaValue": 6200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 6000,
+        "lotAreaValue": 6000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1270-1272 20th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1270-1272 20th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.764053,
+        "longitude": -122.4779,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1270-1272-20th-Ave-San-Francisco-CA-94122/241584192_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 456517029,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/2b87b84166690f630b50ae588b678ddc-p_c.jpg"
+          }
+        ],
+        "price": 1400000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1356,
+        "livingAreaValue": 1356,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3001,
+        "lotAreaValue": 3001.284,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1266-1268 20th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1266-1268 20th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.764137,
+        "longitude": -122.47805,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1266-1268-20th-Ave-San-Francisco-CA-94122/456517029_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425071405",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241584194,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7642936706543,-122.47792053222656&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UQ9YKR6USEcf2zgvq2zR0l0rnPA="
+          }
+        ],
+        "price": 1679800,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2177,
+        "livingAreaValue": 2177,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1258-1260 20th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1258-1260 20th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.764294,
+        "longitude": -122.47792,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1258-1260-20th-Ave-San-Francisco-CA-94122/241584194_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 331562825,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1262-1264+20th+Ave%2C+San+Francisco%2C+CA+94122&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QwXSj3uV6PvMNNq2PVMPvmEFACA="
+          }
+        ],
+        "price": 1335000,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 2,
+        "livingArea": 2644,
+        "livingAreaValue": 2644,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3001,
+        "lotAreaValue": 3001.284,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1262-1264 20th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1262-1264 20th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76423,
+        "longitude": -122.47806,
+        "homeStatus": "SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1262-1264-20th-Ave-San-Francisco-CA-94122/331562825_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423759265",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 439657450,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/82b52f804f5ef9edf6a00c85383c2210-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 1600,
+        "livingAreaValue": 1600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1280 20th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1280 20th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76395,
+        "longitude": -122.4779,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1280-20th-Ave-San-Francisco-CA-94122/439657450_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "31g2v6bhev9ma",
+        "attributionInfo": {
+          "mlsId": "425004955",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2069796859,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/47a4774cd000821ed7161636427b7862-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 900,
+        "livingAreaValue": 900,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1278 20th Ave #B",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1278 20th Ave #B"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76395,
+        "longitude": -122.4779,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1278-20th-Ave-B-San-Francisco-CA-94122/2069796859_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2078535722,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1278+20th+Ave%2C+San+Francisco%2C+CA+94122&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TMHjV9eSi8zD_cUnfEqhXoT1ODU="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "livingArea": 1600,
+        "livingAreaValue": 1600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1278 20th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1278 20th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76395,
+        "longitude": -122.4779,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1278-20th-Ave-San-Francisco-CA-94122/2078535722_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Chxukg00fRS4-Ug77650jKX0D1A=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=E3d9JCyBWYaD9vRgV_zx3axdviM=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DGWUeC4NfRdVQTQ0fh_t9HZtekI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XNW2TNLrmxMcl6YCFj3gKZhpqQA=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=g9fDZ9v7bqUgzt8EODS5he54tZA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=agroMfBbgllkgeDnZuMXmmoOnOQ=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cTwf-rfBiG1ZDYWxyvSaxYA_SfU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=c-MxgW5agmc1kQJ_1hpTBZ4lf3Y=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GCxUrmRgZEzJuIoqVDS0ODP_Xmk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=E3d9JCyBWYaD9vRgV_zx3axdviM=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DGWUeC4NfRdVQTQ0fh_t9HZtekI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XNW2TNLrmxMcl6YCFj3gKZhpqQA=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=g9fDZ9v7bqUgzt8EODS5he54tZA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=agroMfBbgllkgeDnZuMXmmoOnOQ=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cTwf-rfBiG1ZDYWxyvSaxYA_SfU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=c-MxgW5agmc1kQJ_1hpTBZ4lf3Y=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GCxUrmRgZEzJuIoqVDS0ODP_Xmk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=LnMX6BG2hil8h0lQ73kBudVGPOM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=I8LygyhrzmZSC1muUFJt9prqehE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=c-MxgW5agmc1kQJ_1hpTBZ4lf3Y=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GCxUrmRgZEzJuIoqVDS0ODP_Xmk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=LnMX6BG2hil8h0lQ73kBudVGPOM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=I8LygyhrzmZSC1muUFJt9prqehE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=c-MxgW5agmc1kQJ_1hpTBZ4lf3Y=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GCxUrmRgZEzJuIoqVDS0ODP_Xmk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.764156341552734,-122.4779052734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=99WKM9banRZAeBSFbK6-J0S_Hd8="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1268-20th-Ave-San-Francisco-CA-94122/241584193_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1268-20th-Ave-San-Francisco-CA-94122/241584193_zpid/",
+    "zpid": 241584193
+  }
+}

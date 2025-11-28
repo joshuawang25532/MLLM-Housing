@@ -1,0 +1,1296 @@
+{
+  "basic_info": {
+    "zpid": 332859394,
+    "address": "55 Ford St #59",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94114",
+    "bedrooms": null,
+    "bathrooms": 3,
+    "livingArea": 2860,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2848,
+    "lotAreaValue": 2848,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": null,
+    "homeType": "MULTI_FAMILY",
+    "description": "55 Ford St #59, San Francisco, CA 94114 is a multi family home that contains 2,860 sq ft. It contains 3 bathrooms. This home last sold for $935,000 in May 2025. \n \nThe Zestimate for this house is $948,400. The Rent Zestimate for this home is $6,307/mo. "
+  },
+  "location": {
+    "latitude": 37.76164,
+    "longitude": -122.43185,
+    "neighborhood": "Castro",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 935000,
+    "lastSoldPrice": 935000,
+    "dateSold": 1746662400000,
+    "dateSoldString": "2025-05-08",
+    "zestimate": 948400,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 6307,
+    "taxAssessedValue": 85650,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 327
+  },
+  "schools": [
+    {
+      "name": "Sanchez Elementary School",
+      "rating": 3,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Everett Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Mission High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.3,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 98,
+    "transitScore": 91,
+    "bikeScore": 70
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-05-08",
+        "time": 1746662400000,
+        "price": 935000,
+        "pricePerSquareFoot": 327,
+        "priceChangeRate": -0.626,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/katiecaragio/",
+          "name": "Katie Caragio"
+        },
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2025-02-28",
+        "time": 1740700800000,
+        "price": 2500000,
+        "pricePerSquareFoot": 874,
+        "priceChangeRate": -0.24242424242424243,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2024-09-23",
+        "time": 1727049600000,
+        "price": 3300000,
+        "pricePerSquareFoot": 1154,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Agent Provided",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/katiecaragio/",
+          "name": "Katie Caragio"
+        },
+        "sellerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/katiecaragio/",
+          "name": "Katie Caragio"
+        },
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": null,
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763570270946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 85650,
+        "valueIncreaseRate": 0.019994998
+      },
+      {
+        "time": 1732034270946,
+        "taxPaid": 2308,
+        "taxIncreaseRate": 0.08299855,
+        "value": 83971,
+        "valueIncreaseRate": 0.019993927
+      },
+      {
+        "time": 1700411870946,
+        "taxPaid": 2131.12,
+        "taxIncreaseRate": 0.049275286,
+        "value": 82325,
+        "valueIncreaseRate": 0.019984636
+      },
+      {
+        "time": 1668875870946,
+        "taxPaid": 2031.04,
+        "taxIncreaseRate": 0.017932514,
+        "value": 80712,
+        "valueIncreaseRate": 0.019992417
+      },
+      {
+        "time": 1637339870946,
+        "taxPaid": 1995.26,
+        "taxIncreaseRate": -0.08233531,
+        "value": 79130,
+        "valueIncreaseRate": 0.010342186
+      },
+      {
+        "time": 1605803870946,
+        "taxPaid": 2174.28,
+        "taxIncreaseRate": 0.024753043,
+        "value": 78320,
+        "valueIncreaseRate": 0.019990884
+      },
+      {
+        "time": 1574181470946,
+        "taxPaid": 2121.76,
+        "taxIncreaseRate": 0.033120073,
+        "value": 76785,
+        "valueIncreaseRate": 0.01999203
+      },
+      {
+        "time": 1542645470946,
+        "taxPaid": 2053.74,
+        "taxIncreaseRate": 0.18268931,
+        "value": 75280,
+        "valueIncreaseRate": 0.019985097
+      },
+      {
+        "time": 1511109470946,
+        "taxPaid": 1736.5,
+        "taxIncreaseRate": 0.04023149,
+        "value": 73805,
+        "valueIncreaseRate": 0.019997789
+      },
+      {
+        "time": 1479573470946,
+        "taxPaid": 1669.34,
+        "taxIncreaseRate": 0.016130604,
+        "value": 72358,
+        "valueIncreaseRate": 0.0152374
+      },
+      {
+        "time": 1447951070946,
+        "taxPaid": 1642.84,
+        "taxIncreaseRate": 0.02032145,
+        "value": 71272,
+        "valueIncreaseRate": 0.019978248
+      },
+      {
+        "time": 1416415070946,
+        "taxPaid": 1610.12,
+        "taxIncreaseRate": 0,
+        "value": 69876,
+        "valueIncreaseRate": 0.0045283996
+      },
+      {
+        "time": 1384879070946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 69561,
+        "valueIncreaseRate": 0.019985924
+      },
+      {
+        "time": 1353343070946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68198,
+        "valueIncreaseRate": 0.019981455
+      },
+      {
+        "time": 1321720670946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 66862,
+        "valueIncreaseRate": 0.0075040683
+      },
+      {
+        "time": 1290184670946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 66364,
+        "valueIncreaseRate": -0.002375154
+      },
+      {
+        "time": 1258648670946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 66522,
+        "valueIncreaseRate": 0.01999448
+      },
+      {
+        "time": 1227112670946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 65218,
+        "valueIncreaseRate": 0.019971536
+      },
+      {
+        "time": 1195490270946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63941,
+        "valueIncreaseRate": 0.019987876
+      },
+      {
+        "time": 1163954270946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62688,
+        "valueIncreaseRate": 0.019980475
+      },
+      {
+        "time": 1132418270946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 61460,
+        "valueIncreaseRate": 0.03900056
+      },
+      {
+        "time": 1069259870946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59153,
+        "valueIncreaseRate": 0.019932065
+      },
+      {
+        "time": 1037723870946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57997,
+        "valueIncreaseRate": 0.019996483
+      },
+      {
+        "time": 1006187870946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 56860,
+        "valueIncreaseRate": 0.020001793
+      },
+      {
+        "time": 974651870946,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 55745,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 441958451,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/c74a0765b5c8971fa58f35baacce85c1-p_c.jpg"
+          }
+        ],
+        "price": 2500000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": 2860,
+        "livingAreaValue": 2860,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2848,
+        "lotAreaValue": 2848,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "55 Ford St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "55 Ford St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76164,
+        "longitude": -122.43185,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/55-Ford-St-San-Francisco-CA-94114/441958451_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "ML81971624",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 114313978,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.76163101196289,-122.43193054199219&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wjhTvz_50k5vPKNuZ3P526ksKlc="
+          }
+        ],
+        "price": 1154400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1404,
+        "livingAreaValue": 1404,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2848,
+        "lotAreaValue": 2848,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "63 Ford St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "63 Ford St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76163,
+        "longitude": -122.43193,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/63-Ford-St-San-Francisco-CA-94114/114313978_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 114315471,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/088332f18e8295bf8b54ebbbf3136f61-p_c.jpg"
+          }
+        ],
+        "price": 1273400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1273,
+        "livingAreaValue": 1273,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2848,
+        "lotAreaValue": 2848,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "61 Ford St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "61 Ford St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76163,
+        "longitude": -122.43193,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/61-Ford-St-San-Francisco-CA-94114/114315471_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332859395,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.76164245605469,-122.4317626953125&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8h-lavcUmQ4hG_S6IMR-l_9gTN8="
+          }
+        ],
+        "price": 3106800,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2330,
+        "livingAreaValue": 2330,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2850,
+        "lotAreaValue": 2850,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "51 Ford St #53",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "51 Ford St #53"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.761642,
+        "longitude": -122.43176,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/51-Ford-St-53-San-Francisco-CA-94114/332859395_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2075615845,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=51+Ford+St%2C+San+Francisco%2C+CA+94114&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HPZYE3_s1nDVBGtEi6Aj0fd8nuM="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "51 Ford St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "51 Ford St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.761642,
+        "longitude": -122.43176,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/51-Ford-St-San-Francisco-CA-94114/2075615845_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15144287,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a926d62c4406b9b24b138beb38a754d0-p_c.jpg"
+          }
+        ],
+        "price": 1904400,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "livingArea": 1502,
+        "livingAreaValue": 1502,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2892,
+        "lotAreaValue": 2892,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "67 Ford St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "67 Ford St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.761627,
+        "longitude": -122.43202,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/67-Ford-St-San-Francisco-CA-94114/15144287_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15144333,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a981acea985ffefec2f654742020f733-p_c.jpg"
+          }
+        ],
+        "price": 1828500,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1515,
+        "livingAreaValue": 1515,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "49 Ford St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "49 Ford St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.761646,
+        "longitude": -122.43167,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/49-Ford-St-San-Francisco-CA-94114/15144333_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 53734585,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.76164627075195,-122.43167114257812&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TMZlsLGl3KgytE_a8BgRC_Qqy_s="
+          }
+        ],
+        "price": 1554800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1304,
+        "livingAreaValue": 1304,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2849,
+        "lotAreaValue": 2849,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "47 Ford St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "47 Ford St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.761646,
+        "longitude": -122.43167,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/47-Ford-St-San-Francisco-CA-94114/53734585_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=YgijUl4kK2kmlMLioHorT1pbdfc=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CngYF95YzakgAVP3oCm_uabYK8Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=uBWMoNovxAL_tKX5NdPObZCfA4E=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yEFOvO6WuIZwglfe8vnLeUTMBso=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=t8x8dzEK7rNRulToBi_aDRHlz2k=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6MAfy7k88neT4awgY9kcG_Q6B_M=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WhZJSCEd9CwpJxttqZ88sMSTRGI=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=BRQvxLu-HA8qLi8acyJOl2rZ3dc=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=buxHr4woQ5wMDmWGJxs-1UlZh3k=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CngYF95YzakgAVP3oCm_uabYK8Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=uBWMoNovxAL_tKX5NdPObZCfA4E=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yEFOvO6WuIZwglfe8vnLeUTMBso=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=t8x8dzEK7rNRulToBi_aDRHlz2k=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6MAfy7k88neT4awgY9kcG_Q6B_M=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WhZJSCEd9CwpJxttqZ88sMSTRGI=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=BRQvxLu-HA8qLi8acyJOl2rZ3dc=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=buxHr4woQ5wMDmWGJxs-1UlZh3k=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ABEqfG5vabSQ75SiYcoLVYsA-Go=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZXa3KNOh_hYz7ryK3inWbSPFjTg=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=BRQvxLu-HA8qLi8acyJOl2rZ3dc=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=buxHr4woQ5wMDmWGJxs-1UlZh3k=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ABEqfG5vabSQ75SiYcoLVYsA-Go=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZXa3KNOh_hYz7ryK3inWbSPFjTg=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=BRQvxLu-HA8qLi8acyJOl2rZ3dc=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=buxHr4woQ5wMDmWGJxs-1UlZh3k=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.76163864135742,-122.43184661865234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Aze4XMuyU5flWG6rzyqTMVmoG40="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/55-Ford-St-59-San-Francisco-CA-94114/332859394_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/55-Ford-St-59-San-Francisco-CA-94114/332859394_zpid/",
+    "zpid": 332859394
+  }
+}

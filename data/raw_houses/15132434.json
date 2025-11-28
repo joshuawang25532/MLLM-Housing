@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 15132434,
+    "address": "221 Dellbrook Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94131",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "livingArea": 1062,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3458,
+    "lotAreaValue": 3458,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1956,
+    "homeType": "SINGLE_FAMILY",
+    "description": "221 Dellbrook Ave, San Francisco, CA 94131 is a single family home that contains 1,062 sq ft and was built in 1956. It contains 2 bedrooms and 1 bathroom. This home last sold for $1,000,000 in April 2025. \n \nThe Zestimate for this house is $1,313,500. The Rent Zestimate for this home is $4,025/mo. "
+  },
+  "location": {
+    "latitude": 37.74973,
+    "longitude": -122.45341,
+    "neighborhood": "Midtown Terrace",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1000000,
+    "lastSoldPrice": 1000000,
+    "dateSold": 1743984000000,
+    "dateSoldString": "2025-04-07",
+    "zestimate": 1313500,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 4025,
+    "taxAssessedValue": 441892,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 942
+  },
+  "schools": [
+    {
+      "name": "Clarendon Alternative Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Presidio Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 3,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Academy (The)- SF @Mcateer",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.4,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 25,
+    "transitScore": 74,
+    "bikeScore": 42
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-04-07",
+        "time": 1743984000000,
+        "price": 1000000,
+        "pricePerSquareFoot": 942,
+        "priceChangeRate": 2.8461538461538463,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1993-12-28",
+        "time": 757036800000,
+        "price": 260000,
+        "pricePerSquareFoot": 245,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763636326972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 441892,
+        "valueIncreaseRate": 0.019998707
+      },
+      {
+        "time": 1732100326972,
+        "taxPaid": 5103.96,
+        "taxIncreaseRate": 0.014586763,
+        "value": 433228,
+        "valueIncreaseRate": 0.0199984
+      },
+      {
+        "time": 1700477926972,
+        "taxPaid": 5030.58,
+        "taxIncreaseRate": 0.018154701,
+        "value": 424734,
+        "valueIncreaseRate": 0.019999713
+      },
+      {
+        "time": 1668941926972,
+        "taxPaid": 4940.88,
+        "taxIncreaseRate": 0.017567378,
+        "value": 416406,
+        "valueIncreaseRate": 0.019997943
+      },
+      {
+        "time": 1637405926972,
+        "taxPaid": 4855.58,
+        "taxIncreaseRate": 0.9942664,
+        "value": 408242,
+        "valueIncreaseRate": 0.01035745
+      },
+      {
+        "time": 1605869926972,
+        "taxPaid": 2434.77,
+        "taxIncreaseRate": -0.4823141,
+        "value": 404057,
+        "valueIncreaseRate": 0.019998234
+      },
+      {
+        "time": 1574247526972,
+        "taxPaid": 4703.18,
+        "taxIncreaseRate": 0.03450271,
+        "value": 396135,
+        "valueIncreaseRate": 0.019996447
+      },
+      {
+        "time": 1542711526972,
+        "taxPaid": 4546.32,
+        "taxIncreaseRate": 0.011975418,
+        "value": 388369,
+        "valueIncreaseRate": 0.01999711
+      },
+      {
+        "time": 1511175526972,
+        "taxPaid": 4492.52,
+        "taxIncreaseRate": -0.03827608,
+        "value": 380755,
+        "valueIncreaseRate": 0.019997858
+      },
+      {
+        "time": 1479639526972,
+        "taxPaid": 4671.32,
+        "taxIncreaseRate": 0.013143199,
+        "value": 373290,
+        "valueIncreaseRate": 0.015246788
+      },
+      {
+        "time": 1448017126972,
+        "taxPaid": 4610.72,
+        "taxIncreaseRate": 0.027087735,
+        "value": 367684,
+        "valueIncreaseRate": 0.019978806
+      },
+      {
+        "time": 1416481126972,
+        "taxPaid": 4489.12,
+        "taxIncreaseRate": 0,
+        "value": 360482,
+        "valueIncreaseRate": 0.004536664
+      },
+      {
+        "time": 1384945126972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 358854,
+        "valueIncreaseRate": 0.019998977
+      },
+      {
+        "time": 1353409126972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 351818,
+        "valueIncreaseRate": 0.019998841
+      },
+      {
+        "time": 1321786726972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 344920,
+        "valueIncreaseRate": 0.007524595
+      },
+      {
+        "time": 1290250726972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 342344,
+        "valueIncreaseRate": -0.002369178
+      },
+      {
+        "time": 1258714726972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 343157,
+        "valueIncreaseRate": 0.019995244
+      },
+      {
+        "time": 1227178726972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 336430,
+        "valueIncreaseRate": 0.019997938
+      },
+      {
+        "time": 1195556326972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 329834,
+        "valueIncreaseRate": 0.019995794
+      },
+      {
+        "time": 1164020326972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 323368,
+        "valueIncreaseRate": 0.019995017
+      },
+      {
+        "time": 1132484326972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 317029,
+        "valueIncreaseRate": 0.03903395
+      },
+      {
+        "time": 1069325926972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 305119,
+        "valueIncreaseRate": 0.019997526
+      },
+      {
+        "time": 1037789926972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 299137,
+        "valueIncreaseRate": 0.019988066
+      },
+      {
+        "time": 1006253926972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 293275,
+        "valueIncreaseRate": 0.020001808
+      },
+      {
+        "time": 974717926972,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 287524,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15132433,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=227+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tzfVkIm4eHQHIexrbamljhvSxwY="
+          }
+        ],
+        "price": 1273600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1062,
+        "livingAreaValue": 1062,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3406,
+        "lotAreaValue": 3406,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "227 Dellbrook Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "227 Dellbrook Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74982,
+        "longitude": -122.45341,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/227-Dellbrook-Ave-San-Francisco-CA-94131/15132433_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15132435,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=215+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=407eyjBQ0hZ5b56mWcTVE0A5Gus="
+          }
+        ],
+        "price": 1470500,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1352,
+        "livingAreaValue": 1352,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3524,
+        "lotAreaValue": 3524,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "215 Dellbrook Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "215 Dellbrook Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74964,
+        "longitude": -122.45341,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/215-Dellbrook-Ave-San-Francisco-CA-94131/15132435_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15132436,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=209+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_lo6DHDMtwz_LrBeJmv5z-XMuew="
+          }
+        ],
+        "price": 1785100,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1560,
+        "livingAreaValue": 1560,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3667,
+        "lotAreaValue": 3667,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "209 Dellbrook Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "209 Dellbrook Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74955,
+        "longitude": -122.45341,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/209-Dellbrook-Ave-San-Francisco-CA-94131/15132436_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15132432,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=233+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=GWSRBNJ3each4E-m5bs66e9yrdk="
+          }
+        ],
+        "price": 1969700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1818,
+        "livingAreaValue": 1818,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3380,
+        "lotAreaValue": 3380,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "233 Dellbrook Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "233 Dellbrook Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.749912,
+        "longitude": -122.45341,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/233-Dellbrook-Ave-San-Francisco-CA-94131/15132432_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15132431,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=239+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QLWiyp_yJcMYsSML82nWy93BOI8="
+          }
+        ],
+        "price": 1383200,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1062,
+        "livingAreaValue": 1062,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3382,
+        "lotAreaValue": 3382,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "239 Dellbrook Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "239 Dellbrook Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.750004,
+        "longitude": -122.45341,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/239-Dellbrook-Ave-San-Francisco-CA-94131/15132431_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15132437,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9594f6ead6a79c77db4417acff8ab502-p_c.jpg"
+          }
+        ],
+        "price": 2200000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1797,
+        "livingAreaValue": 1797,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3937,
+        "lotAreaValue": 3937.824,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "205 Dellbrook Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "205 Dellbrook Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.749454,
+        "longitude": -122.45334,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/205-Dellbrook-Ave-San-Francisco-CA-94131/15132437_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425050771",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15132452,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=53+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3sUNlIei_vcGs_GIAcvgT3r_k3A="
+          }
+        ],
+        "price": 1498500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1652,
+        "livingAreaValue": 1652,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3441,
+        "lotAreaValue": 3441,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "53 Dellbrook Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "53 Dellbrook Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74982,
+        "longitude": -122.45377,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/53-Dellbrook-Ave-San-Francisco-CA-94131/15132452_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15132450,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/8ab702734d6e960a83a8cf6014d0d06a-p_c.jpg"
+          }
+        ],
+        "price": 1503000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1587,
+        "livingAreaValue": 1587,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3754,
+        "lotAreaValue": 3754,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "61 Dellbrook Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "61 Dellbrook Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74964,
+        "longitude": -122.4538,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/61-Dellbrook-Ave-San-Francisco-CA-94131/15132450_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7ueK-fGyqFjZFyp5qxglcAnH07w=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RD_0Jo3clymR3NO0628AxKjOkX4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-fyAJ9QzSmsQHRL8C6n1AipXDpc=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XvgVNW42CzC4b8JOR9HUofqPHNc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DiTTB-BNGYr8fKli4X7J1fuW7ec=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MpfmGK_-YgS3-NEEzHMDrpZCwTY=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=aucW9BRdO97XOIu_5zkMv_p3uFU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-matNkx1PCWrrHThg7hfKLx2G4M=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KBKbqtF57JS5n-zMds-cfMncNvw=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RD_0Jo3clymR3NO0628AxKjOkX4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-fyAJ9QzSmsQHRL8C6n1AipXDpc=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XvgVNW42CzC4b8JOR9HUofqPHNc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DiTTB-BNGYr8fKli4X7J1fuW7ec=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MpfmGK_-YgS3-NEEzHMDrpZCwTY=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=aucW9BRdO97XOIu_5zkMv_p3uFU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-matNkx1PCWrrHThg7hfKLx2G4M=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KBKbqtF57JS5n-zMds-cfMncNvw=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=8-5vcn6P0M16evHpnAJ-rxkXvFc=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iQ6Pi41WUPd_NlnbIQ2jT2tRdHY=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-matNkx1PCWrrHThg7hfKLx2G4M=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KBKbqtF57JS5n-zMds-cfMncNvw=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=8-5vcn6P0M16evHpnAJ-rxkXvFc=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iQ6Pi41WUPd_NlnbIQ2jT2tRdHY=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-matNkx1PCWrrHThg7hfKLx2G4M=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KBKbqtF57JS5n-zMds-cfMncNvw=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=221+Dellbrook+Ave%2C+San+Francisco%2C+CA+94131&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=X2Eoiv5d7jCCZrYBRdIRpU4R65I="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/221-Dellbrook-Ave-San-Francisco-CA-94131/15132434_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/221-Dellbrook-Ave-San-Francisco-CA-94131/15132434_zpid/",
+    "zpid": 15132434
+  }
+}

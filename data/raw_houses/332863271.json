@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 332863271,
+    "address": "885-887 San Jose Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94110",
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "livingArea": 2788,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1565,
+    "lotAreaValue": 1565,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1994,
+    "homeType": "MULTI_FAMILY",
+    "description": "885-887 San Jose Ave, San Francisco, CA 94110 is a multi family home that contains 2,788 sq ft and was built in 1994. It contains 6 bedrooms and 5 bathrooms. This home last sold for $250,000 in January 2025. \n \nThe Zestimate for this house is $1,435,800. The Rent Zestimate for this home is $7,225/mo. "
+  },
+  "location": {
+    "latitude": 37.74096,
+    "longitude": -122.4235,
+    "neighborhood": "Bernal Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 250000,
+    "lastSoldPrice": 250000,
+    "dateSold": 1736726400000,
+    "dateSoldString": "2025-01-13",
+    "zestimate": 1435800,
+    "zestimateHighPercent": "27",
+    "zestimateLowPercent": "24",
+    "rentZestimate": 7225,
+    "taxAssessedValue": 689207,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 90
+  },
+  "schools": [
+    {
+      "name": "Flynn (Leonard R.) Elementary School",
+      "rating": 5,
+      "level": "Elementary",
+      "distance": 0.8,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.8,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marshall (Thurgood) High School",
+      "rating": 2,
+      "level": "High",
+      "distance": 1.2,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 96,
+    "transitScore": 79,
+    "bikeScore": 75
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-01-13",
+        "time": 1736726400000,
+        "price": 250000,
+        "pricePerSquareFoot": 90,
+        "priceChangeRate": -0.7311827956989247,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2013-06-26",
+        "time": 1372204800000,
+        "price": 930000,
+        "pricePerSquareFoot": 334,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763638993298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 689207,
+        "valueIncreaseRate": -0.3879988
+      },
+      {
+        "time": 1732102993298,
+        "taxPaid": 13981.4,
+        "taxIncreaseRate": 0.015459907,
+        "value": 1126153,
+        "valueIncreaseRate": 0.019997753
+      },
+      {
+        "time": 1700480593298,
+        "taxPaid": 13768.54,
+        "taxIncreaseRate": 0.025985425,
+        "value": 1104074,
+        "valueIncreaseRate": 0.019996693
+      },
+      {
+        "time": 1668944593298,
+        "taxPaid": 13419.82,
+        "taxIncreaseRate": 0.018229801,
+        "value": 1082429,
+        "valueIncreaseRate": 0.019997023
+      },
+      {
+        "time": 1637408593298,
+        "taxPaid": 13179.56,
+        "taxIncreaseRate": -0.004870108,
+        "value": 1061208,
+        "valueIncreaseRate": 0.010356745
+      },
+      {
+        "time": 1605872593298,
+        "taxPaid": 13244.06,
+        "taxIncreaseRate": 0.042246837,
+        "value": 1050330,
+        "valueIncreaseRate": 0.019996328
+      },
+      {
+        "time": 1574250193298,
+        "taxPaid": 12707.22,
+        "taxIncreaseRate": 0.032289837,
+        "value": 1029739,
+        "valueIncreaseRate": 0.017137682
+      },
+      {
+        "time": 1542714193298,
+        "taxPaid": 12309.74,
+        "taxIncreaseRate": 0.04065843,
+        "value": 1012389,
+        "valueIncreaseRate": 0.023032632
+      },
+      {
+        "time": 1511178193298,
+        "taxPaid": 11828.8,
+        "taxIncreaseRate": 0.014375898,
+        "value": 989596,
+        "valueIncreaseRate": 0.019939192
+      },
+      {
+        "time": 1479642193298,
+        "taxPaid": 11661.16,
+        "taxIncreaseRate": 0.0011607938,
+        "value": 970250,
+        "valueIncreaseRate": 0.015202136
+      },
+      {
+        "time": 1448019793298,
+        "taxPaid": 11647.64,
+        "taxIncreaseRate": 0.026938578,
+        "value": 955721,
+        "valueIncreaseRate": 0.01991659
+      },
+      {
+        "time": 1416483793298,
+        "taxPaid": 11342.1,
+        "taxIncreaseRate": 0,
+        "value": 937058,
+        "valueIncreaseRate": 1.1601999
+      },
+      {
+        "time": 1384947793298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 433783,
+        "valueIncreaseRate": 0.026715046
+      },
+      {
+        "time": 1353411793298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 422496,
+        "valueIncreaseRate": 0.019996958
+      },
+      {
+        "time": 1321789393298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 414213,
+        "valueIncreaseRate": 0.0075282524
+      },
+      {
+        "time": 1290253393298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 411118,
+        "valueIncreaseRate": -0.0023708125
+      },
+      {
+        "time": 1258717393298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 412095,
+        "valueIncreaseRate": 0.019996732
+      },
+      {
+        "time": 1227181393298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 404016,
+        "valueIncreaseRate": 0.019997727
+      },
+      {
+        "time": 1195558993298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 396095,
+        "valueIncreaseRate": 0.019998506
+      },
+      {
+        "time": 1164022993298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 388329,
+        "valueIncreaseRate": 0.019999212
+      },
+      {
+        "time": 1132486993298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 380715,
+        "valueIncreaseRate": 0.03903813
+      },
+      {
+        "time": 1069328593298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 366411,
+        "valueIncreaseRate": 0.019989979
+      },
+      {
+        "time": 1037792593298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 359230,
+        "valueIncreaseRate": 0.020000795
+      },
+      {
+        "time": 1006256593298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 352186,
+        "valueIncreaseRate": 0.019998204
+      },
+      {
+        "time": 974720593298,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 345281,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 349931930,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/bfa80304d7295d5c9ee0b0be936defd6-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1200,
+        "livingAreaValue": 1200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "885 San Jose Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "885 San Jose Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74096,
+        "longitude": -122.4235,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/885-San-Jose-Ave-San-Francisco-CA-94110/349931930_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "dfmd9t9ujuz1",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2062947312,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/54ace26998b107e9e2549c3aee9f3a34-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1200,
+        "livingAreaValue": 1200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "887 San Jose Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "887 San Jose Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74096,
+        "longitude": -122.4235,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/887-San-Jose-Ave-San-Francisco-CA-94110/2062947312_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3rb9vvr4bp59",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2064151785,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/661df2e9677e4d43df92b8833ee8f126-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "livingArea": 350,
+        "livingAreaValue": 350,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "885 San Jose Ave #A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "885 San Jose Ave #A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74096,
+        "longitude": -122.4235,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/885-San-Jose-Ave-A-San-Francisco-CA-94110/2064151785_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15183917,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74089050292969,-122.42351531982422&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1A08dgJ9vEBQy2_biaVgxtKBdQU="
+          }
+        ],
+        "price": 1047600,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 736,
+        "livingAreaValue": 736,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2169,
+        "lotAreaValue": 2169,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "891 San Jose Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "891 San Jose Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74089,
+        "longitude": -122.423515,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/891-San-Jose-Ave-San-Francisco-CA-94110/15183917_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2069854773,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2+Brook+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=AVA-5aOaF8JAJx2l5S3o33jd9bs="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2 Brook St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2 Brook St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.740814,
+        "longitude": -122.4234,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2-Brook-St-San-Francisco-CA-94110/2069854773_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 457177970,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0a716fc4f7dfc3df3ad85426fce9c509-p_c.jpg"
+          }
+        ],
+        "price": 1725000,
+        "currency": "USD",
+        "bedrooms": 8,
+        "bathrooms": 4,
+        "livingArea": 3380,
+        "livingAreaValue": 3380,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2844,
+        "lotAreaValue": 2844.468,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "871 San Jose Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "871 San Jose Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.741188,
+        "longitude": -122.42345,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/871-San-Jose-Ave-San-Francisco-CA-94110/457177970_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425078741",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2055293377,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/74d23b1567ea78999f87628810337f5d-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 813,
+        "livingAreaValue": 813,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "871 San Jose Ave #337R",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "871 San Jose Ave #337R"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.741173,
+        "longitude": -122.42337,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/871-San-Jose-Ave-337R-San-Francisco-CA-94110/2055293377_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "5egge0vx6pkt",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2078234419,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fed3036213d570c6cf98d205bf399ab2-p_c.jpg"
+          }
+        ],
+        "price": 4000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "871 San Jose Ave #2",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "871 San Jose Ave #2"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.741173,
+        "longitude": -122.42337,
+        "homeStatus": "FOR_RENT",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/871-San-Jose-Ave-2-San-Francisco-CA-94110/2078234419_zpid/",
+        "hdpTypeDimension": "ForRent",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "For Rent",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "gxxfvr1mvdps",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lKXkZN-dToFRxvOv1_9st1Hl88E=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8M9cQxmMgIeVZA3Hd2bDDVgFaZY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=S-npIEPhNIGFdgLtk5mPTlZkpn8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=j9MnMyVq2Z-e01PtvEti6T042h8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=114PC2w5Y_dTQBZQiRD9j4VdKPw=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Gx96ug1LQdaIo7gj8Ji8lHH-oCE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UB14I8RVPjOBlO09Ghysn0G7rM8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9uXW1pm5fD8XG11B2LcLFPRq8MM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xxjqRcp0zJJMWKyVmWYce6ZMvBM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8M9cQxmMgIeVZA3Hd2bDDVgFaZY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=S-npIEPhNIGFdgLtk5mPTlZkpn8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=j9MnMyVq2Z-e01PtvEti6T042h8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=114PC2w5Y_dTQBZQiRD9j4VdKPw=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Gx96ug1LQdaIo7gj8Ji8lHH-oCE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UB14I8RVPjOBlO09Ghysn0G7rM8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9uXW1pm5fD8XG11B2LcLFPRq8MM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xxjqRcp0zJJMWKyVmWYce6ZMvBM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GOi6U1Du-u7TvgksXGqQxuaU6eU=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ErYiSINuqiVDyldYbmBQFQAa1UI=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9uXW1pm5fD8XG11B2LcLFPRq8MM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xxjqRcp0zJJMWKyVmWYce6ZMvBM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GOi6U1Du-u7TvgksXGqQxuaU6eU=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ErYiSINuqiVDyldYbmBQFQAa1UI=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9uXW1pm5fD8XG11B2LcLFPRq8MM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xxjqRcp0zJJMWKyVmWYce6ZMvBM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.74095916748047,-122.42350006103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8Yq6cnT2Ib-PYJaKef58BfT7BPk="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/885-887-San-Jose-Ave-San-Francisco-CA-94110/332863271_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/885-887-San-Jose-Ave-San-Francisco-CA-94110/332863271_zpid/",
+    "zpid": 332863271
+  }
+}

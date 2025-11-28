@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15175422,
+    "address": "171 Peabody St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94134",
+    "bedrooms": null,
+    "bathrooms": 3,
+    "livingArea": 1700,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2639,
+    "lotAreaValue": 2639,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1975,
+    "homeType": "SINGLE_FAMILY",
+    "description": "171 Peabody St, San Francisco, CA 94134 is a single family home that contains 1,700 sq ft and was built in 1975. It contains 3 bathrooms. This home last sold for $706,000 in September 2025. \n \nThe Zestimate for this house is $992,500. The Rent Zestimate for this home is $5,501/mo. "
+  },
+  "location": {
+    "latitude": 37.71002,
+    "longitude": -122.40723,
+    "neighborhood": "Visitacion Valley",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 706000,
+    "lastSoldPrice": 706000,
+    "dateSold": 1758499200000,
+    "dateSoldString": "2025-09-22",
+    "zestimate": 992500,
+    "zestimateHighPercent": "12",
+    "zestimateLowPercent": "12",
+    "rentZestimate": 5501,
+    "taxAssessedValue": 118686,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 415
+  },
+  "schools": [
+    {
+      "name": "Visitacion Valley Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Visitacion Valley Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Burton (Phillip And Sala) Academic High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.7,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 81,
+    "transitScore": 67,
+    "bikeScore": 67
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-09-22",
+        "time": 1758499200000,
+        "price": 706000,
+        "pricePerSquareFoot": 415,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763625585071,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 118686,
+        "valueIncreaseRate": 0.019989688
+      },
+      {
+        "time": 1732089585071,
+        "taxPaid": 2070.36,
+        "taxIncreaseRate": -0.10656364,
+        "value": 116360,
+        "valueIncreaseRate": 0.019985974
+      },
+      {
+        "time": 1700467185071,
+        "taxPaid": 2317.3,
+        "taxIncreaseRate": 0.17661698,
+        "value": 114080,
+        "valueIncreaseRate": 0.019992132
+      },
+      {
+        "time": 1668931185071,
+        "taxPaid": 1969.46,
+        "taxIncreaseRate": -0.6099121,
+        "value": 111844,
+        "valueIncreaseRate": 0.019990515
+      },
+      {
+        "time": 1637395185071,
+        "taxPaid": 5048.76,
+        "taxIncreaseRate": 0.33884555,
+        "value": 109652,
+        "valueIncreaseRate": 0.010356775
+      },
+      {
+        "time": 1605859185071,
+        "taxPaid": 3770.98,
+        "taxIncreaseRate": -0.093374915,
+        "value": 108528,
+        "valueIncreaseRate": 0.019990414
+      },
+      {
+        "time": 1574236785071,
+        "taxPaid": 4159.36,
+        "taxIncreaseRate": -0.52754515,
+        "value": 106401,
+        "valueIncreaseRate": 0.019987347
+      },
+      {
+        "time": 1542700785071,
+        "taxPaid": 8803.72,
+        "taxIncreaseRate": 0.52080375,
+        "value": 104316,
+        "valueIncreaseRate": 0.019995892
+      },
+      {
+        "time": 1511164785071,
+        "taxPaid": 5788.86,
+        "taxIncreaseRate": 0.7066315,
+        "value": 102271,
+        "valueIncreaseRate": 0.019996809
+      },
+      {
+        "time": 1479628785071,
+        "taxPaid": 3391.98,
+        "taxIncreaseRate": 0.21892652,
+        "value": 100266,
+        "valueIncreaseRate": 0.0152388085
+      },
+      {
+        "time": 1448006385071,
+        "taxPaid": 2782.76,
+        "taxIncreaseRate": -0.035565462,
+        "value": 98761,
+        "valueIncreaseRate": 0.019963235
+      },
+      {
+        "time": 1416470385071,
+        "taxPaid": 2885.38,
+        "taxIncreaseRate": 0,
+        "value": 96828,
+        "valueIncreaseRate": 0.004533618
+      },
+      {
+        "time": 1384934385071,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 96391,
+        "valueIncreaseRate": 0.019988995
+      },
+      {
+        "time": 1353398385072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 94502,
+        "valueIncreaseRate": 0.019989207
+      },
+      {
+        "time": 1321775985072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 92650,
+        "valueIncreaseRate": 0.0075251744
+      },
+      {
+        "time": 1290239985072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 91958,
+        "valueIncreaseRate": -0.0023758637
+      },
+      {
+        "time": 1258703985072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 92177,
+        "valueIncreaseRate": 0.019995574
+      },
+      {
+        "time": 1227167985072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 90370,
+        "valueIncreaseRate": 0.01998894
+      },
+      {
+        "time": 1195545585072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 88599,
+        "valueIncreaseRate": 0.019997237
+      },
+      {
+        "time": 1164009585072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 86862,
+        "valueIncreaseRate": 0.019997885
+      },
+      {
+        "time": 1132473585072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 85159,
+        "valueIncreaseRate": 0.039031234
+      },
+      {
+        "time": 1069315185072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 81960,
+        "valueIncreaseRate": 0.019986559
+      },
+      {
+        "time": 1037779185072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 80354,
+        "valueIncreaseRate": 0.019966744
+      },
+      {
+        "time": 1006243185072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 78781,
+        "valueIncreaseRate": 0.020003626
+      },
+      {
+        "time": 974707185072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 77236,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15175423,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7100830078125,-122.40719604492188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VICOaaJQGIKE55lAmZf6Dj2wKrk="
+          }
+        ],
+        "price": 1076700,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "livingArea": 1700,
+        "livingAreaValue": 1700,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2639,
+        "lotAreaValue": 2639,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "169 Peabody St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "169 Peabody St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.710083,
+        "longitude": -122.407196,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/169-Peabody-St-San-Francisco-CA-94134/15175423_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15175421,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70995330810547,-122.40725708007812&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ALjpQA_OiT13OlvKv0of8bEILbU="
+          }
+        ],
+        "price": 1110200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 1700,
+        "livingAreaValue": 1700,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2639,
+        "lotAreaValue": 2639,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "175 Peabody St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "175 Peabody St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709953,
+        "longitude": -122.40726,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/175-Peabody-St-San-Francisco-CA-94134/15175421_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15175420,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70988845825195,-122.40727996826172&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yT6qmDyzQ8i9gR0dNVhghbTSFxs="
+          }
+        ],
+        "price": 1109700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1440,
+        "livingAreaValue": 1440,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2639,
+        "lotAreaValue": 2639,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "177 Peabody St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "177 Peabody St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.70989,
+        "longitude": -122.40728,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/177-Peabody-St-San-Francisco-CA-94134/15175420_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15175424,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.710147857666016,-122.40716552734375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=nM2qYZMwQKBwkR-N2nIqc19BY9Q="
+          }
+        ],
+        "price": 720200,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 855,
+        "livingAreaValue": 855,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2639,
+        "lotAreaValue": 2639,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "165 Peabody St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "165 Peabody St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.710148,
+        "longitude": -122.407166,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/165-Peabody-St-San-Francisco-CA-94134/15175424_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15175425,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71021270751953,-122.40714263916016&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5cwsZzSiFgH7cJ3hQa4O9CxMWfM="
+          }
+        ],
+        "price": 609700,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 601,
+        "livingAreaValue": 601,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2639,
+        "lotAreaValue": 2639,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "163 Peabody St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "163 Peabody St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.710213,
+        "longitude": -122.40714,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/163-Peabody-St-San-Francisco-CA-94134/15175425_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15175419,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70982360839844,-122.40731048583984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=dnHx3b2sHi8cSS3H1CAA0DZWm-I="
+          }
+        ],
+        "price": 1044300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1543,
+        "livingAreaValue": 1543,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2639,
+        "lotAreaValue": 2639,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "183 Peabody St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "183 Peabody St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709824,
+        "longitude": -122.40731,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/183-Peabody-St-San-Francisco-CA-94134/15175419_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15175418,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70975875854492,-122.40734100341797&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ICejSjsssf3uxsHg2NWDb5EW2D4="
+          }
+        ],
+        "price": 966200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1285,
+        "livingAreaValue": 1285,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2641,
+        "lotAreaValue": 2641,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "187 Peabody St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "187 Peabody St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.70976,
+        "longitude": -122.40734,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/187-Peabody-St-San-Francisco-CA-94134/15175418_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15175426,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71027755737305,-122.40711212158203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rMxK5YJsRMsayEiYo0JLZp0Y80g="
+          }
+        ],
+        "price": 899100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1188,
+        "livingAreaValue": 1188,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2713,
+        "lotAreaValue": 2713,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "159 Peabody St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "159 Peabody St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.710278,
+        "longitude": -122.40711,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/159-Peabody-St-San-Francisco-CA-94134/15175426_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2f-kb-MMM10R1RElOI7sehJWUeQ=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=m_Zk3XmYXXy95BSRPRd6M3xWbUg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GKVQ1Jb5gx6ev_KmQ1hC9KJlzPE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lmFZGSuyDM-rRGlxCSruZE8MBtM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UhrDFQ4tRaPw3K6eSmqWbGab034=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jNZvnjxBeY0onFmozpBI-KgostI=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bGy_N35X_T6edb8Y63zz9FMEC9I=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4FQFhStJ4W2RCm5Dt3NagnB6uK0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5SNXACsVHFGP6REdNbqT0jYKrqk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=m_Zk3XmYXXy95BSRPRd6M3xWbUg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GKVQ1Jb5gx6ev_KmQ1hC9KJlzPE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lmFZGSuyDM-rRGlxCSruZE8MBtM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UhrDFQ4tRaPw3K6eSmqWbGab034=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jNZvnjxBeY0onFmozpBI-KgostI=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bGy_N35X_T6edb8Y63zz9FMEC9I=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4FQFhStJ4W2RCm5Dt3NagnB6uK0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5SNXACsVHFGP6REdNbqT0jYKrqk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WkqLm_LUt8OzpNB9WPEIFTHBgPA=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=SjTSn5Hr1sCq3qtNZKMU5fKuZDE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4FQFhStJ4W2RCm5Dt3NagnB6uK0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5SNXACsVHFGP6REdNbqT0jYKrqk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WkqLm_LUt8OzpNB9WPEIFTHBgPA=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=SjTSn5Hr1sCq3qtNZKMU5fKuZDE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4FQFhStJ4W2RCm5Dt3NagnB6uK0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5SNXACsVHFGP6REdNbqT0jYKrqk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.710018157958984,-122.4072265625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Y0f1IY7msJ7XixEfzozPUO1u85U="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/171-Peabody-St-San-Francisco-CA-94134/15175422_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/171-Peabody-St-San-Francisco-CA-94134/15175422_zpid/",
+    "zpid": 15175422
+  }
+}

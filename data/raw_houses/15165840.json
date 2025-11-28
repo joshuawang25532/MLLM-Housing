@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15165840,
+    "address": "257 Hale St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94134",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1275,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1873,
+    "lotAreaValue": 1873,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1940,
+    "homeType": "SINGLE_FAMILY",
+    "description": "257 Hale St, San Francisco, CA 94134 is a single family home that contains 1,275 sq ft and was built in 1940. It contains 1 bathroom. This home last sold for $850,000 in July 2025. \n \nThe Zestimate for this house is $857,800. The Rent Zestimate for this home is $4,196/mo. "
+  },
+  "location": {
+    "latitude": 37.73151,
+    "longitude": -122.41002,
+    "neighborhood": "Portola",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 850000,
+    "lastSoldPrice": 850000,
+    "dateSold": 1753315200000,
+    "dateSoldString": "2025-07-24",
+    "zestimate": 857800,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 4196,
+    "taxAssessedValue": 56302,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 667
+  },
+  "schools": [
+    {
+      "name": "Taylor (Edward R.) Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "King Jr. (Martin Luther) Academic Middle School",
+      "rating": 5,
+      "level": "Middle",
+      "distance": 0.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marshall (Thurgood) High School",
+      "rating": 2,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 86,
+    "transitScore": 70,
+    "bikeScore": 76
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-07-24",
+        "time": 1753315200000,
+        "price": 850000,
+        "pricePerSquareFoot": 667,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763643177790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 56302,
+        "valueIncreaseRate": 0.019982247
+      },
+      {
+        "time": 1732107177790,
+        "taxPaid": 1353.88,
+        "taxIncreaseRate": 0.025029952,
+        "value": 55199,
+        "valueIncreaseRate": 0.01997487
+      },
+      {
+        "time": 1700484777790,
+        "taxPaid": 1320.82,
+        "taxIncreaseRate": 0.03517407,
+        "value": 54118,
+        "valueIncreaseRate": 0.019978138
+      },
+      {
+        "time": 1668948777790,
+        "taxPaid": 1275.94,
+        "taxIncreaseRate": 0.02399594,
+        "value": 53058,
+        "valueIncreaseRate": 0.01999308
+      },
+      {
+        "time": 1637412777790,
+        "taxPaid": 1246.04,
+        "taxIncreaseRate": -0.021393558,
+        "value": 52018,
+        "valueIncreaseRate": 0.010332906
+      },
+      {
+        "time": 1605876777790,
+        "taxPaid": 1273.28,
+        "taxIncreaseRate": -0.032579627,
+        "value": 51486,
+        "valueIncreaseRate": 0.019989302
+      },
+      {
+        "time": 1574254377790,
+        "taxPaid": 1316.16,
+        "taxIncreaseRate": 0.033076413,
+        "value": 50477,
+        "valueIncreaseRate": 0.019984642
+      },
+      {
+        "time": 1542718377790,
+        "taxPaid": 1274.02,
+        "taxIncreaseRate": 0.32619247,
+        "value": 49488,
+        "valueIncreaseRate": 0.019971557
+      },
+      {
+        "time": 1511182377790,
+        "taxPaid": 960.66,
+        "taxIncreaseRate": 0.15683629,
+        "value": 48519,
+        "valueIncreaseRate": 0.019970989
+      },
+      {
+        "time": 1479646377790,
+        "taxPaid": 830.42,
+        "taxIncreaseRate": 0.01692384,
+        "value": 47569,
+        "valueIncreaseRate": 0.015238502
+      },
+      {
+        "time": 1448023977790,
+        "taxPaid": 816.6,
+        "taxIncreaseRate": 0.026601596,
+        "value": 46855,
+        "valueIncreaseRate": 0.019961687
+      },
+      {
+        "time": 1416487977790,
+        "taxPaid": 795.44,
+        "taxIncreaseRate": 0,
+        "value": 45938,
+        "valueIncreaseRate": 0.00452647
+      },
+      {
+        "time": 1384951977790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 45731,
+        "valueIncreaseRate": 0.019984387
+      },
+      {
+        "time": 1353415977790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 44835,
+        "valueIncreaseRate": 0.019974066
+      },
+      {
+        "time": 1321793577790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 43957,
+        "valueIncreaseRate": 0.0075179352
+      },
+      {
+        "time": 1290257577790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 43629,
+        "valueIncreaseRate": -0.002378067
+      },
+      {
+        "time": 1258721577790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 43733,
+        "valueIncreaseRate": 0.019964084
+      },
+      {
+        "time": 1227185577790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 42877,
+        "valueIncreaseRate": 0.019982396
+      },
+      {
+        "time": 1195563177790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 42037,
+        "valueIncreaseRate": 0.019968942
+      },
+      {
+        "time": 1164027177790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 41214,
+        "valueIncreaseRate": 0.019971788
+      },
+      {
+        "time": 1132491177790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 40407,
+        "valueIncreaseRate": 0.039007455
+      },
+      {
+        "time": 1069332777790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 38890,
+        "valueIncreaseRate": 0.019958561
+      },
+      {
+        "time": 1037796777790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 38129,
+        "valueIncreaseRate": 0.019955594
+      },
+      {
+        "time": 1006260777790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 37383,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 974724777790,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 36650,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15165839,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.731483459472656,-122.41009521484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8AaY37gPDY3I41NpRnLJSkEETOo="
+          }
+        ],
+        "price": 680000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1873,
+        "lotAreaValue": 1873,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "263 Hale St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "263 Hale St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.731483,
+        "longitude": -122.410095,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/263-Hale-St-San-Francisco-CA-94134/15165839_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15165841,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.73153305053711,-122.4099349975586&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=iJHHP02ajxDPl9OdHMyNiYPyqOc="
+          }
+        ],
+        "price": 997500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1375,
+        "livingAreaValue": 1375,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1875,
+        "lotAreaValue": 1875,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "251 Hale St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "251 Hale St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.731533,
+        "longitude": -122.409935,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/251-Hale-St-San-Francisco-CA-94134/15165841_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15165842,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.73155975341797,-122.40985870361328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=JYN3kAtHCwOhFH7PibBz1h_Ip28="
+          }
+        ],
+        "price": 936600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1875,
+        "lotAreaValue": 1875,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "247 Hale St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "247 Hale St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73156,
+        "longitude": -122.40986,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/247-Hale-St-San-Francisco-CA-94134/15165842_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15165838,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/67065b9a09cc14b41c22d6b4d2d9e9a9-p_c.jpg"
+          }
+        ],
+        "price": 1064800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1125,
+        "livingAreaValue": 1125,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1873,
+        "lotAreaValue": 1873,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "269 Hale St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "269 Hale St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73146,
+        "longitude": -122.41018,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/269-Hale-St-San-Francisco-CA-94134/15165838_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2102583918,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a20d93445537a098427f0ea4f75b2de1-p_c.jpg"
+          }
+        ],
+        "price": 1025800,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1343 Silver Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1343 Silver Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73132,
+        "longitude": -122.40993,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1343-Silver-Ave-San-Francisco-CA-94134/2102583918_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15165837,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=273+Hale+St%2C+San+Francisco%2C+CA+94134&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tykNUdjjJuxA5YXJDCKhlF-1ZHY="
+          }
+        ],
+        "price": 2155500,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "livingArea": 3999,
+        "livingAreaValue": 3999,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 19500,
+        "lotAreaValue": 0.4476584022038568,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "273 Hale St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "273 Hale St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.731438,
+        "longitude": -122.41026,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/273-Hale-St-San-Francisco-CA-94134/15165837_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15165828,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Silver+Ave%2C+San+Francisco%2C+CA+94134&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4wQH9yqR8NKozz3IeE3_Wg0pMEs="
+          }
+        ],
+        "price": 1290600,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "livingArea": 2131,
+        "livingAreaValue": 2131,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1875,
+        "lotAreaValue": 1875,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1343-1345 Silver Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1343-1345 Silver Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.731316,
+        "longitude": -122.40993,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1343-1345-Silver-Ave-San-Francisco-CA-94134/15165828_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2060459543,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1345+Silver+Ave%2C+San+Francisco%2C+CA+94134&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0GMWLC_U9suwYsoJBONUSMhbF2E="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1345 Silver Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1345 Silver Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.731316,
+        "longitude": -122.40993,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1345-Silver-Ave-San-Francisco-CA-94134/2060459543_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=j7kuG7Zo__XAz2KEGFP-RX5Eh5E=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CgJq9GTvXumSQrgQ-rrCvgQ73KM=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Qs9GHXaDemQM4vUzTAurzeUh7e8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=sxMRJvRWS7pP1gTQiuEXTNDWK5A=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ea6Ol9sHZoWdxkRTYivP-8Q0LCw=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=nqHn1zaBFRpRe1Qpd3bM6MFMwEE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6YSUXh2o5jCU9tX4DsohTU5t84w=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6IuGCdjxKZNidfaDcf3DPUkgEng=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GTVCxUh1ZBGlal6VdiRSiNne0jA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=CgJq9GTvXumSQrgQ-rrCvgQ73KM=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Qs9GHXaDemQM4vUzTAurzeUh7e8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=sxMRJvRWS7pP1gTQiuEXTNDWK5A=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ea6Ol9sHZoWdxkRTYivP-8Q0LCw=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=nqHn1zaBFRpRe1Qpd3bM6MFMwEE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6YSUXh2o5jCU9tX4DsohTU5t84w=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6IuGCdjxKZNidfaDcf3DPUkgEng=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GTVCxUh1ZBGlal6VdiRSiNne0jA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=_cOHSa-tatoZcdDOjmkRfCHtZmM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=q46DpbTmXH1CREWaZu2fGgGE9i8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6IuGCdjxKZNidfaDcf3DPUkgEng=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GTVCxUh1ZBGlal6VdiRSiNne0jA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=_cOHSa-tatoZcdDOjmkRfCHtZmM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=q46DpbTmXH1CREWaZu2fGgGE9i8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6IuGCdjxKZNidfaDcf3DPUkgEng=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GTVCxUh1ZBGlal6VdiRSiNne0jA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.731510162353516,-122.41001892089844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=T02j1ulKMUMqh6GLfUOpmZoCaGU="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/257-Hale-St-San-Francisco-CA-94134/15165840_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/257-Hale-St-San-Francisco-CA-94134/15165840_zpid/",
+    "zpid": 15165840
+  }
+}

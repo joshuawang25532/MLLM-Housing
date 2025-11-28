@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15183182,
+    "address": "1561 Sanchez St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94131",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1242,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2495,
+    "lotAreaValue": 2495,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1900,
+    "homeType": "SINGLE_FAMILY",
+    "description": "1561 Sanchez St, San Francisco, CA 94131 is a single family home that contains 1,242 sq ft and was built in 1900. It contains 1 bathroom. This home last sold for $1,850,000 in November 2025. \n \nThe Zestimate for this house is $1,365,800. The Rent Zestimate for this home is $5,951/mo. "
+  },
+  "location": {
+    "latitude": 37.744118,
+    "longitude": -122.42862,
+    "neighborhood": "Noe Valley",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1850000,
+    "lastSoldPrice": 1850000,
+    "dateSold": 1762128000000,
+    "dateSoldString": "2025-11-03",
+    "zestimate": 1365800,
+    "zestimateHighPercent": "16",
+    "zestimateLowPercent": "15",
+    "rentZestimate": 5951,
+    "taxAssessedValue": 51223,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1490
+  },
+  "schools": [
+    {
+      "name": "Alvarado Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.8,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Academy (The)- SF @Mcateer",
+      "rating": 7,
+      "level": "High",
+      "distance": 1.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 94,
+    "transitScore": 77,
+    "bikeScore": 86
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-11-03",
+        "time": 1762128000000,
+        "price": 1850000,
+        "pricePerSquareFoot": 1490,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763634586267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 51223,
+        "valueIncreaseRate": 0.019972123
+      },
+      {
+        "time": 1732098586267,
+        "taxPaid": 617.24,
+        "taxIncreaseRate": 0.014563242,
+        "value": 50220,
+        "valueIncreaseRate": 0.019985376
+      },
+      {
+        "time": 1700476186267,
+        "taxPaid": 608.38,
+        "taxIncreaseRate": 0.017664175,
+        "value": 49236,
+        "valueIncreaseRate": 0.0199913
+      },
+      {
+        "time": 1668940186267,
+        "taxPaid": 597.82,
+        "taxIncreaseRate": 0.017081182,
+        "value": 48271,
+        "valueIncreaseRate": 0.019989435
+      },
+      {
+        "time": 1637404186267,
+        "taxPaid": 587.78,
+        "taxIncreaseRate": -0.0011215641,
+        "value": 47325,
+        "valueIncreaseRate": 0.010332828
+      },
+      {
+        "time": 1605868186267,
+        "taxPaid": 588.44,
+        "taxIncreaseRate": 0.031771626,
+        "value": 46841,
+        "valueIncreaseRate": 0.019989984
+      },
+      {
+        "time": 1574245786267,
+        "taxPaid": 570.32,
+        "taxIncreaseRate": 0.030947207,
+        "value": 45923,
+        "valueIncreaseRate": 0.01996713
+      },
+      {
+        "time": 1542709786267,
+        "taxPaid": 553.2,
+        "taxIncreaseRate": 0.012445073,
+        "value": 45024,
+        "valueIncreaseRate": 0.01998097
+      },
+      {
+        "time": 1511173786267,
+        "taxPaid": 546.4,
+        "taxIncreaseRate": 0.07822246,
+        "value": 44142,
+        "valueIncreaseRate": 0.019987522
+      },
+      {
+        "time": 1479637786267,
+        "taxPaid": 506.76,
+        "taxIncreaseRate": 0.012871766,
+        "value": 43277,
+        "valueIncreaseRate": 0.015224735
+      },
+      {
+        "time": 1448015386267,
+        "taxPaid": 500.32,
+        "taxIncreaseRate": 0.02612909,
+        "value": 42628,
+        "valueIncreaseRate": 0.019955017
+      },
+      {
+        "time": 1416479386267,
+        "taxPaid": 487.58,
+        "taxIncreaseRate": 0,
+        "value": 41794,
+        "valueIncreaseRate": 0.004494436
+      },
+      {
+        "time": 1384943386267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 41607,
+        "valueIncreaseRate": 0.019979408
+      },
+      {
+        "time": 1353407386267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 40792,
+        "valueIncreaseRate": 0.019978495
+      },
+      {
+        "time": 1321784986267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 39993,
+        "valueIncreaseRate": 0.0074818623
+      },
+      {
+        "time": 1290248986267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 39696,
+        "valueIncreaseRate": -0.0023624026
+      },
+      {
+        "time": 1258712986267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 39790,
+        "valueIncreaseRate": 0.019968728
+      },
+      {
+        "time": 1227176986267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 39011,
+        "valueIncreaseRate": 0.019975424
+      },
+      {
+        "time": 1195554586267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 38247,
+        "valueIncreaseRate": 0.0199744
+      },
+      {
+        "time": 1164018586267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 37498,
+        "valueIncreaseRate": 0.019965183
+      },
+      {
+        "time": 1132482586267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 36764,
+        "valueIncreaseRate": 0.03900068
+      },
+      {
+        "time": 1069324186267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 35384,
+        "valueIncreaseRate": 0.019976363
+      },
+      {
+        "time": 1037788186267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 34691,
+        "valueIncreaseRate": 0.019963542
+      },
+      {
+        "time": 1006252186267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 34012,
+        "valueIncreaseRate": 0.020002998
+      },
+      {
+        "time": 974716186267,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 33345,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15183181,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74405288696289,-122.4286117553711&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UwTixPkalajaNyaFhiIBp6QvoVs="
+          }
+        ],
+        "price": 3660000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1175,
+        "livingAreaValue": 1175,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1567 Sanchez St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1567 Sanchez St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.744053,
+        "longitude": -122.42861,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1567-Sanchez-St-San-Francisco-CA-94131/15183181_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15183183,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74418640136719,-122.42862701416016&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DaRhpwaplMQUXjcyucjYpXtHBgw="
+          }
+        ],
+        "price": 2210200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1675,
+        "livingAreaValue": 1675,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1557 Sanchez St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1557 Sanchez St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.744186,
+        "longitude": -122.42863,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1557-Sanchez-St-San-Francisco-CA-94131/15183183_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15183180,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.743980407714844,-122.42860412597656&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=qRL0fVy0xL5s3S_KZFBN2_38-Ns="
+          }
+        ],
+        "price": 2094300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1482,
+        "livingAreaValue": 1482,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1571 Sanchez St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1571 Sanchez St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74398,
+        "longitude": -122.428604,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1571-Sanchez-St-San-Francisco-CA-94131/15183180_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241587536,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.744258880615234,-122.42863464355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TZlKx1uBE6Ffvp4II8DgpTSGngg="
+          }
+        ],
+        "price": 1716600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2648,
+        "lotAreaValue": 2648,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1551-1553 Sanchez St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1551-1553 Sanchez St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74426,
+        "longitude": -122.428635,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1551-1553-Sanchez-St-San-Francisco-CA-94131/241587536_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15183184,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/54d3dccd30b808a7eff086562fe5dd69-p_c.jpg"
+          }
+        ],
+        "price": 4498800,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 6,
+        "livingArea": 3512,
+        "livingAreaValue": 3512,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2962,
+        "lotAreaValue": 2962,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "239 Valley St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "239 Valley St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.744152,
+        "longitude": -122.428406,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/239-Valley-St-San-Francisco-CA-94131/15183184_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15183179,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74391555786133,-122.42860412597656&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rwfUVycei-KKaYQ2Kg2w6stiZQc="
+          }
+        ],
+        "price": 1694900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1440,
+        "livingAreaValue": 1440,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1579 Sanchez St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1579 Sanchez St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.743916,
+        "longitude": -122.428604,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1579-Sanchez-St-San-Francisco-CA-94131/15183179_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 447176487,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/65d1f3bd9b3586872d8c74f11491fa47-p_c.jpg"
+          }
+        ],
+        "price": 2100000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 0,
+        "livingArea": 2368,
+        "livingAreaValue": 2368,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2922,
+        "lotAreaValue": 2922.876,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "237-237 1/2 Valley St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "237-237 1/2 Valley St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74423,
+        "longitude": -122.42835,
+        "homeStatus": "SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/237-237-1-2-Valley-St-San-Francisco-CA-94131/447176487_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423900047",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332863083,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74415588378906,-122.42831420898438&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4LyM-na5NrY6ufTCowg1B90Ft7Q="
+          }
+        ],
+        "price": 2100000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2368,
+        "livingAreaValue": 2368,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2922,
+        "lotAreaValue": 2922,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "237 Valley St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "237 Valley St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.744156,
+        "longitude": -122.428314,
+        "homeStatus": "SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/237-Valley-St-San-Francisco-CA-94131/332863083_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0BA12GYt7EF2JnNRH97HBg7IJuM=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=nU8iPbziQq__natS-qsOyw-hdPQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=QZX_49fhAU_c3IPNSbvQncQ4QKQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1ohMETqnScY5dj7IYg-Z6Fy09xU=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4q2UHevvdpkdiuzkmKbDP6sKzKo=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=KoFgTg2r5JFw-nAdtSIkABHaLzI=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DQ2jSueoPygYXTlMXEl3Txhibh8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DTjQSYcx8_U2a1Gl2KFCaPb55pE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hewPPXEcWAnT51RLjGjqLAY9Dfg=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=nU8iPbziQq__natS-qsOyw-hdPQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=QZX_49fhAU_c3IPNSbvQncQ4QKQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1ohMETqnScY5dj7IYg-Z6Fy09xU=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4q2UHevvdpkdiuzkmKbDP6sKzKo=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=KoFgTg2r5JFw-nAdtSIkABHaLzI=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DQ2jSueoPygYXTlMXEl3Txhibh8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DTjQSYcx8_U2a1Gl2KFCaPb55pE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hewPPXEcWAnT51RLjGjqLAY9Dfg=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UBA1Vov0SkxTHjIeQ7JPVtFI6ec=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=uvub4MUSHBcyQ1Y9bmMvfWUuicc=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DTjQSYcx8_U2a1Gl2KFCaPb55pE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hewPPXEcWAnT51RLjGjqLAY9Dfg=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UBA1Vov0SkxTHjIeQ7JPVtFI6ec=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=uvub4MUSHBcyQ1Y9bmMvfWUuicc=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DTjQSYcx8_U2a1Gl2KFCaPb55pE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hewPPXEcWAnT51RLjGjqLAY9Dfg=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.744117736816406,-122.42861938476562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=kab5M-SE5pErwMbwA7BOWsPvuRc="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1561-Sanchez-St-San-Francisco-CA-94131/15183182_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1561-Sanchez-St-San-Francisco-CA-94131/15183182_zpid/",
+    "zpid": 15183182
+  }
+}

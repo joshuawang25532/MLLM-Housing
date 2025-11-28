@@ -1,0 +1,1302 @@
+{
+  "basic_info": {
+    "zpid": 332856384,
+    "address": "6120-6122 Fulton St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94121",
+    "bedrooms": null,
+    "bathrooms": 2,
+    "livingArea": 2000,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2500,
+    "lotAreaValue": 2500,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1945,
+    "homeType": "MULTI_FAMILY",
+    "description": "6120-6122 Fulton St, San Francisco, CA 94121 is a multi family home that contains 2,000 sq ft and was built in 1945. It contains 2 bathrooms. This home last sold for $325,000 in December 2024. \n \nThe Zestimate for this house is $1,401,200. The Rent Zestimate for this home is $4,571/mo. "
+  },
+  "location": {
+    "latitude": 37.772213,
+    "longitude": -122.49752,
+    "neighborhood": "Outer Richmond",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 325000,
+    "lastSoldPrice": 325000,
+    "dateSold": 1734307200000,
+    "dateSoldString": "2024-12-16",
+    "zestimate": 1401200,
+    "zestimateHighPercent": "17",
+    "zestimateLowPercent": "16",
+    "rentZestimate": 4571,
+    "taxAssessedValue": 1126756,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 163
+  },
+  "schools": [
+    {
+      "name": "Lafayette Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Presidio Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.8,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Washington (George) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 78,
+    "transitScore": 68,
+    "bikeScore": 71
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2024-12-16",
+        "time": 1734307200000,
+        "price": 325000,
+        "pricePerSquareFoot": 163,
+        "priceChangeRate": -0.6285714285714286,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2009-06-30",
+        "time": 1246320000000,
+        "price": 875000,
+        "pricePerSquareFoot": 438,
+        "priceChangeRate": -0.125,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2006-03-01",
+        "time": 1141171200000,
+        "price": 1000000,
+        "pricePerSquareFoot": 500,
+        "priceChangeRate": 0.27388535031847133,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2003-07-31",
+        "time": 1059609600000,
+        "price": 785000,
+        "pricePerSquareFoot": 393,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763638149512,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1126756,
+        "valueIncreaseRate": 0.019996995
+      },
+      {
+        "time": 1732102149512,
+        "taxPaid": 13861.7,
+        "taxIncreaseRate": 0.022400074,
+        "value": 1104666,
+        "valueIncreaseRate": 0.019998005
+      },
+      {
+        "time": 1700479749512,
+        "taxPaid": 13558,
+        "taxIncreaseRate": 0.020921422,
+        "value": 1083008,
+        "valueIncreaseRate": 0.019998606
+      },
+      {
+        "time": 1668943749512,
+        "taxPaid": 13280.16,
+        "taxIncreaseRate": 0.018098637,
+        "value": 1061774,
+        "valueIncreaseRate": 0.019996963
+      },
+      {
+        "time": 1637407749512,
+        "taxPaid": 13044.08,
+        "taxIncreaseRate": -0.008644307,
+        "value": 1040958,
+        "valueIncreaseRate": 0.010358289
+      },
+      {
+        "time": 1605871749512,
+        "taxPaid": 13157.82,
+        "taxIncreaseRate": 0.03916631,
+        "value": 1030286,
+        "valueIncreaseRate": 0.019998297
+      },
+      {
+        "time": 1574249349512,
+        "taxPaid": 12661.9,
+        "taxIncreaseRate": 0.03463466,
+        "value": 1010086,
+        "valueIncreaseRate": 0.019998344
+      },
+      {
+        "time": 1542713349512,
+        "taxPaid": 12238.04,
+        "taxIncreaseRate": 0.03753531,
+        "value": 990282,
+        "valueIncreaseRate": 0.01999864
+      },
+      {
+        "time": 1511177349512,
+        "taxPaid": 11795.3,
+        "taxIncreaseRate": 0.017055383,
+        "value": 970866,
+        "valueIncreaseRate": 0.019997226
+      },
+      {
+        "time": 1479641349512,
+        "taxPaid": 11597.5,
+        "taxIncreaseRate": 0.012546072,
+        "value": 951832,
+        "valueIncreaseRate": 0.015248481
+      },
+      {
+        "time": 1448018949512,
+        "taxPaid": 11453.8,
+        "taxIncreaseRate": 0.02688929,
+        "value": 937536,
+        "valueIncreaseRate": 0.01997663
+      },
+      {
+        "time": 1416482949512,
+        "taxPaid": 11153.88,
+        "taxIncreaseRate": 0,
+        "value": 919174,
+        "valueIncreaseRate": 0.004537596
+      },
+      {
+        "time": 1384946949512,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 915022,
+        "valueIncreaseRate": 0.019998172
+      },
+      {
+        "time": 1353410949512,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 897082,
+        "valueIncreaseRate": -0.15893857
+      },
+      {
+        "time": 1321788549512,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1066607,
+        "valueIncreaseRate": 0.0075285486
+      },
+      {
+        "time": 1290252549512,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1058637,
+        "valueIncreaseRate": -0.0023700658
+      },
+      {
+        "time": 1258716549512,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1061152,
+        "valueIncreaseRate": 0.019999115
+      },
+      {
+        "time": 1227180549513,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1040346,
+        "valueIncreaseRate": 0.019999059
+      },
+      {
+        "time": 1195558149513,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1019948,
+        "valueIncreaseRate": 0.24884507
+      },
+      {
+        "time": 1164022149513,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 816713,
+        "valueIncreaseRate": 0.019998752
+      },
+      {
+        "time": 1132486149513,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 800700,
+        "valueIncreaseRate": 1.0174304
+      },
+      {
+        "time": 1069327749513,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 396891,
+        "valueIncreaseRate": 0.019989053
+      },
+      {
+        "time": 1037791749513,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 389113,
+        "valueIncreaseRate": 0.020000892
+      },
+      {
+        "time": 1006255749513,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 381483,
+        "valueIncreaseRate": 0.01999984
+      },
+      {
+        "time": 974719749513,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 374003,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 2140555514,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=6120+Fulton+St%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CsO-928qDquxHmnV8l6GPgqN970="
+          }
+        ],
+        "price": 1442400,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": 2000,
+        "livingAreaValue": 2000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "6120 Fulton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "6120 Fulton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.772213,
+        "longitude": -122.49752,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/6120-Fulton-St-San-Francisco-CA-94121/2140555514_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856385,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77218246459961,-122.4974365234375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1ue-0Psx-pVpCN3tUJB87SAZxLg="
+          }
+        ],
+        "price": 1674400,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2400,
+        "livingAreaValue": 2400,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1875,
+        "lotAreaValue": 1875,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "6114-6116 Fulton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "6114-6116 Fulton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.772182,
+        "longitude": -122.49744,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/6114-6116-Fulton-St-San-Francisco-CA-94121/332856385_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2064322690,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/951b63282a16ae66cdad0350f32e3f97-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 450,
+        "livingAreaValue": 450,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "6114 Fulton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "6114 Fulton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.772182,
+        "longitude": -122.49744,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/6114-Fulton-St-San-Francisco-CA-94121/2064322690_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "szyj1bczqksh",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856383,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77220916748047,-122.49761199951172&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=EmzYhhihX97IWsYZzVoA4XEK3gU="
+          }
+        ],
+        "price": 1719700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 2230,
+        "livingAreaValue": 2230,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "6124-6126 Fulton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "6124-6126 Fulton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77221,
+        "longitude": -122.49761,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/6124-6126-Fulton-St-San-Francisco-CA-94121/332856383_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2080925282,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/88c219a7ad0aa6d1d41f6b33a756d084-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "6126 Fulton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "6126 Fulton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77221,
+        "longitude": -122.49761,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/6126-Fulton-St-San-Francisco-CA-94121/2080925282_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856382,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7722053527832,-122.49769592285156&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=_0SL3D7ELGsGwhq89tWSZ5rysu4="
+          }
+        ],
+        "price": 1816200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 4,
+        "livingArea": 3640,
+        "livingAreaValue": 3640,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "6128-6130 Fulton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "6128-6130 Fulton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.772205,
+        "longitude": -122.497696,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/6128-6130-Fulton-St-San-Francisco-CA-94121/332856382_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856388,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77232360839844,-122.4973373413086&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3EkmAYfX9RIxi99P1BP9D0OkFXQ="
+          }
+        ],
+        "price": 1587400,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2450,
+        "livingAreaValue": 2450,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2060,
+        "lotAreaValue": 2060,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "883-885 37th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "883-885 37th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.772324,
+        "longitude": -122.49734,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/883-885-37th-Ave-San-Francisco-CA-94121/332856388_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856387,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=887-889+37th+Ave%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PO3LzKaZchrfTp9Ab_GWgw0U-I4="
+          }
+        ],
+        "price": 1378000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2000,
+        "livingAreaValue": 2000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "887-889 37th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "887-889 37th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77226,
+        "longitude": -122.49729,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/887-889-37th-Ave-San-Francisco-CA-94121/332856387_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ea2IfRSGQUXT3uPCbSAEOfxFeQA=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8vxJiRuQQ_K0GSuyFhq5onJhcS0=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Uo3VJNWhe9uSqOGHpIiziZFqArk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9otwPNqcsBX0rDdeJQJhY-T1ze0=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=G669M23FZEhs3hba7wpWOPG6xn8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=X3Bg1a08Kgb0Van_nE-OmM2YLtk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=sUF2L35aO0jou0idJ3u71lAP2SM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OLtyuWbAMSNJe5kLmsYyFyAmuRE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yDrRAkVzOOF_WbNXp-VGlaIiRZo=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8vxJiRuQQ_K0GSuyFhq5onJhcS0=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Uo3VJNWhe9uSqOGHpIiziZFqArk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9otwPNqcsBX0rDdeJQJhY-T1ze0=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=G669M23FZEhs3hba7wpWOPG6xn8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=X3Bg1a08Kgb0Van_nE-OmM2YLtk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=sUF2L35aO0jou0idJ3u71lAP2SM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OLtyuWbAMSNJe5kLmsYyFyAmuRE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yDrRAkVzOOF_WbNXp-VGlaIiRZo=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZKkkY4qvcdUPI8LHhPnmgrj0r14=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3DXHSni303mAO-QCLlu1BxjB-qY=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OLtyuWbAMSNJe5kLmsYyFyAmuRE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yDrRAkVzOOF_WbNXp-VGlaIiRZo=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZKkkY4qvcdUPI8LHhPnmgrj0r14=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3DXHSni303mAO-QCLlu1BxjB-qY=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OLtyuWbAMSNJe5kLmsYyFyAmuRE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yDrRAkVzOOF_WbNXp-VGlaIiRZo=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.772212982177734,-122.49752044677734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=sxOILBPaw0sgwCxa41mn4aojEck="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/6120-6122-Fulton-St-San-Francisco-CA-94121/332856384_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/6120-6122-Fulton-St-San-Francisco-CA-94121/332856384_zpid/",
+    "zpid": 332856384
+  }
+}

@@ -1,0 +1,1192 @@
+{
+  "basic_info": {
+    "zpid": 89239416,
+    "address": "604 Noe St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94114",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "livingArea": 2345,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1911,
+    "homeType": "CONDO",
+    "description": "604 Noe St, San Francisco, CA 94114 is a condo home that contains 2,345 sq ft and was built in 1911. It contains 2 bedrooms and 2 bathrooms. This home last sold for $3,000,000 in February 2025. \n \nThe Zestimate for this house is $3,053,200. The Rent Zestimate for this home is $5,744/mo. "
+  },
+  "location": {
+    "latitude": 37.75924,
+    "longitude": -122.43283,
+    "neighborhood": "Eureka Valley",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 3000000,
+    "lastSoldPrice": 3000000,
+    "dateSold": 1738800000000,
+    "dateSoldString": "2025-02-06",
+    "zestimate": 3053200,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 5744,
+    "taxAssessedValue": 829865,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1279
+  },
+  "schools": [
+    {
+      "name": "Milk (Harvey) Civil Rights Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Everett Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Mission High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.4,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 99,
+    "transitScore": 88,
+    "bikeScore": 64
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-02-06",
+        "time": 1738800000000,
+        "price": 3000000,
+        "pricePerSquareFoot": 1279,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763616383784,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 829865,
+        "valueIncreaseRate": 0.01999641
+      },
+      {
+        "time": 1732080383784,
+        "taxPaid": 10238.02,
+        "taxIncreaseRate": 0.01594869,
+        "value": 813596,
+        "valueIncreaseRate": 0.01999506
+      },
+      {
+        "time": 1700457983784,
+        "taxPaid": 10077.3,
+        "taxIncreaseRate": 0.020415822,
+        "value": 797647,
+        "valueIncreaseRate": 0.019995907
+      },
+      {
+        "time": 1668921983784,
+        "taxPaid": 9875.68,
+        "taxIncreaseRate": 0.018449362,
+        "value": 782010,
+        "valueIncreaseRate": 0.019997966
+      },
+      {
+        "time": 1637385983784,
+        "taxPaid": 9696.78,
+        "taxIncreaseRate": -0.010570979,
+        "value": 766678,
+        "valueIncreaseRate": 0.0103568835
+      },
+      {
+        "time": 1605849983784,
+        "taxPaid": 9800.38,
+        "taxIncreaseRate": 0.031642795,
+        "value": 758819,
+        "valueIncreaseRate": 0.019994784
+      },
+      {
+        "time": 1574227583784,
+        "taxPaid": 9499.78,
+        "taxIncreaseRate": 0.034730762,
+        "value": 743944,
+        "valueIncreaseRate": 0.019995613
+      },
+      {
+        "time": 1542691583784,
+        "taxPaid": 9180.92,
+        "taxIncreaseRate": 0.046313524,
+        "value": 729360,
+        "valueIncreaseRate": 0.019996895
+      },
+      {
+        "time": 1511155583784,
+        "taxPaid": 8774.54,
+        "taxIncreaseRate": 0.018079288,
+        "value": 715061,
+        "valueIncreaseRate": 0.01999592
+      },
+      {
+        "time": 1479619583784,
+        "taxPaid": 8618.72,
+        "taxIncreaseRate": 0.01261842,
+        "value": 701043,
+        "valueIncreaseRate": 0.01524365
+      },
+      {
+        "time": 1447997183784,
+        "taxPaid": 8511.32,
+        "taxIncreaseRate": 0.026927715,
+        "value": 690517,
+        "valueIncreaseRate": 0.01997356
+      },
+      {
+        "time": 1416461183784,
+        "taxPaid": 8288.14,
+        "taxIncreaseRate": 0,
+        "value": 676995,
+        "valueIncreaseRate": 0.004534535
+      },
+      {
+        "time": 1384925183784,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 673939,
+        "valueIncreaseRate": 0.019994613
+      },
+      {
+        "time": 1353389183784,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 660728,
+        "valueIncreaseRate": 0.01999614
+      },
+      {
+        "time": 1321766783784,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 647775,
+        "valueIncreaseRate": 0.0075185746
+      },
+      {
+        "time": 1290230783784,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 642941,
+        "valueIncreaseRate": -0.0023709442
+      },
+      {
+        "time": 1258694783784,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 644469,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 89236903,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6795abb45e0b2b88c7156d374e838a0d-p_c.jpg"
+          }
+        ],
+        "price": 2000000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1390,
+        "livingAreaValue": 1390,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2443,
+        "lotAreaValue": 2443.716,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "602 Noe St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "602 Noe St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75931,
+        "longitude": -122.43286,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/602-Noe-St-San-Francisco-CA-94114/89236903_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424055389",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2080684800,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/91063e3131ea2a184e12295ed6375467-p_c.jpg"
+          }
+        ],
+        "price": 2688500,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "4011 19th St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4011 19th St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75923,
+        "longitude": -122.43296,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/4011-19th-St-San-Francisco-CA-94114/2080684800_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "4dfm0k7k3d4pe",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2100644134,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/eb53978b96aa76191b5578802f92cb11-p_c.jpg"
+          }
+        ],
+        "price": 1093600,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "4011 19th St APT 4",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4011 19th St APT 4"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75923,
+        "longitude": -122.43296,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/4011-19th-St-APT-4-San-Francisco-CA-94114/2100644134_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2100644685,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/2d0e6cb4a1b22942df843bd376a43b2e-p_c.jpg"
+          }
+        ],
+        "price": 4500,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 611,
+        "livingAreaValue": 611,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "4011 19th St APT 3",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4011 19th St APT 3"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75923,
+        "longitude": -122.43296,
+        "homeStatus": "FOR_RENT",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/4011-19th-St-APT-3-San-Francisco-CA-94114/2100644685_zpid/",
+        "hdpTypeDimension": "ForRent",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "For Rent",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "s8zddp1m1xmu",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2100684559,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d81694f53eec1e1c805d097a184b77a0-p_c.jpg"
+          }
+        ],
+        "price": 2073500,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "4011 19th St APT 2",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4011 19th St APT 2"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75923,
+        "longitude": -122.43296,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/4011-19th-St-APT-2-San-Francisco-CA-94114/2100684559_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2100901525,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cd478429ca7ec25473c26ed588809531-p_c.jpg"
+          }
+        ],
+        "price": 879500,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 600,
+        "livingAreaValue": 600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "4011 19th St APT 1",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4011 19th St APT 1"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75923,
+        "longitude": -122.43296,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/4011-19th-St-APT-1-San-Francisco-CA-94114/2100901525_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 325645996,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9bf653c6f4ead700b6f0cdade51d6d21-p_c.jpg"
+          }
+        ],
+        "price": 2001200,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1050,
+        "livingAreaValue": 1050,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1947,
+        "lotAreaValue": 1947,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "606 Noe St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "606 Noe St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.759117,
+        "longitude": -122.432884,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/606-Noe-St-San-Francisco-CA-94114/325645996_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15145229,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75918960571289,-122.43305969238281&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yX0qszRlUBTv-6MlkOjNK9Zzovg="
+          }
+        ],
+        "price": 2599200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2.25,
+        "livingArea": 2446,
+        "livingAreaValue": 2446,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2150,
+        "lotAreaValue": 2150,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "4017 19th St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4017 19th St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75919,
+        "longitude": -122.43306,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/4017-19th-St-San-Francisco-CA-94114/15145229_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2bkRCLyR9n1xTg3L8tiyfnHo4II=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PLGrendBalTNxiq_iBi5EIKNp8Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=m-BMJO8zqiYD-g8zH7Ym972naUA=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kBLc14EHLR0TsQwmFiBJgvI8kzc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=W1YPdbTNFScdyeXLHA_JtVrsylk=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1B8CwX41WS5OQnIbsJwXl7xcUh4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wqpLaC_sbRA5gurPEL9XbPGeUms=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oG3Yi_3lu-9DPeWUflMjVCsTmBA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2Y8F8ZgdvpV-d9RaRa1NMew689Q=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PLGrendBalTNxiq_iBi5EIKNp8Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=m-BMJO8zqiYD-g8zH7Ym972naUA=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kBLc14EHLR0TsQwmFiBJgvI8kzc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=W1YPdbTNFScdyeXLHA_JtVrsylk=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1B8CwX41WS5OQnIbsJwXl7xcUh4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wqpLaC_sbRA5gurPEL9XbPGeUms=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oG3Yi_3lu-9DPeWUflMjVCsTmBA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2Y8F8ZgdvpV-d9RaRa1NMew689Q=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=v9CzwsB0SNaDA0kMLi8-ZF3sqN4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BcWDL1QcFV9xhcdjsESismbNYwo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oG3Yi_3lu-9DPeWUflMjVCsTmBA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2Y8F8ZgdvpV-d9RaRa1NMew689Q=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=v9CzwsB0SNaDA0kMLi8-ZF3sqN4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BcWDL1QcFV9xhcdjsESismbNYwo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oG3Yi_3lu-9DPeWUflMjVCsTmBA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2Y8F8ZgdvpV-d9RaRa1NMew689Q=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=604+Noe+St%2C+San+Francisco%2C+CA+94114&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0DAvp8hHbRQ2-ZQ_Wnl0pBu-C6s="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/604-Noe-St-San-Francisco-CA-94114/89239416_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/604-Noe-St-San-Francisco-CA-94114/89239416_zpid/",
+    "zpid": 89239416
+  }
+}

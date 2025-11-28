@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 332861608,
+    "address": "150 Precita Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94110",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "livingArea": 1670,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2395,
+    "lotAreaValue": 2395,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1909,
+    "homeType": "MULTI_FAMILY",
+    "description": "150 Precita Ave, San Francisco, CA 94110 is a multi family home that contains 1,670 sq ft and was built in 1909. It contains 2 bedrooms and 2 bathrooms. This home last sold for $1,085,000 in October 2025. \n \nThe Rent Zestimate for this home is $3,683/mo. "
+  },
+  "location": {
+    "latitude": 37.746944,
+    "longitude": -122.416916,
+    "neighborhood": "Bernal Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1085000,
+    "lastSoldPrice": 1085000,
+    "dateSold": 1759276800000,
+    "dateSoldString": "2025-10-01",
+    "zestimate": null,
+    "zestimateHighPercent": null,
+    "zestimateLowPercent": null,
+    "rentZestimate": 3683,
+    "taxAssessedValue": 1195364,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 650
+  },
+  "schools": [
+    {
+      "name": "Flynn (Leonard R.) Elementary School",
+      "rating": 5,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.9,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "O'connell (John) High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 96,
+    "transitScore": 85,
+    "bikeScore": 74
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-10-01",
+        "time": 1759276800000,
+        "price": 1085000,
+        "pricePerSquareFoot": 650,
+        "priceChangeRate": 0.14210526315789473,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2017-03-31",
+        "time": 1490918400000,
+        "price": 950000,
+        "pricePerSquareFoot": 569,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763636087079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1195364,
+        "valueIncreaseRate": 0.019996945
+      },
+      {
+        "time": 1732100087079,
+        "taxPaid": 14435.64,
+        "taxIncreaseRate": 0.015548747,
+        "value": 1171929,
+        "valueIncreaseRate": 0.019997336
+      },
+      {
+        "time": 1700477687079,
+        "taxPaid": 14214.62,
+        "taxIncreaseRate": 0.019782094,
+        "value": 1148953,
+        "valueIncreaseRate": 0.019996839
+      },
+      {
+        "time": 1668941687079,
+        "taxPaid": 13938.88,
+        "taxIncreaseRate": 0.018209465,
+        "value": 1126428,
+        "valueIncreaseRate": 0.019998316
+      },
+      {
+        "time": 1637405687079,
+        "taxPaid": 13689.6,
+        "taxIncreaseRate": -0.008409612,
+        "value": 1104343,
+        "valueIncreaseRate": 0.0103565985
+      },
+      {
+        "time": 1605869687079,
+        "taxPaid": 13805.7,
+        "taxIncreaseRate": 0.035395917,
+        "value": 1093023,
+        "valueIncreaseRate": 0.019999215
+      },
+      {
+        "time": 1574247287079,
+        "taxPaid": 13333.74,
+        "taxIncreaseRate": 0.035200965,
+        "value": 1071592,
+        "valueIncreaseRate": 0.019997468
+      },
+      {
+        "time": 1542711287079,
+        "taxPaid": 12880.34,
+        "taxIncreaseRate": 5.8311143,
+        "value": 1050583,
+        "valueIncreaseRate": 5.567539
+      },
+      {
+        "time": 1511175287079,
+        "taxPaid": 1885.54,
+        "taxIncreaseRate": 0.035271503,
+        "value": 159966,
+        "valueIncreaseRate": 0.019983167
+      },
+      {
+        "time": 1479639287079,
+        "taxPaid": 1821.3,
+        "taxIncreaseRate": 0.014674471,
+        "value": 156832,
+        "valueIncreaseRate": 0.015238415
+      },
+      {
+        "time": 1448016887079,
+        "taxPaid": 1794.96,
+        "taxIncreaseRate": 0.027770462,
+        "value": 154478,
+        "valueIncreaseRate": 0.019966459
+      },
+      {
+        "time": 1416480887079,
+        "taxPaid": 1746.46,
+        "taxIncreaseRate": 0,
+        "value": 151454,
+        "valueIncreaseRate": 0.0045233862
+      },
+      {
+        "time": 1384944887079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 150772,
+        "valueIncreaseRate": 0.019997835
+      },
+      {
+        "time": 1353408887079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 147816,
+        "valueIncreaseRate": 0.019856766
+      },
+      {
+        "time": 1321786487079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 144938,
+        "valueIncreaseRate": 0.0075144065
+      },
+      {
+        "time": 1290250487079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 143857,
+        "valueIncreaseRate": -0.002364804
+      },
+      {
+        "time": 1258714487079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 144198,
+        "valueIncreaseRate": 0.019989815
+      },
+      {
+        "time": 1227178487079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 141372,
+        "valueIncreaseRate": 0.01999264
+      },
+      {
+        "time": 1195556087079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 138601,
+        "valueIncreaseRate": 0.01998749
+      },
+      {
+        "time": 1164020087079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 135885,
+        "valueIncreaseRate": 0.019996848
+      },
+      {
+        "time": 1132484087079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 133221,
+        "valueIncreaseRate": 0.039027587
+      },
+      {
+        "time": 1069325687079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 128217,
+        "valueIncreaseRate": 0.019991409
+      },
+      {
+        "time": 1037789687079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 125704,
+        "valueIncreaseRate": 0.019976957
+      },
+      {
+        "time": 1006253687079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 123242,
+        "valueIncreaseRate": 0.020004138
+      },
+      {
+        "time": 974717687079,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 120825,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 2073551573,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/989271ee99e6f28b664cfb8e611223c3-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "152 Precita Ave #A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "152 Precita Ave #A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.746967,
+        "longitude": -122.416855,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/152-Precita-Ave-A-San-Francisco-CA-94110/2073551573_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2098616461,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/91d3465bd23567ef62164b9fd90dcde5-p_c.jpg"
+          }
+        ],
+        "price": 751700,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 600,
+        "livingAreaValue": 600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "154-A Precita Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "154-A Precita Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.746967,
+        "longitude": -122.416855,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/154-A-Precita-Ave-San-Francisco-CA-94110/2098616461_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2075613523,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/15e4fc5806133d21974cc468a9bbb1ae-p_c.jpg"
+          }
+        ],
+        "price": 1085000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1127,
+        "livingAreaValue": 1127,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2395,
+        "lotAreaValue": 2395.8,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "150 Precita Ave UNIT B",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "150 Precita Ave UNIT B"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.747,
+        "longitude": -122.416985,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/150-Precita-Ave-UNIT-B-San-Francisco-CA-94110/2075613523_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425070653",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332861609,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/8fde55ad379dee084f47c643ddb1cf23-p_c.jpg"
+          }
+        ],
+        "price": 1320000,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "livingArea": 3470,
+        "livingAreaValue": 3470,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2395,
+        "lotAreaValue": 2395.8,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "152-154 Precita Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "152-154 Precita Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.747025,
+        "longitude": -122.41691,
+        "homeStatus": "SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/152-154-Precita-Ave-San-Francisco-CA-94110/332861609_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424002520",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15159926,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=148+Precita+Ave%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JBp8fTy4Scvaa1br0M4CedbQ3ms="
+          }
+        ],
+        "price": 1688300,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1390,
+        "livingAreaValue": 1390,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 5597,
+        "lotAreaValue": 5597,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "148 Precita Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "148 Precita Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.746883,
+        "longitude": -122.41699,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/148-Precita-Ave-San-Francisco-CA-94110/15159926_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 79841959,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=158+Precita+Ave%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=L9yL4pHi747O7bs9YWNJuKTIf84="
+          }
+        ],
+        "price": 980400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1009,
+        "livingAreaValue": 1009,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "158 Precita Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "158 Precita Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.746994,
+        "longitude": -122.41678,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/158-Precita-Ave-San-Francisco-CA-94110/79841959_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 79843893,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/11c8e5d27dbc7efffbaae44e337a2e6a-p_c.jpg"
+          }
+        ],
+        "price": 1031300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1241,
+        "livingAreaValue": 1241,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "160 Precita Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "160 Precita Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.746994,
+        "longitude": -122.41678,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/160-Precita-Ave-San-Francisco-CA-94110/79843893_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15159925,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74686813354492,-122.4171142578125&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=C1TNGJwaOrYf3n9JiXcgzdJlSsg="
+          }
+        ],
+        "price": 1173900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1350,
+        "livingAreaValue": 1350,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "140 Precita Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "140 Precita Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74687,
+        "longitude": -122.417114,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/140-Precita-Ave-San-Francisco-CA-94110/15159925_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1igXLN1KUC3i-tEDprHff-bT4mg=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3VxpUamD_dKmRSLIe2d3CZXTAy4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NoTomY-JyQfowwnER1d8xKGcu98=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mvhY8Pcn0X5U6kSJO70GTefPCZs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ci2rqJuY60IcZ1pc6iyzzvDH9e8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=chopJZhZBK9cMVGvu_0yawe3JuM=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AA2ShmSJDGH_solt2b1JoVBApzM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VobbQl60Eo4zBD3LARtUFt_zLrk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=LGERhmwYWgqdlZacXcbbwein6Nk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3VxpUamD_dKmRSLIe2d3CZXTAy4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NoTomY-JyQfowwnER1d8xKGcu98=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mvhY8Pcn0X5U6kSJO70GTefPCZs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ci2rqJuY60IcZ1pc6iyzzvDH9e8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=chopJZhZBK9cMVGvu_0yawe3JuM=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AA2ShmSJDGH_solt2b1JoVBApzM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VobbQl60Eo4zBD3LARtUFt_zLrk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=LGERhmwYWgqdlZacXcbbwein6Nk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bFtH69gTn1nZqrWoj6FEHhmXBPM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mbwQOHkUQR-oWV1SJ69xkM5Sum8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VobbQl60Eo4zBD3LARtUFt_zLrk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=LGERhmwYWgqdlZacXcbbwein6Nk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bFtH69gTn1nZqrWoj6FEHhmXBPM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mbwQOHkUQR-oWV1SJ69xkM5Sum8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VobbQl60Eo4zBD3LARtUFt_zLrk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=LGERhmwYWgqdlZacXcbbwein6Nk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.746944427490234,-122.41691589355469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=e1NZInioTJlb1QgHNqNAd4RS6k4="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/150-Precita-Ave-San-Francisco-CA-94110/332861608_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/150-Precita-Ave-San-Francisco-CA-94110/332861608_zpid/",
+    "zpid": 332861608
+  }
+}

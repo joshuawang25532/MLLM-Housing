@@ -1,0 +1,1262 @@
+{
+  "basic_info": {
+    "zpid": 332861919,
+    "address": "375 Elsie St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94110",
+    "bedrooms": null,
+    "bathrooms": null,
+    "livingArea": 2250,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2461,
+    "lotAreaValue": 2461,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1920,
+    "homeType": "MULTI_FAMILY",
+    "description": null
+  },
+  "location": {
+    "latitude": 37.73842,
+    "longitude": -122.42008,
+    "neighborhood": "Holly Park",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": true,
+    "garageParkingCapacity": 1,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": true,
+    "hasHeating": true,
+    "cooling": [
+      "Other"
+    ],
+    "heating": [
+      "Other"
+    ],
+    "appliances": null,
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "securityFeatures": null,
+    "flooring": null,
+    "rooms": []
+  },
+  "financial": {
+    "price": 1150000,
+    "lastSoldPrice": 1150000,
+    "dateSold": 1760486400000,
+    "dateSoldString": "2025-10-15",
+    "zestimate": 587400,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 6377,
+    "taxAssessedValue": 63006,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 511
+  },
+  "schools": [
+    {
+      "name": "Serra (Junipero) Elementary School",
+      "rating": 6,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "S.F. International High School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 2,
+      "grades": "8-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marshall (Thurgood) High School",
+      "rating": 2,
+      "level": "High",
+      "distance": 1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 94,
+    "transitScore": 77,
+    "bikeScore": 70
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-10-15",
+        "time": 1760486400000,
+        "price": 1150000,
+        "pricePerSquareFoot": 511,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "MLSListings Inc",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/trustwayne/",
+          "name": "Wayne Ho"
+        },
+        "sellerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/trustwayne/",
+          "name": "Wayne Ho"
+        },
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "ML82026994",
+          "infoString2": "MLSListings Inc",
+          "infoString3": "https://photos.zillowstatic.com/fp/f6d938e7ba070e360124972ca1b833bc-zillow_web_logo_inf_11.jpg"
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763635954850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63006,
+        "valueIncreaseRate": 0.0199932
+      },
+      {
+        "time": 1732099954850,
+        "taxPaid": 1726.86,
+        "taxIncreaseRate": 0.07986791,
+        "value": 61771,
+        "valueIncreaseRate": 0.019979855
+      },
+      {
+        "time": 1700477554850,
+        "taxPaid": 1599.14,
+        "taxIncreaseRate": 0.040415864,
+        "value": 60561,
+        "valueIncreaseRate": 0.019974736
+      },
+      {
+        "time": 1668941554850,
+        "taxPaid": 1537.02,
+        "taxIncreaseRate": 0.020570489,
+        "value": 59375,
+        "valueIncreaseRate": 0.019978698
+      },
+      {
+        "time": 1637405554850,
+        "taxPaid": 1506.04,
+        "taxIncreaseRate": -0.07867174,
+        "value": 58212,
+        "valueIncreaseRate": 0.010344349
+      },
+      {
+        "time": 1605869554850,
+        "taxPaid": 1634.64,
+        "taxIncreaseRate": 0.027364742,
+        "value": 57616,
+        "valueIncreaseRate": 0.0199869
+      },
+      {
+        "time": 1574247154850,
+        "taxPaid": 1591.1,
+        "taxIncreaseRate": 0.03550831,
+        "value": 56487,
+        "valueIncreaseRate": 0.019989166
+      },
+      {
+        "time": 1542711154850,
+        "taxPaid": 1536.54,
+        "taxIncreaseRate": 0.25698626,
+        "value": 55380,
+        "valueIncreaseRate": 0.01996464
+      },
+      {
+        "time": 1511175154850,
+        "taxPaid": 1222.4,
+        "taxIncreaseRate": 0.050388407,
+        "value": 54296,
+        "valueIncreaseRate": 0.019987978
+      },
+      {
+        "time": 1479639154850,
+        "taxPaid": 1163.76,
+        "taxIncreaseRate": 0.01782435,
+        "value": 53232,
+        "valueIncreaseRate": 0.015219132
+      },
+      {
+        "time": 1448016754850,
+        "taxPaid": 1143.38,
+        "taxIncreaseRate": 0.02279272,
+        "value": 52434,
+        "valueIncreaseRate": 0.019977825
+      },
+      {
+        "time": 1416480754850,
+        "taxPaid": 1117.9,
+        "taxIncreaseRate": 0,
+        "value": 51407,
+        "valueIncreaseRate": 0.0045138346
+      },
+      {
+        "time": 1384944754850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 51176,
+        "valueIncreaseRate": 0.019970503
+      },
+      {
+        "time": 1353408754850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 50174,
+        "valueIncreaseRate": 0.019962596
+      },
+      {
+        "time": 1321786354850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 49192,
+        "valueIncreaseRate": 0.0074753724
+      },
+      {
+        "time": 1290250354850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 48827,
+        "valueIncreaseRate": -0.002370104
+      },
+      {
+        "time": 1258714354850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 48943,
+        "valueIncreaseRate": 0.019985829
+      },
+      {
+        "time": 1227178354850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 47984,
+        "valueIncreaseRate": 0.019959614
+      },
+      {
+        "time": 1195555954850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 47045,
+        "valueIncreaseRate": 0.019990027
+      },
+      {
+        "time": 1164019954850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 46123,
+        "valueIncreaseRate": 0.01996904
+      },
+      {
+        "time": 1132483954850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 45220,
+        "valueIncreaseRate": 0.038990878
+      },
+      {
+        "time": 1069325554850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 43523,
+        "valueIncreaseRate": 0.019966722
+      },
+      {
+        "time": 1037789554850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 42671,
+        "valueIncreaseRate": 0.019983267
+      },
+      {
+        "time": 1006253554850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 41835,
+        "valueIncreaseRate": 0.019992685
+      },
+      {
+        "time": 974717554850,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 41015,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15162734,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.73847961425781,-122.4200439453125&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=aIDxXETebSy3FVe3SWBNEOU7snY="
+          }
+        ],
+        "price": 2149500,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "livingArea": 2500,
+        "livingAreaValue": 2500,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "371 Elsie St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "371 Elsie St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73848,
+        "longitude": -122.420044,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/371-Elsie-St-San-Francisco-CA-94110/15162734_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15162730,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.738365173339844,-122.42013549804688&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=R4pmYJtxvIBDeIMz3TwNeOteAXQ="
+          }
+        ],
+        "price": 1856200,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2226,
+        "livingAreaValue": 2226,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2186,
+        "lotAreaValue": 2186,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "377 Elsie St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "377 Elsie St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.738365,
+        "longitude": -122.420135,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/377-Elsie-St-San-Francisco-CA-94110/15162730_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15162735,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.73854064941406,-122.42000579833984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lgvF-UiLD7WCNmV2KWTpwTk3nJA="
+          }
+        ],
+        "price": 2183200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1850,
+        "livingAreaValue": 1850,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2461,
+        "lotAreaValue": 2461,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "367 Elsie St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "367 Elsie St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73854,
+        "longitude": -122.420006,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/367-Elsie-St-San-Francisco-CA-94110/15162735_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332861918,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.738319396972656,-122.42021179199219&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WSOd6bySpxgRP-3u4RJi78GLh84="
+          }
+        ],
+        "price": 1218400,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 1650,
+        "livingAreaValue": 1650,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1507,
+        "lotAreaValue": 1507,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "383 Elsie St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "383 Elsie St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73832,
+        "longitude": -122.42021,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/383-Elsie-St-San-Francisco-CA-94110/332861918_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 114316720,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/214a3acd73e07ac7bdbd8cafaca205e2-p_c.jpg"
+          }
+        ],
+        "price": 1506100,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "livingArea": 1833,
+        "livingAreaValue": 1833,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "363 Elsie St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "363 Elsie St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.738598,
+        "longitude": -122.41996,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/363-Elsie-St-San-Francisco-CA-94110/114316720_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 114317596,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fdd010d3e16050562956c559576019e4-p_c.jpg"
+          }
+        ],
+        "price": 1329700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1570,
+        "livingAreaValue": 1570,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "361 Elsie St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "361 Elsie St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.738598,
+        "longitude": -122.41996,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/361-Elsie-St-San-Francisco-CA-94110/114317596_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2061812161,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/aab4e2429df9bae96ebc7690c46cf0e9-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 600,
+        "livingAreaValue": 600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "35 Holly Park Cir",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "35 Holly Park Cir"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73847,
+        "longitude": -122.4198,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/35-Holly-Park-Cir-San-Francisco-CA-94110/2061812161_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "4m658sfjvc86e",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2067405422,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=35-41+Holly+Park+Cir%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Ag_wzliAeTStahVs-cdIg-l1ukk="
+          }
+        ],
+        "price": 1990058,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "livingArea": 3000,
+        "livingAreaValue": 3000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3484,
+        "lotAreaValue": 3484,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "35-41 Holly Park Cir",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "35-41 Holly Park Cir"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73847,
+        "longitude": -122.4198,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/35-41-Holly-Park-Cir-San-Francisco-CA-94110/2067405422_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://photos.zillowstatic.com/fp/9a3435f87b5736138b0d7e4c0a10bdf8-p_a.jpg"
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/375-Elsie-St-San-Francisco-CA-94110/332861919_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/375-Elsie-St-San-Francisco-CA-94110/332861919_zpid/",
+    "zpid": 332861919
+  }
+}

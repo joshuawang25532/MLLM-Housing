@@ -1,0 +1,1284 @@
+{
+  "basic_info": {
+    "zpid": 15188314,
+    "address": "62 Oneida Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "livingArea": 1640,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2495,
+    "lotAreaValue": 2495,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1940,
+    "homeType": "SINGLE_FAMILY",
+    "description": "62 Oneida Ave, San Francisco, CA 94112 is a single family home that contains 1,640 sq ft and was built in 1940. It contains 3 bedrooms and 3 bathrooms. This home last sold for $830,000 in July 2025. \n \nThe Zestimate for this house is $836,700. The Rent Zestimate for this home is $5,911/mo. "
+  },
+  "location": {
+    "latitude": 37.720844,
+    "longitude": -122.4396,
+    "neighborhood": "Cayuga",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 830000,
+    "lastSoldPrice": 830000,
+    "dateSold": 1753920000000,
+    "dateSoldString": "2025-07-31",
+    "zestimate": 836700,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 5911,
+    "taxAssessedValue": 743067,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 506
+  },
+  "schools": [
+    {
+      "name": "Monroe Elementary School",
+      "rating": 6,
+      "level": "Elementary",
+      "distance": 0.6,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Hoover (Herbert) Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 2.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Balboa High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 95,
+    "transitScore": 88,
+    "bikeScore": 56
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-07-31",
+        "time": 1753920000000,
+        "price": 830000,
+        "pricePerSquareFoot": 506,
+        "priceChangeRate": 0.5961538461538461,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2010-08-20",
+        "time": 1282262400000,
+        "price": 520000,
+        "pricePerSquareFoot": 317,
+        "priceChangeRate": -0.24087591240875914,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2005-01-26",
+        "time": 1106697600000,
+        "price": 685000,
+        "pricePerSquareFoot": 418,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763634352505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 743067,
+        "valueIncreaseRate": 0.019998683
+      },
+      {
+        "time": 1732098352505,
+        "taxPaid": 9323.14,
+        "taxIncreaseRate": 0.015902394,
+        "value": 728498,
+        "valueIncreaseRate": 0.01999818
+      },
+      {
+        "time": 1700475952505,
+        "taxPaid": 9177.2,
+        "taxIncreaseRate": 0.020455359,
+        "value": 714215,
+        "valueIncreaseRate": 0.019998228
+      },
+      {
+        "time": 1668939952505,
+        "taxPaid": 8993.24,
+        "taxIncreaseRate": 0.018339353,
+        "value": 700212,
+        "valueIncreaseRate": 0.019997552
+      },
+      {
+        "time": 1637403952505,
+        "taxPaid": 8831.28,
+        "taxIncreaseRate": -0.011391393,
+        "value": 686484,
+        "valueIncreaseRate": 0.010358439
+      },
+      {
+        "time": 1605867952505,
+        "taxPaid": 8933.04,
+        "taxIncreaseRate": 0.0409721,
+        "value": 679446,
+        "valueIncreaseRate": 0.019997748
+      },
+      {
+        "time": 1574245552505,
+        "taxPaid": 8581.44,
+        "taxIncreaseRate": 0.03470382,
+        "value": 666125,
+        "valueIncreaseRate": 0.01999801
+      },
+      {
+        "time": 1542709552505,
+        "taxPaid": 8293.62,
+        "taxIncreaseRate": 0.050139025,
+        "value": 653065,
+        "valueIncreaseRate": 0.019999688
+      },
+      {
+        "time": 1511173552505,
+        "taxPaid": 7897.64,
+        "taxIncreaseRate": 0.018529909,
+        "value": 640260,
+        "valueIncreaseRate": 0.019998183
+      },
+      {
+        "time": 1479637552505,
+        "taxPaid": 7753.96,
+        "taxIncreaseRate": 0.012657623,
+        "value": 627707,
+        "valueIncreaseRate": 0.015248779
+      },
+      {
+        "time": 1448015152505,
+        "taxPaid": 7657.04,
+        "taxIncreaseRate": 0.026902933,
+        "value": 618279,
+        "valueIncreaseRate": 0.019977927
+      },
+      {
+        "time": 1416479152505,
+        "taxPaid": 7456.44,
+        "taxIncreaseRate": 0,
+        "value": 606169,
+        "valueIncreaseRate": 0.004537387
+      },
+      {
+        "time": 1384943152505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 603431,
+        "valueIncreaseRate": 0.01999831
+      },
+      {
+        "time": 1353407152505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 591600,
+        "valueIncreaseRate": -0.26538518
+      },
+      {
+        "time": 1321784752505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 805320,
+        "valueIncreaseRate": 0.066649005
+      },
+      {
+        "time": 1290248752505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 755000,
+        "valueIncreaseRate": 0.07895831
+      },
+      {
+        "time": 1258712752505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 699749,
+        "valueIncreaseRate": -0.10916968
+      },
+      {
+        "time": 1227176752505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 785502,
+        "valueIncreaseRate": 0.01999735
+      },
+      {
+        "time": 1195554352505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 770102,
+        "valueIncreaseRate": 0.019997245
+      },
+      {
+        "time": 1164018352505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 755004,
+        "valueIncreaseRate": 0.25624627
+      },
+      {
+        "time": 1132482352505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 601000,
+        "valueIncreaseRate": 11.866348
+      },
+      {
+        "time": 1069323952505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 46711,
+        "valueIncreaseRate": 0.01997991
+      },
+      {
+        "time": 1037787952505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 45796,
+        "valueIncreaseRate": 0.019932741
+      },
+      {
+        "time": 1006251952505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 44901,
+        "valueIncreaseRate": 0.02001363
+      },
+      {
+        "time": 974715952505,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 44020,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15188315,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.72087097167969,-122.4396743774414&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TLgm91hgBOyrh80AvUrQ2CfVoW4="
+          }
+        ],
+        "price": 970300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1468,
+        "livingAreaValue": 1468,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "66 Oneida Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "66 Oneida Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72087,
+        "longitude": -122.439674,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/66-Oneida-Ave-San-Francisco-CA-94112/15188315_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15188312,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1980+Alemany+Blvd%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=aphRgY5_4f74gudAJLV5D4kyl0g="
+          }
+        ],
+        "price": 889000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1424,
+        "livingAreaValue": 1424,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1598,
+        "lotAreaValue": 1598,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1980 Alemany Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1980 Alemany Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72077,
+        "longitude": -122.43948,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1980-Alemany-Blvd-San-Francisco-CA-94112/15188312_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15188311,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1978+Alemany+Blvd%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=clGW1bkUKDP8Z9CrLjkOpoMHepY="
+          }
+        ],
+        "price": 944600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1100,
+        "livingAreaValue": 1100,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1598,
+        "lotAreaValue": 1598,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1978 Alemany Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1978 Alemany Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72084,
+        "longitude": -122.43944,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1978-Alemany-Blvd-San-Francisco-CA-94112/15188311_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15188316,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.72090148925781,-122.43975067138672&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=uf1WVMosyQ1YSThH5OT1n_pb2T8="
+          }
+        ],
+        "price": 906100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1200,
+        "livingAreaValue": 1200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "70 Oneida Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "70 Oneida Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7209,
+        "longitude": -122.43975,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/70-Oneida-Ave-San-Francisco-CA-94112/15188316_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15188313,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1982+Alemany+Blvd%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XhJXaVQyiDzIZMPieZW9JqBhYy4="
+          }
+        ],
+        "price": 1031000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1500,
+        "livingAreaValue": 1500,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2034,
+        "lotAreaValue": 2034,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1982 Alemany Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1982 Alemany Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.720695,
+        "longitude": -122.43953,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1982-Alemany-Blvd-San-Francisco-CA-94112/15188313_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15188310,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1970+Alemany+Blvd%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jIKYF7RvhfT-9TtWcllMxM7B9CA="
+          }
+        ],
+        "price": 859800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1100,
+        "livingAreaValue": 1100,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1846,
+        "lotAreaValue": 1846,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1970 Alemany Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1970 Alemany Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.720917,
+        "longitude": -122.43941,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1970-Alemany-Blvd-San-Francisco-CA-94112/15188310_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15188317,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.72093200683594,-122.43982696533203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=F-B5loduje2bAEWg6i752L_bsn8="
+          }
+        ],
+        "price": 1174100,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "livingArea": 2112,
+        "livingAreaValue": 2112,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "74 Oneida Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "74 Oneida Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.720932,
+        "longitude": -122.43983,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/74-Oneida-Ave-San-Francisco-CA-94112/15188317_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15188309,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1964+Alemany+Blvd%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Wg_hxLp12UVo0AyPEFenVJSymk0="
+          }
+        ],
+        "price": 1314400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 2036,
+        "livingAreaValue": 2036,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2077,
+        "lotAreaValue": 2077,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1964 Alemany Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1964 Alemany Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.720985,
+        "longitude": -122.43939,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1964-Alemany-Blvd-San-Francisco-CA-94112/15188309_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gNkyAcDmDwI70KOClJOunQeGi-w=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TDzvfpJbb8dPxrs_LVysTtu2_3k=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cLDVrd10QSr7822iJ-vTw54I8NI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Q7L1Ir0tjQzcS15sLdEASSqcFX0=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=M89CUYmPnQSv62YItoI4V5NP6mY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=EkXvqBFZTyh4SLki1VU7LIhtpTk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2Ik1IYYBL3rgQ-xmBrYO5rDl7Pc=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cXy_KVcix_POEqAz6yRejTjak0c=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4ixsf0eDvMkFmcU9Odc08fG-biA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TDzvfpJbb8dPxrs_LVysTtu2_3k=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cLDVrd10QSr7822iJ-vTw54I8NI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Q7L1Ir0tjQzcS15sLdEASSqcFX0=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=M89CUYmPnQSv62YItoI4V5NP6mY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=EkXvqBFZTyh4SLki1VU7LIhtpTk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2Ik1IYYBL3rgQ-xmBrYO5rDl7Pc=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cXy_KVcix_POEqAz6yRejTjak0c=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4ixsf0eDvMkFmcU9Odc08fG-biA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OZHxseLpsDmSJYhKt0CH3vdzuN0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4puMKb-Ekc6uGF54JluzUxGZtyU=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cXy_KVcix_POEqAz6yRejTjak0c=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4ixsf0eDvMkFmcU9Odc08fG-biA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OZHxseLpsDmSJYhKt0CH3vdzuN0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4puMKb-Ekc6uGF54JluzUxGZtyU=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cXy_KVcix_POEqAz6yRejTjak0c=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4ixsf0eDvMkFmcU9Odc08fG-biA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.72084426879883,-122.4395980834961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=G6GlV0uqEI3W0_Jw1pFL8csqs_w="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/62-Oneida-Ave-San-Francisco-CA-94112/15188314_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/62-Oneida-Ave-San-Francisco-CA-94112/15188314_zpid/",
+    "zpid": 15188314
+  }
+}

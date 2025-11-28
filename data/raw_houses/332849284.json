@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 332849284,
+    "address": "426-430 Lombard St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94133",
+    "bedrooms": null,
+    "bathrooms": 3,
+    "livingArea": 5040,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2622,
+    "lotAreaValue": 2622,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1915,
+    "homeType": "MULTI_FAMILY",
+    "description": "426-430 Lombard St, San Francisco, CA 94133 is a multi family home that contains 5,040 sq ft and was built in 1915. It contains 3 bathrooms. This home last sold for $1,500,000 in March 2025. \n \nThe Zestimate for this house is $1,839,900. The Rent Zestimate for this home is $4,616/mo. "
+  },
+  "location": {
+    "latitude": 37.803585,
+    "longitude": -122.40869,
+    "neighborhood": "North Beach",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1500000,
+    "lastSoldPrice": 1500000,
+    "dateSold": 1742256000000,
+    "dateSoldString": "2025-03-18",
+    "zestimate": 1839900,
+    "zestimateHighPercent": "25",
+    "zestimateLowPercent": "20",
+    "rentZestimate": 4616,
+    "taxAssessedValue": 428405,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 298
+  },
+  "schools": [
+    {
+      "name": "Garfield Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Francisco Middle School",
+      "rating": 5,
+      "level": "Middle",
+      "distance": 0.2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 98,
+    "transitScore": 85,
+    "bikeScore": 67
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-03-18",
+        "time": 1742256000000,
+        "price": 1500000,
+        "pricePerSquareFoot": 298,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763630269379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 428405,
+        "valueIncreaseRate": 0.019997334
+      },
+      {
+        "time": 1732094269379,
+        "taxPaid": 6244.44,
+        "taxIncreaseRate": 0.038831998,
+        "value": 420006,
+        "valueIncreaseRate": 0.019991549
+      },
+      {
+        "time": 1700471869379,
+        "taxPaid": 6011.02,
+        "taxIncreaseRate": 0.029027,
+        "value": 411774,
+        "valueIncreaseRate": 0.019994946
+      },
+      {
+        "time": 1668935869379,
+        "taxPaid": 5841.46,
+        "taxIncreaseRate": 0.017725559,
+        "value": 403702,
+        "valueIncreaseRate": 0.0199904
+      },
+      {
+        "time": 1637399869379,
+        "taxPaid": 5739.72,
+        "taxIncreaseRate": -0.023930136,
+        "value": 395790,
+        "valueIncreaseRate": 0.010348806
+      },
+      {
+        "time": 1605863869379,
+        "taxPaid": 5880.44,
+        "taxIncreaseRate": 0.03203637,
+        "value": 391736,
+        "valueIncreaseRate": 0.019991772
+      },
+      {
+        "time": 1574241469379,
+        "taxPaid": 5697.9,
+        "taxIncreaseRate": 0.03380891,
+        "value": 384058,
+        "valueIncreaseRate": 0.020161076
+      },
+      {
+        "time": 1542705469379,
+        "taxPaid": 5511.56,
+        "taxIncreaseRate": 0.069553696,
+        "value": 376468,
+        "valueIncreaseRate": 0.019989705
+      },
+      {
+        "time": 1511169469379,
+        "taxPaid": 5153.14,
+        "taxIncreaseRate": 0.02181992,
+        "value": 369090,
+        "valueIncreaseRate": 0.019991377
+      },
+      {
+        "time": 1479633469379,
+        "taxPaid": 5043.1,
+        "taxIncreaseRate": 0.013069413,
+        "value": 361856,
+        "valueIncreaseRate": 0.015240275
+      },
+      {
+        "time": 1448011069379,
+        "taxPaid": 4978.04,
+        "taxIncreaseRate": 0.024899619,
+        "value": 356424,
+        "valueIncreaseRate": 0.019974587
+      },
+      {
+        "time": 1416475069379,
+        "taxPaid": 4857.1,
+        "taxIncreaseRate": 0,
+        "value": 349444,
+        "valueIncreaseRate": 0.004524679
+      },
+      {
+        "time": 1384939069379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 347870,
+        "valueIncreaseRate": 0.019985106
+      },
+      {
+        "time": 1353403069379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 341054,
+        "valueIncreaseRate": 0.019983731
+      },
+      {
+        "time": 1321780669379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 334372,
+        "valueIncreaseRate": 0.0075026667
+      },
+      {
+        "time": 1290244669379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 331882,
+        "valueIncreaseRate": -0.0023687137
+      },
+      {
+        "time": 1258708669379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 332670,
+        "valueIncreaseRate": 0.019818826
+      },
+      {
+        "time": 1227172669379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 326205,
+        "valueIncreaseRate": 0.019989869
+      },
+      {
+        "time": 1195550269379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 319812,
+        "valueIncreaseRate": 0.019997321
+      },
+      {
+        "time": 1164014269379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 313542,
+        "valueIncreaseRate": 0.019987117
+      },
+      {
+        "time": 1132478269379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 307398,
+        "valueIncreaseRate": 0.038934965
+      },
+      {
+        "time": 1069319869379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 295878,
+        "valueIncreaseRate": 0.019991105
+      },
+      {
+        "time": 1037783869379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 290079,
+        "valueIncreaseRate": 0.019939665
+      },
+      {
+        "time": 1006247869379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 284408,
+        "valueIncreaseRate": 0.020001363
+      },
+      {
+        "time": 974711869379,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 278831,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 332849283,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=416-418+Lombard+St%2C+San+Francisco%2C+CA+94133&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=8-i1delBncvQW1mqNP8WCQLFE_g="
+          }
+        ],
+        "price": 2188000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 3507,
+        "livingAreaValue": 3507,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2622,
+        "lotAreaValue": 2622,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "416-418 Lombard St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "416-418 Lombard St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.803596,
+        "longitude": -122.408585,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/416-418-Lombard-St-San-Francisco-CA-94133/332849283_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2065759569,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/5b4544a60e7b1c6116a76e6acce6e49c-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1600,
+        "livingAreaValue": 1600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "416 Lombard St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "416 Lombard St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.803596,
+        "longitude": -122.408585,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/416-Lombard-St-San-Francisco-CA-94133/2065759569_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "4ydahb3zkdjr9",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2062257886,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e253ad2eba4d89a836eb6268e55c4832-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "440 Lombard St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "440 Lombard St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.803665,
+        "longitude": -122.40881,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/440-Lombard-St-San-Francisco-CA-94133/2062257886_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2066673403,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4f4d039e5d620514ae640c8eba90153f-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "436 Lombard St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "436 Lombard St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.803665,
+        "longitude": -122.40881,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/436-Lombard-St-San-Francisco-CA-94133/2066673403_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15064392,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/99865b0bf5dba924741345fc6a10beb4-p_c.jpg"
+          }
+        ],
+        "price": 1100000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1284,
+        "livingAreaValue": 1284,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4240,
+        "lotAreaValue": 4240,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1821 Grant Ave APT 201",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1821 Grant Ave APT 201"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80374,
+        "longitude": -122.40863,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1821-Grant-Ave-APT-201-San-Francisco-CA-94133/15064392_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424001300",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15064363,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.803558349609375,-122.40847778320312&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0ZkV0hTsiIJhIwgqs-YFvwiRyOk="
+          }
+        ],
+        "price": 1611900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "livingArea": 961,
+        "livingAreaValue": 961,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1245,
+        "lotAreaValue": 1245,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "412 Lombard St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "412 Lombard St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80356,
+        "longitude": -122.40848,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/412-Lombard-St-San-Francisco-CA-94133/15064363_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 448458147,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/533b6f112132c04ba6c8f0731d697ef6-p_c.jpg"
+          }
+        ],
+        "price": 4600000,
+        "currency": "USD",
+        "bedrooms": 12,
+        "bathrooms": 0,
+        "livingArea": 9954,
+        "livingAreaValue": 9954,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 5999,
+        "lotAreaValue": 5999,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "444 Lombard St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "444 Lombard St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.803513,
+        "longitude": -122.4089,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/444-Lombard-St-San-Francisco-CA-94133/448458147_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425020804",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2075905615,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f126955c1ee9d9dd9d1f4e0d33ed0e12-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 750,
+        "livingAreaValue": 750,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "444 Lombard St #6",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "444 Lombard St #6"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.803623,
+        "longitude": -122.40894,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/444-Lombard-St-6-San-Francisco-CA-94133/2075905615_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gMbaAj0hQDtA-_deN5BDWTK6zgs=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rgPXTyN2vOSyC1t2FBSdPvP0HpQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HWByqLcG06TGeSj3fVToTc7wUy8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kYJEyU6m4T0LKr-yOkz9EnbdYQ8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iY82faVlUmQTlEQJjHv-RO5i_3A=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gvR5plEISUL0RmG6w-u2Hn_QbIA=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=8_lNJmPtklh7PkBu2I5xan67UAI=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-9SXQlglIrdLqXdBH6TSFBdW_OU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=f6Z0u_4pR72I65oSscuTClh4bKg=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rgPXTyN2vOSyC1t2FBSdPvP0HpQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HWByqLcG06TGeSj3fVToTc7wUy8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kYJEyU6m4T0LKr-yOkz9EnbdYQ8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iY82faVlUmQTlEQJjHv-RO5i_3A=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gvR5plEISUL0RmG6w-u2Hn_QbIA=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=8_lNJmPtklh7PkBu2I5xan67UAI=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-9SXQlglIrdLqXdBH6TSFBdW_OU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=f6Z0u_4pR72I65oSscuTClh4bKg=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-6ptOq8OR5CJWhW-I9gh4KkwCv0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cdbQTnweCWRx2prqlWJs0gYrX4I=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-9SXQlglIrdLqXdBH6TSFBdW_OU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=f6Z0u_4pR72I65oSscuTClh4bKg=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-6ptOq8OR5CJWhW-I9gh4KkwCv0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cdbQTnweCWRx2prqlWJs0gYrX4I=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-9SXQlglIrdLqXdBH6TSFBdW_OU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=f6Z0u_4pR72I65oSscuTClh4bKg=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=426-430+Lombard+St%2C+San+Francisco%2C+CA+94133&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3t3-mntvnBB4dzo2pyDTayr3yQ8="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/426-430-Lombard-St-San-Francisco-CA-94133/332849284_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/426-430-Lombard-St-San-Francisco-CA-94133/332849284_zpid/",
+    "zpid": 332849284
+  }
+}

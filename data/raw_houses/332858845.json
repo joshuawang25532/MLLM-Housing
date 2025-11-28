@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 332858845,
+    "address": "28-32 Elgin Park",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94103",
+    "bedrooms": null,
+    "bathrooms": 4,
+    "livingArea": 3392,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1646,
+    "lotAreaValue": 1646,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1908,
+    "homeType": "MULTI_FAMILY",
+    "description": "28-32 Elgin Park, San Francisco, CA 94103 is a multi family home that contains 3,392 sq ft and was built in 1908. It contains 4 bathrooms. This home last sold for $1,780,000 in May 2025. \n \nThe Zestimate for this house is $1,804,800. The Rent Zestimate for this home is $5,502/mo. "
+  },
+  "location": {
+    "latitude": 37.77093,
+    "longitude": -122.423454,
+    "neighborhood": "Mint Hill",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1780000,
+    "lastSoldPrice": 1780000,
+    "dateSold": 1747267200000,
+    "dateSoldString": "2025-05-15",
+    "zestimate": 1804800,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 5502,
+    "taxAssessedValue": 1324154,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 525
+  },
+  "schools": [
+    {
+      "name": "Sanchez Elementary School",
+      "rating": 3,
+      "level": "Elementary",
+      "distance": 0.6,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Everett Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.6,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Mission High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.7,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 99,
+    "transitScore": 100,
+    "bikeScore": 86
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-05-15",
+        "time": 1747267200000,
+        "price": 1780000,
+        "pricePerSquareFoot": 525,
+        "priceChangeRate": 0.6481481481481481,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2013-09-24",
+        "time": 1379980800000,
+        "price": 1080000,
+        "pricePerSquareFoot": 318,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "SFAR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "411036",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763639978447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1324154,
+        "valueIncreaseRate": 0.019944372
+      },
+      {
+        "time": 1732103978447,
+        "taxPaid": 16532.62,
+        "taxIncreaseRate": 0.023558518,
+        "value": 1298261,
+        "valueIncreaseRate": 0.019947834
+      },
+      {
+        "time": 1700481578447,
+        "taxPaid": 16152.1,
+        "taxIncreaseRate": 0.022201957,
+        "value": 1272870,
+        "valueIncreaseRate": 0.019975288
+      },
+      {
+        "time": 1668945578447,
+        "taxPaid": 15801.28,
+        "taxIncreaseRate": 0.017537568,
+        "value": 1247942,
+        "valueIncreaseRate": 0.01985875
+      },
+      {
+        "time": 1637409578447,
+        "taxPaid": 15528.94,
+        "taxIncreaseRate": -0.014232034,
+        "value": 1223642,
+        "valueIncreaseRate": 0.0101540275
+      },
+      {
+        "time": 1605873578447,
+        "taxPaid": 15753.14,
+        "taxIncreaseRate": 0.034311287,
+        "value": 1211342,
+        "valueIncreaseRate": 0.019986426
+      },
+      {
+        "time": 1574251178447,
+        "taxPaid": 15230.56,
+        "taxIncreaseRate": 0.034722716,
+        "value": 1187606,
+        "valueIncreaseRate": 0.01998564
+      },
+      {
+        "time": 1542715178447,
+        "taxPaid": 14719.46,
+        "taxIncreaseRate": 0.032701034,
+        "value": 1164336,
+        "valueIncreaseRate": 0.019985598
+      },
+      {
+        "time": 1511179178447,
+        "taxPaid": 14253.36,
+        "taxIncreaseRate": 0.017139627,
+        "value": 1141522,
+        "valueIncreaseRate": 0.019984704
+      },
+      {
+        "time": 1479643178447,
+        "taxPaid": 14013.18,
+        "taxIncreaseRate": 0.012772033,
+        "value": 1119156,
+        "valueIncreaseRate": 0.015238244
+      },
+      {
+        "time": 1448020778447,
+        "taxPaid": 13836.46,
+        "taxIncreaseRate": 7.657419,
+        "value": 1102358,
+        "valueIncreaseRate": 15.007987
+      },
+      {
+        "time": 1416484778447,
+        "taxPaid": 1598.22,
+        "taxIncreaseRate": 0,
+        "value": 68863,
+        "valueIncreaseRate": 0.019754475
+      },
+      {
+        "time": 1384948778447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 67529,
+        "valueIncreaseRate": 0.031890836
+      },
+      {
+        "time": 1353412778447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 65442,
+        "valueIncreaseRate": 0.019997194
+      },
+      {
+        "time": 1321790378447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64159,
+        "valueIncreaseRate": 0.0075061633
+      },
+      {
+        "time": 1290254378447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63681,
+        "valueIncreaseRate": -0.0023655847
+      },
+      {
+        "time": 1258718378447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63832,
+        "valueIncreaseRate": 0.019990092
+      },
+      {
+        "time": 1227182378447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62581,
+        "valueIncreaseRate": 0.019982072
+      },
+      {
+        "time": 1195559978447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 61355,
+        "valueIncreaseRate": 0.019982379
+      },
+      {
+        "time": 1164023978447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 60153,
+        "valueIncreaseRate": 0.019974565
+      },
+      {
+        "time": 1132487978447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 58975,
+        "valueIncreaseRate": 0.039005656
+      },
+      {
+        "time": 1069329578447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 56761,
+        "valueIncreaseRate": 0.01998239
+      },
+      {
+        "time": 1037793578447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 55649,
+        "valueIncreaseRate": 0.019978372
+      },
+      {
+        "time": 1006257578447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 54559,
+        "valueIncreaseRate": 0.019985044
+      },
+      {
+        "time": 974721578447,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 53490,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 446827712,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/184ae8c159aa883f2844fcbd492769a8-p_c.jpg"
+          }
+        ],
+        "price": 1780000,
+        "currency": "USD",
+        "bedrooms": 7,
+        "bathrooms": 2,
+        "livingArea": 3392,
+        "livingAreaValue": 3392,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1646,
+        "lotAreaValue": 1646.568,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "28-32A Elgin Park",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "28-32A Elgin Park"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77093,
+        "longitude": -122.423454,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/28-32A-Elgin-Park-San-Francisco-CA-94103/446827712_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425007999",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 450169300,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/5877bc4d22d97d2dcf2d101978259605-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "28 Elgin Park #28",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "28 Elgin Park #28"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77093,
+        "longitude": -122.423454,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/28-Elgin-Park-28-San-Francisco-CA-94103/450169300_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "nkr5nqskbnvt",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 452035062,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1877b9fdd3a11f52240a1e205996c7de-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "28 Elgin Park #5102198116",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "28 Elgin Park #5102198116"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77093,
+        "longitude": -122.423454,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/28-Elgin-Park-5102198116-San-Francisco-CA-94103/452035062_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "1wd8tjsu7u587",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2052971680,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1877b9fdd3a11f52240a1e205996c7de-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "28 Elgin Park",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "28 Elgin Park"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77093,
+        "longitude": -122.423454,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/28-Elgin-Park-San-Francisco-CA-94103/2052971680_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3x402mhp8szt7",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2068450116,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0173794bd155001d8a22ef480dbd724d-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "30 Elgin Park",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "30 Elgin Park"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77093,
+        "longitude": -122.423454,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/30-Elgin-Park-San-Francisco-CA-94103/2068450116_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2071178955,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/55098abbfda584ad41f9c21559386a62-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "32 Elgin Park #32",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "32 Elgin Park #32"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77093,
+        "longitude": -122.423454,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/32-Elgin-Park-32-San-Francisco-CA-94103/2071178955_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2076728933,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/55098abbfda584ad41f9c21559386a62-p_c.jpg"
+          }
+        ],
+        "price": 976700,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 800,
+        "livingAreaValue": 800,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "32 Elgin Park",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "32 Elgin Park"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77093,
+        "longitude": -122.423454,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/32-Elgin-Park-San-Francisco-CA-94103/2076728933_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15142407,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=36+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KzgpEfilsiIcUEvoGoqCho9E_JQ="
+          }
+        ],
+        "price": 1439200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2000,
+        "livingAreaValue": 2000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1650,
+        "lotAreaValue": 1650,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "36 Elgin Park",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "36 Elgin Park"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77087,
+        "longitude": -122.42345,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/36-Elgin-Park-San-Francisco-CA-94103/15142407_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yGwE8AFCYLI3wLAmr3bcXXUcNFg=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UvqZ979xU4AGIgqxFb6zRzhhmeA=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_bMDmb2f52oaf27AxyvXJfr7gfA=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=GY0aysn8TzBRqn-bri98ok6bNSo=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7nt6PT1gsC4zXUXKv_Af2T0BcEs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_IZe5666fkZS5slKmIjYE1ngTek=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-XaQ71BSLUqVd8gtDhYoTjIJiE4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=U4XIvUW3lUcc1wssUfVf4ej1cjI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XxAstHRpC8-h_U-ie5TfOCik4mc=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UvqZ979xU4AGIgqxFb6zRzhhmeA=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_bMDmb2f52oaf27AxyvXJfr7gfA=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=GY0aysn8TzBRqn-bri98ok6bNSo=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7nt6PT1gsC4zXUXKv_Af2T0BcEs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_IZe5666fkZS5slKmIjYE1ngTek=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-XaQ71BSLUqVd8gtDhYoTjIJiE4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=U4XIvUW3lUcc1wssUfVf4ej1cjI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XxAstHRpC8-h_U-ie5TfOCik4mc=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LnLd44EpaAnFDdl-Gcnk5GT4YGg=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RfgOUhlWrFITATFC6X_1FBxjgFc=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=U4XIvUW3lUcc1wssUfVf4ej1cjI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XxAstHRpC8-h_U-ie5TfOCik4mc=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LnLd44EpaAnFDdl-Gcnk5GT4YGg=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RfgOUhlWrFITATFC6X_1FBxjgFc=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=U4XIvUW3lUcc1wssUfVf4ej1cjI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XxAstHRpC8-h_U-ie5TfOCik4mc=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=28-32+Elgin+Park%2C+San+Francisco%2C+CA+94103&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=M_lbQ7HXfBdpui80Y0-hqCfVpFg="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/28-32-Elgin-Park-San-Francisco-CA-94103/332858845_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/28-32-Elgin-Park-San-Francisco-CA-94103/332858845_zpid/",
+    "zpid": 332858845
+  }
+}

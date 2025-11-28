@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15101312,
+    "address": "1209 35th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94122",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1317,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1781,
+    "lotAreaValue": 1781,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1941,
+    "homeType": "SINGLE_FAMILY",
+    "description": "1209 35th Ave, San Francisco, CA 94122 is a single family home that contains 1,317 sq ft and was built in 1941. It contains 1 bathroom. This home last sold for $337,500 in March 2025. \n \nThe Zestimate for this house is $1,163,400. The Rent Zestimate for this home is $4,085/mo. "
+  },
+  "location": {
+    "latitude": 37.764404,
+    "longitude": -122.494606,
+    "neighborhood": "Outer Sunset",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 337500,
+    "lastSoldPrice": 337500,
+    "dateSold": 1740960000000,
+    "dateSoldString": "2025-03-03",
+    "zestimate": 1163400,
+    "zestimateHighPercent": "13",
+    "zestimateLowPercent": "12",
+    "rentZestimate": 4085,
+    "taxAssessedValue": 93372,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 256
+  },
+  "schools": [
+    {
+      "name": "Stevenson (Robert Louis) Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 1.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Giannini (A.P.) Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 1,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Washington (George) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 71,
+    "transitScore": 56,
+    "bikeScore": 86
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-03-03",
+        "time": 1740960000000,
+        "price": 337500,
+        "pricePerSquareFoot": 256,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763640805327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 93372,
+        "valueIncreaseRate": 0.01996854
+      },
+      {
+        "time": 1732104805327,
+        "taxPaid": 1861.64,
+        "taxIncreaseRate": 0.021240631,
+        "value": 91544,
+        "valueIncreaseRate": 0.01996613
+      },
+      {
+        "time": 1700482405327,
+        "taxPaid": 1822.92,
+        "taxIncreaseRate": 0.053613544,
+        "value": 89752,
+        "valueIncreaseRate": 0.019955453
+      },
+      {
+        "time": 1668946405327,
+        "taxPaid": 1730.16,
+        "taxIncreaseRate": 0.021237401,
+        "value": 87996,
+        "valueIncreaseRate": 0.01993602
+      },
+      {
+        "time": 1637410405327,
+        "taxPaid": 1694.18,
+        "taxIncreaseRate": -0.045274194,
+        "value": 86276,
+        "valueIncreaseRate": 0.0103049325
+      },
+      {
+        "time": 1605874405327,
+        "taxPaid": 1774.52,
+        "taxIncreaseRate": 0.06240869,
+        "value": 85396,
+        "valueIncreaseRate": 0.019921651
+      },
+      {
+        "time": 1574252005327,
+        "taxPaid": 1670.28,
+        "taxIncreaseRate": 0.033793803,
+        "value": 83728,
+        "valueIncreaseRate": 0.01992886
+      },
+      {
+        "time": 1542716005327,
+        "taxPaid": 1615.68,
+        "taxIncreaseRate": 0.24411318,
+        "value": 82092,
+        "valueIncreaseRate": 0.019928437
+      },
+      {
+        "time": 1511180005327,
+        "taxPaid": 1298.66,
+        "taxIncreaseRate": 0.041845195,
+        "value": 80488,
+        "valueIncreaseRate": 0.019971615
+      },
+      {
+        "time": 1479644005327,
+        "taxPaid": 1246.5,
+        "taxIncreaseRate": 0.014090651,
+        "value": 78912,
+        "valueIncreaseRate": 0.015180363
+      },
+      {
+        "time": 1448021605327,
+        "taxPaid": 1229.18,
+        "taxIncreaseRate": 0.025547318,
+        "value": 77732,
+        "valueIncreaseRate": 0.019890837
+      },
+      {
+        "time": 1416485605327,
+        "taxPaid": 1198.56,
+        "taxIncreaseRate": 0,
+        "value": 76216,
+        "valueIncreaseRate": 0.0035551577
+      },
+      {
+        "time": 1384949605327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 75946,
+        "valueIncreaseRate": 0.01999812
+      },
+      {
+        "time": 1353413605327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 74457,
+        "valueIncreaseRate": 0.01998685
+      },
+      {
+        "time": 1321791205327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 72998,
+        "valueIncreaseRate": 0.0075082122
+      },
+      {
+        "time": 1290255205327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 72454,
+        "valueIncreaseRate": -0.002368298
+      },
+      {
+        "time": 1258719205327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 72626,
+        "valueIncreaseRate": 0.019985113
+      },
+      {
+        "time": 1227183205327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 71203,
+        "valueIncreaseRate": 0.019983383
+      },
+      {
+        "time": 1195560805327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 69808,
+        "valueIncreaseRate": 0.019988311
+      },
+      {
+        "time": 1164024805327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68440,
+        "valueIncreaseRate": 0.019985395
+      },
+      {
+        "time": 1132488805327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 67099,
+        "valueIncreaseRate": 0.039021973
+      },
+      {
+        "time": 1069330405327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64579,
+        "valueIncreaseRate": 0.019995894
+      },
+      {
+        "time": 1037794405327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63313,
+        "valueIncreaseRate": 0.019960048
+      },
+      {
+        "time": 1006258405327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62074,
+        "valueIncreaseRate": 0.0199977
+      },
+      {
+        "time": 974722405327,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 60857,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15101313,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1215+35th+Ave%2C+San+Francisco%2C+CA+94122&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pvWPIdrfBLYqTnkWjnv4OGGg2r0="
+          }
+        ],
+        "price": 1725000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 1955,
+        "livingAreaValue": 1955,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1781,
+        "lotAreaValue": 1781,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1215 35th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1215 35th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76432,
+        "longitude": -122.4946,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1215-35th-Ave-San-Francisco-CA-94122/15101313_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 325645841,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1201+35th+Ave%2C+San+Francisco%2C+CA+94122&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Jlpe50BBj24qmDTokgD-RG_5RN0="
+          }
+        ],
+        "price": 2040900,
+        "currency": "USD",
+        "bedrooms": 8,
+        "bathrooms": 5,
+        "livingArea": 3264,
+        "livingAreaValue": 3264,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2188,
+        "lotAreaValue": 2188,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1201 35th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1201 35th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7645,
+        "longitude": -122.49461,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1201-35th-Ave-San-Francisco-CA-94122/325645841_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856509,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.764408111572266,-122.4947509765625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Hh5jDKmsDq6XdIXMFwkOshPAtyI="
+          }
+        ],
+        "price": 1497200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1900,
+        "livingAreaValue": 1900,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3415-3417 Lincoln Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3415-3417 Lincoln Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76441,
+        "longitude": -122.49475,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/3415-3417-Lincoln-Way-San-Francisco-CA-94122/332856509_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2141445113,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3421+Lincoln+Way%2C+San+Francisco%2C+CA+94122&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z-7zkR2cpXKdiZe45w3_uRuoDZw="
+          }
+        ],
+        "price": 1237800,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "3421 Lincoln Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3421 Lincoln Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.764404,
+        "longitude": -122.494835,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3421-Lincoln-Way-San-Francisco-CA-94122/2141445113_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15101314,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.76423645019531,-122.49469757080078&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=YjcZDyIlmNa0FsCKidP56Y_QqCM="
+          }
+        ],
+        "price": 1398000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1075,
+        "livingAreaValue": 1075,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1219 35th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1219 35th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.764236,
+        "longitude": -122.4947,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1219-35th-Ave-San-Francisco-CA-94122/15101314_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856508,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/17e499fac71b6948bfd22395caeaa1cc-p_c.jpg"
+          }
+        ],
+        "price": 1218000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1900,
+        "livingAreaValue": 1900,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495.988,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3421-3423 Lincoln Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3421-3423 Lincoln Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.764526,
+        "longitude": -122.49486,
+        "homeStatus": "SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/3421-3423-Lincoln-Way-San-Francisco-CA-94122/332856508_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424058011",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15101315,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.76416778564453,-122.49469757080078&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bd3kzxkgL22WKNJxy9gqwXCuUks="
+          }
+        ],
+        "price": 1322200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1394,
+        "livingAreaValue": 1394,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1223 35th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1223 35th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.764168,
+        "longitude": -122.4947,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1223-35th-Ave-San-Francisco-CA-94122/15101315_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856507,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.764400482177734,-122.49491882324219&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gFvsNaPpny7Runh6BSkz1aZyFeY="
+          }
+        ],
+        "price": 1534100,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 2500,
+        "livingAreaValue": 2500,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3427-3429 Lincoln Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3427-3429 Lincoln Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7644,
+        "longitude": -122.49492,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/3427-3429-Lincoln-Way-San-Francisco-CA-94122/332856507_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5VIPgeH30Ej9R0ADWPRQzqWW_3M=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yPCZs-E__EMZYL8Su9HjNLhwL-M=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=f5LolP28yVzyrPwgLpj_SLbRank=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iyUX16X2g4QeDDqKXoKC69uW8R8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z85RqGNLQFf81v9OoSxoiypJfGU=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ml6y9i8rOAngNRXW8I2lYMFxaos=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5aRIopOzusfSozjmgd9uF1veR-E=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pUY20RaKBhyoJRyf5YWw40b-MY8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PwOlqBcELKUckPKQ5luhak-S4zY=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yPCZs-E__EMZYL8Su9HjNLhwL-M=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=f5LolP28yVzyrPwgLpj_SLbRank=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iyUX16X2g4QeDDqKXoKC69uW8R8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z85RqGNLQFf81v9OoSxoiypJfGU=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ml6y9i8rOAngNRXW8I2lYMFxaos=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5aRIopOzusfSozjmgd9uF1veR-E=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pUY20RaKBhyoJRyf5YWw40b-MY8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PwOlqBcELKUckPKQ5luhak-S4zY=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qoHNLCvC5i8uvAGgsn3Q-k9RyVo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XHrM6pfmgLUYt2weZhDeHNHeif0=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pUY20RaKBhyoJRyf5YWw40b-MY8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PwOlqBcELKUckPKQ5luhak-S4zY=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qoHNLCvC5i8uvAGgsn3Q-k9RyVo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XHrM6pfmgLUYt2weZhDeHNHeif0=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pUY20RaKBhyoJRyf5YWw40b-MY8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PwOlqBcELKUckPKQ5luhak-S4zY=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=1209+35th+Ave%2C+San+Francisco%2C+CA+94122&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gMI328-jIfWSrS0HOvibyJBTAZE="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1209-35th-Ave-San-Francisco-CA-94122/15101312_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1209-35th-Ave-San-Francisco-CA-94122/15101312_zpid/",
+    "zpid": 15101312
+  }
+}

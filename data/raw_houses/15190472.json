@@ -1,0 +1,1302 @@
+{
+  "basic_info": {
+    "zpid": 15190472,
+    "address": "55 Jules Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1195,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2809,
+    "lotAreaValue": 2809,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1954,
+    "homeType": "SINGLE_FAMILY",
+    "description": "55 Jules Ave, San Francisco, CA 94112 is a single family home that contains 1,195 sq ft and was built in 1954. It contains 1 bathroom. This home last sold for $1,005,000 in June 2025. \n \nThe Rent Zestimate for this home is $3,750/mo. "
+  },
+  "location": {
+    "latitude": 37.719215,
+    "longitude": -122.46155,
+    "neighborhood": "Ingleside",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1005000,
+    "lastSoldPrice": 1005000,
+    "dateSold": 1750982400000,
+    "dateSoldString": "2025-06-27",
+    "zestimate": null,
+    "zestimateHighPercent": null,
+    "zestimateLowPercent": null,
+    "rentZestimate": 3750,
+    "taxAssessedValue": 334135,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 841
+  },
+  "schools": [
+    {
+      "name": "Ortega (Jose) Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Aptos Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.8,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Balboa High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 1.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 81,
+    "transitScore": 77,
+    "bikeScore": 41
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-06-27",
+        "time": 1750982400000,
+        "price": 1005000,
+        "pricePerSquareFoot": 841,
+        "priceChangeRate": 0.11234089651355839,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2025-05-29",
+        "time": 1748476800000,
+        "price": 903500,
+        "pricePerSquareFoot": 756,
+        "priceChangeRate": 0,
+        "event": "Pending sale",
+        "source": "SFAR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "425028627",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "2025-05-15",
+        "time": 1747267200000,
+        "price": 903500,
+        "pricePerSquareFoot": 756,
+        "priceChangeRate": 0.508347245409015,
+        "event": "Contingent",
+        "source": "SFAR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "425028627",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "time": 1745971200000,
+        "price": 599000,
+        "pricePerSquareFoot": 501,
+        "priceChangeRate": 0,
+        "event": "Listed for sale",
+        "source": "SFAR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "425028627",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763623638673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 334135,
+        "valueIncreaseRate": 0.019982357
+      },
+      {
+        "time": 1732087638673,
+        "taxPaid": 4626.76,
+        "taxIncreaseRate": 0.017241439,
+        "value": 327589,
+        "valueIncreaseRate": 0.019979948
+      },
+      {
+        "time": 1700465238673,
+        "taxPaid": 4548.34,
+        "taxIncreaseRate": 0.022710206,
+        "value": 321172,
+        "valueIncreaseRate": 0.019978976
+      },
+      {
+        "time": 1668929238673,
+        "taxPaid": 4447.34,
+        "taxIncreaseRate": 0.03450566,
+        "value": 314881,
+        "valueIncreaseRate": 0.7793908
+      },
+      {
+        "time": 1637393238673,
+        "taxPaid": 4299,
+        "taxIncreaseRate": 0.03791186,
+        "value": 176960,
+        "valueIncreaseRate": 0.010328231
+      },
+      {
+        "time": 1605857238673,
+        "taxPaid": 4141.97,
+        "taxIncreaseRate": -0.039975,
+        "value": 175151,
+        "valueIncreaseRate": 0.01999208
+      },
+      {
+        "time": 1574234838673,
+        "taxPaid": 4314.44,
+        "taxIncreaseRate": 0.43697792,
+        "value": 171718,
+        "valueIncreaseRate": 0.019993823
+      },
+      {
+        "time": 1542698838673,
+        "taxPaid": 3002.44,
+        "taxIncreaseRate": 0.290373,
+        "value": 168352,
+        "valueIncreaseRate": 0.01997516
+      },
+      {
+        "time": 1511162838673,
+        "taxPaid": 2326.8,
+        "taxIncreaseRate": -0.14454621,
+        "value": 165055,
+        "valueIncreaseRate": 0.019966137
+      },
+      {
+        "time": 1479626838673,
+        "taxPaid": 2719.96,
+        "taxIncreaseRate": -0.31690192,
+        "value": 161824,
+        "valueIncreaseRate": 0.015238872
+      },
+      {
+        "time": 1448004438673,
+        "taxPaid": 3981.8,
+        "taxIncreaseRate": 0.109148875,
+        "value": 159395,
+        "valueIncreaseRate": 0.019951751
+      },
+      {
+        "time": 1416468438673,
+        "taxPaid": 3589.96,
+        "taxIncreaseRate": 0,
+        "value": 156277,
+        "valueIncreaseRate": 0.00451875
+      },
+      {
+        "time": 1384932438673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 155574,
+        "valueIncreaseRate": 0.019976791
+      },
+      {
+        "time": 1353396438673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 152527,
+        "valueIncreaseRate": 3.1259198
+      },
+      {
+        "time": 1321774038673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 36968,
+        "valueIncreaseRate": 0.0072750063
+      },
+      {
+        "time": 1290238038673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 36701,
+        "valueIncreaseRate": -0.0023649016
+      },
+      {
+        "time": 1258702038673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 36788,
+        "valueIncreaseRate": -0.1855476
+      },
+      {
+        "time": 1227166038673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 45169,
+        "valueIncreaseRate": 0.019984644
+      },
+      {
+        "time": 1195543638673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 44284,
+        "valueIncreaseRate": 0.019992629
+      },
+      {
+        "time": 1164007638673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 43416,
+        "valueIncreaseRate": 0.019992951
+      },
+      {
+        "time": 1132471638673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 42565,
+        "valueIncreaseRate": 0.039007004
+      },
+      {
+        "time": 1069313238673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 40967,
+        "valueIncreaseRate": 0.019967634
+      },
+      {
+        "time": 1037777238673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 40165,
+        "valueIncreaseRate": 0.019959876
+      },
+      {
+        "time": 1006241238673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 39379,
+        "valueIncreaseRate": 0.019996373
+      },
+      {
+        "time": 974705238673,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 38607,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15190473,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.719146728515625,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UWq-mGcfsmb_Uqahtl1ErNjy5ME="
+          }
+        ],
+        "price": 200000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1426,
+        "livingAreaValue": 1426,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2809,
+        "lotAreaValue": 2809,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "51 Jules Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "51 Jules Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.719147,
+        "longitude": -122.46155,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/51-Jules-Ave-San-Francisco-CA-94112/15190473_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15190471,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71928405761719,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hea2o8Unh4uDZCjJiAiitK6kqqc="
+          }
+        ],
+        "price": 1044000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1195,
+        "livingAreaValue": 1195,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2809,
+        "lotAreaValue": 2809,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "59 Jules Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "59 Jules Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.719284,
+        "longitude": -122.46155,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/59-Jules-Ave-San-Francisco-CA-94112/15190471_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15190474,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.719078063964844,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=71R8Z6hvlN6yRdCM5WC5GY9EoBw="
+          }
+        ],
+        "price": 1131200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1195,
+        "livingAreaValue": 1195,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2809,
+        "lotAreaValue": 2809,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "47 Jules Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "47 Jules Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.719078,
+        "longitude": -122.46155,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/47-Jules-Ave-San-Francisco-CA-94112/15190474_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15190470,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71935272216797,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5GGeT0GEqT2ljmA8bL8LkUxwy8I="
+          }
+        ],
+        "price": 1106000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1195,
+        "livingAreaValue": 1195,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2809,
+        "lotAreaValue": 2809,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "63 Jules Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "63 Jules Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.719353,
+        "longitude": -122.46155,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/63-Jules-Ave-San-Francisco-CA-94112/15190470_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15190475,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f5f4de7c10cde43445b6c9383ee2d8b4-p_c.jpg"
+          }
+        ],
+        "price": 1388900,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1195,
+        "livingAreaValue": 1195,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2809,
+        "lotAreaValue": 2809,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "43 Jules Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "43 Jules Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71901,
+        "longitude": -122.46155,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/43-Jules-Ave-San-Francisco-CA-94112/15190475_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15190469,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/84b181b0131a5a7e70dd00065259dc67-p_c.jpg"
+          }
+        ],
+        "price": 1470000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1521,
+        "livingAreaValue": 1521,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2809,
+        "lotAreaValue": 2809.62,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "67 Jules Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "67 Jules Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.719433,
+        "longitude": -122.46145,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/67-Jules-Ave-San-Francisco-CA-94112/15190469_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424038910",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15190468,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71949005126953,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UyhEjQh1s1U1s3UXzfnQyNLuiXg="
+          }
+        ],
+        "price": 1118000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1195,
+        "livingAreaValue": 1195,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2809,
+        "lotAreaValue": 2809,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "71 Jules Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "71 Jules Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71949,
+        "longitude": -122.46155,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/71-Jules-Ave-San-Francisco-CA-94112/15190468_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15190476,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71894073486328,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=O5LkNbOp_xr_cCoUhKd63jXduoI="
+          }
+        ],
+        "price": 995900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1025,
+        "livingAreaValue": 1025,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2809,
+        "lotAreaValue": 2809,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "39 Jules Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "39 Jules Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71894,
+        "longitude": -122.46155,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/39-Jules-Ave-San-Francisco-CA-94112/15190476_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rAHxyJuJRUFsrhNXDMrrZ1AL1s0=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ugJMoi7zeP628ZhzNGkTIi39wps=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zxMb9zOzGD6givS4vUWhrJf8CfI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hUDfDBTGcPWZ18-tYmw1RkFQjbc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VRbZuESj58vt1LsiH1KyRhB5ctg=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XJwZWBQdLr3X3-pNS3VS1ELl8fE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=K7-9ktE1QlW4k5GNtmnUz1F0-Ro=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WBTkf7q46q4dyqMONn2tn88cXRg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PCm-wYYhuMJsa9C8zS-p1J9kXTI=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ugJMoi7zeP628ZhzNGkTIi39wps=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zxMb9zOzGD6givS4vUWhrJf8CfI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hUDfDBTGcPWZ18-tYmw1RkFQjbc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VRbZuESj58vt1LsiH1KyRhB5ctg=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XJwZWBQdLr3X3-pNS3VS1ELl8fE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=K7-9ktE1QlW4k5GNtmnUz1F0-Ro=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WBTkf7q46q4dyqMONn2tn88cXRg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PCm-wYYhuMJsa9C8zS-p1J9kXTI=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=COUCl8bJS2xIfHkc8XboUWbUTbs=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wn_eknsCFQWjiXB99W1EwUwBqpc=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WBTkf7q46q4dyqMONn2tn88cXRg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PCm-wYYhuMJsa9C8zS-p1J9kXTI=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=COUCl8bJS2xIfHkc8XboUWbUTbs=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wn_eknsCFQWjiXB99W1EwUwBqpc=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WBTkf7q46q4dyqMONn2tn88cXRg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PCm-wYYhuMJsa9C8zS-p1J9kXTI=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.719215393066406,-122.4615478515625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tr1x7y6GZiI6KgaNiesH8i_UcSk="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/55-Jules-Ave-San-Francisco-CA-94112/15190472_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/55-Jules-Ave-San-Francisco-CA-94112/15190472_zpid/",
+    "zpid": 15190472
+  }
+}

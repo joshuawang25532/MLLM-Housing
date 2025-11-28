@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15192868,
+    "address": "127 Foote Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": null,
+    "bathrooms": 2,
+    "livingArea": 1570,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3088,
+    "lotAreaValue": 3088,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1961,
+    "homeType": "SINGLE_FAMILY",
+    "description": "127 Foote Ave, San Francisco, CA 94112 is a single family home that contains 1,570 sq ft and was built in 1961. It contains 2 bathrooms. This home last sold for $1,253,500 in June 2025. \n \nThe Zestimate for this house is $1,272,300. The Rent Zestimate for this home is $4,838/mo. "
+  },
+  "location": {
+    "latitude": 37.713383,
+    "longitude": -122.44613,
+    "neighborhood": "Outer Mission",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1253500,
+    "lastSoldPrice": 1253500,
+    "dateSold": 1749168000000,
+    "dateSoldString": "2025-06-06",
+    "zestimate": 1272300,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 4838,
+    "taxAssessedValue": 105044,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 798
+  },
+  "schools": [
+    {
+      "name": "Longfellow Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Denman (James) Middle School",
+      "rating": 4,
+      "level": "Middle",
+      "distance": 0.6,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Balboa High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.6,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 90,
+    "transitScore": 83,
+    "bikeScore": 50
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-06-06",
+        "time": 1749168000000,
+        "price": 1253500,
+        "pricePerSquareFoot": 798,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763625457756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 105044,
+        "valueIncreaseRate": 0.019993203
+      },
+      {
+        "time": 1732089457756,
+        "taxPaid": 1235.36,
+        "taxIncreaseRate": 0.014602761,
+        "value": 102985,
+        "valueIncreaseRate": 0.019986728
+      },
+      {
+        "time": 1700467057756,
+        "taxPaid": 1217.58,
+        "taxIncreaseRate": 0.017890202,
+        "value": 100967,
+        "valueIncreaseRate": 0.019982018
+      },
+      {
+        "time": 1668931057756,
+        "taxPaid": 1196.18,
+        "taxIncreaseRate": 0.017350204,
+        "value": 98989,
+        "valueIncreaseRate": 0.019989902
+      },
+      {
+        "time": 1637395057756,
+        "taxPaid": 1175.78,
+        "taxIncreaseRate": -0.0020878266,
+        "value": 97049,
+        "valueIncreaseRate": 0.010348238
+      },
+      {
+        "time": 1605859057756,
+        "taxPaid": 1178.24,
+        "taxIncreaseRate": 0.033797793,
+        "value": 96055,
+        "valueIncreaseRate": 0.019984497
+      },
+      {
+        "time": 1574236657756,
+        "taxPaid": 1139.72,
+        "taxIncreaseRate": 0.032953873,
+        "value": 94173,
+        "valueIncreaseRate": 0.019983103
+      },
+      {
+        "time": 1542700657756,
+        "taxPaid": 1103.36,
+        "taxIncreaseRate": 0.012182619,
+        "value": 92328,
+        "valueIncreaseRate": 0.019996023
+      },
+      {
+        "time": 1511164657756,
+        "taxPaid": 1090.08,
+        "taxIncreaseRate": 0.045219105,
+        "value": 90518,
+        "valueIncreaseRate": 0.019990085
+      },
+      {
+        "time": 1479628657756,
+        "taxPaid": 1042.92,
+        "taxIncreaseRate": 0.012602776,
+        "value": 88744,
+        "valueIncreaseRate": 0.015238183
+      },
+      {
+        "time": 1448006257756,
+        "taxPaid": 1029.94,
+        "taxIncreaseRate": 0.026675122,
+        "value": 87412,
+        "valueIncreaseRate": 0.019964762
+      },
+      {
+        "time": 1416470257756,
+        "taxPaid": 1003.18,
+        "taxIncreaseRate": 0,
+        "value": 85701,
+        "valueIncreaseRate": 0.00452441
+      },
+      {
+        "time": 1384934257756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 85315,
+        "valueIncreaseRate": 0.019977523
+      },
+      {
+        "time": 1353398257756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 83644,
+        "valueIncreaseRate": 0.019986587
+      },
+      {
+        "time": 1321775857756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 82005,
+        "valueIncreaseRate": 0.007494318
+      },
+      {
+        "time": 1290239857756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 81395,
+        "valueIncreaseRate": -0.002365544
+      },
+      {
+        "time": 1258703857756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 81588,
+        "valueIncreaseRate": 0.019990249
+      },
+      {
+        "time": 1227167857756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 79989,
+        "valueIncreaseRate": 0.019981638
+      },
+      {
+        "time": 1195545457756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 78422,
+        "valueIncreaseRate": 0.019990895
+      },
+      {
+        "time": 1164009457756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 76885,
+        "valueIncreaseRate": 0.019992571
+      },
+      {
+        "time": 1132473457756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 75378,
+        "valueIncreaseRate": 0.039008655
+      },
+      {
+        "time": 1069315057756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 72548,
+        "valueIncreaseRate": 0.019992689
+      },
+      {
+        "time": 1037779057756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 71126,
+        "valueIncreaseRate": 0.019961568
+      },
+      {
+        "time": 1006243057756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 69734,
+        "valueIncreaseRate": 0.019995026
+      },
+      {
+        "time": 974707057756,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68367,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15192867,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71343231201172,-122.4461898803711&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZBoKQ0RSpZzfeVeonWUCaxxvJWA="
+          }
+        ],
+        "price": 1367200,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2270,
+        "livingAreaValue": 2270,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3088,
+        "lotAreaValue": 3088,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "133 Foote Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "133 Foote Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.713432,
+        "longitude": -122.44619,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/133-Foote-Ave-San-Francisco-CA-94112/15192867_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15192869,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/94342fc2af55c897b349fbbd8f8dd5f8-p_c.jpg"
+          }
+        ],
+        "price": 1521800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1925,
+        "livingAreaValue": 1925,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3088,
+        "lotAreaValue": 3088,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "121 Foote Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "121 Foote Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.713333,
+        "longitude": -122.44607,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/121-Foote-Ave-San-Francisco-CA-94112/15192869_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15192866,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71348571777344,-122.44625854492188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=riN8Kc7CRcjks9Mk6QFNMOGCyCI="
+          }
+        ],
+        "price": 1147200,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1570,
+        "livingAreaValue": 1570,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3090,
+        "lotAreaValue": 3090,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "139 Foote Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "139 Foote Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.713486,
+        "longitude": -122.44626,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/139-Foote-Ave-San-Francisco-CA-94112/15192866_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15192870,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=115+Foote+Ave%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=x3g3DgfzdbUXXX_bw08ZVM6EOh4="
+          }
+        ],
+        "price": 1079500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1518,
+        "livingAreaValue": 1518,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2374,
+        "lotAreaValue": 2374,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "115 Foote Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "115 Foote Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.713318,
+        "longitude": -122.44595,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/115-Foote-Ave-San-Francisco-CA-94112/15192870_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15192877,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71353530883789,-122.44631958007812&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AYSvoZcPFrH2K74K2DsU7whgU-s="
+          }
+        ],
+        "price": 969000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1300,
+        "livingAreaValue": 1300,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3118,
+        "lotAreaValue": 3118,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "145 Foote Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "145 Foote Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.713535,
+        "longitude": -122.44632,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/145-Foote-Ave-San-Francisco-CA-94112/15192877_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15192871,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=109+Foote+Ave%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=c-wIe4K1UYGTqlo9wfgwp_3t9WU="
+          }
+        ],
+        "price": 1122400,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1707,
+        "livingAreaValue": 1707,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2378,
+        "lotAreaValue": 2378,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "109 Foote Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "109 Foote Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71326,
+        "longitude": -122.445885,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/109-Foote-Ave-San-Francisco-CA-94112/15192871_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15192874,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=320+Ellington+Ave%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tnBuna3nvFhHoW2WYNZSHMkdlI8="
+          }
+        ],
+        "price": 1287200,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "livingArea": 2275,
+        "livingAreaValue": 2275,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2796,
+        "lotAreaValue": 2796,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "320 Ellington Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "320 Ellington Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71313,
+        "longitude": -122.445984,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/320-Ellington-Ave-San-Francisco-CA-94112/15192874_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15192856,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.713619232177734,-122.44632720947266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=k-dNg_ewSn_9WQQ1-Yap5u-gPJo="
+          }
+        ],
+        "price": 953000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1139,
+        "livingAreaValue": 1139,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1960,
+        "lotAreaValue": 1960,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "151 Foote Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "151 Foote Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71362,
+        "longitude": -122.44633,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/151-Foote-Ave-San-Francisco-CA-94112/15192856_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MDjY2zAeDVtfaTbW53TodXn819g=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3VCc7Kzfc_nN-0x7pT5_0yEspVI=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=32eXVtS19TdVzqpmxk1Q60dRLfk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=V5bO6y8eKdN9SvFYNhr2cmELRAc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-wWQ7hrbAUVK38mSHTwUtGkbX8s=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tSly2Y3M6MGtvIoTJYbVjzIkqFI=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=KzCcg0uu6VVeYfw-9hop0TqV0Y0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=EgtHoeSin8uiN1qbEu8QoHQH6sg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bf0igUTilYUeN8QlOW-zL5cKra0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3VCc7Kzfc_nN-0x7pT5_0yEspVI=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=32eXVtS19TdVzqpmxk1Q60dRLfk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=V5bO6y8eKdN9SvFYNhr2cmELRAc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-wWQ7hrbAUVK38mSHTwUtGkbX8s=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tSly2Y3M6MGtvIoTJYbVjzIkqFI=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=KzCcg0uu6VVeYfw-9hop0TqV0Y0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=EgtHoeSin8uiN1qbEu8QoHQH6sg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bf0igUTilYUeN8QlOW-zL5cKra0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=_-b5K8ZcqqcggiN_83G8psIO_l8=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cF36vT09o97113Yacu-cksLcaew=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=EgtHoeSin8uiN1qbEu8QoHQH6sg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bf0igUTilYUeN8QlOW-zL5cKra0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=_-b5K8ZcqqcggiN_83G8psIO_l8=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cF36vT09o97113Yacu-cksLcaew=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=EgtHoeSin8uiN1qbEu8QoHQH6sg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bf0igUTilYUeN8QlOW-zL5cKra0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.713382720947266,-122.44612884521484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=u0Kewcde7nKHb2OyIG9MPWmpd7Y="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/127-Foote-Ave-San-Francisco-CA-94112/15192868_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/127-Foote-Ave-San-Francisco-CA-94112/15192868_zpid/",
+    "zpid": 15192868
+  }
+}

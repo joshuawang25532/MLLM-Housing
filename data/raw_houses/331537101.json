@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 331537101,
+    "address": "50-52 Walter St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94114",
+    "bedrooms": null,
+    "bathrooms": 3,
+    "livingArea": 3990,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2199,
+    "lotAreaValue": 2199,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1912,
+    "homeType": "MULTI_FAMILY",
+    "description": "50-52 Walter St, San Francisco, CA 94114 is a multi family home that contains 3,990 sq ft and was built in 1912. It contains 3 bathrooms. This home last sold for $2,505,000 in August 2025. \n \nThe Zestimate for this house is $2,381,000. The Rent Zestimate for this home is $5,405/mo. "
+  },
+  "location": {
+    "latitude": 37.768288,
+    "longitude": -122.432625,
+    "neighborhood": "Duboce Triangle",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 2505000,
+    "lastSoldPrice": 2505000,
+    "dateSold": 1755561600000,
+    "dateSoldString": "2025-08-19",
+    "zestimate": 2381000,
+    "zestimateHighPercent": "16",
+    "zestimateLowPercent": "15",
+    "rentZestimate": 5405,
+    "taxAssessedValue": 1687775,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 628
+  },
+  "schools": [
+    {
+      "name": "McKinley Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Everett Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Mission High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 96,
+    "transitScore": 94,
+    "bikeScore": 87
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-08-19",
+        "time": 1755561600000,
+        "price": 2505000,
+        "pricePerSquareFoot": 628,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763628965821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1687775,
+        "valueIncreaseRate": 0.019998997
+      },
+      {
+        "time": 1732092965821,
+        "taxPaid": 20029.58,
+        "taxIncreaseRate": 0.80642927,
+        "value": 1654683,
+        "valueIncreaseRate": 0.8416511
+      },
+      {
+        "time": 1700470565821,
+        "taxPaid": 11087.94,
+        "taxIncreaseRate": 0.029853743,
+        "value": 898478,
+        "valueIncreaseRate": 0.019998591
+      },
+      {
+        "time": 1668934565821,
+        "taxPaid": 10766.52,
+        "taxIncreaseRate": 0.017064208,
+        "value": 880862,
+        "valueIncreaseRate": 0.019997869
+      },
+      {
+        "time": 1637398565821,
+        "taxPaid": 10585.88,
+        "taxIncreaseRate": -0.012172129,
+        "value": 863592,
+        "valueIncreaseRate": 0.010356366
+      },
+      {
+        "time": 1605862565821,
+        "taxPaid": 10716.32,
+        "taxIncreaseRate": 0.034140304,
+        "value": 854740,
+        "valueIncreaseRate": 0.019998044
+      },
+      {
+        "time": 1574240165821,
+        "taxPaid": 10362.54,
+        "taxIncreaseRate": 0.043666072,
+        "value": 837982,
+        "valueIncreaseRate": 0.019998735
+      },
+      {
+        "time": 1542704165821,
+        "taxPaid": 9928.98,
+        "taxIncreaseRate": 0.0023623444,
+        "value": 821552,
+        "valueIncreaseRate": 0.019996375
+      },
+      {
+        "time": 1511168165821,
+        "taxPaid": 9905.58,
+        "taxIncreaseRate": -0.008162483,
+        "value": 805446,
+        "valueIncreaseRate": 0.019998632
+      },
+      {
+        "time": 1479632165821,
+        "taxPaid": 9987.1,
+        "taxIncreaseRate": 0.04744768,
+        "value": 789654,
+        "valueIncreaseRate": 0.015248253
+      },
+      {
+        "time": 1448009765821,
+        "taxPaid": 9534.7,
+        "taxIncreaseRate": 0.027138412,
+        "value": 777794,
+        "valueIncreaseRate": 0.019977445
+      },
+      {
+        "time": 1416473765821,
+        "taxPaid": 9282.78,
+        "taxIncreaseRate": 0,
+        "value": 762560,
+        "valueIncreaseRate": 0.004536856
+      },
+      {
+        "time": 1384937765821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 759116,
+        "valueIncreaseRate": 0.01999914
+      },
+      {
+        "time": 1353401765821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 744232,
+        "valueIncreaseRate": 0.019998904
+      },
+      {
+        "time": 1321779365821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 729640,
+        "valueIncreaseRate": 0.007527041
+      },
+      {
+        "time": 1290243365821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 724189,
+        "valueIncreaseRate": -0.0023708174
+      },
+      {
+        "time": 1258707365821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 725910,
+        "valueIncreaseRate": 0.019994942
+      },
+      {
+        "time": 1227171365821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 711680,
+        "valueIncreaseRate": 0.019999254
+      },
+      {
+        "time": 1195548965821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 697726,
+        "valueIncreaseRate": 0.019998655
+      },
+      {
+        "time": 1164012965821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 684046,
+        "valueIncreaseRate": 0.019995945
+      },
+      {
+        "time": 1132476965821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 670636,
+        "valueIncreaseRate": 0.039036937
+      },
+      {
+        "time": 1069318565821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 645440,
+        "valueIncreaseRate": 0.019997282
+      },
+      {
+        "time": 1037782565821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 632786,
+        "valueIncreaseRate": 0.019990845
+      },
+      {
+        "time": 1006246565821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 620384,
+        "valueIncreaseRate": 0.019999342
+      },
+      {
+        "time": 974710565821,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 608220,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 453490057,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1f1f1e464ce4e980bae6cd50b3e4a017-p_c.jpg"
+          }
+        ],
+        "price": 2505000,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "livingArea": 4308,
+        "livingAreaValue": 4308,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2199,
+        "lotAreaValue": 2199.78,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "5050A-50B Walter St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "5050A-50B Walter St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76829,
+        "longitude": -122.43259,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/5050A-50B-Walter-St-San-Francisco-CA-94114/453490057_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425044511",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15142830,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a74f0d4b1917acb6d3300b6817fe8e2e-p_c.jpg"
+          }
+        ],
+        "price": 3497100,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "livingArea": 2774,
+        "livingAreaValue": 2774,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2199,
+        "lotAreaValue": 2199,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "56 Walter St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "56 Walter St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76822,
+        "longitude": -122.432625,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/56-Walter-St-San-Francisco-CA-94114/15142830_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2094785764,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a918595268b57a51d7b02b2966a27b11-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1350,
+        "livingAreaValue": 1350,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "58 Walter St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "58 Walter St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.768234,
+        "longitude": -122.432526,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/58-Walter-St-San-Francisco-CA-94114/2094785764_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2096467233,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/618c50619b0ae83c13cc93e245ed2476-p_c.jpg"
+          }
+        ],
+        "price": 1496400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1650,
+        "livingAreaValue": 1650,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "58 Walter Street #Top Floor",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "58 Walter Street #Top Floor"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.768234,
+        "longitude": -122.432526,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/58-Walter-Street-Top-Floor-San-Francisco-CA-94114/2096467233_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15142828,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6d1d82a06d10aa6fcb8d4384bb27bdde-p_c.jpg"
+          }
+        ],
+        "price": 2602900,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1756,
+        "livingAreaValue": 1756,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "42 Walter St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "42 Walter St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76842,
+        "longitude": -122.43266,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/42-Walter-St-San-Francisco-CA-94114/15142828_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332858952,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.768150329589844,-122.4326171875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9CgSM4eNJbxbwRZ8Cxh08vddJm8="
+          }
+        ],
+        "price": 2733200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 4,
+        "livingArea": 4012,
+        "livingAreaValue": 4012,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2199,
+        "lotAreaValue": 2199,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "58-60 Walter St #60A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "58-60 Walter St #60A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76815,
+        "longitude": -122.43262,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/58-60-Walter-St-60A-San-Francisco-CA-94114/332858952_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2055945397,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/20b111c4a7bb0cdbcfcce8d94008d661-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "livingArea": 250,
+        "livingAreaValue": 250,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "60 Walter St #A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "60 Walter St #A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76815,
+        "longitude": -122.43262,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/60-Walter-St-A-San-Francisco-CA-94114/2055945397_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 52273842,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a0a49885d126859e0987c61d64599195-p_c.jpg"
+          }
+        ],
+        "price": 1526400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1152,
+        "livingAreaValue": 1152,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "38 Walter St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "38 Walter St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76849,
+        "longitude": -122.43267,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/38-Walter-St-San-Francisco-CA-94114/52273842_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4YEFc31XUs_ne-a6PiiQ-3XqLrk=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OL8joew4i7qGuQRn_Murmn3If34=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2TNnPO6SPHfVJ5TetItWGAEggeI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XARsWzI5rA3m_hgCsSlJmDdJCnY=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HQmx_aHH02Y1hslMppyy9PMy1IY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PWOGbZLr9tAAIJYW-jrmUCmy-1c=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QBEB-KTyuGmMoFDSOsEQUBKCSd8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fLI7dxjujjrQMvsgWu4vzViIajA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XGnB728OVKvCwUoo02ksH0AzzVM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OL8joew4i7qGuQRn_Murmn3If34=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2TNnPO6SPHfVJ5TetItWGAEggeI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XARsWzI5rA3m_hgCsSlJmDdJCnY=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HQmx_aHH02Y1hslMppyy9PMy1IY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PWOGbZLr9tAAIJYW-jrmUCmy-1c=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QBEB-KTyuGmMoFDSOsEQUBKCSd8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fLI7dxjujjrQMvsgWu4vzViIajA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XGnB728OVKvCwUoo02ksH0AzzVM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Ock-NUF9s1_mhUQwFjSXfWPZAB8=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yrmDDJm60VPL7kpzcORZUk1Km2g=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fLI7dxjujjrQMvsgWu4vzViIajA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XGnB728OVKvCwUoo02ksH0AzzVM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Ock-NUF9s1_mhUQwFjSXfWPZAB8=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yrmDDJm60VPL7kpzcORZUk1Km2g=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fLI7dxjujjrQMvsgWu4vzViIajA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XGnB728OVKvCwUoo02ksH0AzzVM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=50-52+Walter+St%2C+San+Francisco%2C+CA+94114&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VA5PyHjmtuBUSiutG8j7kekk5tE="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/50-52-Walter-St-San-Francisco-CA-94114/331537101_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/50-52-Walter-St-San-Francisco-CA-94114/331537101_zpid/",
+    "zpid": 331537101
+  }
+}

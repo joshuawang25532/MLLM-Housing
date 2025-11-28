@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15178257,
+    "address": "424 Cordova St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1189,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2443,
+    "lotAreaValue": 2443,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1923,
+    "homeType": "SINGLE_FAMILY",
+    "description": "424 Cordova St, San Francisco, CA 94112 is a single family home that contains 1,189 sq ft and was built in 1923. It contains 1 bathroom. This home last sold for $950,000 in April 2025. \n \nThe Zestimate for this house is $963,900. The Rent Zestimate for this home is $3,118/mo. "
+  },
+  "location": {
+    "latitude": 37.709797,
+    "longitude": -122.4351,
+    "neighborhood": "Crocker Amazon",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 950000,
+    "lastSoldPrice": 950000,
+    "dateSold": 1745539200000,
+    "dateSoldString": "2025-04-25",
+    "zestimate": 963900,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 3118,
+    "taxAssessedValue": 47751,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 799
+  },
+  "schools": [
+    {
+      "name": "Guadalupe Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Visitacion Valley Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 1.3,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Balboa High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 67,
+    "transitScore": 62,
+    "bikeScore": 29
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-04-25",
+        "time": 1745539200000,
+        "price": 950000,
+        "pricePerSquareFoot": 799,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763637818382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 47751,
+        "valueIncreaseRate": 0.019971805
+      },
+      {
+        "time": 1732101818382,
+        "taxPaid": 577.38,
+        "taxIncreaseRate": 0.014656311,
+        "value": 46816,
+        "valueIncreaseRate": 0.019978648
+      },
+      {
+        "time": 1700479418382,
+        "taxPaid": 569.04,
+        "taxIncreaseRate": 0.017450916,
+        "value": 45899,
+        "valueIncreaseRate": 0.019977778
+      },
+      {
+        "time": 1668943418382,
+        "taxPaid": 559.28,
+        "taxIncreaseRate": 0.017094683,
+        "value": 45000,
+        "valueIncreaseRate": 0.01996872
+      },
+      {
+        "time": 1637407418382,
+        "taxPaid": 549.88,
+        "taxIncreaseRate": -0.0009448029,
+        "value": 44119,
+        "valueIncreaseRate": 0.010327929
+      },
+      {
+        "time": 1605871418382,
+        "taxPaid": 550.4,
+        "taxIncreaseRate": 0.031445652,
+        "value": 43668,
+        "valueIncreaseRate": 0.01997057
+      },
+      {
+        "time": 1574249018382,
+        "taxPaid": 533.62,
+        "taxIncreaseRate": 0.030671775,
+        "value": 42813,
+        "valueIncreaseRate": 0.019964265
+      },
+      {
+        "time": 1542713018382,
+        "taxPaid": 517.74,
+        "taxIncreaseRate": 0.012476543,
+        "value": 41975,
+        "valueIncreaseRate": 0.019974243
+      },
+      {
+        "time": 1511177018382,
+        "taxPaid": 511.36,
+        "taxIncreaseRate": 0.082885064,
+        "value": 41153,
+        "valueIncreaseRate": 0.019976702
+      },
+      {
+        "time": 1479641018382,
+        "taxPaid": 472.22,
+        "taxIncreaseRate": 0.012912889,
+        "value": 40347,
+        "valueIncreaseRate": 0.015223189
+      },
+      {
+        "time": 1448018618382,
+        "taxPaid": 466.2,
+        "taxIncreaseRate": 0.026058692,
+        "value": 39742,
+        "valueIncreaseRate": 0.019940972
+      },
+      {
+        "time": 1416482618382,
+        "taxPaid": 454.36,
+        "taxIncreaseRate": 0,
+        "value": 38965,
+        "valueIncreaseRate": 0.004511472
+      },
+      {
+        "time": 1384946618382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 38790,
+        "valueIncreaseRate": 0.019984223
+      },
+      {
+        "time": 1353410618382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 38030,
+        "valueIncreaseRate": 0.01995387
+      },
+      {
+        "time": 1321788218382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 37286,
+        "valueIncreaseRate": 0.007457444
+      },
+      {
+        "time": 1290252218382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 37010,
+        "valueIncreaseRate": -0.0023720956
+      },
+      {
+        "time": 1258716218382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 37098,
+        "valueIncreaseRate": 0.019960409
+      },
+      {
+        "time": 1227180218382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 36372,
+        "valueIncreaseRate": 0.019966349
+      },
+      {
+        "time": 1195557818382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 35660,
+        "valueIncreaseRate": 0.019993708
+      },
+      {
+        "time": 1164021818382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 34961,
+        "valueIncreaseRate": 0.019984828
+      },
+      {
+        "time": 1132485818382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 34276,
+        "valueIncreaseRate": 0.03898151
+      },
+      {
+        "time": 1069327418382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 32990,
+        "valueIncreaseRate": 0.019972792
+      },
+      {
+        "time": 1037791418382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 32344,
+        "valueIncreaseRate": 0.019961527
+      },
+      {
+        "time": 1006255418382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 31711,
+        "valueIncreaseRate": 0.019974269
+      },
+      {
+        "time": 974719418382,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 31090,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15178258,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4be65f2a5626ef3f132c425c16d8eb47-p_c.jpg"
+          }
+        ],
+        "price": 1205000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1449,
+        "livingAreaValue": 1449,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2487,
+        "lotAreaValue": 2487.276,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "430 Cordova St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "430 Cordova St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.70975,
+        "longitude": -122.43505,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/430-Cordova-St-San-Francisco-CA-94112/15178258_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424031687",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178256,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70985794067383,-122.43513488769531&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Dwtkzqplck_uExuReCa5tKaZoz0="
+          }
+        ],
+        "price": 1047400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1364,
+        "livingAreaValue": 1364,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2761,
+        "lotAreaValue": 2761,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "418 Cordova St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "418 Cordova St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709858,
+        "longitude": -122.435135,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/418-Cordova-St-San-Francisco-CA-94112/15178256_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178255,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.709922790527344,-122.43516540527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9c9zJyhH0jRt1q7CTg_FbrjV-o0="
+          }
+        ],
+        "price": 1328200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2565,
+        "livingAreaValue": 2565,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2543,
+        "lotAreaValue": 2543,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "412 Cordova St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "412 Cordova St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709923,
+        "longitude": -122.435165,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/412-Cordova-St-San-Francisco-CA-94112/15178255_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178259,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/51113bf2331e6e9562b526545a79c159-p_c.jpg"
+          }
+        ],
+        "price": 1303400,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 1592,
+        "livingAreaValue": 1592,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2530,
+        "lotAreaValue": 2530,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "436 Cordova St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "436 Cordova St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709667,
+        "longitude": -122.43504,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/436-Cordova-St-San-Francisco-CA-94112/15178259_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178261,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=224+Winding+Way%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5ZoHjm--ed1V8GJTOO3viZNJ-Ek="
+          }
+        ],
+        "price": 1005900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1263,
+        "livingAreaValue": 1263,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2950,
+        "lotAreaValue": 2950,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "224 Winding Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "224 Winding Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.70965,
+        "longitude": -122.43527,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/224-Winding-Way-San-Francisco-CA-94112/15178261_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178254,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70998764038086,-122.43518829345703&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0FGJVgDPPx9EtwHtYmgXotfPdbA="
+          }
+        ],
+        "price": 1006400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1414,
+        "livingAreaValue": 1414,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "406 Cordova St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "406 Cordova St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709988,
+        "longitude": -122.43519,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/406-Cordova-St-San-Francisco-CA-94112/15178254_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178260,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=442+Cordova+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kVFShmA_N8XdyHLXQE4U_v2cw08="
+          }
+        ],
+        "price": 1025800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1470,
+        "livingAreaValue": 1470,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "442 Cordova St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "442 Cordova St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709602,
+        "longitude": -122.43502,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/442-Cordova-St-San-Francisco-CA-94112/15178260_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178278,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70990753173828,-122.43539428710938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2taeXequFKPIvYWAsL6wIu2rjp4="
+          }
+        ],
+        "price": 1358000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2220,
+        "livingAreaValue": 2220,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3114,
+        "lotAreaValue": 3114,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "921 Prague St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "921 Prague St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709908,
+        "longitude": -122.435394,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/921-Prague-St-San-Francisco-CA-94112/15178278_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Fhb3ToDZXdDpOOljRzotRLc6NXY=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VJiVy5lmAIpNnp70v88HwBMFaYE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NeeEpWw2vLFvoFgSUM2F54wD03M=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eJTR5Qp3rPyOLtcY3m9W1UqDJf8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Q1TM__AcOO9zPVGIIANb_2RrkMo=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MTNJZK9PeKEFq9e38VFJJnANCGw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rDN5LWwBHkHRWNyh-YGGpsLef_4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gLHi0sVjckb5sy3p-qCt0utPmk0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rNYflG7c_mvoZ2PLIXcWCFrGnq0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VJiVy5lmAIpNnp70v88HwBMFaYE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NeeEpWw2vLFvoFgSUM2F54wD03M=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eJTR5Qp3rPyOLtcY3m9W1UqDJf8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Q1TM__AcOO9zPVGIIANb_2RrkMo=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MTNJZK9PeKEFq9e38VFJJnANCGw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rDN5LWwBHkHRWNyh-YGGpsLef_4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gLHi0sVjckb5sy3p-qCt0utPmk0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rNYflG7c_mvoZ2PLIXcWCFrGnq0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=b_qx4Li0A8LX0ocqi-KTvKtPFPM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fvwHa8QU4M8j8tmiY-TnaMdW4ic=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gLHi0sVjckb5sy3p-qCt0utPmk0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rNYflG7c_mvoZ2PLIXcWCFrGnq0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=b_qx4Li0A8LX0ocqi-KTvKtPFPM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fvwHa8QU4M8j8tmiY-TnaMdW4ic=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gLHi0sVjckb5sy3p-qCt0utPmk0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rNYflG7c_mvoZ2PLIXcWCFrGnq0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.70979690551758,-122.43509674072266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XvOzpIaZA-ySZ8Sy0QgKk5RyYJU="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/424-Cordova-St-San-Francisco-CA-94112/15178257_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/424-Cordova-St-San-Francisco-CA-94112/15178257_zpid/",
+    "zpid": 15178257
+  }
+}

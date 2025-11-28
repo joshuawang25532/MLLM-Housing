@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15099263,
+    "address": "715 19th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94121",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1244,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2060,
+    "lotAreaValue": 2060,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1922,
+    "homeType": "SINGLE_FAMILY",
+    "description": "715 19th Ave, San Francisco, CA 94121 is a single family home that contains 1,244 sq ft and was built in 1922. It contains 1 bathroom. This home last sold for $750,000 in July 2025. \n \nThe Zestimate for this house is $1,211,800. The Rent Zestimate for this home is $4,001/mo. "
+  },
+  "location": {
+    "latitude": 37.77437,
+    "longitude": -122.478134,
+    "neighborhood": "Outer Richmond",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 750000,
+    "lastSoldPrice": 750000,
+    "dateSold": 1751500800000,
+    "dateSoldString": "2025-07-03",
+    "zestimate": 1211800,
+    "zestimateHighPercent": "13",
+    "zestimateLowPercent": "13",
+    "rentZestimate": 4001,
+    "taxAssessedValue": 88184,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 603
+  },
+  "schools": [
+    {
+      "name": "Argonne Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Presidio Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.8,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Washington (George) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 87,
+    "transitScore": 72,
+    "bikeScore": 75
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-07-03",
+        "time": 1751500800000,
+        "price": 750000,
+        "pricePerSquareFoot": 603,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763638332607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 88184,
+        "valueIncreaseRate": 0.019998843
+      },
+      {
+        "time": 1732102332607,
+        "taxPaid": 1720,
+        "taxIncreaseRate": 0.022774603,
+        "value": 86455,
+        "valueIncreaseRate": 0.019985607
+      },
+      {
+        "time": 1700479932607,
+        "taxPaid": 1681.7,
+        "taxIncreaseRate": 0.031489957,
+        "value": 84761,
+        "valueIncreaseRate": 0.019987967
+      },
+      {
+        "time": 1668943932607,
+        "taxPaid": 1630.36,
+        "taxIncreaseRate": 0.022605274,
+        "value": 83100,
+        "valueIncreaseRate": 0.019982325
+      },
+      {
+        "time": 1637407932607,
+        "taxPaid": 1594.32,
+        "taxIncreaseRate": -0.017453082,
+        "value": 81472,
+        "valueIncreaseRate": 0.010342519
+      },
+      {
+        "time": 1605871932607,
+        "taxPaid": 1622.64,
+        "taxIncreaseRate": 0.03297602,
+        "value": 80638,
+        "valueIncreaseRate": 0.019985327
+      },
+      {
+        "time": 1574249532607,
+        "taxPaid": 1570.84,
+        "taxIncreaseRate": 0.034481842,
+        "value": 79058,
+        "valueIncreaseRate": 0.019984776
+      },
+      {
+        "time": 1542713532607,
+        "taxPaid": 1518.48,
+        "taxIncreaseRate": 0.26470435,
+        "value": 77509,
+        "valueIncreaseRate": 0.01997605
+      },
+      {
+        "time": 1511177532607,
+        "taxPaid": 1200.66,
+        "taxIncreaseRate": 0.045852873,
+        "value": 75991,
+        "valueIncreaseRate": 0.01998604
+      },
+      {
+        "time": 1479641532607,
+        "taxPaid": 1148.02,
+        "taxIncreaseRate": 0.3286654,
+        "value": 74502,
+        "valueIncreaseRate": 0.015234929
+      },
+      {
+        "time": 1448019132607,
+        "taxPaid": 864.04,
+        "taxIncreaseRate": 0.026565898,
+        "value": 73384,
+        "valueIncreaseRate": 0.01995886
+      },
+      {
+        "time": 1416483132607,
+        "taxPaid": 841.68,
+        "taxIncreaseRate": 0,
+        "value": 71948,
+        "valueIncreaseRate": 0.0045376485
+      },
+      {
+        "time": 1384947132607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 71623,
+        "valueIncreaseRate": 0.019980062
+      },
+      {
+        "time": 1353411132607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 70220,
+        "valueIncreaseRate": 0.019972403
+      },
+      {
+        "time": 1321788732607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68845,
+        "valueIncreaseRate": 0.0074927197
+      },
+      {
+        "time": 1290252732607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68333,
+        "valueIncreaseRate": -0.002365136
+      },
+      {
+        "time": 1258716732607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68495,
+        "valueIncreaseRate": 0.019984215
+      },
+      {
+        "time": 1227180732607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 67153,
+        "valueIncreaseRate": 0.01998876
+      },
+      {
+        "time": 1195558332607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 65837,
+        "valueIncreaseRate": 0.019985437
+      },
+      {
+        "time": 1164022332607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64547,
+        "valueIncreaseRate": 0.019989887
+      },
+      {
+        "time": 1132486332607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63282,
+        "valueIncreaseRate": 0.039010935
+      },
+      {
+        "time": 1069327932607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 60906,
+        "valueIncreaseRate": 0.0199789
+      },
+      {
+        "time": 1037791932607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59713,
+        "valueIncreaseRate": 0.019967888
+      },
+      {
+        "time": 1006255932607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 58544,
+        "valueIncreaseRate": 0.020001395
+      },
+      {
+        "time": 974719932607,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57396,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15099262,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/bfa4a7b84a399f26dfaa835af0698378-p_c.jpg"
+          }
+        ],
+        "price": 1650000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1500,
+        "livingAreaValue": 1500,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2060,
+        "lotAreaValue": 2060.388,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "711 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "711 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77445,
+        "longitude": -122.4781,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/711-19th-Ave-San-Francisco-CA-94121/15099262_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423755503",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856156,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.774295806884766,-122.47819519042969&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yZabsRGxKzXrV7nIvQX10F_Aroo="
+          }
+        ],
+        "price": 1598600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 3300,
+        "livingAreaValue": 3300,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "719-721 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "719-721 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.774296,
+        "longitude": -122.478195,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/719-721-19th-Ave-San-Francisco-CA-94121/332856156_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15099261,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d2cf9fba75909ae8647ddbff156cd003-p_c.jpg"
+          }
+        ],
+        "price": 1588000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1279,
+        "livingAreaValue": 1279,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2064,
+        "lotAreaValue": 2064.744,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "707 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "707 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77451,
+        "longitude": -122.47815,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/707-19th-Ave-San-Francisco-CA-94121/15099261_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425040058",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856157,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.774227142333984,-122.47818756103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lVZI7_KvfNwDxWY4Gx-HSxyZHGs="
+          }
+        ],
+        "price": 1520100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2948,
+        "livingAreaValue": 2948,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "723-725 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "723-725 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.774227,
+        "longitude": -122.47819,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/723-725-19th-Ave-San-Francisco-CA-94121/332856157_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332856177,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77446365356445,-122.47832489013672&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eSgCJCBcezFNch0SW9cHAgNILfo="
+          }
+        ],
+        "price": 2475600,
+        "currency": "USD",
+        "bedrooms": 9,
+        "bathrooms": 5,
+        "livingArea": 4491,
+        "livingAreaValue": 4491,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1821-1823 Cabrillo St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1821-1823 Cabrillo St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.774464,
+        "longitude": -122.478325,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1821-1823-Cabrillo-St-San-Francisco-CA-94121/332856177_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2054508753,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/983c36722d0222c58d67d93bd60d6bee-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 200,
+        "livingAreaValue": 200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1821 Cabrillo St #A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1821 Cabrillo St #A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.774464,
+        "longitude": -122.478325,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1821-Cabrillo-St-A-San-Francisco-CA-94121/2054508753_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "10jhb56pje049",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2093061252,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/5c75458c324fbefeac5e076af57d1b6c-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1821 Cabrillo St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1821 Cabrillo St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.774464,
+        "longitude": -122.478325,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1821-Cabrillo-St-San-Francisco-CA-94121/2093061252_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "8raj4x7uapa",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15099266,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7741584777832,-122.47818756103516&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=x1IBVsYIgHtWjrOa8ebQVw9_4n4="
+          }
+        ],
+        "price": 1842300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2512,
+        "livingAreaValue": 2512,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "727 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "727 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77416,
+        "longitude": -122.47819,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/727-19th-Ave-San-Francisco-CA-94121/15099266_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=K0z4QzoKwHfc2_GQ8ZcVw9_opUA=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3Lx5G_TBpO5kWwaZygjabJLS-8g=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lmAUMQ_s44FoV5bS2owHLyYzvP8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4NpmYk-p0lj1vgw4HcUHw8Fw4lw=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OHJeGo6u9pZsBKnLZY-Piw-gjpU=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=L7qTNcyruWx-Ns1umIwI2tTcdmw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cudA_FQ0WZ-2yZaSlw7N2fELYFU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PqGJFh6BigkSpyjSYqlkSG7IRC0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OW68JvFJsoaZYqfER_pS45RfaE0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3Lx5G_TBpO5kWwaZygjabJLS-8g=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lmAUMQ_s44FoV5bS2owHLyYzvP8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4NpmYk-p0lj1vgw4HcUHw8Fw4lw=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OHJeGo6u9pZsBKnLZY-Piw-gjpU=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=L7qTNcyruWx-Ns1umIwI2tTcdmw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cudA_FQ0WZ-2yZaSlw7N2fELYFU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PqGJFh6BigkSpyjSYqlkSG7IRC0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OW68JvFJsoaZYqfER_pS45RfaE0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cr1vyKZex-ydPiNsx93PwZEF92M=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tn2FfW5Qu6vMYd0-dW36c5dIEL4=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PqGJFh6BigkSpyjSYqlkSG7IRC0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OW68JvFJsoaZYqfER_pS45RfaE0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cr1vyKZex-ydPiNsx93PwZEF92M=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tn2FfW5Qu6vMYd0-dW36c5dIEL4=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PqGJFh6BigkSpyjSYqlkSG7IRC0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OW68JvFJsoaZYqfER_pS45RfaE0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.77436828613281,-122.47813415527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zwh_JuQxtDCBzBB-PABs-OIIsUk="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/715-19th-Ave-San-Francisco-CA-94121/15099263_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/715-19th-Ave-San-Francisco-CA-94121/15099263_zpid/",
+    "zpid": 15099263
+  }
+}

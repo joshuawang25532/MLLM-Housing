@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 15118418,
+    "address": "2263 47th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94116",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "livingArea": 975,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2996,
+    "lotAreaValue": 2996,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1940,
+    "homeType": "SINGLE_FAMILY",
+    "description": "2263 47th Ave, San Francisco, CA 94116 is a single family home that contains 975 sq ft and was built in 1940. It contains 2 bedrooms and 1 bathroom. This home last sold for $1,750,000 in April 2025. \n \nThe Zestimate for this house is $1,775,600. The Rent Zestimate for this home is $3,646/mo. "
+  },
+  "location": {
+    "latitude": 37.74427,
+    "longitude": -122.5062,
+    "neighborhood": "Outer Sunset",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1750000,
+    "lastSoldPrice": 1750000,
+    "dateSold": 1745539200000,
+    "dateSoldString": "2025-04-25",
+    "zestimate": 1775600,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 3646,
+    "taxAssessedValue": 1253837,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1795
+  },
+  "schools": [
+    {
+      "name": "Ulloa Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.6,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Hoover (Herbert) Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lincoln (Abraham) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 1.4,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 59,
+    "transitScore": 56,
+    "bikeScore": 73
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-04-25",
+        "time": 1745539200000,
+        "price": 1750000,
+        "pricePerSquareFoot": 1795,
+        "priceChangeRate": 0.75,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2018-08-31",
+        "time": 1535673600000,
+        "price": 1000000,
+        "pricePerSquareFoot": 1026,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "BAREIS",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "473546",
+          "infoString2": "BAREIS",
+          "infoString3": "https://photos.zillowstatic.com/fp/865e93bf342a827018e48d8d656d8569-zillow_web_logo_inf_11.jpg"
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763642612464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1253837,
+        "valueIncreaseRate": 0.019999137
+      },
+      {
+        "time": 1732106612464,
+        "taxPaid": 15189.18,
+        "taxIncreaseRate": 0.015392807,
+        "value": 1229253,
+        "valueIncreaseRate": 0.019999154
+      },
+      {
+        "time": 1700484212464,
+        "taxPaid": 14958.92,
+        "taxIncreaseRate": 0.019594496,
+        "value": 1205151,
+        "valueIncreaseRate": 0.019998781
+      },
+      {
+        "time": 1668948212464,
+        "taxPaid": 14671.44,
+        "taxIncreaseRate": 0.018065298,
+        "value": 1181522,
+        "valueIncreaseRate": 0.019998152
+      },
+      {
+        "time": 1637412212464,
+        "taxPaid": 14411.1,
+        "taxIncreaseRate": -0.0047775777,
+        "value": 1158357,
+        "valueIncreaseRate": 0.010359535
+      },
+      {
+        "time": 1605876212464,
+        "taxPaid": 14480.28,
+        "taxIncreaseRate": 0.15643336,
+        "value": 1146480,
+        "valueIncreaseRate": 0.14648
+      },
+      {
+        "time": 1574253812464,
+        "taxPaid": 12521.5,
+        "taxIncreaseRate": 5.6924105,
+        "value": 1000000,
+        "valueIncreaseRate": 5.3158026
+      },
+      {
+        "time": 1542717812464,
+        "taxPaid": 1871,
+        "taxIncreaseRate": 0.01207345,
+        "value": 158333,
+        "valueIncreaseRate": 0.019996263
+      },
+      {
+        "time": 1511181812464,
+        "taxPaid": 1848.68,
+        "taxIncreaseRate": 0.032193962,
+        "value": 155229,
+        "valueIncreaseRate": 0.019995268
+      },
+      {
+        "time": 1479645812464,
+        "taxPaid": 1791.02,
+        "taxIncreaseRate": 0.012482096,
+        "value": 152186,
+        "valueIncreaseRate": 0.015243394
+      },
+      {
+        "time": 1448023412464,
+        "taxPaid": 1768.94,
+        "taxIncreaseRate": 0.026901176,
+        "value": 149901,
+        "valueIncreaseRate": 0.019977545
+      },
+      {
+        "time": 1416487412464,
+        "taxPaid": 1722.6,
+        "taxIncreaseRate": 0,
+        "value": 146965,
+        "valueIncreaseRate": 0.004531722
+      },
+      {
+        "time": 1384951412464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 146302,
+        "valueIncreaseRate": 0.01999526
+      },
+      {
+        "time": 1353415412464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 143434,
+        "valueIncreaseRate": 0.019989617
+      },
+      {
+        "time": 1321793012464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 140623,
+        "valueIncreaseRate": 0.0075157266
+      },
+      {
+        "time": 1290257012464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 139574,
+        "valueIncreaseRate": -0.0023730218
+      },
+      {
+        "time": 1258721012464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 139906,
+        "valueIncreaseRate": 0.019998105
+      },
+      {
+        "time": 1227185012464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 137163,
+        "valueIncreaseRate": 0.01999643
+      },
+      {
+        "time": 1195562612464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 134474,
+        "valueIncreaseRate": 0.019994235
+      },
+      {
+        "time": 1164026612464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 131838,
+        "valueIncreaseRate": 0.019991644
+      },
+      {
+        "time": 1132490612464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 129254,
+        "valueIncreaseRate": 0.039027646
+      },
+      {
+        "time": 1069332212464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 124399,
+        "valueIncreaseRate": 0.01999836
+      },
+      {
+        "time": 1037796212464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 121960,
+        "valueIncreaseRate": 0.019971231
+      },
+      {
+        "time": 1006260212464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 119572,
+        "valueIncreaseRate": 0.020003924
+      },
+      {
+        "time": 974724212464,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 117227,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15118419,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.744205474853516,-122.50619506835938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=iA5S61CaqrO5L3ioVVn_J5tPl7c="
+          }
+        ],
+        "price": 1025000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1280,
+        "livingAreaValue": 1280,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2267 47th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2267 47th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.744205,
+        "longitude": -122.506195,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2267-47th-Ave-San-Francisco-CA-94116/15118419_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118417,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74434280395508,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ezq1JwDLtxEJodvN6dE8FdVFWcc="
+          }
+        ],
+        "price": 1331800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1143,
+        "livingAreaValue": 1143,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2259 47th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2259 47th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.744343,
+        "longitude": -122.5062,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2259-47th-Ave-San-Francisco-CA-94116/15118417_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118416,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74441146850586,-122.50621032714844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=87Ks5pRsAqLLQSHolO8fYSQEkxw="
+          }
+        ],
+        "price": 1250800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1100,
+        "livingAreaValue": 1100,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2255 47th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2255 47th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74441,
+        "longitude": -122.50621,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2255-47th-Ave-San-Francisco-CA-94116/15118416_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118420,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/23e3033c1e3d9677121ff1c3509d7f9f-p_c.jpg"
+          }
+        ],
+        "price": 1350000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1586,
+        "livingAreaValue": 1586,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3001,
+        "lotAreaValue": 3001.284,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2271 47th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2271 47th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74414,
+        "longitude": -122.50607,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2271-47th-Ave-San-Francisco-CA-94116/15118420_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423742233",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118457,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/edbde4eeadf70a6c7acafa3718b72f32-p_c.jpg"
+          }
+        ],
+        "price": 2088800,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2190,
+        "livingAreaValue": 2190,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2275 47th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2275 47th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74407,
+        "longitude": -122.50619,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2275-47th-Ave-San-Francisco-CA-94116/15118457_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118415,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f688d73f8fd395621fecd15adb9f804b-p_c.jpg"
+          }
+        ],
+        "price": 1636800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1280,
+        "livingAreaValue": 1280,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2251 47th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2251 47th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.744476,
+        "longitude": -122.50622,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2251-47th-Ave-San-Francisco-CA-94116/15118415_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118458,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4fd55bb823c9728d28eb0901510bf22d-p_c.jpg"
+          }
+        ],
+        "price": 1608400,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 1436,
+        "livingAreaValue": 1436,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2279 47th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2279 47th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.744,
+        "longitude": -122.50618,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2279-47th-Ave-San-Francisco-CA-94116/15118458_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118414,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0af4d6679d1a1ac428e4192a7fc87560-p_c.jpg"
+          }
+        ],
+        "price": 1826100,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "livingArea": 2000,
+        "livingAreaValue": 2000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2247 47th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2247 47th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74455,
+        "longitude": -122.50622,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2247-47th-Ave-San-Francisco-CA-94116/15118414_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "2ecy7y2dff1j7",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wIYraArVYkrXHixsgjLghe6kDAc=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GNBwEt4yYFdkFmNBce-acfb-2Mg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mNbwYm_Z0L2Pp13QGEaM8zwVpwU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9pkRkWlhmmAdesmIe1Lq61KXOck=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IcpgpwHxWxKo7Nsu5QQZm9AgbF4=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=u-DFRG5xdNoqIG4cSZ9qgKPZ0ns=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eb6Vyta-w_Bbqm_QOldDpcR866c=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D3eoIjkbCr9Ca-4mIboQlo1NKd0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=H1jppuJYphiUubyO2aJYWOsPAjY=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GNBwEt4yYFdkFmNBce-acfb-2Mg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mNbwYm_Z0L2Pp13QGEaM8zwVpwU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9pkRkWlhmmAdesmIe1Lq61KXOck=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IcpgpwHxWxKo7Nsu5QQZm9AgbF4=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=u-DFRG5xdNoqIG4cSZ9qgKPZ0ns=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eb6Vyta-w_Bbqm_QOldDpcR866c=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D3eoIjkbCr9Ca-4mIboQlo1NKd0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=H1jppuJYphiUubyO2aJYWOsPAjY=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=A4gOAbV96e-IKYB9W0wEgbIZzNI=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lliK6Yt_DYF2cETDl6WoG48pAt4=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D3eoIjkbCr9Ca-4mIboQlo1NKd0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=H1jppuJYphiUubyO2aJYWOsPAjY=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=A4gOAbV96e-IKYB9W0wEgbIZzNI=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lliK6Yt_DYF2cETDl6WoG48pAt4=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D3eoIjkbCr9Ca-4mIboQlo1NKd0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=H1jppuJYphiUubyO2aJYWOsPAjY=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.74427032470703,-122.5062026977539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=nb5fCC7if4JTF22k3jEG7zY0mmo="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2263-47th-Ave-San-Francisco-CA-94116/15118418_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2263-47th-Ave-San-Francisco-CA-94116/15118418_zpid/",
+    "zpid": 15118418
+  }
+}

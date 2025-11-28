@@ -1,0 +1,1365 @@
+{
+  "basic_info": {
+    "zpid": 53153517,
+    "address": "246 2nd St APT 1201",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94105",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "livingArea": 668,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 2000,
+    "homeType": "CONDO",
+    "description": "246 2nd St APT 1201, San Francisco, CA 94105 is a condo home that contains 668 sq ft and was built in 2000. It contains 1 bedroom and 1 bathroom. This home last sold for $712,500 in September 2025. \n \nThe Zestimate for this house is $716,000. The Rent Zestimate for this home is $3,889/mo. "
+  },
+  "location": {
+    "latitude": 37.785744,
+    "longitude": -122.3974,
+    "neighborhood": "South of Market",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 712500,
+    "lastSoldPrice": 712500,
+    "dateSold": 1758844800000,
+    "dateSoldString": "2025-09-26",
+    "zestimate": 716000,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 3889,
+    "taxAssessedValue": 923364,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": 642,
+    "monthlyHoaFee": 642,
+    "pricePerSquareFoot": 1067
+  },
+  "schools": [
+    {
+      "name": "Daniel Webster Elementary School",
+      "rating": 9,
+      "level": "Elementary",
+      "distance": 1.8,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "S.F. International High School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 1.7,
+      "grades": "8-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 1.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 94,
+    "transitScore": 100,
+    "bikeScore": 75
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-09-26",
+        "time": 1758844800000,
+        "price": 712500,
+        "pricePerSquareFoot": 1067,
+        "priceChangeRate": -0.07286922576447626,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2014-09-30",
+        "time": 1412035200000,
+        "price": 768500,
+        "pricePerSquareFoot": 1150,
+        "priceChangeRate": 0.8297619047619048,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2000-08-17",
+        "time": 966470400000,
+        "price": 420000,
+        "pricePerSquareFoot": 629,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763630796691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 923364,
+        "valueIncreaseRate": 0.019998675
+      },
+      {
+        "time": 1732094796691,
+        "taxPaid": 11394.94,
+        "taxIncreaseRate": 0.016622948,
+        "value": 905260,
+        "valueIncreaseRate": 0.019997476
+      },
+      {
+        "time": 1700472396691,
+        "taxPaid": 11208.62,
+        "taxIncreaseRate": 0.020375457,
+        "value": 887512,
+        "valueIncreaseRate": 0.019997425
+      },
+      {
+        "time": 1668936396691,
+        "taxPaid": 10984.8,
+        "taxIncreaseRate": 0.018416159,
+        "value": 870112,
+        "valueIncreaseRate": 0.019998781
+      },
+      {
+        "time": 1637400396691,
+        "taxPaid": 10786.16,
+        "taxIncreaseRate": -0.005082399,
+        "value": 853052,
+        "valueIncreaseRate": 0.01035641
+      },
+      {
+        "time": 1605864396691,
+        "taxPaid": 10841.26,
+        "taxIncreaseRate": 0.03521027,
+        "value": 844308,
+        "valueIncreaseRate": 0.019996231
+      },
+      {
+        "time": 1574241996691,
+        "taxPaid": 10472.52,
+        "taxIncreaseRate": 0.034858514,
+        "value": 827756,
+        "valueIncreaseRate": 0.019996846
+      },
+      {
+        "time": 1542705996691,
+        "taxPaid": 10119.76,
+        "taxIncreaseRate": 0.04320751,
+        "value": 811528,
+        "valueIncreaseRate": 0.019999597
+      },
+      {
+        "time": 1511169996691,
+        "taxPaid": 9700.62,
+        "taxIncreaseRate": 0.017856434,
+        "value": 795616,
+        "valueIncreaseRate": 0.01999959
+      },
+      {
+        "time": 1479633996691,
+        "taxPaid": 9530.44,
+        "taxIncreaseRate": 0.012648494,
+        "value": 780016,
+        "valueIncreaseRate": 0.015249251
+      },
+      {
+        "time": 1448011596691,
+        "taxPaid": 9411.4,
+        "taxIncreaseRate": 0.43600878,
+        "value": 768300,
+        "valueIncreaseRate": 0.48819786
+      },
+      {
+        "time": 1416475596691,
+        "taxPaid": 6553.86,
+        "taxIncreaseRate": 0,
+        "value": 516262,
+        "valueIncreaseRate": 0.004537583
+      },
+      {
+        "time": 1384939596691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 513930,
+        "valueIncreaseRate": 0.019997856
+      },
+      {
+        "time": 1353403596691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 503854,
+        "valueIncreaseRate": 0.019996922
+      },
+      {
+        "time": 1321781196691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 493976,
+        "valueIncreaseRate": 0.0075221094
+      },
+      {
+        "time": 1290245196691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 490288,
+        "valueIncreaseRate": -0.0023684918
+      },
+      {
+        "time": 1258709196691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 491452,
+        "valueIncreaseRate": -0.32000044
+      },
+      {
+        "time": 1227173196691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 722724,
+        "valueIncreaseRate": 0.019997036
+      },
+      {
+        "time": 1195550796691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 708555,
+        "valueIncreaseRate": 0.019999655
+      },
+      {
+        "time": 1164014796691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 694662,
+        "valueIncreaseRate": 0.019998766
+      },
+      {
+        "time": 1132478796691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 681042,
+        "valueIncreaseRate": 0.03904176
+      },
+      {
+        "time": 1069320396691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 655452,
+        "valueIncreaseRate": 0.53
+      },
+      {
+        "time": 1037784396691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 428400,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1006248396691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 420000,
+        "valueIncreaseRate": 0
+      },
+      {
+        "time": 974712396691,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": null,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 50883643,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.785743713378906,-122.39739990234375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OqAdgjbrHy8SVAkmz_X7kcwWjEo="
+          }
+        ],
+        "price": 1007100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1097,
+        "livingAreaValue": 1097,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1090,
+        "lotAreaValue": 1090,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "246 2nd St APT 603",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94105"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "246 2nd St APT 603"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.785744,
+        "longitude": -122.3974,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/246-2nd-St-APT-603-San-Francisco-CA-94105/50883643_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 50885147,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OplAsKylUqozo4Es76UfIR-R_JA="
+          }
+        ],
+        "price": 599900,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 668,
+        "livingAreaValue": 668,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "246 2nd St APT 1001",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94105"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "246 2nd St APT 1001"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.785744,
+        "longitude": -122.3974,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/246-2nd-St-APT-1001-San-Francisco-CA-94105/50885147_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 50885148,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OplAsKylUqozo4Es76UfIR-R_JA="
+          }
+        ],
+        "price": 961500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1047,
+        "livingAreaValue": 1047,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "246 2nd St APT 1407",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94105"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "246 2nd St APT 1407"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.785744,
+        "longitude": -122.3974,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/246-2nd-St-APT-1407-San-Francisco-CA-94105/50885148_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 50894956,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4792183f9c0dfb10ea5f77b69fbe44aa-p_c.jpg"
+          }
+        ],
+        "price": 513100,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 685,
+        "livingAreaValue": 685,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "246 2nd St APT 604",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94105"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "246 2nd St APT 604"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.785744,
+        "longitude": -122.3974,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/246-2nd-St-APT-604-San-Francisco-CA-94105/50894956_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 51174979,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f665053483418c4bb022e762ce60cb02-p_c.jpg"
+          }
+        ],
+        "price": 1540000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1487,
+        "livingAreaValue": 1487,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "246 2nd St APT 1502",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94105"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "246 2nd St APT 1502"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.785744,
+        "longitude": -122.3974,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/246-2nd-St-APT-1502-San-Francisco-CA-94105/51174979_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 52273846,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0e11bc5d0007b0cec1a22a7c17588d24-p_c.jpg"
+          }
+        ],
+        "price": 967900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1103,
+        "livingAreaValue": 1103,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "246 2nd St APT 1003",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94105"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "246 2nd St APT 1003"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.785744,
+        "longitude": -122.3974,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/246-2nd-St-APT-1003-San-Francisco-CA-94105/52273846_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 52273847,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/91c1014427a44fb858b1a21af99a7355-p_c.jpg"
+          }
+        ],
+        "price": 974300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1097,
+        "livingAreaValue": 1097,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "246 2nd St APT 1403",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94105"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "246 2nd St APT 1403"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.785744,
+        "longitude": -122.3974,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/246-2nd-St-APT-1403-San-Francisco-CA-94105/52273847_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 52524101,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/83f37dbfabc71abc8f347df41df059c2-p_c.jpg"
+          }
+        ],
+        "price": 581200,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 650,
+        "livingAreaValue": 650,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "246 2nd St APT 905",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94105"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "246 2nd St APT 905"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.785744,
+        "longitude": -122.3974,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/246-2nd-St-APT-905-San-Francisco-CA-94105/52524101_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 52524102,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f1ffb3fb75115a546a6c5d93c6f72401-p_c.jpg"
+          }
+        ],
+        "price": 955500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1101,
+        "livingAreaValue": 1101,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "246 2nd St APT 1106",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94105"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "246 2nd St APT 1106"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.785744,
+        "longitude": -122.3974,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/246-2nd-St-APT-1106-San-Francisco-CA-94105/52524102_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": true,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=AggPjo6x8aYUmdknt4dKJ1Di-1w=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NKw0cqDF5fYc8_p537q09tYVJ48=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Hlsx3vx25kUEkXN-M3BHDJTwi1U=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PJ8VuqEkifoCP8rkXi4ompbmQZ8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3jdoM-B97TaISIMAwG5pnlU2q6M=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UzW6m_GnY0nDXuE8D78z-lRv1OU=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Gaeo9VcQBjPN06HCeOZZuwn33u0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eJlfY_Ctg_-oBX9OdLnNtD02PJM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pYCAV7zDi28CGo546ZKOMcjeM4g=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NKw0cqDF5fYc8_p537q09tYVJ48=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Hlsx3vx25kUEkXN-M3BHDJTwi1U=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PJ8VuqEkifoCP8rkXi4ompbmQZ8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3jdoM-B97TaISIMAwG5pnlU2q6M=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UzW6m_GnY0nDXuE8D78z-lRv1OU=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Gaeo9VcQBjPN06HCeOZZuwn33u0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eJlfY_Ctg_-oBX9OdLnNtD02PJM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pYCAV7zDi28CGo546ZKOMcjeM4g=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_-Vou3j33luuygmrqpQ1zRIfS88=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sdg9icoTxxJx87Zj1eGzXk2a4QA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eJlfY_Ctg_-oBX9OdLnNtD02PJM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pYCAV7zDi28CGo546ZKOMcjeM4g=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_-Vou3j33luuygmrqpQ1zRIfS88=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sdg9icoTxxJx87Zj1eGzXk2a4QA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eJlfY_Ctg_-oBX9OdLnNtD02PJM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pYCAV7zDi28CGo546ZKOMcjeM4g=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=246+2nd+St%2C+San+Francisco%2C+CA+94105&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SZLst-nSu9mnbbZEce8lAQTUVCA="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/246-2nd-St-APT-1201-San-Francisco-CA-94105/53153517_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/246-2nd-St-APT-1201-San-Francisco-CA-94105/53153517_zpid/",
+    "zpid": 53153517
+  }
+}

@@ -1,0 +1,1284 @@
+{
+  "basic_info": {
+    "zpid": 15082249,
+    "address": "314 Locust St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94118",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "livingArea": 1191,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1910,
+    "homeType": "CONDO",
+    "description": "314 Locust St, San Francisco, CA 94118 is a condo home that contains 1,191 sq ft and was built in 1910. It contains 2 bedrooms and 2 bathrooms. This home last sold for $1,575,000 in January 2025. \n \nThe Zestimate for this house is $1,603,700. The Rent Zestimate for this home is $6,487/mo. "
+  },
+  "location": {
+    "latitude": 37.78823,
+    "longitude": -122.45189,
+    "neighborhood": "Presidio Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1575000,
+    "lastSoldPrice": 1575000,
+    "dateSold": 1736985600000,
+    "dateSoldString": "2025-01-16",
+    "zestimate": 1603700,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 6487,
+    "taxAssessedValue": 1571556,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1322
+  },
+  "schools": [
+    {
+      "name": "Sutro Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 1.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Roosevelt Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 0.6,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.6,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 95,
+    "transitScore": 68,
+    "bikeScore": 84
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-01-16",
+        "time": 1736985600000,
+        "price": 1575000,
+        "pricePerSquareFoot": 1322,
+        "priceChangeRate": 0.18421052631578946,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2006-02-17",
+        "time": 1140134400000,
+        "price": 1330000,
+        "pricePerSquareFoot": 1117,
+        "priceChangeRate": 1.3581560283687943,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2001-12-19",
+        "time": 1008720000000,
+        "price": 564000,
+        "pricePerSquareFoot": 474,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763643028754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1571556,
+        "valueIncreaseRate": 0.019999456
+      },
+      {
+        "time": 1732107028754,
+        "taxPaid": 18923.74,
+        "taxIncreaseRate": 0.016429432,
+        "value": 1540742,
+        "valueIncreaseRate": 0.019999577
+      },
+      {
+        "time": 1700484628754,
+        "taxPaid": 18617.86,
+        "taxIncreaseRate": 0.019719718,
+        "value": 1510532,
+        "valueIncreaseRate": 0.019999811
+      },
+      {
+        "time": 1668948628754,
+        "taxPaid": 18257.82,
+        "taxIncreaseRate": 0.017926851,
+        "value": 1480914,
+        "valueIncreaseRate": 0.019998925
+      },
+      {
+        "time": 1637412628754,
+        "taxPaid": 17936.28,
+        "taxIncreaseRate": -0.007196907,
+        "value": 1451878,
+        "valueIncreaseRate": 0.010359139
+      },
+      {
+        "time": 1605876628754,
+        "taxPaid": 18066.3,
+        "taxIncreaseRate": 0.035303842,
+        "value": 1436992,
+        "valueIncreaseRate": 0.019999772
+      },
+      {
+        "time": 1574254228754,
+        "taxPaid": 17450.24,
+        "taxIncreaseRate": 0.034942016,
+        "value": 1408816,
+        "valueIncreaseRate": 0.019998638
+      },
+      {
+        "time": 1542718228754,
+        "taxPaid": 16861.08,
+        "taxIncreaseRate": 0.030285751,
+        "value": 1381194,
+        "valueIncreaseRate": 0.019999823
+      },
+      {
+        "time": 1511182228754,
+        "taxPaid": 16365.44,
+        "taxIncreaseRate": 0.016426379,
+        "value": 1354112,
+        "valueIncreaseRate": 0.019999066
+      },
+      {
+        "time": 1479646228754,
+        "taxPaid": 16100.96,
+        "taxIncreaseRate": 0.012605905,
+        "value": 1327562,
+        "valueIncreaseRate": 0.015249055
+      },
+      {
+        "time": 1448023828754,
+        "taxPaid": 15900.52,
+        "taxIncreaseRate": 0.026958352,
+        "value": 1307622,
+        "valueIncreaseRate": 0.019979594
+      },
+      {
+        "time": 1416487828754,
+        "taxPaid": 15483.12,
+        "taxIncreaseRate": 0,
+        "value": 1282008,
+        "valueIncreaseRate": 0.004539991
+      },
+      {
+        "time": 1384951828754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1276214,
+        "valueIncreaseRate": 0.06351167
+      },
+      {
+        "time": 1353415828754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1200000,
+        "valueIncreaseRate": 0
+      },
+      {
+        "time": 1321793428754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1200000,
+        "valueIncreaseRate": 0.09090909
+      },
+      {
+        "time": 1290257428754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1100000,
+        "valueIncreaseRate": 0
+      },
+      {
+        "time": 1258721428754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1100000,
+        "valueIncreaseRate": -0.47003224
+      },
+      {
+        "time": 1227185428754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2075598,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1195563028754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2034900,
+        "valueIncreaseRate": 2.2315695
+      },
+      {
+        "time": 1164027028754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 629694,
+        "valueIncreaseRate": -0.29769465
+      },
+      {
+        "time": 1132491028754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 896610,
+        "valueIncreaseRate": 0.03904186
+      },
+      {
+        "time": 1069332628754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 862920,
+        "valueIncreaseRate": 0.53
+      },
+      {
+        "time": 1037796628754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 564000,
+        "valueIncreaseRate": 2.0720627
+      },
+      {
+        "time": 1006260628754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 183590,
+        "valueIncreaseRate": 0.020001112
+      },
+      {
+        "time": 974724628754,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 179990,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15082248,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3595+Clay+St%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1Ei1JSfB22dMu1rEl5KpCYP5cy8="
+          }
+        ],
+        "price": 1802300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1512,
+        "livingAreaValue": 1512,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "3595 Clay St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3595 Clay St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78823,
+        "longitude": -122.45189,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/3595-Clay-St-San-Francisco-CA-94118/15082248_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15082250,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=306+Locust+St%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WbTKhztHxUHO2XNiCqVT5CyHnxY="
+          }
+        ],
+        "price": 2134000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1900,
+        "livingAreaValue": 1900,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "306 Locust St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "306 Locust St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78823,
+        "longitude": -122.45189,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/306-Locust-St-San-Francisco-CA-94118/15082250_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15082251,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d55728ab1497dab008f9bf8e988c1d7d-p_c.jpg"
+          }
+        ],
+        "price": 2388800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1889,
+        "livingAreaValue": 1889,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "312 Locust St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "312 Locust St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78823,
+        "longitude": -122.45189,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/312-Locust-St-San-Francisco-CA-94118/15082251_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15082252,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=308+Locust+St%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UfzLAgeBcw4B16junTylFpidsPY="
+          }
+        ],
+        "price": 4326200,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "livingArea": 3149,
+        "livingAreaValue": 3149,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "308 Locust St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "308 Locust St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78823,
+        "longitude": -122.45189,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/308-Locust-St-San-Francisco-CA-94118/15082252_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15082253,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=310+Locust+St%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MxdBU6C4ibR0soYSMt7h25pdv-s="
+          }
+        ],
+        "price": 2214800,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "livingArea": 2077,
+        "livingAreaValue": 2077,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "310 Locust St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "310 Locust St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78823,
+        "longitude": -122.45189,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/310-Locust-St-San-Francisco-CA-94118/15082253_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332852112,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.788246154785156,-122.45177459716797&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=X-TxrS1VJxBy3i9FDnPBV40rmFk="
+          }
+        ],
+        "price": 4797800,
+        "currency": "USD",
+        "bedrooms": 7,
+        "bathrooms": 9,
+        "livingArea": 6106,
+        "livingAreaValue": 6106,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3585-3589 Clay St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3585-3589 Clay St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.788246,
+        "longitude": -122.451775,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/3585-3589-Clay-St-San-Francisco-CA-94118/332852112_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2112112697,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3c312064dc0e755e6495dacff72a17c0-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "livingArea": 2060,
+        "livingAreaValue": 2060,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "3587 Clay St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3587 Clay St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.788246,
+        "longitude": -122.451775,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/3587-Clay-St-San-Francisco-CA-94118/2112112697_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "4s3w2ruxk6f2g",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15082240,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/37bb3f8a0e3280543025236cef73d8c2-p_c.jpg"
+          }
+        ],
+        "price": 7000000,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "livingArea": 5105,
+        "livingAreaValue": 5105,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 5288,
+        "lotAreaValue": 5288.184,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3575 Clay St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3575 Clay St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78829,
+        "longitude": -122.451706,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3575-Clay-St-San-Francisco-CA-94118/15082240_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424033796",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=M9FALxWu0NUIU7EPHmCUjJw2M14=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fNUnepjndVg0DD9DFrugnngtxXU=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dr3rrFpGHnufkewa0yNqtUzBPPQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-A3qHFQ9AROxuIKnsKK3tg6Es6I=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jzI5-qV74IpaqDTolLRyXG8RK7g=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nkprHHX-yfX-R5WU6wVfpNM4MMo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VD-yle3O4jgh2hHv48ThIwxR_FY=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Pvk1rZ8CtPLDJ76xwuAQMeAk5DA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iK7hS5h96U_d8CYWb3X4iDPTF9s=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fNUnepjndVg0DD9DFrugnngtxXU=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dr3rrFpGHnufkewa0yNqtUzBPPQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-A3qHFQ9AROxuIKnsKK3tg6Es6I=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jzI5-qV74IpaqDTolLRyXG8RK7g=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nkprHHX-yfX-R5WU6wVfpNM4MMo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VD-yle3O4jgh2hHv48ThIwxR_FY=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Pvk1rZ8CtPLDJ76xwuAQMeAk5DA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iK7hS5h96U_d8CYWb3X4iDPTF9s=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=U6rdy0hu5L0MPHcPyArnNgLmRXw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TZ4m7tq5bqvAwSUjYqpypHvGjxg=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Pvk1rZ8CtPLDJ76xwuAQMeAk5DA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iK7hS5h96U_d8CYWb3X4iDPTF9s=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=U6rdy0hu5L0MPHcPyArnNgLmRXw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TZ4m7tq5bqvAwSUjYqpypHvGjxg=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Pvk1rZ8CtPLDJ76xwuAQMeAk5DA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iK7hS5h96U_d8CYWb3X4iDPTF9s=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=314+Locust+St%2C+San+Francisco%2C+CA+94118&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NCuphPOHx9qBydILKSeetagNmUI="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/314-Locust-St-San-Francisco-CA-94118/15082249_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/314-Locust-St-San-Francisco-CA-94118/15082249_zpid/",
+    "zpid": 15082249
+  }
+}

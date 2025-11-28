@@ -1,0 +1,1270 @@
+{
+  "basic_info": {
+    "zpid": 15131440,
+    "address": "62 Aquavista Way",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94131",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "livingArea": 1608,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3171,
+    "lotAreaValue": 3171,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1958,
+    "homeType": "SINGLE_FAMILY",
+    "description": "62 Aquavista Way, San Francisco, CA 94131 is a single family home that contains 1,608 sq ft and was built in 1958. It contains 3 bedrooms and 2 bathrooms. This home last sold for $1,335,000 in May 2025. \n \nThe Zestimate for this house is $1,356,500. The Rent Zestimate for this home is $6,438/mo. "
+  },
+  "location": {
+    "latitude": 37.75293,
+    "longitude": -122.44897,
+    "neighborhood": "Midtown Terrace",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": true,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [
+      "Hardwood"
+    ],
+    "rooms": [
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "level": null,
+        "features": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": null,
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "RecreationRoom",
+        "roomWidth": null
+      }
+    ]
+  },
+  "financial": {
+    "price": 1335000,
+    "lastSoldPrice": 1335000,
+    "dateSold": 1747958400000,
+    "dateSoldString": "2025-05-23",
+    "zestimate": 1356500,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 6438,
+    "taxAssessedValue": 88425,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": 18,
+    "monthlyHoaFee": 18,
+    "pricePerSquareFoot": 830
+  },
+  "schools": [
+    {
+      "name": "Clarendon Alternative Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "S.F. International High School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 2.7,
+      "grades": "8-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Academy (The)- SF @Mcateer",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 38,
+    "transitScore": 68,
+    "bikeScore": 33
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-05-23",
+        "time": 1747958400000,
+        "price": 1335000,
+        "pricePerSquareFoot": 830,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763621956485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 88425,
+        "valueIncreaseRate": 0.01999031
+      },
+      {
+        "time": 1732085956485,
+        "taxPaid": 1044.48,
+        "taxIncreaseRate": 0.014590193,
+        "value": 86692,
+        "valueIncreaseRate": 0.019989882
+      },
+      {
+        "time": 1700463556485,
+        "taxPaid": 1029.46,
+        "taxIncreaseRate": 0.017795997,
+        "value": 84993,
+        "valueIncreaseRate": 0.019981278
+      },
+      {
+        "time": 1668927556485,
+        "taxPaid": 1011.46,
+        "taxIncreaseRate": 0.017360702,
+        "value": 83328,
+        "valueIncreaseRate": 0.019988984
+      },
+      {
+        "time": 1637391556485,
+        "taxPaid": 994.2,
+        "taxIncreaseRate": -0.0019274615,
+        "value": 81695,
+        "valueIncreaseRate": 0.01035148
+      },
+      {
+        "time": 1605855556485,
+        "taxPaid": 996.12,
+        "taxIncreaseRate": 0.033426672,
+        "value": 80858,
+        "valueIncreaseRate": 0.01998133
+      },
+      {
+        "time": 1574233156485,
+        "taxPaid": 963.9,
+        "taxIncreaseRate": 0.03260986,
+        "value": 79274,
+        "valueIncreaseRate": 0.019994853
+      },
+      {
+        "time": 1542697156485,
+        "taxPaid": 933.46,
+        "taxIncreaseRate": 0.012231917,
+        "value": 77720,
+        "valueIncreaseRate": 0.019987663
+      },
+      {
+        "time": 1511161156485,
+        "taxPaid": 922.18,
+        "taxIncreaseRate": 0.05108508,
+        "value": 76197,
+        "valueIncreaseRate": 0.019985544
+      },
+      {
+        "time": 1479625156485,
+        "taxPaid": 877.36,
+        "taxIncreaseRate": 0.012650001,
+        "value": 74704,
+        "valueIncreaseRate": 0.015234497
+      },
+      {
+        "time": 1448002756485,
+        "taxPaid": 866.4,
+        "taxIncreaseRate": 0.026588941,
+        "value": 73583,
+        "valueIncreaseRate": 0.019974494
+      },
+      {
+        "time": 1416466756485,
+        "taxPaid": 843.96,
+        "taxIncreaseRate": 0,
+        "value": 72142,
+        "valueIncreaseRate": 0.004525391
+      },
+      {
+        "time": 1384930756485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 71817,
+        "valueIncreaseRate": 0.019982956
+      },
+      {
+        "time": 1353394756485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 70410,
+        "valueIncreaseRate": 0.019991308
+      },
+      {
+        "time": 1321772356485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 69030,
+        "valueIncreaseRate": 0.0074871927
+      },
+      {
+        "time": 1290236356485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68517,
+        "valueIncreaseRate": -0.0023587996
+      },
+      {
+        "time": 1258700356485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68679,
+        "valueIncreaseRate": 0.019990198
+      },
+      {
+        "time": 1227164356485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 67333,
+        "valueIncreaseRate": 0.01998061
+      },
+      {
+        "time": 1195541956485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 66014,
+        "valueIncreaseRate": 0.01999382
+      },
+      {
+        "time": 1164005956485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64720,
+        "valueIncreaseRate": 0.01998361
+      },
+      {
+        "time": 1132469956485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63452,
+        "valueIncreaseRate": 0.039004423
+      },
+      {
+        "time": 1069311556485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 61070,
+        "valueIncreaseRate": 0.019975282
+      },
+      {
+        "time": 1037775556485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59874,
+        "valueIncreaseRate": 0.019965248
+      },
+      {
+        "time": 1006239556485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 58702,
+        "valueIncreaseRate": 0.019999653
+      },
+      {
+        "time": 974703556485,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57551,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15131439,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=58+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=AstDcNSb4mPjZOJtfIBoAaow9pk="
+          }
+        ],
+        "price": 1490400,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1270,
+        "livingAreaValue": 1270,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3062,
+        "lotAreaValue": 3062,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "58 Aquavista Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "58 Aquavista Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75284,
+        "longitude": -122.44898,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/58-Aquavista-Way-San-Francisco-CA-94131/15131439_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15131441,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/734f192b4505b37590d593cab8df84db-p_c.jpg"
+          }
+        ],
+        "price": 1271500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1057,
+        "livingAreaValue": 1057,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "66 Aquavista Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "66 Aquavista Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75303,
+        "longitude": -122.44896,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/66-Aquavista-Way-San-Francisco-CA-94131/15131441_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "55w4yk7unhy3r",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15131438,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=54+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ccF07bH5L1eSaMsWZYdyQrC11QE="
+          }
+        ],
+        "price": 1485900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1270,
+        "livingAreaValue": 1270,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2966,
+        "lotAreaValue": 2966,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "54 Aquavista Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "54 Aquavista Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.752747,
+        "longitude": -122.449005,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/54-Aquavista-Way-San-Francisco-CA-94131/15131438_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15131442,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=70+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tZhgWsXI-Bu9X89anYw9rxPdVj4="
+          }
+        ],
+        "price": 1900300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1814,
+        "livingAreaValue": 1814,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4138,
+        "lotAreaValue": 4138,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "70 Aquavista Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "70 Aquavista Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.753174,
+        "longitude": -122.449005,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/70-Aquavista-Way-San-Francisco-CA-94131/15131442_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15131437,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75265884399414,-122.44902038574219&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=doC4RqqWJAC2hJOTawffFc5O6U4="
+          }
+        ],
+        "price": 1608200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1270,
+        "livingAreaValue": 1270,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2966,
+        "lotAreaValue": 2966,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "50 Aquavista Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "50 Aquavista Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75266,
+        "longitude": -122.44902,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/50-Aquavista-Way-San-Francisco-CA-94131/15131437_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15131436,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.752567291259766,-122.44903564453125&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0bHHE3Gfmun1awBhoxMJrB7-yBA="
+          }
+        ],
+        "price": 1474400,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1270,
+        "livingAreaValue": 1270,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2966,
+        "lotAreaValue": 2966,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "46 Aquavista Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "46 Aquavista Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.752567,
+        "longitude": -122.449036,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/46-Aquavista-Way-San-Francisco-CA-94131/15131436_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 125162043,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=30+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wXLkL1v2UTC6Eqo6xKAt_qxMZvg="
+          }
+        ],
+        "price": 142171,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 51945,
+        "lotAreaValue": 1.1924931129476584,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "30 Aquavista Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "30 Aquavista Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75266,
+        "longitude": -122.44863,
+        "homeStatus": "OTHER",
+        "homeType": "LOT",
+        "hdpUrl": "/homedetails/30-Aquavista-Way-San-Francisco-CA-94131/125162043_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Lot",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15131416,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=61+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=vlOkWeY9ALS9XzdmLVVGcS0SYEc="
+          }
+        ],
+        "price": 1673000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1272,
+        "livingAreaValue": 1272,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3297,
+        "lotAreaValue": 3297,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "61 Aquavista Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "61 Aquavista Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.752968,
+        "longitude": -122.44946,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/61-Aquavista-Way-San-Francisco-CA-94131/15131416_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": true,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OLMmT9yNBWJR21xfBGzSLPYVgv8=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=vzAxPHBk2evzLq0JXUNtYX1nIKc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LxNuli5Ux_3bZngWGRbvLdg9eS4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=EopVNcNozmpMjRQKIXOfJzHqkQs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZcTWXEmG_HPDtJgpb7PIuhi_sgs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cdyCfaaHEWf-d-6KElnXXdcsJNc=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ykeWCTA2N7LSEkdSLD0UTgR_wwQ=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fM0tPeFCAKsQeKIR6su8epGmJUU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=koaA7LO2TBOqak0jsHWNNmPs-0I=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=vzAxPHBk2evzLq0JXUNtYX1nIKc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LxNuli5Ux_3bZngWGRbvLdg9eS4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=EopVNcNozmpMjRQKIXOfJzHqkQs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZcTWXEmG_HPDtJgpb7PIuhi_sgs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cdyCfaaHEWf-d-6KElnXXdcsJNc=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ykeWCTA2N7LSEkdSLD0UTgR_wwQ=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fM0tPeFCAKsQeKIR6su8epGmJUU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=koaA7LO2TBOqak0jsHWNNmPs-0I=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9TUAux2mQmKXkioeGcvAnZ7ppN0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jnQEXv1kmVcHtwIW2Aada62qdUo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fM0tPeFCAKsQeKIR6su8epGmJUU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=koaA7LO2TBOqak0jsHWNNmPs-0I=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9TUAux2mQmKXkioeGcvAnZ7ppN0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jnQEXv1kmVcHtwIW2Aada62qdUo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fM0tPeFCAKsQeKIR6su8epGmJUU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=koaA7LO2TBOqak0jsHWNNmPs-0I=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=62+Aquavista+Way%2C+San+Francisco%2C+CA+94131&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WI-sL8oeQMBSL_ks5_IZ8LSi-A0="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/62-Aquavista-Way-San-Francisco-CA-94131/15131440_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/62-Aquavista-Way-San-Francisco-CA-94131/15131440_zpid/",
+    "zpid": 15131440
+  }
+}

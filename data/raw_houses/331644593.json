@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 331644593,
+    "address": "16-18 Ashbury St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94117",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "livingArea": null,
+    "livingAreaUnits": null,
+    "lotSize": 2500,
+    "lotAreaValue": 2500,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1923,
+    "homeType": "HOME_TYPE_UNKNOWN",
+    "description": "16-18 Ashbury St, San Francisco, CA 94117 was built in 1923. It contains 4 bedrooms and 2 bathrooms. This home last sold for $1,492,000 in December 2024. \n \nThe Zestimate for this house is $1,946,100. The Rent Zestimate for this home is $6,033/mo. "
+  },
+  "location": {
+    "latitude": 37.77544,
+    "longitude": -122.44774,
+    "neighborhood": "Panhandle",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1492000,
+    "lastSoldPrice": 1492000,
+    "dateSold": 1734393600000,
+    "dateSoldString": "2024-12-17",
+    "zestimate": 1946100,
+    "zestimateHighPercent": "16",
+    "zestimateLowPercent": "14",
+    "rentZestimate": 6033,
+    "taxAssessedValue": 848887,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": null
+  },
+  "schools": [
+    {
+      "name": "New Traditions Elementary School",
+      "rating": 9,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Roosevelt Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 0.8,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.3,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 95,
+    "transitScore": 73,
+    "bikeScore": 89
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2024-12-17",
+        "time": 1734393600000,
+        "price": 1492000,
+        "pricePerSquareFoot": null,
+        "priceChangeRate": -0.4661896243291592,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2024-09-13",
+        "time": 1726185600000,
+        "price": 2795000,
+        "pricePerSquareFoot": null,
+        "priceChangeRate": 0,
+        "event": "Listed for sale",
+        "source": "SFAR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "424065217",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763631761988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 848887,
+        "valueIncreaseRate": 0.019996515
+      },
+      {
+        "time": 1732095761988,
+        "taxPaid": 10731.4,
+        "taxIncreaseRate": 0.024538016,
+        "value": 832245,
+        "valueIncreaseRate": 0.019998088
+      },
+      {
+        "time": 1700473361988,
+        "taxPaid": 10474.38,
+        "taxIncreaseRate": 0.021551825,
+        "value": 815928,
+        "valueIncreaseRate": 0.01999925
+      },
+      {
+        "time": 1668937361988,
+        "taxPaid": 10253.4,
+        "taxIncreaseRate": 1.2832217,
+        "value": 799930,
+        "valueIncreaseRate": 1.5613908
+      },
+      {
+        "time": 1637401361988,
+        "taxPaid": 4490.76,
+        "taxIncreaseRate": -0.029880734,
+        "value": 312303,
+        "valueIncreaseRate": 0.010355805
+      },
+      {
+        "time": 1605865361988,
+        "taxPaid": 4629.08,
+        "taxIncreaseRate": 0.032917112,
+        "value": 309102,
+        "valueIncreaseRate": 0.019993862
+      },
+      {
+        "time": 1574242961988,
+        "taxPaid": 4481.56,
+        "taxIncreaseRate": 0.030769791,
+        "value": 303043,
+        "valueIncreaseRate": 0.019989634
+      },
+      {
+        "time": 1542706961988,
+        "taxPaid": 4347.78,
+        "taxIncreaseRate": 0.08678734,
+        "value": 297104,
+        "valueIncreaseRate": 0.019991005
+      },
+      {
+        "time": 1511170961988,
+        "taxPaid": 4000.58,
+        "taxIncreaseRate": 0.024864752,
+        "value": 291281,
+        "valueIncreaseRate": 0.019991456
+      },
+      {
+        "time": 1479634961988,
+        "taxPaid": 3903.52,
+        "taxIncreaseRate": 0.01396451,
+        "value": 285572,
+        "valueIncreaseRate": 0.01524077
+      },
+      {
+        "time": 1448012561988,
+        "taxPaid": 3849.76,
+        "taxIncreaseRate": 0.025869533,
+        "value": 281285,
+        "valueIncreaseRate": 0.01997266
+      },
+      {
+        "time": 1416476561988,
+        "taxPaid": 3752.68,
+        "taxIncreaseRate": 0,
+        "value": 275777,
+        "valueIncreaseRate": 0.0045349905
+      },
+      {
+        "time": 1384940561988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 274532,
+        "valueIncreaseRate": 0.019992495
+      },
+      {
+        "time": 1353404561988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 269151,
+        "valueIncreaseRate": 0.01999045
+      },
+      {
+        "time": 1321782161988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 263876,
+        "valueIncreaseRate": 0.007510242
+      },
+      {
+        "time": 1290246161988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 261909,
+        "valueIncreaseRate": -0.0023692441
+      },
+      {
+        "time": 1258710161988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 262531,
+        "valueIncreaseRate": 0.019993395
+      },
+      {
+        "time": 1227174161988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 257385,
+        "valueIncreaseRate": 0.019992867
+      },
+      {
+        "time": 1195551761988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 252340,
+        "valueIncreaseRate": 0.0199924
+      },
+      {
+        "time": 1164015761988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 247394,
+        "valueIncreaseRate": 0.019987961
+      },
+      {
+        "time": 1132479761988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 242546,
+        "valueIncreaseRate": 0.038981177
+      },
+      {
+        "time": 1069321361988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 233446,
+        "valueIncreaseRate": 0.019989427
+      },
+      {
+        "time": 1037785361988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 228871,
+        "valueIncreaseRate": 0.020001516
+      },
+      {
+        "time": 1006249361988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 224383,
+        "valueIncreaseRate": 0.01999691
+      },
+      {
+        "time": 974713361988,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 219984,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 440276489,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/443dc3788dccf2d4c126bf75b3f49e24-p_c.jpg"
+          }
+        ],
+        "price": 1300000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1547,
+        "livingAreaValue": 1547,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500.344,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "16 Ashbury St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "16 Ashbury St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77544,
+        "longitude": -122.44774,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/16-Ashbury-St-San-Francisco-CA-94117/440276489_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424065212",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2081614727,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d54b0e0e44770ed971d08f3ee0d0f94d-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1883 Fulton St #1883",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1883 Fulton St #1883"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77551,
+        "longitude": -122.447754,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1883-Fulton-St-1883-San-Francisco-CA-94117/2081614727_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2088475622,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6b5edb8082f0a9fd4adcef54898f634f-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 800,
+        "livingAreaValue": 800,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1881 Fulton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1881 Fulton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77551,
+        "longitude": -122.447754,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1881-Fulton-St-San-Francisco-CA-94117/2088475622_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "1ymw2kqygcwgg",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332852939,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77537155151367,-122.44772338867188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1qalFX2A0Po04WGncJIfZ2EuurY="
+          }
+        ],
+        "price": 1923600,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 3330,
+        "livingAreaValue": 3330,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "20-22 Ashbury St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "20-22 Ashbury St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77537,
+        "longitude": -122.44772,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/20-22-Ashbury-St-San-Francisco-CA-94117/332852939_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2086731329,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/ca8ea082e1ed4e8a65479ebde236a98d-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "livingArea": 1600,
+        "livingAreaValue": 1600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "26 Ashbury St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "26 Ashbury St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775307,
+        "longitude": -122.44771,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/26-Ashbury-St-San-Francisco-CA-94117/2086731329_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332852938,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77530288696289,-122.44770812988281&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ioRYscxmBQ304gvbSTXM80Tc2Ys="
+          }
+        ],
+        "price": 1649000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 3400,
+        "livingAreaValue": 3400,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "24-26 Ashbury St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "24-26 Ashbury St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775303,
+        "longitude": -122.44771,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/24-26-Ashbury-St-San-Francisco-CA-94117/332852938_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 440781139,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/7a30cfcd7191f27ecf2e63af30bbdcb2-p_c.jpg"
+          }
+        ],
+        "price": 1492000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1770,
+        "livingAreaValue": 1770,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500.344,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "18 Ashbury St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "18 Ashbury St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775436,
+        "longitude": -122.44794,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/18-Ashbury-St-San-Francisco-CA-94117/440781139_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424068456",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 61325135,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=28+Ashbury+St%2C+San+Francisco%2C+CA+94117&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=lVsJmFSjdyfcr1GxP2sJlUssqkQ="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1585,
+        "livingAreaValue": 1585,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "28 Ashbury St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "28 Ashbury St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775238,
+        "longitude": -122.44769,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/28-Ashbury-St-San-Francisco-CA-94117/61325135_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rtuVgDUb2oXEi0_R1Z92YxExMjA=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=vTXbPVQPrqDDu_W7rwTKrwjKgUQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=FmhIx9RKvtSxreGvyU_8fuiXzcU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GCdStHKEl0x8nXBwG26UG42bH64=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=kxN0fnSdahHla1BJ-Otd9Evotj8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VgLeyoGhZr5cYZ7Iv4inA3WTWA8=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D-zoX6JO2EonA0nR2yvBehKk5jU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2sZVxR1eaX6F_N1jwSNVgaPcDhI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rTeTMBREVcdmEOn37ikvMTdWn8I=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=vTXbPVQPrqDDu_W7rwTKrwjKgUQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=FmhIx9RKvtSxreGvyU_8fuiXzcU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GCdStHKEl0x8nXBwG26UG42bH64=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=kxN0fnSdahHla1BJ-Otd9Evotj8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VgLeyoGhZr5cYZ7Iv4inA3WTWA8=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D-zoX6JO2EonA0nR2yvBehKk5jU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2sZVxR1eaX6F_N1jwSNVgaPcDhI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rTeTMBREVcdmEOn37ikvMTdWn8I=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=vp2AeBGUiX7ZrRoEwIVJ4qIourI=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=qGiEVw2l83_JzRL2pTqu6-ruU2E=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2sZVxR1eaX6F_N1jwSNVgaPcDhI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rTeTMBREVcdmEOn37ikvMTdWn8I=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=vp2AeBGUiX7ZrRoEwIVJ4qIourI=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=qGiEVw2l83_JzRL2pTqu6-ruU2E=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2sZVxR1eaX6F_N1jwSNVgaPcDhI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rTeTMBREVcdmEOn37ikvMTdWn8I=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.77544021606445,-122.44773864746094&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xUP1cBdV7mIQReT_UjFvYIshN6g="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/16-18-Ashbury-St-San-Francisco-CA-94117/331644593_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/16-18-Ashbury-St-San-Francisco-CA-94117/331644593_zpid/",
+    "zpid": 331644593
+  }
+}

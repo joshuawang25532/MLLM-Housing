@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15171920,
+    "address": "718 Brussels St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94134",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "livingArea": 1270,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2247,
+    "lotAreaValue": 2247,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1960,
+    "homeType": "SINGLE_FAMILY",
+    "description": "718 Brussels St, San Francisco, CA 94134 is a single family home that contains 1,270 sq ft and was built in 1960. It contains 3 bedrooms and 1 bathroom. This home last sold for $835,000 in August 2025. \n \nThe Zestimate for this house is $1,054,800. The Rent Zestimate for this home is $3,547/mo. "
+  },
+  "location": {
+    "latitude": 37.723213,
+    "longitude": -122.404236,
+    "neighborhood": "Portola",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 835000,
+    "lastSoldPrice": 835000,
+    "dateSold": 1756252800000,
+    "dateSoldString": "2025-08-27",
+    "zestimate": 1054800,
+    "zestimateHighPercent": "9",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 3547,
+    "taxAssessedValue": 73412,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 657
+  },
+  "schools": [
+    {
+      "name": "Taylor (Edward R.) Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "King Jr. (Martin Luther) Academic Middle School",
+      "rating": 5,
+      "level": "Middle",
+      "distance": 0.3,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Burton (Phillip And Sala) Academic High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.2,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 83,
+    "transitScore": 69,
+    "bikeScore": 46
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-08-27",
+        "time": 1756252800000,
+        "price": 835000,
+        "pricePerSquareFoot": 657,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763643088520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 73412,
+        "valueIncreaseRate": 0.019993609
+      },
+      {
+        "time": 1732107088520,
+        "taxPaid": 872.06,
+        "taxIncreaseRate": 0.014589513,
+        "value": 71973,
+        "valueIncreaseRate": 0.019982144
+      },
+      {
+        "time": 1700484688520,
+        "taxPaid": 859.52,
+        "taxIncreaseRate": 0.017761568,
+        "value": 70563,
+        "valueIncreaseRate": 0.019991327
+      },
+      {
+        "time": 1668948688520,
+        "taxPaid": 844.52,
+        "taxIncreaseRate": 0.017248863,
+        "value": 69180,
+        "valueIncreaseRate": 0.019992923
+      },
+      {
+        "time": 1637412688520,
+        "taxPaid": 830.2,
+        "taxIncreaseRate": 0.99668103,
+        "value": 67824,
+        "valueIncreaseRate": 0.01033815
+      },
+      {
+        "time": 1605876688520,
+        "taxPaid": 415.79,
+        "taxIncreaseRate": -0.48352918,
+        "value": 67130,
+        "valueIncreaseRate": 0.019980248
+      },
+      {
+        "time": 1574254288520,
+        "taxPaid": 805.06,
+        "taxIncreaseRate": 0.032128204,
+        "value": 65815,
+        "valueIncreaseRate": 0.019992251
+      },
+      {
+        "time": 1542718288520,
+        "taxPaid": 780,
+        "taxIncreaseRate": 0.012277133,
+        "value": 64525,
+        "valueIncreaseRate": 0.019980716
+      },
+      {
+        "time": 1511182288520,
+        "taxPaid": 770.54,
+        "taxIncreaseRate": 0.058724914,
+        "value": 63261,
+        "valueIncreaseRate": 0.019993229
+      },
+      {
+        "time": 1479646288520,
+        "taxPaid": 727.8,
+        "taxIncreaseRate": 0.0127181355,
+        "value": 62021,
+        "valueIncreaseRate": 0.015239811
+      },
+      {
+        "time": 1448023888520,
+        "taxPaid": 718.66,
+        "taxIncreaseRate": -0.6152948,
+        "value": 61090,
+        "valueIncreaseRate": 0.019968612
+      },
+      {
+        "time": 1416487888520,
+        "taxPaid": 1868.08,
+        "taxIncreaseRate": 0,
+        "value": 59894,
+        "valueIncreaseRate": 0.0045283777
+      },
+      {
+        "time": 1384951888520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59624,
+        "valueIncreaseRate": 0.01998084
+      },
+      {
+        "time": 1353415888520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 58456,
+        "valueIncreaseRate": 0.019978713
+      },
+      {
+        "time": 1321793488520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57311,
+        "valueIncreaseRate": 0.0075065047
+      },
+      {
+        "time": 1290257488520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 56884,
+        "valueIncreaseRate": -0.0023676318
+      },
+      {
+        "time": 1258721488520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57019,
+        "valueIncreaseRate": 0.019981395
+      },
+      {
+        "time": 1227185488520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 55902,
+        "valueIncreaseRate": 0.0199792
+      },
+      {
+        "time": 1195563088520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 54807,
+        "valueIncreaseRate": 0.019987717
+      },
+      {
+        "time": 1164027088520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 53733,
+        "valueIncreaseRate": 0.019988611
+      },
+      {
+        "time": 1132491088520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 52680,
+        "valueIncreaseRate": 0.03901227
+      },
+      {
+        "time": 1069332688520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 50702,
+        "valueIncreaseRate": 0.019976262
+      },
+      {
+        "time": 1037796688520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 49709,
+        "valueIncreaseRate": 0.01994378
+      },
+      {
+        "time": 1006260688520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 48737,
+        "valueIncreaseRate": 0.020007953
+      },
+      {
+        "time": 974724688520,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 47781,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15171921,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=722+Brussels+St%2C+San+Francisco%2C+CA+94134&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DsKMVhoHKHCEpHv4FyPBSgq9U_0="
+          }
+        ],
+        "price": 1196100,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 1800,
+        "livingAreaValue": 1800,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2247,
+        "lotAreaValue": 2247,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "722 Brussels St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "722 Brussels St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72315,
+        "longitude": -122.404205,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/722-Brussels-St-San-Francisco-CA-94134/15171921_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15171919,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=700+Brussels+St%2C+San+Francisco%2C+CA+94134&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MJNK8AGMhEDP5FYONKa9cUtN-5Q="
+          }
+        ],
+        "price": 1279800,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 2721,
+        "livingAreaValue": 2721,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4499,
+        "lotAreaValue": 4499,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "700 Brussels St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "700 Brussels St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72331,
+        "longitude": -122.404274,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/700-Brussels-St-San-Francisco-CA-94134/15171919_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15171922,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.72306823730469,-122.40422821044922&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=riPpGUMz3AK5OttoFBpXWCafp6A="
+          }
+        ],
+        "price": 1081000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "livingArea": 1349,
+        "livingAreaValue": 1349,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3001,
+        "lotAreaValue": 3001,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "726 Brussels St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "726 Brussels St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72307,
+        "longitude": -122.40423,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/726-Brussels-St-San-Francisco-CA-94134/15171922_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15171953,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6930eb122117d3adac292230c19ca981-p_c.jpg"
+          }
+        ],
+        "price": 1169300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1430,
+        "livingAreaValue": 1430,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "225 Dwight St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "225 Dwight St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.723194,
+        "longitude": -122.404434,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/225-Dwight-St-San-Francisco-CA-94134/15171953_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15171923,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.72300338745117,-122.40420532226562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NDZF5gGMT8cGxvvHAB5wFPi9Jr4="
+          }
+        ],
+        "price": 879100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 925,
+        "livingAreaValue": 925,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "732 Brussels St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "732 Brussels St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.723003,
+        "longitude": -122.404205,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/732-Brussels-St-San-Francisco-CA-94134/15171923_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15171952,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.723175048828125,-122.4045181274414&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=uWBuY_UxdQfLnO0nqJnlqZt49Lw="
+          }
+        ],
+        "price": 1014100,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1040,
+        "livingAreaValue": 1040,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "231 Dwight St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "231 Dwight St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.723175,
+        "longitude": -122.40452,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/231-Dwight-St-San-Francisco-CA-94134/15171952_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15171924,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.722938537597656,-122.4041748046875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xwAVmMxXDRX9pNrpZoxEaPiIeuA="
+          }
+        ],
+        "price": 839400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 856,
+        "livingAreaValue": 856,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "738 Brussels St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "738 Brussels St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72294,
+        "longitude": -122.404175,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/738-Brussels-St-San-Francisco-CA-94134/15171924_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15171951,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.72315216064453,-122.40460205078125&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=qz-eeD9oACDpWBuVEei2-jjM67Y="
+          }
+        ],
+        "price": 915100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1040,
+        "livingAreaValue": 1040,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "237 Dwight St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "237 Dwight St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.723152,
+        "longitude": -122.4046,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/237-Dwight-St-San-Francisco-CA-94134/15171951_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6D4SROTIoFDKfeh-lOZVoYN94x4=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mgg6-h1iwcoCelFbn8nS5CNmxZE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xZ7DfC78Cbeet9bxdmXd_74c3oU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=I_7gd7fiV0VqRPDeHzjmH9rKtHI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fRtIPDqf8FBFtlEjZ1oK3a14hz0=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9exqaiFg8XlKcKcx65B9Ylrl6Tw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NDRIDBzpFtj0vdgqFDD5fcy3InM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NVdWmkDFi6YmXcNqw6gklFtpBik=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0NVLqyM4WswWoxUtg1sisV-RmFA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mgg6-h1iwcoCelFbn8nS5CNmxZE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xZ7DfC78Cbeet9bxdmXd_74c3oU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=I_7gd7fiV0VqRPDeHzjmH9rKtHI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fRtIPDqf8FBFtlEjZ1oK3a14hz0=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9exqaiFg8XlKcKcx65B9Ylrl6Tw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NDRIDBzpFtj0vdgqFDD5fcy3InM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NVdWmkDFi6YmXcNqw6gklFtpBik=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0NVLqyM4WswWoxUtg1sisV-RmFA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=G99wWQmiFrXxrrjSnCqKoFhpUjw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HMH3ck59T31ACi6cs69Q2kFDyDs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NVdWmkDFi6YmXcNqw6gklFtpBik=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0NVLqyM4WswWoxUtg1sisV-RmFA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=G99wWQmiFrXxrrjSnCqKoFhpUjw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HMH3ck59T31ACi6cs69Q2kFDyDs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NVdWmkDFi6YmXcNqw6gklFtpBik=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0NVLqyM4WswWoxUtg1sisV-RmFA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.72321319580078,-122.40423583984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OdA1ZWXiaz1Y30Z69y1mvU9ZoBU="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/718-Brussels-St-San-Francisco-CA-94134/15171920_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/718-Brussels-St-San-Francisco-CA-94134/15171920_zpid/",
+    "zpid": 15171920
+  }
+}

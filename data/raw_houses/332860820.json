@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 332860820,
+    "address": "2701-2703 21st St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94110",
+    "bedrooms": null,
+    "bathrooms": 3,
+    "livingArea": 4200,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2495,
+    "lotAreaValue": 2495,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": null,
+    "homeType": "MULTI_FAMILY",
+    "description": "2701-2703 21st St, San Francisco, CA 94110 is a multi family home that contains 4,200 sq ft. It contains 3 bathrooms. This home last sold for $1,577,000 in August 2025. \n \nThe Zestimate for this house is $1,473,000. The Rent Zestimate for this home is $4,890/mo. "
+  },
+  "location": {
+    "latitude": 37.75742,
+    "longitude": -122.408775,
+    "neighborhood": "Mission",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1577000,
+    "lastSoldPrice": 1577000,
+    "dateSold": 1755648000000,
+    "dateSoldString": "2025-08-20",
+    "zestimate": 1473000,
+    "zestimateHighPercent": "17",
+    "zestimateLowPercent": "14",
+    "rentZestimate": 4890,
+    "taxAssessedValue": 148604,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 375
+  },
+  "schools": [
+    {
+      "name": "Bryant Elementary School",
+      "rating": 3,
+      "level": "Elementary",
+      "distance": 0.5,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "S.F. International High School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.6,
+      "grades": "8-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "O'connell (John) High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.3,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 96,
+    "transitScore": 81,
+    "bikeScore": 99
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-08-20",
+        "time": 1755648000000,
+        "price": 1577000,
+        "pricePerSquareFoot": 375,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763622388069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 148604,
+        "valueIncreaseRate": -0.8944148
+      },
+      {
+        "time": 1732086388069,
+        "taxPaid": 17811.48,
+        "taxIncreaseRate": 0.022952234,
+        "value": 1407432,
+        "valueIncreaseRate": 0.019998
+      },
+      {
+        "time": 1700463988069,
+        "taxPaid": 17411.84,
+        "taxIncreaseRate": 0.775023,
+        "value": 1379838,
+        "valueIncreaseRate": 0.8645502
+      },
+      {
+        "time": 1668927988069,
+        "taxPaid": 9809.36,
+        "taxIncreaseRate": 0.0050347866,
+        "value": 740038,
+        "valueIncreaseRate": 0.0057679187
+      },
+      {
+        "time": 1637391988069,
+        "taxPaid": 9760.22,
+        "taxIncreaseRate": 0.034783207,
+        "value": 735794,
+        "valueIncreaseRate": 0.0758512
+      },
+      {
+        "time": 1605855988069,
+        "taxPaid": 9432.14,
+        "taxIncreaseRate": 0.4348995,
+        "value": 683918,
+        "valueIncreaseRate": 0.41523504
+      },
+      {
+        "time": 1574233588069,
+        "taxPaid": 6573.38,
+        "taxIncreaseRate": 0.24961126,
+        "value": 483254,
+        "valueIncreaseRate": 0.26957613
+      },
+      {
+        "time": 1542697588069,
+        "taxPaid": 5260.34,
+        "taxIncreaseRate": 0.38911062,
+        "value": 380642,
+        "valueIncreaseRate": 0.368817
+      },
+      {
+        "time": 1511161588069,
+        "taxPaid": 3786.84,
+        "taxIncreaseRate": 0.93920463,
+        "value": 278081,
+        "valueIncreaseRate": 1.2145497
+      },
+      {
+        "time": 1479625588069,
+        "taxPaid": 1952.78,
+        "taxIncreaseRate": 0.017613549,
+        "value": 125570,
+        "valueIncreaseRate": 0.015248536
+      },
+      {
+        "time": 1448003188069,
+        "taxPaid": 1918.98,
+        "taxIncreaseRate": 0.026082788,
+        "value": 123684,
+        "valueIncreaseRate": 0.019973282
+      },
+      {
+        "time": 1416467188069,
+        "taxPaid": 1870.2,
+        "taxIncreaseRate": 0,
+        "value": 121262,
+        "valueIncreaseRate": 0.004531334
+      },
+      {
+        "time": 1384931188069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 120715,
+        "valueIncreaseRate": 0.01999172
+      },
+      {
+        "time": 1353395188069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 118349,
+        "valueIncreaseRate": 0.01998621
+      },
+      {
+        "time": 1321772788069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 116030,
+        "valueIncreaseRate": 0.0075109624
+      },
+      {
+        "time": 1290236788069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 115165,
+        "valueIncreaseRate": -0.002373548
+      },
+      {
+        "time": 1258700788069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 115439,
+        "valueIncreaseRate": 0.019995406
+      },
+      {
+        "time": 1227164788069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 113176,
+        "valueIncreaseRate": 0.019989546
+      },
+      {
+        "time": 1195542388069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 110958,
+        "valueIncreaseRate": 0.019984556
+      },
+      {
+        "time": 1164006388069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 108784,
+        "valueIncreaseRate": 0.019990249
+      },
+      {
+        "time": 1132470388069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 106652,
+        "valueIncreaseRate": 0.039017215
+      },
+      {
+        "time": 1069311988069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 102647,
+        "valueIncreaseRate": 0.019972773
+      },
+      {
+        "time": 1037775988069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 100637,
+        "valueIncreaseRate": 0.019997163
+      },
+      {
+        "time": 1006239988069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 98664,
+        "valueIncreaseRate": 0.020004341
+      },
+      {
+        "time": 974703988069,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 96729,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 454946447,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e04ac5085ce4aa5e64d5616f48756b80-p_c.jpg"
+          }
+        ],
+        "price": 1270000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1289,
+        "livingAreaValue": 1289,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495.988,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "900 York St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "900 York St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75744,
+        "longitude": -122.4088,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/900-York-St-San-Francisco-CA-94110/454946447_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425056246",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 456145965,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a040551655a3c0e8f332f355b6642740-p_c.jpg"
+          }
+        ],
+        "price": 1925000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 0,
+        "livingAreaValue": 0,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495.988,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2703 21st St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2703 21st St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75747,
+        "longitude": -122.408806,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2703-21st-St-San-Francisco-CA-94110/456145965_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425066748",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15151122,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6acfaf91c909fbb7e458bef5b28b42b3-p_c.jpg"
+          }
+        ],
+        "price": 2075800,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1910,
+        "livingAreaValue": 1910,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2707 21st St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2707 21st St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.757412,
+        "longitude": -122.40886,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2707-21st-St-San-Francisco-CA-94110/15151122_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15151121,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.757408142089844,-122.40895080566406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=j3_oHLUU2co1VUC1PqCEd0ti7S4="
+          }
+        ],
+        "price": 1463900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1450,
+        "livingAreaValue": 1450,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2709 21st St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2709 21st St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75741,
+        "longitude": -122.40895,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2709-21st-St-San-Francisco-CA-94110/15151121_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15151087,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=906+York+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=81_tyVskqz9yf8Gqh3LOc5r6KAI="
+          }
+        ],
+        "price": 948700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1180,
+        "livingAreaValue": 1180,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2748,
+        "lotAreaValue": 2748,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "906 York St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "906 York St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.757236,
+        "longitude": -122.40889,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/906-York-St-San-Francisco-CA-94110/15151087_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15151120,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75740432739258,-122.4090347290039&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=uy1XtfeH8LcR0ey8-ia9KGGeAtE="
+          }
+        ],
+        "price": 1145500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1478,
+        "livingAreaValue": 1478,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2713 21st St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2713 21st St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.757404,
+        "longitude": -122.409035,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2713-21st-St-San-Francisco-CA-94110/15151120_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332860816,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2679+21st+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hxaSVYbNS7r5QUwRpEuJZLUY3Nk="
+          }
+        ],
+        "price": 1626400,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 4075,
+        "livingAreaValue": 4075,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2443,
+        "lotAreaValue": 2443,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2679 21st St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2679 21st St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75744,
+        "longitude": -122.408485,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/2679-21st-St-San-Francisco-CA-94110/332860816_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332860842,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75741958618164,-122.40911865234375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=uEZF23_2SonAiWxRIUVQa-yWsnU="
+          }
+        ],
+        "price": 1311100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 3360,
+        "livingAreaValue": 3360,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2121,
+        "lotAreaValue": 2121,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2717-2719 21st St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2717-2719 21st St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75742,
+        "longitude": -122.40912,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/2717-2719-21st-St-San-Francisco-CA-94110/332860842_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=h8xqNOVa4hDzc-Up8qVR8Vr_CZs=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=z9vniRpx3UzEgGVMtGCse_bhc28=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ksob6L9fsALmqkNmrjJJ5X64Gv4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tKnUBJdaM7tqdfPa2PN4ER4xVFI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xqKY1fJBW8aPfyNNR0NymDmxQvs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pFISATzurKbNO6TRtk2qW1JBpwM=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HCoZzCSOQoU6BYoQQ8f9mXDbY8k=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6MnCkgEGPFyc_l6igwmUNXENLo0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IuvA-EGnmQ16X24BIEF04DobAcw=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=z9vniRpx3UzEgGVMtGCse_bhc28=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ksob6L9fsALmqkNmrjJJ5X64Gv4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tKnUBJdaM7tqdfPa2PN4ER4xVFI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xqKY1fJBW8aPfyNNR0NymDmxQvs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pFISATzurKbNO6TRtk2qW1JBpwM=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HCoZzCSOQoU6BYoQQ8f9mXDbY8k=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6MnCkgEGPFyc_l6igwmUNXENLo0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IuvA-EGnmQ16X24BIEF04DobAcw=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3IzI6HHg-SVlaRPwF8WPI3ylYoo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=RSuPKCuXwNzAbiivknsbMd_fJkk=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6MnCkgEGPFyc_l6igwmUNXENLo0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IuvA-EGnmQ16X24BIEF04DobAcw=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3IzI6HHg-SVlaRPwF8WPI3ylYoo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=RSuPKCuXwNzAbiivknsbMd_fJkk=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6MnCkgEGPFyc_l6igwmUNXENLo0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IuvA-EGnmQ16X24BIEF04DobAcw=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.75741958618164,-122.40877532958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4C6-gCg7A6mLeN64cduk0oFkd-E="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2701-2703-21st-St-San-Francisco-CA-94110/332860820_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2701-2703-21st-St-San-Francisco-CA-94110/332860820_zpid/",
+    "zpid": 332860820
+  }
+}

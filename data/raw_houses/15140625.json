@@ -1,0 +1,1252 @@
+{
+  "basic_info": {
+    "zpid": 15140625,
+    "address": "108 Westwood Dr",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1350,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3484,
+    "lotAreaValue": 3484,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1922,
+    "homeType": "SINGLE_FAMILY",
+    "description": "108 Westwood Dr, San Francisco, CA 94112 is a single family home that contains 1,350 sq ft and was built in 1922. It contains 1 bathroom. This home last sold for $1,350,000 in July 2025. \n \nThe Zestimate for this house is $1,363,600. The Rent Zestimate for this home is $4,283/mo. "
+  },
+  "location": {
+    "latitude": 37.72794,
+    "longitude": -122.458824,
+    "neighborhood": "Westwood Park",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1350000,
+    "lastSoldPrice": 1350000,
+    "dateSold": 1752192000000,
+    "dateSoldString": "2025-07-11",
+    "zestimate": 1363600,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 4283,
+    "taxAssessedValue": 80328,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": 10,
+    "monthlyHoaFee": 10,
+    "pricePerSquareFoot": 1000
+  },
+  "schools": [
+    {
+      "name": "Sloat (Commodore) Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.7,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Aptos Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Balboa High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 1.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 84,
+    "transitScore": 76,
+    "bikeScore": 65
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-07-11",
+        "time": 1752192000000,
+        "price": 1350000,
+        "pricePerSquareFoot": 1000,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/alekk/",
+          "name": "Alek Keytiyev"
+        },
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763571267703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 80328,
+        "valueIncreaseRate": 0.019986287
+      },
+      {
+        "time": 1732035267703,
+        "taxPaid": 951.52,
+        "taxIncreaseRate": -0.40261176,
+        "value": 78754,
+        "valueIncreaseRate": 0.019984199
+      },
+      {
+        "time": 1700412867703,
+        "taxPaid": 1592.8,
+        "taxIncreaseRate": 0.032248035,
+        "value": 77211,
+        "valueIncreaseRate": 0.019987319
+      },
+      {
+        "time": 1668876867703,
+        "taxPaid": 1543.04,
+        "taxIncreaseRate": 0.022896944,
+        "value": 75698,
+        "valueIncreaseRate": 0.019982483
+      },
+      {
+        "time": 1637340867703,
+        "taxPaid": 1508.5,
+        "taxIncreaseRate": -0.018248817,
+        "value": 74215,
+        "valueIncreaseRate": 0.01034647
+      },
+      {
+        "time": 1605804867703,
+        "taxPaid": 1536.54,
+        "taxIncreaseRate": 0.032801464,
+        "value": 73455,
+        "valueIncreaseRate": 0.019981671
+      },
+      {
+        "time": 1574182467703,
+        "taxPaid": 1487.74,
+        "taxIncreaseRate": 0.034445863,
+        "value": 72016,
+        "valueIncreaseRate": 0.01998442
+      },
+      {
+        "time": 1542646467703,
+        "taxPaid": 1438.2,
+        "taxIncreaseRate": 0.28261828,
+        "value": 70605,
+        "valueIncreaseRate": 0.019979198
+      },
+      {
+        "time": 1511110467703,
+        "taxPaid": 1121.3,
+        "taxIncreaseRate": 0.048179068,
+        "value": 69222,
+        "valueIncreaseRate": 0.01998055
+      },
+      {
+        "time": 1479574467703,
+        "taxPaid": 1069.76,
+        "taxIncreaseRate": 0.015897125,
+        "value": 67866,
+        "valueIncreaseRate": 0.015243766
+      },
+      {
+        "time": 1447952067703,
+        "taxPaid": 1053.02,
+        "taxIncreaseRate": -0.03772277,
+        "value": 66847,
+        "valueIncreaseRate": -0.06361013
+      },
+      {
+        "time": 1416416067703,
+        "taxPaid": 1094.3,
+        "taxIncreaseRate": 0,
+        "value": 71388,
+        "valueIncreaseRate": 0.004149494
+      },
+      {
+        "time": 1384880067703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 71093,
+        "valueIncreaseRate": 0.11141857
+      },
+      {
+        "time": 1353344067703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63966,
+        "valueIncreaseRate": 0.019996174
+      },
+      {
+        "time": 1321721667703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62712,
+        "valueIncreaseRate": 0.007502611
+      },
+      {
+        "time": 1290185667703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62245,
+        "valueIncreaseRate": -0.002372061
+      },
+      {
+        "time": 1258649667703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62393,
+        "valueIncreaseRate": 0.019993462
+      },
+      {
+        "time": 1227113667703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 61170,
+        "valueIncreaseRate": 0.019975988
+      },
+      {
+        "time": 1195491267703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59972,
+        "valueIncreaseRate": 0.019984012
+      },
+      {
+        "time": 1163955267703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 58797,
+        "valueIncreaseRate": 0.019984387
+      },
+      {
+        "time": 1132419267703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57645,
+        "valueIncreaseRate": 0.039004344
+      },
+      {
+        "time": 1069260867703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 55481,
+        "valueIncreaseRate": 0.019983822
+      },
+      {
+        "time": 1037724867703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 54394,
+        "valueIncreaseRate": 0.019951247
+      },
+      {
+        "time": 1006188867703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 53330,
+        "valueIncreaseRate": 0.02000612
+      },
+      {
+        "time": 974652867703,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 52284,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15140624,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.72783279418945,-122.45881652832031&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-2taciXta8hym-qcdjIXJBWExes="
+          }
+        ],
+        "price": 1546900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1450,
+        "livingAreaValue": 1450,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3336,
+        "lotAreaValue": 3336,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "106 Westwood Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "106 Westwood Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.727833,
+        "longitude": -122.45882,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/106-Westwood-Dr-San-Francisco-CA-94112/15140624_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15140626,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.728050231933594,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eL0npOOaqwreRedfKbiUT2tWm7c="
+          }
+        ],
+        "price": 1803800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2162,
+        "livingAreaValue": 2162,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3524,
+        "lotAreaValue": 3524,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "112 Westwood Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "112 Westwood Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72805,
+        "longitude": -122.458824,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/112-Westwood-Dr-San-Francisco-CA-94112/15140626_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15140627,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=124+Westwood+Dr%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=q1H-HwISLdrTlJiXnF-cedfuIVE="
+          }
+        ],
+        "price": 1443200,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1584,
+        "livingAreaValue": 1584,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3598,
+        "lotAreaValue": 3598,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "124 Westwood Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "124 Westwood Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72816,
+        "longitude": -122.45883,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/124-Westwood-Dr-San-Francisco-CA-94112/15140627_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15140623,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/bcded34101bce746634c41729fd041b6-p_c.jpg"
+          }
+        ],
+        "price": 2223800,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "livingArea": 3414,
+        "livingAreaValue": 3414,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3484,
+        "lotAreaValue": 3484,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "100 Westwood Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "100 Westwood Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.727715,
+        "longitude": -122.45882,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/100-Westwood-Dr-San-Francisco-CA-94112/15140623_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15140620,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/745b6ffc2135ef005ad35c79edcea858-p_c.jpg"
+          }
+        ],
+        "price": 1992700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 2500,
+        "livingAreaValue": 2500,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "617 Miramar Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "617 Miramar Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.727974,
+        "longitude": -122.45851,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/617-Miramar-Ave-San-Francisco-CA-94112/15140620_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "2dwp5u1094d8x",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15140621,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4462cf27f5304bbf597fdfd0fa3f6e98-p_c.jpg"
+          }
+        ],
+        "price": 2688000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 3195,
+        "livingAreaValue": 3195,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3798,
+        "lotAreaValue": 3798,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "611 Miramar Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "611 Miramar Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.727863,
+        "longitude": -122.45851,
+        "homeStatus": "PENDING",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/611-Miramar-Ave-San-Francisco-CA-94112/15140621_zpid/",
+        "hdpTypeDimension": "Pending",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "For Sale by Agent",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": true
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "ML82025600",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": true,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15140619,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=623+Miramar+Ave%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CxSo30112phC7u5xDxcmbp3lUTU="
+          }
+        ],
+        "price": 1540300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1740,
+        "livingAreaValue": 1740,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3800,
+        "lotAreaValue": 3800,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "623 Miramar Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "623 Miramar Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.728085,
+        "longitude": -122.45851,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/623-Miramar-Ave-San-Francisco-CA-94112/15140619_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15140622,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=601+Miramar+Ave%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=mfHQaTuZKx5zH7Ychh6YY2CapCM="
+          }
+        ],
+        "price": 1576800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1905,
+        "livingAreaValue": 1905,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4460,
+        "lotAreaValue": 4460,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "601 Miramar Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "601 Miramar Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.727737,
+        "longitude": -122.45854,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/601-Miramar-Ave-San-Francisco-CA-94112/15140622_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": true,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wgoIoco7zS3A6V-JICQBr_2Qi7U=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=swz56bcVWwmdtID_04ekiuy9eQM=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=s71qgxiy4fj54mm0ChXCOkvgN6g=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=iwPFvu6lN7XqbpR1vJFI_zFZ61k=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AHuCI_-dwHj3z-m5ZX2nWZ8S3VQ=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=upUS5t3I6WPtbw6UILrh5J1Ifuc=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=s-pL218DbjZ7LZmCKtjdkmrkbAk=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rkzSEWHmAMcpojnW46oSL6wIaHs=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wSP-gAMUjGZQhaOGzotosL2o17U=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=swz56bcVWwmdtID_04ekiuy9eQM=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=s71qgxiy4fj54mm0ChXCOkvgN6g=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=iwPFvu6lN7XqbpR1vJFI_zFZ61k=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AHuCI_-dwHj3z-m5ZX2nWZ8S3VQ=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=upUS5t3I6WPtbw6UILrh5J1Ifuc=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=s-pL218DbjZ7LZmCKtjdkmrkbAk=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rkzSEWHmAMcpojnW46oSL6wIaHs=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wSP-gAMUjGZQhaOGzotosL2o17U=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PeEuzf96Zg8-aL3b44JZph8LgLo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7Pbm1wvSajTQMgPNCetZjt-dnA8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rkzSEWHmAMcpojnW46oSL6wIaHs=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wSP-gAMUjGZQhaOGzotosL2o17U=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PeEuzf96Zg8-aL3b44JZph8LgLo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7Pbm1wvSajTQMgPNCetZjt-dnA8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rkzSEWHmAMcpojnW46oSL6wIaHs=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wSP-gAMUjGZQhaOGzotosL2o17U=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.72793960571289,-122.45882415771484&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=KWe4E7fLizhN7xsq4-makWHo3Ic="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/108-Westwood-Dr-San-Francisco-CA-94112/15140625_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/108-Westwood-Dr-San-Francisco-CA-94112/15140625_zpid/",
+    "zpid": 15140625
+  }
+}

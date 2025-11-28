@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 15185458,
+    "address": "4030 Mission St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "livingArea": 1080,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1875,
+    "lotAreaValue": 1875,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1918,
+    "homeType": "SINGLE_FAMILY",
+    "description": "4030 Mission St, San Francisco, CA 94112 is a single family home that contains 1,080 sq ft and was built in 1918. It contains 3 bedrooms and 1 bathroom. This home last sold for $910,000 in April 2025. \n \nThe Zestimate for this house is $1,033,500. The Rent Zestimate for this home is $3,878/mo. "
+  },
+  "location": {
+    "latitude": 37.733143,
+    "longitude": -122.42727,
+    "neighborhood": "St. Marys Park",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 910000,
+    "lastSoldPrice": 910000,
+    "dateSold": 1743638400000,
+    "dateSoldString": "2025-04-03",
+    "zestimate": 1033500,
+    "zestimateHighPercent": "14",
+    "zestimateLowPercent": "14",
+    "rentZestimate": 3878,
+    "taxAssessedValue": 258940,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 843
+  },
+  "schools": [
+    {
+      "name": "Glen Park Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 1.2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Jordan (June) School For Equity",
+      "rating": 3,
+      "level": "High",
+      "distance": 1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 80,
+    "transitScore": 82,
+    "bikeScore": 71
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-04-03",
+        "time": 1743638400000,
+        "price": 910000,
+        "pricePerSquareFoot": 843,
+        "priceChangeRate": -0.08817635270541083,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2024-10-07",
+        "time": 1728259200000,
+        "price": 998000,
+        "pricePerSquareFoot": 924,
+        "priceChangeRate": 0,
+        "event": "Listed for sale",
+        "source": "bridgeMLS/CCAR/Bay East AOR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "41075638",
+          "infoString2": "bridgeMLS/CCAR/Bay East AOR",
+          "infoString3": "https://photos.zillowstatic.com/fp/542acdc3b2ca053db8ac9dea64ca1739-zillow_web_logo_inf_11.jpg"
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763574024877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 258940,
+        "valueIncreaseRate": 0.019998975
+      },
+      {
+        "time": 1732038024877,
+        "taxPaid": 3763.1,
+        "taxIncreaseRate": 0.017873876,
+        "value": 253863,
+        "valueIncreaseRate": 0.019997107
+      },
+      {
+        "time": 1700415624877,
+        "taxPaid": 3697.02,
+        "taxIncreaseRate": 0.023759298,
+        "value": 248886,
+        "valueIncreaseRate": 0.019995328
+      },
+      {
+        "time": 1668879624877,
+        "taxPaid": 3611.22,
+        "taxIncreaseRate": 0.019404482,
+        "value": 244007,
+        "valueIncreaseRate": 0.019993814
+      },
+      {
+        "time": 1637343624877,
+        "taxPaid": 3542.48,
+        "taxIncreaseRate": -0.023507627,
+        "value": 239224,
+        "valueIncreaseRate": 0.010355954
+      },
+      {
+        "time": 1605807624877,
+        "taxPaid": 3627.76,
+        "taxIncreaseRate": 0.033591054,
+        "value": 236772,
+        "valueIncreaseRate": 0.019997416
+      },
+      {
+        "time": 1574185224877,
+        "taxPaid": 3509.86,
+        "taxIncreaseRate": 0.035289787,
+        "value": 232130,
+        "valueIncreaseRate": 0.01999297
+      },
+      {
+        "time": 1542649224877,
+        "taxPaid": 3390.22,
+        "taxIncreaseRate": 0.111001134,
+        "value": 227580,
+        "valueIncreaseRate": 0.020377968
+      },
+      {
+        "time": 1511113224877,
+        "taxPaid": 3051.5,
+        "taxIncreaseRate": 0.027261214,
+        "value": 223035,
+        "valueIncreaseRate": 0.019984908
+      },
+      {
+        "time": 1479577224877,
+        "taxPaid": 2970.52,
+        "taxIncreaseRate": 0.014043975,
+        "value": 218665,
+        "valueIncreaseRate": 0.015237971
+      },
+      {
+        "time": 1447954824877,
+        "taxPaid": 2929.38,
+        "taxIncreaseRate": 0.026440812,
+        "value": 215383,
+        "valueIncreaseRate": 0.01997007
+      },
+      {
+        "time": 1416418824877,
+        "taxPaid": 2853.92,
+        "taxIncreaseRate": 0,
+        "value": 211166,
+        "valueIncreaseRate": 0.004533497
+      },
+      {
+        "time": 1384882824877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 210213,
+        "valueIncreaseRate": 0.019981077
+      },
+      {
+        "time": 1353346824877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 206095,
+        "valueIncreaseRate": 0.01998446
+      },
+      {
+        "time": 1321724424877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 202057,
+        "valueIncreaseRate": 0.0075093117
+      },
+      {
+        "time": 1290188424877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 200551,
+        "valueIncreaseRate": -0.0023728039
+      },
+      {
+        "time": 1258652424877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 201028,
+        "valueIncreaseRate": 0.01998072
+      },
+      {
+        "time": 1227116424877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 197090,
+        "valueIncreaseRate": 0.019981474
+      },
+      {
+        "time": 1195494024877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 193229,
+        "valueIncreaseRate": 0.019984903
+      },
+      {
+        "time": 1163958024877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 189443,
+        "valueIncreaseRate": 0.01997491
+      },
+      {
+        "time": 1132422024877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 185733,
+        "valueIncreaseRate": 0.03901342
+      },
+      {
+        "time": 1069263624877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 178759,
+        "valueIncreaseRate": 0.019958803
+      },
+      {
+        "time": 1037727624877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 175261,
+        "valueIncreaseRate": 0.020003026
+      },
+      {
+        "time": 1006191624877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 171824,
+        "valueIncreaseRate": 0.019787524
+      },
+      {
+        "time": 974655624877,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 168490,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15185459,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.73309326171875,-122.42732238769531&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rTGgYjE1zLyqzWw7rFcrGyFzMxI="
+          }
+        ],
+        "price": 1014900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1260,
+        "livingAreaValue": 1260,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1500,
+        "lotAreaValue": 1500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "4036 Mission St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4036 Mission St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.733093,
+        "longitude": -122.42732,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/4036-Mission-St-San-Francisco-CA-94112/15185459_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332863361,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.73319625854492,-122.42721557617188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Es9ea0dggpXcHnP209ms2f1fvb0="
+          }
+        ],
+        "price": 1161000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2278,
+        "livingAreaValue": 2278,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1873,
+        "lotAreaValue": 1873,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "4026 Mission St #4028",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4026 Mission St #4028"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.733196,
+        "longitude": -122.427216,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/4026-Mission-St-4028-San-Francisco-CA-94112/332863361_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332863360,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.73324966430664,-122.42716217041016&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=JL1sHSY73Tiz09ZrTptRkyjlkxY="
+          }
+        ],
+        "price": 1215800,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2568,
+        "livingAreaValue": 2568,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1875,
+        "lotAreaValue": 1875,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "4022 Mission St #4024",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4022 Mission St #4024"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73325,
+        "longitude": -122.42716,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/4022-Mission-St-4024-San-Francisco-CA-94112/332863360_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2101896296,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/49df96cb27513de7ea4f9890ba55706d-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 800,
+        "livingAreaValue": 800,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "4024 Mission St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "4024 Mission St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73325,
+        "longitude": -122.42716,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/4024-Mission-St-San-Francisco-CA-94112/2101896296_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15185474,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=125+Marsilly+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rNFBcZN3MRRg_0DMi-mMXu6L_E8="
+          }
+        ],
+        "price": 1234200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "125 Marsilly St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "125 Marsilly St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73322,
+        "longitude": -122.42746,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/125-Marsilly-St-San-Francisco-CA-94112/15185474_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 402578775,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/169e840b389ac5a1221d21e83eb5bc0a-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "125 Marsily St #1",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "125 Marsily St #1"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73322,
+        "longitude": -122.42746,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/125-Marsily-St-1-San-Francisco-CA-94112/402578775_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "4wvr7w91vmjb0",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 125309168,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=127+Marsily+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hxyJUm4JqX4NCOmXqnTUq3F0P00="
+          }
+        ],
+        "price": 62796,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1123,
+        "lotAreaValue": 1123,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "127 Marsily St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "127 Marsily St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73313,
+        "longitude": -122.4275,
+        "homeStatus": "OTHER",
+        "homeType": "LOT",
+        "hdpUrl": "/homedetails/127-Marsily-St-San-Francisco-CA-94112/125309168_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Lot",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 344103979,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6fe0a090f7f429de60370ce892799a22-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1200,
+        "livingAreaValue": 1200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "127 Marsily St #2",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "127 Marsily St #2"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73313,
+        "longitude": -122.4275,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/127-Marsily-St-2-San-Francisco-CA-94112/344103979_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "64nfadh8pvs1",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=q-MF_NjFb-AZ8sa145DNCFRQIT4=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=qY665RAyZQdZ1h_48ffOKm6p_aE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=_61BRC9bre_kFvwg2vp_wThLlJg=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xRMaSwuBQlKXeqqNB56zzXP1hNg=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=B88n_jCK1kvC5Y9TV9I2D-zdfvY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5bvYop9lHbNPJ9Crlgx-5IvyDiE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=nA_WJ86tSYF_87dZPGgdG7_Lmcw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XeyxRB0zEcYNVBww2eYahR4RwOE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=F43DumB3L9-IUcwOU-nOQbHx2V0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=qY665RAyZQdZ1h_48ffOKm6p_aE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=_61BRC9bre_kFvwg2vp_wThLlJg=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xRMaSwuBQlKXeqqNB56zzXP1hNg=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=B88n_jCK1kvC5Y9TV9I2D-zdfvY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5bvYop9lHbNPJ9Crlgx-5IvyDiE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=nA_WJ86tSYF_87dZPGgdG7_Lmcw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XeyxRB0zEcYNVBww2eYahR4RwOE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=F43DumB3L9-IUcwOU-nOQbHx2V0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AGrRkz2QlgfqHWBbqs5PI0kIvbg=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=M1OFCQC8LXEvGgwm4BYuhfXmbr8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XeyxRB0zEcYNVBww2eYahR4RwOE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=F43DumB3L9-IUcwOU-nOQbHx2V0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AGrRkz2QlgfqHWBbqs5PI0kIvbg=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=M1OFCQC8LXEvGgwm4BYuhfXmbr8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XeyxRB0zEcYNVBww2eYahR4RwOE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=F43DumB3L9-IUcwOU-nOQbHx2V0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.7331428527832,-122.4272689819336&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=awdoc10HjBk0WtnYKsqr02vCxHY="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/4030-Mission-St-San-Francisco-CA-94112/15185458_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/4030-Mission-St-San-Francisco-CA-94112/15185458_zpid/",
+    "zpid": 15185458
+  }
+}

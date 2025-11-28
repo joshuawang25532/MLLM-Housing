@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 15184985,
+    "address": "534 Laidley St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94131",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "livingArea": 1000,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3297,
+    "lotAreaValue": 3297,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1912,
+    "homeType": "SINGLE_FAMILY",
+    "description": "534 Laidley St, San Francisco, CA 94131 is a single family home that contains 1,000 sq ft and was built in 1912. It contains 2 bedrooms and 1 bathroom. This home last sold for $1,300,000 in September 2025. \n \nThe Zestimate for this house is $1,492,000. The Rent Zestimate for this home is $4,254/mo. "
+  },
+  "location": {
+    "latitude": 37.735916,
+    "longitude": -122.43147,
+    "neighborhood": "Glen Park",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": false,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1300000,
+    "lastSoldPrice": 1300000,
+    "dateSold": 1757030400000,
+    "dateSoldString": "2025-09-05",
+    "zestimate": 1492000,
+    "zestimateHighPercent": "16",
+    "zestimateLowPercent": "14",
+    "rentZestimate": 4254,
+    "taxAssessedValue": 2337535,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1300
+  },
+  "schools": [
+    {
+      "name": "Glen Park Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.9,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Academy (The)- SF @Mcateer",
+      "rating": 7,
+      "level": "High",
+      "distance": 1.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 88,
+    "transitScore": 83,
+    "bikeScore": 70
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-09-05",
+        "time": 1757030400000,
+        "price": 1300000,
+        "pricePerSquareFoot": 1300,
+        "priceChangeRate": 4.2,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2021-08-30",
+        "time": 1630281600000,
+        "price": 250000,
+        "pricePerSquareFoot": 250,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763630749119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2337535,
+        "valueIncreaseRate": 0.019999102
+      },
+      {
+        "time": 1732094749119,
+        "taxPaid": 27635.08,
+        "taxIncreaseRate": -0.0033662159,
+        "value": 2291703,
+        "valueIncreaseRate": 0.019998023
+      },
+      {
+        "time": 1700472349119,
+        "taxPaid": 27728.42,
+        "taxIncreaseRate": 0.037782215,
+        "value": 2246772,
+        "valueIncreaseRate": 0.019997984
+      },
+      {
+        "time": 1668936349119,
+        "taxPaid": 26718.92,
+        "taxIncreaseRate": 20.020973,
+        "value": 2202722,
+        "valueIncreaseRate": 45.733185
+      },
+      {
+        "time": 1637400349119,
+        "taxPaid": 1271.06,
+        "taxIncreaseRate": -0.5130784,
+        "value": 47134,
+        "valueIncreaseRate": 0.0199736
+      },
+      {
+        "time": 1605864349119,
+        "taxPaid": 2610.4,
+        "taxIncreaseRate": 0.272472,
+        "value": 46211,
+        "valueIncreaseRate": 0.019975279
+      },
+      {
+        "time": 1574241949119,
+        "taxPaid": 2051.44,
+        "taxIncreaseRate": -0.048055712,
+        "value": 45306,
+        "valueIncreaseRate": 0.019991895
+      },
+      {
+        "time": 1542705949119,
+        "taxPaid": 2155,
+        "taxIncreaseRate": -0.0114769675,
+        "value": 44418,
+        "valueIncreaseRate": 0.019977955
+      },
+      {
+        "time": 1511169949119,
+        "taxPaid": 2180.02,
+        "taxIncreaseRate": 1.820426,
+        "value": 43548,
+        "valueIncreaseRate": 0.01997892
+      },
+      {
+        "time": 1479633949119,
+        "taxPaid": 772.94,
+        "taxIncreaseRate": 0.01726724,
+        "value": 42695,
+        "valueIncreaseRate": 0.015242307
+      },
+      {
+        "time": 1448011549119,
+        "taxPaid": 759.82,
+        "taxIncreaseRate": 0.026561871,
+        "value": 42054,
+        "valueIncreaseRate": 0.019960709
+      },
+      {
+        "time": 1416475549119,
+        "taxPaid": 740.16,
+        "taxIncreaseRate": 0,
+        "value": 41231,
+        "valueIncreaseRate": 0.0045316117
+      },
+      {
+        "time": 1384939549119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 41045,
+        "valueIncreaseRate": 0.019979622
+      },
+      {
+        "time": 1353403549119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 40241,
+        "valueIncreaseRate": 0.019973133
+      },
+      {
+        "time": 1321781149119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 39453,
+        "valueIncreaseRate": 0.0074821245
+      },
+      {
+        "time": 1290245149119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 39160,
+        "valueIncreaseRate": -0.0023692457
+      },
+      {
+        "time": 1258709149119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 39253,
+        "valueIncreaseRate": 0.019955827
+      },
+      {
+        "time": 1227173149119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 38485,
+        "valueIncreaseRate": 0.019983567
+      },
+      {
+        "time": 1195550749119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 37731,
+        "valueIncreaseRate": 0.019977292
+      },
+      {
+        "time": 1164014749119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 36992,
+        "valueIncreaseRate": 0.0199625
+      },
+      {
+        "time": 1132478749119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 36268,
+        "valueIncreaseRate": 0.038989313
+      },
+      {
+        "time": 1069320349119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 34907,
+        "valueIncreaseRate": 0.019956756
+      },
+      {
+        "time": 1037784349119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 34224,
+        "valueIncreaseRate": 0.019967813
+      },
+      {
+        "time": 1006248349119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 33554,
+        "valueIncreaseRate": -0.9110917
+      },
+      {
+        "time": 974712349119,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 377400,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15184986,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/8e69830bf40ff6a5fc5852d70f5ce600-p_c.jpg"
+          }
+        ],
+        "price": 4501600,
+        "currency": "USD",
+        "bedrooms": 7,
+        "bathrooms": 5.5,
+        "livingArea": 4039,
+        "livingAreaValue": 4039,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3297,
+        "lotAreaValue": 3297,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "536 Laidley St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "536 Laidley St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.735863,
+        "longitude": -122.43156,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/536-Laidley-St-San-Francisco-CA-94131/15184986_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2110057310,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4de29c8423c7733b805549f5e0a82482-p_c.jpg"
+          }
+        ],
+        "price": 760600,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 683,
+        "livingAreaValue": 683,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3484,
+        "lotAreaValue": 3484,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "536B Laidley St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "536B Laidley St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.735863,
+        "longitude": -122.43156,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/536B-Laidley-St-San-Francisco-CA-94131/2110057310_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15184984,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=520+Laidley+St%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HdrvjGQOtH1DJ88c1eQjTfqEr6Q="
+          }
+        ],
+        "price": 1722700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 900,
+        "livingAreaValue": 900,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3397,
+        "lotAreaValue": 3397,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "520 Laidley St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "520 Laidley St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.735977,
+        "longitude": -122.43138,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/520-Laidley-St-San-Francisco-CA-94131/15184984_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15184987,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/7e4e156f83ea8fc30d2d089b370c3d9e-p_c.jpg"
+          }
+        ],
+        "price": 3474200,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "livingArea": 3538,
+        "livingAreaValue": 3538,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "538 Laidley St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "538 Laidley St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73581,
+        "longitude": -122.43163,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/538-Laidley-St-San-Francisco-CA-94131/15184987_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15184983,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=518+Laidley+St%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9Ytb9mIb0xHIxZ8xSVEBh8SaS8Q="
+          }
+        ],
+        "price": 1571100,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1475,
+        "livingAreaValue": 1475,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1337,
+        "lotAreaValue": 1337,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "518 Laidley St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "518 Laidley St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.735973,
+        "longitude": -122.43118,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/518-Laidley-St-San-Francisco-CA-94131/15184983_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15184988,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/ecbf2fdd89dee649cfb10644e93ec6ac-p_c.jpg"
+          }
+        ],
+        "price": 3000000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 2757,
+        "livingAreaValue": 2757,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495.988,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "540 Laidley St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "540 Laidley St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.735714,
+        "longitude": -122.431656,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/540-Laidley-St-San-Francisco-CA-94131/15184988_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425006977",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15185010,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=235+Bemis+St%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WZkkmI9fi5MqSwWHMRQHQzAcksk="
+          }
+        ],
+        "price": 1793400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1525,
+        "livingAreaValue": 1525,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3300,
+        "lotAreaValue": 3300,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "235 Bemis St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "235 Bemis St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73613,
+        "longitude": -122.43169,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/235-Bemis-St-San-Francisco-CA-94131/15185010_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15185009,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6e11023140151266325ee11e9bfa4863-p_c.jpg"
+          }
+        ],
+        "price": 1402800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 942,
+        "livingAreaValue": 942,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3297,
+        "lotAreaValue": 3297,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "245 Bemis St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "245 Bemis St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.736073,
+        "longitude": -122.43178,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/245-Bemis-St-San-Francisco-CA-94131/15185009_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_sJndFMXwqImUJ2puD3ZMXZWrtw=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_iv7YfUWCssr_fOAR7vxsVvvOeE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WVYKy5lCrb6aJlenS9_zT5G4iCQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sILFYI5xgPAYuzd2KYza7uKoVdc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ydQD1Nyvgf47MJAFu92hKO4mkyI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZN4QVw-zkNb3iOpCpXIRoroASoQ=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZIJgi42UfuGCRppNdrVq_j_Zt3k=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=k2hONcjQz-7TqGbUqvDV6OurJ5s=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LbwyRsnYc82_TA11sE6sXY6WqrM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_iv7YfUWCssr_fOAR7vxsVvvOeE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WVYKy5lCrb6aJlenS9_zT5G4iCQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sILFYI5xgPAYuzd2KYza7uKoVdc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ydQD1Nyvgf47MJAFu92hKO4mkyI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZN4QVw-zkNb3iOpCpXIRoroASoQ=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZIJgi42UfuGCRppNdrVq_j_Zt3k=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=k2hONcjQz-7TqGbUqvDV6OurJ5s=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LbwyRsnYc82_TA11sE6sXY6WqrM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=143kkr66WRyTvzCE4iAX1czxiYg=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TwiB3FS4GCmAAhyF2aAOuBgj2TM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=k2hONcjQz-7TqGbUqvDV6OurJ5s=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LbwyRsnYc82_TA11sE6sXY6WqrM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=143kkr66WRyTvzCE4iAX1czxiYg=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TwiB3FS4GCmAAhyF2aAOuBgj2TM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=k2hONcjQz-7TqGbUqvDV6OurJ5s=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LbwyRsnYc82_TA11sE6sXY6WqrM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=534+Laidley+St%2C+San+Francisco%2C+CA+94131&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eH5UlyKxglQAKdpn5BZHlf2YDWo="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/534-Laidley-St-San-Francisco-CA-94131/15184985_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/534-Laidley-St-San-Francisco-CA-94131/15184985_zpid/",
+    "zpid": 15184985
+  }
+}

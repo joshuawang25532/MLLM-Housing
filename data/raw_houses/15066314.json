@@ -1,0 +1,2329 @@
+{
+  "basic_info": {
+    "zpid": 15066314,
+    "address": "1097 Green St APT 10",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94133",
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "livingArea": 1200,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1910,
+    "homeType": "CONDO",
+    "description": "Fabulous top floor flat in a lovely Edwardian corner building of 14 units on storied Russian Hill.2-bedrooms, 1.5 baths, formal living room and dining room with fireplace, some nice views, ample storage, common garden and secure 1 car garage. recent soft-story seismic retrofit. Beautiful unit !"
+  },
+  "location": {
+    "latitude": 37.798225,
+    "longitude": -122.41692,
+    "neighborhood": "Russian Hill",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": true,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": true,
+    "hasCooling": false,
+    "hasHeating": true,
+    "cooling": [
+      "None"
+    ],
+    "heating": [
+      "Other",
+      "Gas",
+      "Other"
+    ],
+    "appliances": [
+      "Dryer",
+      "Washer"
+    ],
+    "interiorFeatures": null,
+    "exteriorFeatures": [
+      "Stucco"
+    ],
+    "parkingFeatures": [
+      "Garage - Detached"
+    ],
+    "securityFeatures": null,
+    "flooring": [
+      "Hardwood",
+      "Linoleum / Vinyl"
+    ],
+    "rooms": [
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "level": null,
+        "features": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": null,
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "DiningRoom",
+        "roomWidth": null
+      }
+    ]
+  },
+  "financial": {
+    "price": 1640000,
+    "lastSoldPrice": 1640000,
+    "dateSold": 1757980800000,
+    "dateSoldString": "2025-09-16",
+    "zestimate": 1645400,
+    "zestimateHighPercent": "9",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 6273,
+    "taxAssessedValue": 1545000,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": 655,
+    "monthlyHoaFee": 655,
+    "pricePerSquareFoot": 1367
+  },
+  "schools": [
+    {
+      "name": "Yick Wo Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Francisco Middle School",
+      "rating": 5,
+      "level": "Middle",
+      "distance": 0.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 96,
+    "transitScore": 87,
+    "bikeScore": 65
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-09-16",
+        "time": 1757980800000,
+        "price": 1640000,
+        "pricePerSquareFoot": 1367,
+        "priceChangeRate": 0.2152649129307151,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2019-08-24",
+        "time": 1566604800000,
+        "price": 1349500,
+        "pricePerSquareFoot": 1125,
+        "priceChangeRate": 0,
+        "event": "Listing removed",
+        "source": "Compass",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "487617",
+          "infoString2": "Compass",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2019-08-24",
+        "time": 1566604800000,
+        "price": 1349500,
+        "pricePerSquareFoot": 1125,
+        "priceChangeRate": -0.1458860759493671,
+        "event": "Listed for sale",
+        "source": "Compass",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "487617",
+          "infoString2": "Compass",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2019-08-23",
+        "time": 1566518400000,
+        "price": 1580000,
+        "pricePerSquareFoot": 1317,
+        "priceChangeRate": 0.17080400148203037,
+        "event": "Sold",
+        "source": "SFAR",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/HoudaTanverakul/",
+          "name": "houda tanverakul"
+        },
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "487617",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "2019-08-04",
+        "time": 1564876800000,
+        "price": 1349500,
+        "pricePerSquareFoot": 1125,
+        "priceChangeRate": 0,
+        "event": "Pending sale",
+        "source": "Compass",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "487617",
+          "infoString2": "Compass",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2019-07-25",
+        "time": 1564012800000,
+        "price": 1349500,
+        "pricePerSquareFoot": 1125,
+        "priceChangeRate": 0.4205263157894737,
+        "event": "Listed for sale",
+        "source": "Compass",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "487617",
+          "infoString2": "Compass",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2006-06-28",
+        "time": 1151452800000,
+        "price": 950000,
+        "pricePerSquareFoot": 792,
+        "priceChangeRate": -0.11214953271028037,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2005-03-25",
+        "time": 1111708800000,
+        "price": 1070000,
+        "pricePerSquareFoot": 892,
+        "priceChangeRate": 0.29539951573849876,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/robregansf/",
+          "name": "Rob Regan"
+        },
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2003-10-21",
+        "time": 1066694400000,
+        "price": 826000,
+        "pricePerSquareFoot": 688,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763579446410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1545000,
+        "valueIncreaseRate": 0.21845426
+      },
+      {
+        "time": 1732043446410,
+        "taxPaid": 15618.06,
+        "taxIncreaseRate": -0.103002205,
+        "value": 1268000,
+        "valueIncreaseRate": -0.10515173
+      },
+      {
+        "time": 1700421046410,
+        "taxPaid": 17411.48,
+        "taxIncreaseRate": -0.066522636,
+        "value": 1417000,
+        "valueIncreaseRate": -0.06959947
+      },
+      {
+        "time": 1668885046410,
+        "taxPaid": 18652.28,
+        "taxIncreaseRate": 0.048577182,
+        "value": 1523000,
+        "valueIncreaseRate": 0.05179558
+      },
+      {
+        "time": 1637349046410,
+        "taxPaid": 17788.18,
+        "taxIncreaseRate": -0.09753596,
+        "value": 1448000,
+        "valueIncreaseRate": -0.083543144
+      },
+      {
+        "time": 1605813046410,
+        "taxPaid": 19710.68,
+        "taxIncreaseRate": 0.36817017,
+        "value": 1579998,
+        "valueIncreaseRate": 0.35763386
+      },
+      {
+        "time": 1574190646410,
+        "taxPaid": 14406.6,
+        "taxIncreaseRate": 0.03485131,
+        "value": 1163788,
+        "valueIncreaseRate": 0.019996986
+      },
+      {
+        "time": 1542654646410,
+        "taxPaid": 13921.42,
+        "taxIncreaseRate": 0.03443303,
+        "value": 1140972,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1511118646410,
+        "taxPaid": 13458.02,
+        "taxIncreaseRate": 0.01675396,
+        "value": 1118600,
+        "valueIncreaseRate": 0.019998759
+      },
+      {
+        "time": 1479582646410,
+        "taxPaid": 13236.26,
+        "taxIncreaseRate": 0.012585893,
+        "value": 1096668,
+        "valueIncreaseRate": 0.015249085
+      },
+      {
+        "time": 1447960246410,
+        "taxPaid": 13071.74,
+        "taxIncreaseRate": 0.02707439,
+        "value": 1080196,
+        "valueIncreaseRate": 0.019976582
+      },
+      {
+        "time": 1416424246410,
+        "taxPaid": 12727.16,
+        "taxIncreaseRate": 0,
+        "value": 1059040,
+        "valueIncreaseRate": 0.004537797
+      },
+      {
+        "time": 1384888246410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1054256,
+        "valueIncreaseRate": 0.019996362
+      },
+      {
+        "time": 1353352246410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1033588,
+        "valueIncreaseRate": 0.019997552
+      },
+      {
+        "time": 1321729846410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1013324,
+        "valueIncreaseRate": 0.0075266915
+      },
+      {
+        "time": 1290193846410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1005754,
+        "valueIncreaseRate": -0.002370693
+      },
+      {
+        "time": 1258657846410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1008144,
+        "valueIncreaseRate": -0.32000244
+      },
+      {
+        "time": 1227121846410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1482570,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1195499446410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1453500,
+        "valueIncreaseRate": -0.11214953
+      },
+      {
+        "time": 1163963446410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1637100,
+        "valueIncreaseRate": 0.29539952
+      },
+      {
+        "time": 1132427446410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1263780,
+        "valueIncreaseRate": 1.3190837
+      },
+      {
+        "time": 1069269046410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 544948,
+        "valueIncreaseRate": 0.019993786
+      },
+      {
+        "time": 1037733046410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 534266,
+        "valueIncreaseRate": 0.020000381
+      },
+      {
+        "time": 1006197046410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 523790,
+        "valueIncreaseRate": 0.019999221
+      },
+      {
+        "time": 974661046410,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 513520,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15066303,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/b650a8857dcb5439ac39b3f1d39679c9-p_c.jpg"
+          }
+        ],
+        "price": 1033100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1047,
+        "livingAreaValue": 1047,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 9831,
+        "lotAreaValue": 9831,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1896 Leavenworth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1896 Leavenworth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.798225,
+        "longitude": -122.41692,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1896-Leavenworth-St-San-Francisco-CA-94109/15066303_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15066304,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1898+Leavenworth+St%2C+San+Francisco%2C+CA+94109&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dyL2TyNFmb3AoYDDrvWEsCSjG2M="
+          }
+        ],
+        "price": 1107900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1898 Leavenworth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94109"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1898 Leavenworth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.798225,
+        "longitude": -122.41692,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1898-Leavenworth-St-San-Francisco-CA-94109/15066304_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15066305,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.79822540283203,-122.41692352294922&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cZN8DjaTRPNNeYKUuP__gjkGPGo="
+          }
+        ],
+        "price": 1123100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 984,
+        "livingAreaValue": 984,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1059,
+        "lotAreaValue": 1059,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1097 Green St APT 1",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1097 Green St APT 1"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.798225,
+        "longitude": -122.41692,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1097-Green-St-APT-1-San-Francisco-CA-94133/15066305_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15066307,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.79822540283203,-122.41692352294922&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cZN8DjaTRPNNeYKUuP__gjkGPGo="
+          }
+        ],
+        "price": 1046000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 1044,
+        "livingAreaValue": 1044,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 823,
+        "lotAreaValue": 823,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1097 Green St APT 3",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1097 Green St APT 3"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.798225,
+        "longitude": -122.41692,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1097-Green-St-APT-3-San-Francisco-CA-94133/15066307_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15066308,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.79822540283203,-122.41692352294922&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cZN8DjaTRPNNeYKUuP__gjkGPGo="
+          }
+        ],
+        "price": 949800,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 1015,
+        "livingAreaValue": 1015,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 871,
+        "lotAreaValue": 871,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1097 Green St APT 4",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1097 Green St APT 4"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.798225,
+        "longitude": -122.41692,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1097-Green-St-APT-4-San-Francisco-CA-94133/15066308_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15066309,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/66643140e3f0e7601838ba7c0f4e0aff-p_c.jpg"
+          }
+        ],
+        "price": 1267500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1042,
+        "livingAreaValue": 1042,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1085,
+        "lotAreaValue": 1085,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1097 Green St APT 5",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1097 Green St APT 5"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.798225,
+        "longitude": -122.41692,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1097-Green-St-APT-5-San-Francisco-CA-94133/15066309_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15066310,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f078209f79d308365eacfbb1639b5559-p_c.jpg"
+          }
+        ],
+        "price": 1260000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 1040,
+        "livingAreaValue": 1040,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1000,
+        "lotAreaValue": 1000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1097 Green St APT 6",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1097 Green St APT 6"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.798225,
+        "longitude": -122.41692,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1097-Green-St-APT-6-San-Francisco-CA-94133/15066310_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15066311,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/72f991d435558aa8babc3f5b1c514d58-p_c.jpg"
+          }
+        ],
+        "price": 1123500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1047,
+        "livingAreaValue": 1047,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1289,
+        "lotAreaValue": 1289,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1097 Green St APT 7",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1097 Green St APT 7"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.798225,
+        "longitude": -122.41692,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1097-Green-St-APT-7-San-Francisco-CA-94133/15066311_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15066312,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f53d33983131abdbe5ce10fd26c395ae-p_c.jpg"
+          }
+        ],
+        "price": 1162900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1097 Green St APT 8",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1097 Green St APT 8"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.798225,
+        "longitude": -122.41692,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1097-Green-St-APT-8-San-Francisco-CA-94133/15066312_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "5djv9b7rn4vry",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": true,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 8,
+    "responsivePhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7f810defd0283a6378183fb5fd3196e8-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4984ba24bf36144403a156fcd2ac5187-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5f01c54680bcca42241b87e4ef6ce0e-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/60b02e090ddbf54353c8b2fcb4740e31-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfe34d89033814c8cc4695d847e78cfd-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/473f446044471eff4ba24c732a415b88-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/97d801ed3a1c53eeaeb3fedde68643e2-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://photos.zillowstatic.com/fp/f67e9fef351548f1b78dd860b19bb2f0-p_a.jpg"
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1097-Green-St-APT-10-San-Francisco-CA-94133/15066314_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1097-Green-St-APT-10-San-Francisco-CA-94133/15066314_zpid/",
+    "zpid": 15066314
+  }
+}

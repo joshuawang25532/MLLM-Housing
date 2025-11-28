@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 15108814,
+    "address": "1606-1608 34th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94122",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "livingArea": 1466,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2060,
+    "lotAreaValue": 2060,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1940,
+    "homeType": "SINGLE_FAMILY",
+    "description": "1606-1608 34th Ave, San Francisco, CA 94122 is a single family home that contains 1,466 sq ft and was built in 1940. It contains 3 bedrooms and 2 bathrooms. This home last sold for $1,810,000 in August 2025. \n \nThe Zestimate for this house is $1,821,400. The Rent Zestimate for this home is $5,632/mo. "
+  },
+  "location": {
+    "latitude": 37.757065,
+    "longitude": -122.49253,
+    "neighborhood": "Outer Sunset",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1810000,
+    "lastSoldPrice": 1810000,
+    "dateSold": 1755475200000,
+    "dateSoldString": "2025-08-18",
+    "zestimate": 1821400,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 5632,
+    "taxAssessedValue": 1443418,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1235
+  },
+  "schools": [
+    {
+      "name": "Stevenson (Robert Louis) Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.6,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Giannini (A.P.) Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 0.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lincoln (Abraham) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 81,
+    "transitScore": 58,
+    "bikeScore": 70
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-08-18",
+        "time": 1755475200000,
+        "price": 1810000,
+        "pricePerSquareFoot": 1235,
+        "priceChangeRate": 0.5083333333333333,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2018-03-14",
+        "time": 1520985600000,
+        "price": 1200000,
+        "pricePerSquareFoot": 819,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763573477077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1443418,
+        "valueIncreaseRate": 0.019999053
+      },
+      {
+        "time": 1732037477077,
+        "taxPaid": 16606.14,
+        "taxIncreaseRate": 0.014581362,
+        "value": 1415117,
+        "valueIncreaseRate": 0.019998977
+      },
+      {
+        "time": 1700415077077,
+        "taxPaid": 16367.48,
+        "taxIncreaseRate": 0.07628959,
+        "value": 1387371,
+        "valueIncreaseRate": 0.078290805
+      },
+      {
+        "time": 1668879077077,
+        "taxPaid": 15207.32,
+        "taxIncreaseRate": 0.017606838,
+        "value": 1286639,
+        "valueIncreaseRate": 0.019999016
+      },
+      {
+        "time": 1637343077077,
+        "taxPaid": 14944.2,
+        "taxIncreaseRate": -0.0030300915,
+        "value": 1261412,
+        "valueIncreaseRate": 0.010359005
+      },
+      {
+        "time": 1605807077077,
+        "taxPaid": 14989.62,
+        "taxIncreaseRate": 0.03570977,
+        "value": 1248479,
+        "valueIncreaseRate": 0.019999184
+      },
+      {
+        "time": 1574184677077,
+        "taxPaid": 14472.8,
+        "taxIncreaseRate": 12.330876,
+        "value": 1224000,
+        "valueIncreaseRate": 13.60516
+      },
+      {
+        "time": 1542648677077,
+        "taxPaid": 1085.66,
+        "taxIncreaseRate": 0.09426091,
+        "value": 83806,
+        "valueIncreaseRate": 0.019984422
+      },
+      {
+        "time": 1511112677077,
+        "taxPaid": 992.14,
+        "taxIncreaseRate": 0.048396967,
+        "value": 82164,
+        "valueIncreaseRate": 0.019986592
+      },
+      {
+        "time": 1479576677077,
+        "taxPaid": 946.34,
+        "taxIncreaseRate": 0.012626586,
+        "value": 80554,
+        "valueIncreaseRate": 0.015237255
+      },
+      {
+        "time": 1447954277077,
+        "taxPaid": 934.54,
+        "taxIncreaseRate": 0.026628574,
+        "value": 79345,
+        "valueIncreaseRate": 0.019963492
+      },
+      {
+        "time": 1416418277077,
+        "taxPaid": 910.3,
+        "taxIncreaseRate": 0,
+        "value": 77792,
+        "valueIncreaseRate": 0.004532483
+      },
+      {
+        "time": 1384882277077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 77441,
+        "valueIncreaseRate": 0.019980507
+      },
+      {
+        "time": 1353346277077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 75924,
+        "valueIncreaseRate": 0.019976625
+      },
+      {
+        "time": 1321723877077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 74437,
+        "valueIncreaseRate": 0.0075119785
+      },
+      {
+        "time": 1290187877077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 73882,
+        "valueIncreaseRate": -0.0023765157
+      },
+      {
+        "time": 1258651877077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 74058,
+        "valueIncreaseRate": 0.0199843
+      },
+      {
+        "time": 1227115877077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 72607,
+        "valueIncreaseRate": 0.019976119
+      },
+      {
+        "time": 1195493477077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 71185,
+        "valueIncreaseRate": 0.019988537
+      },
+      {
+        "time": 1163957477077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 69790,
+        "valueIncreaseRate": 0.019978663
+      },
+      {
+        "time": 1132421477077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68423,
+        "valueIncreaseRate": 0.03901054
+      },
+      {
+        "time": 1069263077077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 65854,
+        "valueIncreaseRate": 0.019995973
+      },
+      {
+        "time": 1037727077077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64563,
+        "valueIncreaseRate": 0.01996872
+      },
+      {
+        "time": 1006191077077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63299,
+        "valueIncreaseRate": 0.019997422
+      },
+      {
+        "time": 974655077077,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62058,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 2091186472,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d8d98ee82e0d3ffeb02f0514f5779482-p_c.jpg"
+          }
+        ],
+        "price": 1810000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1540,
+        "livingAreaValue": 1540,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2060,
+        "lotAreaValue": 2060.388,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1606 34th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1606 34th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.757065,
+        "longitude": -122.49261,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1606-34th-Ave-San-Francisco-CA-94122/2091186472_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425050754",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15108815,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2745+Lawton+St%2C+San+Francisco%2C+CA+94122&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RXz6vdbEl7l4I7jkykF0OL5zZco="
+          }
+        ],
+        "price": 1292100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1250,
+        "livingAreaValue": 1250,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2060,
+        "lotAreaValue": 2060,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2745 Lawton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2745 Lawton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75713,
+        "longitude": -122.49253,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2745-Lawton-St-San-Francisco-CA-94122/15108815_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15108813,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.756996154785156,-122.49252319335938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7aZb0GssRTQtKisuuPrhuttAyj8="
+          }
+        ],
+        "price": 1508800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1642,
+        "livingAreaValue": 1642,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2060,
+        "lotAreaValue": 2060,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1610 34th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1610 34th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.756996,
+        "longitude": -122.49252,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1610-34th-Ave-San-Francisco-CA-94122/15108813_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15108812,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.756927490234375,-122.4924545288086&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=yBqnQPpM7tpLdTtDhLOyA_XA3Vc="
+          }
+        ],
+        "price": 1363500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1250,
+        "livingAreaValue": 1250,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1614 34th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1614 34th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.756927,
+        "longitude": -122.492455,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1614-34th-Ave-San-Francisco-CA-94122/15108812_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15108816,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7570686340332,-122.49234008789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7qbtOuNhMsdhJRprELuW2VpGYYo="
+          }
+        ],
+        "price": 1368200,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "livingArea": 1150,
+        "livingAreaValue": 1150,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1875,
+        "lotAreaValue": 1875,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2733 Lawton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2733 Lawton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75707,
+        "longitude": -122.49234,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2733-Lawton-St-San-Francisco-CA-94122/15108816_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15108811,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75686264038086,-122.49244689941406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=O_-6tvY36g3uM7Xy_RYxjd0OpyA="
+          }
+        ],
+        "price": 1501200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1425,
+        "livingAreaValue": 1425,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1618 34th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1618 34th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.756863,
+        "longitude": -122.49245,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1618-34th-Ave-San-Francisco-CA-94122/15108811_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15108817,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75707244873047,-122.49225616455078&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=M-NHWEyioRPGDUa_xb-sOrIH4ss="
+          }
+        ],
+        "price": 1419800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1499,
+        "livingAreaValue": 1499,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1875,
+        "lotAreaValue": 1875,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2727 Lawton St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2727 Lawton St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.757072,
+        "longitude": -122.492256,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2727-Lawton-St-San-Francisco-CA-94122/15108817_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15108810,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/b9db176b899ac85327a457869ffe8c8e-p_c.jpg"
+          }
+        ],
+        "price": 1400,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1622 34th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1622 34th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.756794,
+        "longitude": -122.49245,
+        "homeStatus": "FOR_RENT",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1622-34th-Ave-San-Francisco-CA-94122/15108810_zpid/",
+        "hdpTypeDimension": "ForRent",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "For Rent",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "551er2pf89qcb",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ibH2GLiNarBTZ_J12KAgezK1N3U=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-02oi_Xt-u4mljJ1m9rtAfmADLg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=oBk8bSs_1QE-Q6h_-ka6nfUbb70=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jN7JhFJxG-OMDqlevDxXJZnzLyI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=To54UpgLEvMLQcUxAe0Xblwwv0w=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1Gb0pgJnbc4ge6QGnPVAY-KPgRY=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bBat4QZWyHfSXsh5ZJ8PC5341Bw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=69VYxYx98wMNtwXGtpL3CRB8EE0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jEy5oHIZZ7WPmW-AFdtfS6zgURQ=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-02oi_Xt-u4mljJ1m9rtAfmADLg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=oBk8bSs_1QE-Q6h_-ka6nfUbb70=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jN7JhFJxG-OMDqlevDxXJZnzLyI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=To54UpgLEvMLQcUxAe0Xblwwv0w=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1Gb0pgJnbc4ge6QGnPVAY-KPgRY=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bBat4QZWyHfSXsh5ZJ8PC5341Bw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=69VYxYx98wMNtwXGtpL3CRB8EE0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jEy5oHIZZ7WPmW-AFdtfS6zgURQ=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HYIaMIABlqQc2mGVW7W9LFOVTfA=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wkWBJageJw-oWT34wP_jIvOzqAo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=69VYxYx98wMNtwXGtpL3CRB8EE0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jEy5oHIZZ7WPmW-AFdtfS6zgURQ=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HYIaMIABlqQc2mGVW7W9LFOVTfA=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wkWBJageJw-oWT34wP_jIvOzqAo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=69VYxYx98wMNtwXGtpL3CRB8EE0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jEy5oHIZZ7WPmW-AFdtfS6zgURQ=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.75706481933594,-122.4925308227539&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NzgT1peD64VGiJerD5WPtAhQEz4="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1606-1608-34th-Ave-San-Francisco-CA-94122/15108814_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1606-1608-34th-Ave-San-Francisco-CA-94122/15108814_zpid/",
+    "zpid": 15108814
+  }
+}

@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 332850418,
+    "address": "761 Pine St #765",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94108",
+    "bedrooms": null,
+    "bathrooms": 4,
+    "livingArea": 4605,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1376,
+    "lotAreaValue": 1376,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1909,
+    "homeType": "MULTI_FAMILY",
+    "description": "761 Pine St #765, San Francisco, CA 94108 is a multi family home that contains 4,605 sq ft and was built in 1909. It contains 4 bathrooms. This home last sold for $2,200,000 in October 2025. \n \nThe Zestimate for this house is $2,203,100. The Rent Zestimate for this home is $4,139/mo. "
+  },
+  "location": {
+    "latitude": 37.79098,
+    "longitude": -122.408394,
+    "neighborhood": "Nob Hill",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 2200000,
+    "lastSoldPrice": 2200000,
+    "dateSold": 1760659200000,
+    "dateSoldString": "2025-10-17",
+    "zestimate": 2203100,
+    "zestimateHighPercent": "9",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 4139,
+    "taxAssessedValue": 288717,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 478
+  },
+  "schools": [
+    {
+      "name": "Lau (Gordon J.) Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marina Middle School",
+      "rating": 6,
+      "level": "Middle",
+      "distance": 1.7,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 1.2,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 100,
+    "transitScore": 100,
+    "bikeScore": 59
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-10-17",
+        "time": 1760659200000,
+        "price": 2200000,
+        "pricePerSquareFoot": 478,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763635200149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 288717,
+        "valueIncreaseRate": 0.019862661
+      },
+      {
+        "time": 1732099200149,
+        "taxPaid": 4661.66,
+        "taxIncreaseRate": 0.047262896,
+        "value": 283094,
+        "valueIncreaseRate": 0.019864544
+      },
+      {
+        "time": 1700476800149,
+        "taxPaid": 4451.28,
+        "taxIncreaseRate": 0.03280352,
+        "value": 277580,
+        "valueIncreaseRate": 0.01990726
+      },
+      {
+        "time": 1668940800149,
+        "taxPaid": 4309.9,
+        "taxIncreaseRate": 0.017488958,
+        "value": 272162,
+        "valueIncreaseRate": 0.019600645
+      },
+      {
+        "time": 1637404800149,
+        "taxPaid": 4235.82,
+        "taxIncreaseRate": -0.052503772,
+        "value": 266930,
+        "valueIncreaseRate": 0.010635277
+      },
+      {
+        "time": 1605868800149,
+        "taxPaid": 4470.54,
+        "taxIncreaseRate": 0.029916938,
+        "value": 264121,
+        "valueIncreaseRate": 0.019953351
+      },
+      {
+        "time": 1574246400149,
+        "taxPaid": 4340.68,
+        "taxIncreaseRate": 0.034796115,
+        "value": 258954,
+        "valueIncreaseRate": 0.019949663
+      },
+      {
+        "time": 1542710400149,
+        "taxPaid": 4194.72,
+        "taxIncreaseRate": 0.08874023,
+        "value": 253889,
+        "valueIncreaseRate": 0.019945847
+      },
+      {
+        "time": 1511174400149,
+        "taxPaid": 3852.82,
+        "taxIncreaseRate": 0.02699692,
+        "value": 248924,
+        "valueIncreaseRate": 0.020121796
+      },
+      {
+        "time": 1479638400149,
+        "taxPaid": 3751.54,
+        "taxIncreaseRate": 0.014845869,
+        "value": 244014,
+        "valueIncreaseRate": 0.015375397
+      },
+      {
+        "time": 1448016000149,
+        "taxPaid": 3696.66,
+        "taxIncreaseRate": 0.024039589,
+        "value": 240319,
+        "valueIncreaseRate": 0.019908499
+      },
+      {
+        "time": 1416480000149,
+        "taxPaid": 3609.88,
+        "taxIncreaseRate": 0,
+        "value": 235628,
+        "valueIncreaseRate": 0.004476123
+      },
+      {
+        "time": 1384944000149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 234578,
+        "valueIncreaseRate": 0.020885285
+      },
+      {
+        "time": 1353408000149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 229779,
+        "valueIncreaseRate": 0.019961648
+      },
+      {
+        "time": 1321785600149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 225282,
+        "valueIncreaseRate": 0.0074592824
+      },
+      {
+        "time": 1290249600149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 223614,
+        "valueIncreaseRate": -0.0023690022
+      },
+      {
+        "time": 1258713600149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 224145,
+        "valueIncreaseRate": 0.019939663
+      },
+      {
+        "time": 1227177600149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 219763,
+        "valueIncreaseRate": 0.019947555
+      },
+      {
+        "time": 1195555200149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 215465,
+        "valueIncreaseRate": 0.02009753
+      },
+      {
+        "time": 1164019200149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 211220,
+        "valueIncreaseRate": 0.01993317
+      },
+      {
+        "time": 1132483200149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 207092,
+        "valueIncreaseRate": 0.038346604
+      },
+      {
+        "time": 1069324800149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 199444,
+        "valueIncreaseRate": 0.019965224
+      },
+      {
+        "time": 1037788800149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 195540,
+        "valueIncreaseRate": 0.01996213
+      },
+      {
+        "time": 1006252800149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 191713,
+        "valueIncreaseRate": 0.019961588
+      },
+      {
+        "time": 974716800149,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 187961,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 2077929239,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/2700935a8c870d50f7a40cd888164883-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "761 Pine St #761",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94108"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "761 Pine St #761"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79098,
+        "longitude": -122.408394,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/761-Pine-St-761-San-Francisco-CA-94108/2077929239_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2073926784,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/741b0b83a0db0a836168934cc33b433d-p_c.jpg"
+          }
+        ],
+        "price": 2200000,
+        "currency": "USD",
+        "bedrooms": 13,
+        "bathrooms": 4,
+        "livingArea": 4338,
+        "livingAreaValue": 4338,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1376,
+        "lotAreaValue": 1376.496,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "761 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94108"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "761 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.790974,
+        "longitude": -122.408394,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/761-Pine-St-San-Francisco-CA-94108/2073926784_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425073073",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2078345511,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0f4d7b971baf6a1db3c4822caa6a419b-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "livingArea": 1280,
+        "livingAreaValue": 1280,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "769 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94108"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "769 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79097,
+        "longitude": -122.40847,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/769-Pine-St-San-Francisco-CA-94108/2078345511_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2079247342,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f1a9cc3d23dd0e879d85f70dab4d399f-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "livingArea": 1150,
+        "livingAreaValue": 1150,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "771 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94108"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "771 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79097,
+        "longitude": -122.40847,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/771-Pine-St-San-Francisco-CA-94108/2079247342_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332850417,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.79096984863281,-122.40847778320312&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=dgCJAtKstVpruK5Q55ncVF-kHQA="
+          }
+        ],
+        "price": 3227600,
+        "currency": "USD",
+        "bedrooms": 11,
+        "bathrooms": 8,
+        "livingArea": 4605,
+        "livingAreaValue": 4605,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1376,
+        "lotAreaValue": 1376,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "767 Pine St #771",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94108"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "767 Pine St #771"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79097,
+        "longitude": -122.40848,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/767-Pine-St-771-San-Francisco-CA-94108/332850417_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 347350306,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=12+Fella+Pl%2C+San+Francisco%2C+CA+94108&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=vAhNly0qRCLpT_U0NKtQ8h9E44A="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "12 Fella Pl",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94108"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "12 Fella Pl"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79097,
+        "longitude": -122.40848,
+        "homeStatus": "OTHER",
+        "homeType": "HOME_TYPE_UNKNOWN",
+        "hdpUrl": "/homedetails/12-Fella-Pl-San-Francisco-CA-94108/347350306_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Home Type Unknown",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2081453290,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/54e7fe18047b5267d886d00bbe0ac147-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 11,
+        "bathrooms": 4,
+        "livingArea": 4605,
+        "livingAreaValue": 4605,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1376,
+        "lotAreaValue": 1376.496,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "767 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94108"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "767 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79097,
+        "longitude": -122.40848,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/767-Pine-St-San-Francisco-CA-94108/2081453290_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 453328563,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d3ddbfa2a155ba176d65e9c612cee6bb-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1400,
+        "livingAreaValue": 1400,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "775 Pine St #3",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94108"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "775 Pine St #3"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.790966,
+        "longitude": -122.40848,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/775-Pine-St-3-San-Francisco-CA-94108/453328563_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3hpkb6ecwevgu",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=g4KQSw3HqazJK6m3RxPAGGW815s=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xbMm6MFrg2W7JfQt5YorhKtAlOY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fkZ5jfQZ_a499_d-eZHfsJ9JTE4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=p-b8B7-BExMu-I9PXsgmcoOdyeU=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gqB67rpgwalepynr9zvN0lo1Z5U=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zMOxGfjdoo2M6NftUphxZ_bqJmg=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=m_4feHkf-UZIlzPZ9lC-fNCbLY0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5ms_wrBOwQfz-LFUxbeQdQpQz0w=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=T1bC1_4wytQ5LqlbTqySEcIzoug=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xbMm6MFrg2W7JfQt5YorhKtAlOY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fkZ5jfQZ_a499_d-eZHfsJ9JTE4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=p-b8B7-BExMu-I9PXsgmcoOdyeU=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gqB67rpgwalepynr9zvN0lo1Z5U=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zMOxGfjdoo2M6NftUphxZ_bqJmg=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=m_4feHkf-UZIlzPZ9lC-fNCbLY0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5ms_wrBOwQfz-LFUxbeQdQpQz0w=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=T1bC1_4wytQ5LqlbTqySEcIzoug=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PWJahNPIjFYfagngUvQDizWjKWs=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Siw5D6QhOyTv7fIO33BdYjSnU8A=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5ms_wrBOwQfz-LFUxbeQdQpQz0w=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=T1bC1_4wytQ5LqlbTqySEcIzoug=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=PWJahNPIjFYfagngUvQDizWjKWs=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Siw5D6QhOyTv7fIO33BdYjSnU8A=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5ms_wrBOwQfz-LFUxbeQdQpQz0w=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=T1bC1_4wytQ5LqlbTqySEcIzoug=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.79098129272461,-122.40839385986328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=t7SO-UXbob6RTQKYfMD6x7vRG0E="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/761-Pine-St-765-San-Francisco-CA-94108/332850418_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/761-Pine-St-765-San-Francisco-CA-94108/332850418_zpid/",
+    "zpid": 332850418
+  }
+}

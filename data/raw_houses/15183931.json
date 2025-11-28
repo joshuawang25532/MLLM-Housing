@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15183931,
+    "address": "11 30th St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94110",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1500,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2996,
+    "lotAreaValue": 2996,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1900,
+    "homeType": "SINGLE_FAMILY",
+    "description": "11 30th St, San Francisco, CA 94110 is a single family home that contains 1,500 sq ft and was built in 1900. It contains 1 bathroom. This home last sold for $1,150,000 in June 2025. \n \nThe Zestimate for this house is $1,562,200. The Rent Zestimate for this home is $5,325/mo. "
+  },
+  "location": {
+    "latitude": 37.74216,
+    "longitude": -122.42276,
+    "neighborhood": "Bernal Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1150000,
+    "lastSoldPrice": 1150000,
+    "dateSold": 1749600000000,
+    "dateSoldString": "2025-06-11",
+    "zestimate": 1562200,
+    "zestimateHighPercent": "15",
+    "zestimateLowPercent": "13",
+    "rentZestimate": 5325,
+    "taxAssessedValue": 290082,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 767
+  },
+  "schools": [
+    {
+      "name": "Flynn (Leonard R.) Elementary School",
+      "rating": 5,
+      "level": "Elementary",
+      "distance": 0.7,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.7,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marshall (Thurgood) High School",
+      "rating": 2,
+      "level": "High",
+      "distance": 1.2,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 97,
+    "transitScore": 78,
+    "bikeScore": 74
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-06-11",
+        "time": 1749600000000,
+        "price": 1150000,
+        "pricePerSquareFoot": 767,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763626851606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 290082,
+        "valueIncreaseRate": 0.01999325
+      },
+      {
+        "time": 1732090851606,
+        "taxPaid": 4120.78,
+        "taxIncreaseRate": 0.017581997,
+        "value": 284396,
+        "valueIncreaseRate": 0.019994907
+      },
+      {
+        "time": 1700468451606,
+        "taxPaid": 4049.58,
+        "taxIncreaseRate": 1.878371,
+        "value": 278821,
+        "valueIncreaseRate": 3.3457816
+      },
+      {
+        "time": 1668932451606,
+        "taxPaid": 1406.9,
+        "taxIncreaseRate": 0.023408443,
+        "value": 64159,
+        "valueIncreaseRate": 0.019983467
+      },
+      {
+        "time": 1637396451606,
+        "taxPaid": 1374.72,
+        "taxIncreaseRate": -0.019723637,
+        "value": 62902,
+        "valueIncreaseRate": 0.010344052
+      },
+      {
+        "time": 1605860451606,
+        "taxPaid": 1402.38,
+        "taxIncreaseRate": 0.032528386,
+        "value": 62258,
+        "valueIncreaseRate": 0.01998755
+      },
+      {
+        "time": 1574238051606,
+        "taxPaid": 1358.2,
+        "taxIncreaseRate": 0.034409173,
+        "value": 61038,
+        "valueIncreaseRate": 0.019985963
+      },
+      {
+        "time": 1542702051606,
+        "taxPaid": 1313.02,
+        "taxIncreaseRate": 0.3161789,
+        "value": 59842,
+        "valueIncreaseRate": 0.019976137
+      },
+      {
+        "time": 1511166051606,
+        "taxPaid": 997.6,
+        "taxIncreaseRate": 0.05256488,
+        "value": 58670,
+        "valueIncreaseRate": 0.019975314
+      },
+      {
+        "time": 1479630051606,
+        "taxPaid": 947.78,
+        "taxIncreaseRate": 0.01636427,
+        "value": 57521,
+        "valueIncreaseRate": 0.015231742
+      },
+      {
+        "time": 1448007651606,
+        "taxPaid": 932.52,
+        "taxIncreaseRate": 0.026665235,
+        "value": 56658,
+        "valueIncreaseRate": 0.019964356
+      },
+      {
+        "time": 1416471651606,
+        "taxPaid": 908.3,
+        "taxIncreaseRate": 0,
+        "value": 55549,
+        "valueIncreaseRate": 0.004539043
+      },
+      {
+        "time": 1384935651606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 55298,
+        "valueIncreaseRate": 0.019976022
+      },
+      {
+        "time": 1353399651606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 54215,
+        "valueIncreaseRate": 0.019980058
+      },
+      {
+        "time": 1321777251606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 53153,
+        "valueIncreaseRate": 0.0074870163
+      },
+      {
+        "time": 1290241251606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 52758,
+        "valueIncreaseRate": -0.0023637086
+      },
+      {
+        "time": 1258705251606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 52883,
+        "valueIncreaseRate": 0.01998187
+      },
+      {
+        "time": 1227169251606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 51847,
+        "valueIncreaseRate": 0.019967737
+      },
+      {
+        "time": 1195546851606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 50832,
+        "valueIncreaseRate": 0.019985553
+      },
+      {
+        "time": 1164010851606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 49836,
+        "valueIncreaseRate": 0.01997544
+      },
+      {
+        "time": 1132474851606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 48860,
+        "valueIncreaseRate": 0.038999703
+      },
+      {
+        "time": 1069316451606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 47026,
+        "valueIncreaseRate": 0.01997614
+      },
+      {
+        "time": 1037780451606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 46105,
+        "valueIncreaseRate": 0.019931864
+      },
+      {
+        "time": 1006244451606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 45204,
+        "valueIncreaseRate": 0.020014893
+      },
+      {
+        "time": 974708451606,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 44317,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15183930,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74213409423828,-122.4228744506836&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1TJU-m9qxW7Sen8pgczdMFJhpf8="
+          }
+        ],
+        "price": 2225000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1003,
+        "livingAreaValue": 1003,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1812,
+        "lotAreaValue": 1812,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "17 30th St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "17 30th St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.742134,
+        "longitude": -122.422874,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/17-30th-St-San-Francisco-CA-94110/15183930_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15183929,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.742130279541016,-122.42295837402344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gUM5V5Tc8by5_P85lMV8JUIO3gg="
+          }
+        ],
+        "price": 1223500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 4,
+        "livingArea": 859,
+        "livingAreaValue": 859,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1812,
+        "lotAreaValue": 1812,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "19 30th St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "19 30th St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74213,
+        "longitude": -122.42296,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/19-30th-St-San-Francisco-CA-94110/15183929_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2068060840,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2222+1%2F2+30th+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MeG_ynySiVYxpbKPa2A1hbnOTQ4="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2222 1/2 30th St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2222 1/2 30th St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74234,
+        "longitude": -122.422585,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2222-1-2-30th-St-San-Francisco-CA-94110/2068060840_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2075307825,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=59+30th+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z4ayQNxzstvNZeQon5aVWQLDNfA="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "59 30th St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "59 30th St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74211,
+        "longitude": -122.42309,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/59-30th-St-San-Francisco-CA-94110/2075307825_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241587568,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.741947174072266,-122.42255401611328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tWPDFsJGwcsXlxpvR5mYpMG8rX0="
+          }
+        ],
+        "price": 1503600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 2530,
+        "livingAreaValue": 2530,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2138,
+        "lotAreaValue": 2138,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3420 Mission St #3422",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3420 Mission St #3422"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.741947,
+        "longitude": -122.422554,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3420-Mission-St-3422-San-Francisco-CA-94110/241587568_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15183924,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=31+Kingston+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CVCPMgaTbfs0XSe6auVlAYnfTQs="
+          }
+        ],
+        "price": 1114100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 900,
+        "livingAreaValue": 900,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2054,
+        "lotAreaValue": 2054,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "31 Kingston St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "31 Kingston St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.741863,
+        "longitude": -122.422806,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/31-Kingston-St-San-Francisco-CA-94110/15183924_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2066395534,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3424+Mission+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Cz7B8UTjWAwxuLlvLT3HroQ_GMA="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "3424 Mission St #3426",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3424 Mission St #3426"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.741882,
+        "longitude": -122.42259,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3424-Mission-St-3426-San-Francisco-CA-94110/2066395534_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241587554,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74243927001953,-122.42292785644531&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OCBjCA7uYL4xRYmzFVdL0h1Nz80="
+          }
+        ],
+        "price": 1842300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 2815,
+        "livingAreaValue": 2815,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2042,
+        "lotAreaValue": 2042,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "793-795 San Jose Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "793-795 San Jose Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74244,
+        "longitude": -122.42293,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/793-795-San-Jose-Ave-San-Francisco-CA-94110/241587554_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iLfPK4sbMfkxeAHQPHlIFPsWQIQ=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jyOL_MbqXKR_2vcVDTkQIBV30ig=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ParmYiPrhi7h1KB4HvE_yl18uO0=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JvT-qX1v1fU7LDYjHxpo20N4MFs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6GIHnKUM0Yjw385srhFHIE_zmwk=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hzqswuBYRwyljIzxFqSby-qWbnw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dbllsru0oQ_BEL9QgdXSysbkOFE=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kla8X7lhwe1Jk6vwtUOIc7Orr8k=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pu330-fEyxVf2BDFmltMNEGPB2Q=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jyOL_MbqXKR_2vcVDTkQIBV30ig=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ParmYiPrhi7h1KB4HvE_yl18uO0=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JvT-qX1v1fU7LDYjHxpo20N4MFs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6GIHnKUM0Yjw385srhFHIE_zmwk=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hzqswuBYRwyljIzxFqSby-qWbnw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dbllsru0oQ_BEL9QgdXSysbkOFE=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kla8X7lhwe1Jk6vwtUOIc7Orr8k=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pu330-fEyxVf2BDFmltMNEGPB2Q=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UuS_u9JDQrmEtqCI-Lxoa1XYOWY=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BpXE8gF20ZxKcy6L2yGNWbJVSiA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kla8X7lhwe1Jk6vwtUOIc7Orr8k=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pu330-fEyxVf2BDFmltMNEGPB2Q=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UuS_u9JDQrmEtqCI-Lxoa1XYOWY=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BpXE8gF20ZxKcy6L2yGNWbJVSiA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kla8X7lhwe1Jk6vwtUOIc7Orr8k=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pu330-fEyxVf2BDFmltMNEGPB2Q=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=11+30th+St%2C+San+Francisco%2C+CA+94110&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=EkWTMPWwsolAd6P-djQvvP8P7AM="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/11-30th-St-San-Francisco-CA-94110/15183931_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/11-30th-St-San-Francisco-CA-94110/15183931_zpid/",
+    "zpid": 15183931
+  }
+}

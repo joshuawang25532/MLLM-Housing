@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15113662,
+    "address": "1867 48th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94122",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1150,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2121,
+    "lotAreaValue": 2121,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1945,
+    "homeType": "SINGLE_FAMILY",
+    "description": "1867 48th Ave, San Francisco, CA 94122 is a single family home that contains 1,150 sq ft and was built in 1945. It contains 1 bathroom. This home last sold for $900,000 in December 2024. \n \nThe Zestimate for this house is $916,800. The Rent Zestimate for this home is $4,692/mo. "
+  },
+  "location": {
+    "latitude": 37.751617,
+    "longitude": -122.50772,
+    "neighborhood": "Outer Sunset",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 900000,
+    "lastSoldPrice": 900000,
+    "dateSold": 1734307200000,
+    "dateSoldString": "2024-12-16",
+    "zestimate": 916800,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 4692,
+    "taxAssessedValue": 900000,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 783
+  },
+  "schools": [
+    {
+      "name": "Sunset Elementary School",
+      "rating": 9,
+      "level": "Elementary",
+      "distance": 0.5,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Giannini (A.P.) Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 0.6,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lincoln (Abraham) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 1.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 76,
+    "transitScore": 52,
+    "bikeScore": 84
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2024-12-16",
+        "time": 1734307200000,
+        "price": 900000,
+        "pricePerSquareFoot": 783,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763628619215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 900000,
+        "valueIncreaseRate": 13.518471
+      },
+      {
+        "time": 1732092619215,
+        "taxPaid": 755.12,
+        "taxIncreaseRate": 0.014537159,
+        "value": 61990,
+        "valueIncreaseRate": 0.01997499
+      },
+      {
+        "time": 1700470219215,
+        "taxPaid": 744.3,
+        "taxIncreaseRate": 0.017748702,
+        "value": 60776,
+        "valueIncreaseRate": 0.019988252
+      },
+      {
+        "time": 1668934219215,
+        "taxPaid": 731.32,
+        "taxIncreaseRate": 0.017163241,
+        "value": 59585,
+        "valueIncreaseRate": 0.01997672
+      },
+      {
+        "time": 1637398219215,
+        "taxPaid": 718.98,
+        "taxIncreaseRate": -0.001472137,
+        "value": 58418,
+        "valueIncreaseRate": 0.010342442
+      },
+      {
+        "time": 1605862219215,
+        "taxPaid": 720.04,
+        "taxIncreaseRate": 0.032552198,
+        "value": 57820,
+        "valueIncreaseRate": 0.019986946
+      },
+      {
+        "time": 1574239819215,
+        "taxPaid": 697.34,
+        "taxIncreaseRate": 0.031690206,
+        "value": 56687,
+        "valueIncreaseRate": 0.019990643
+      },
+      {
+        "time": 1542703819215,
+        "taxPaid": 675.92,
+        "taxIncreaseRate": 0.012310874,
+        "value": 55576,
+        "valueIncreaseRate": 0.0199677
+      },
+      {
+        "time": 1511167819215,
+        "taxPaid": 667.7,
+        "taxIncreaseRate": 0.06596636,
+        "value": 54488,
+        "valueIncreaseRate": 0.01997342
+      },
+      {
+        "time": 1479631819215,
+        "taxPaid": 626.38,
+        "taxIncreaseRate": 0.012740509,
+        "value": 53421,
+        "valueIncreaseRate": 0.015222349
+      },
+      {
+        "time": 1448009419215,
+        "taxPaid": 618.5,
+        "taxIncreaseRate": 0.026351606,
+        "value": 52620,
+        "valueIncreaseRate": 0.01996511
+      },
+      {
+        "time": 1416473419215,
+        "taxPaid": 602.62,
+        "taxIncreaseRate": 0,
+        "value": 51590,
+        "valueIncreaseRate": 0.00451731
+      },
+      {
+        "time": 1384937419215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 51358,
+        "valueIncreaseRate": 0.019979345
+      },
+      {
+        "time": 1353401419215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 50352,
+        "valueIncreaseRate": 0.019973261
+      },
+      {
+        "time": 1321779019215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 49366,
+        "valueIncreaseRate": 0.0074693877
+      },
+      {
+        "time": 1290243019215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 49000,
+        "valueIncreaseRate": -0.0023617558
+      },
+      {
+        "time": 1258707019215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 49116,
+        "valueIncreaseRate": 0.019977571
+      },
+      {
+        "time": 1227171019215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 48154,
+        "valueIncreaseRate": 0.01997416
+      },
+      {
+        "time": 1195548619215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 47211,
+        "valueIncreaseRate": 0.019962408
+      },
+      {
+        "time": 1164012619215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 46287,
+        "valueIncreaseRate": 0.019986778
+      },
+      {
+        "time": 1132476619215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 45380,
+        "valueIncreaseRate": 0.038990773
+      },
+      {
+        "time": 1069318219215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 43677,
+        "valueIncreaseRate": 0.019966373
+      },
+      {
+        "time": 1037782219215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 42822,
+        "valueIncreaseRate": 0.019935692
+      },
+      {
+        "time": 1006246219215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 41985,
+        "valueIncreaseRate": 0.02001895
+      },
+      {
+        "time": 974710219215,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 41161,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15113663,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.751548767089844,-122.50772094726562&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=JgCtZglbyclR0sO2K8qawvHCbFA="
+          }
+        ],
+        "price": 1608000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1711,
+        "livingAreaValue": 1711,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2125,
+        "lotAreaValue": 2125,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1871 48th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1871 48th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75155,
+        "longitude": -122.50772,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1871-48th-Ave-San-Francisco-CA-94122/15113663_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15113661,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.751686096191406,-122.50772857666016&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Qp4n1FFZcMS6uZ-WwnE_9Yq0JOc="
+          }
+        ],
+        "price": 1509300,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 2,
+        "livingArea": 1279,
+        "livingAreaValue": 1279,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2121,
+        "lotAreaValue": 2121,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1863 48th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1863 48th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751686,
+        "longitude": -122.50773,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1863-48th-Ave-San-Francisco-CA-94122/15113661_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15113664,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75148010253906,-122.5077133178711&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=h_jP6ydbuf3WGDDCohjsF-0bcjg="
+          }
+        ],
+        "price": 1272100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1150,
+        "livingAreaValue": 1150,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2121,
+        "lotAreaValue": 2121,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1875 48th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1875 48th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75148,
+        "longitude": -122.50771,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1875-48th-Ave-San-Francisco-CA-94122/15113664_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15113660,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75175476074219,-122.50773620605469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=tMT18jiaf76sjMn9pnPNYid9ulY="
+          }
+        ],
+        "price": 1209100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 995,
+        "livingAreaValue": 995,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2125,
+        "lotAreaValue": 2125,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1859 48th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1859 48th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751755,
+        "longitude": -122.50774,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1859-48th-Ave-San-Francisco-CA-94122/15113660_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15113659,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75182342529297,-122.50773620605469&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=kyq0aY4ynYdZJ0o3rqa8tuHYypA="
+          }
+        ],
+        "price": 1232400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 995,
+        "livingAreaValue": 995,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2125,
+        "lotAreaValue": 2125,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1855 48th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1855 48th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751823,
+        "longitude": -122.50774,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1855-48th-Ave-San-Francisco-CA-94122/15113659_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15113665,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3e842070327de781b8bd8e3bbd41ecd8-p_c.jpg"
+          }
+        ],
+        "price": 1702700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1647,
+        "livingAreaValue": 1647,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2121,
+        "lotAreaValue": 2121,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1879 48th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1879 48th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75141,
+        "longitude": -122.50771,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1879-48th-Ave-San-Francisco-CA-94122/15113665_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15113678,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75160217285156,-122.50801086425781&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D3DNPQcsQaCRw_yZoWpmf5olcE8="
+          }
+        ],
+        "price": 1926600,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1832,
+        "livingAreaValue": 1832,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2047,
+        "lotAreaValue": 2047,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1866 Great Hwy",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1866 Great Hwy"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751602,
+        "longitude": -122.50801,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1866-Great-Hwy-San-Francisco-CA-94122/15113678_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15113677,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75153350830078,-122.50800323486328&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=r2Y_qKA6Z_IHo1dEW1e-FtqB_T8="
+          }
+        ],
+        "price": 1206700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1050,
+        "livingAreaValue": 1050,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2016,
+        "lotAreaValue": 2016,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1870 Great Hwy",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94122"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1870 Great Hwy"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751534,
+        "longitude": -122.508,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1870-Great-Hwy-San-Francisco-CA-94122/15113677_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Px7Dkyw62xiJDw0z1rgEwE0Fegw=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Dd4mw5IiWtCU4XFgzvqHaUO75xo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZwWq9kT2Aus4dABnlPlj4n49t8I=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CGxBdz2Xce1l2R55W9hq5RawhAM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XI_NgV48Jaze8MKK4PfQQcSggaA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Wa0_b3gh4YNHzc_ygiLaVn3NUs4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JDl2b6ut5wFqd_OIqdJ7IcpkCTs=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5grTSg0ZoLGwttWJxR_APanl90g=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MH0F-7ilGB7o6-GQyZTtlei9CSI=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Dd4mw5IiWtCU4XFgzvqHaUO75xo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZwWq9kT2Aus4dABnlPlj4n49t8I=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CGxBdz2Xce1l2R55W9hq5RawhAM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XI_NgV48Jaze8MKK4PfQQcSggaA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Wa0_b3gh4YNHzc_ygiLaVn3NUs4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JDl2b6ut5wFqd_OIqdJ7IcpkCTs=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5grTSg0ZoLGwttWJxR_APanl90g=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MH0F-7ilGB7o6-GQyZTtlei9CSI=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=s_9jfmyYM8qcZuOV-3F0tNcpcew=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jvNxm_gj8tk8lEI6GaKy_pkL32o=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5grTSg0ZoLGwttWJxR_APanl90g=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MH0F-7ilGB7o6-GQyZTtlei9CSI=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=s_9jfmyYM8qcZuOV-3F0tNcpcew=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jvNxm_gj8tk8lEI6GaKy_pkL32o=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5grTSg0ZoLGwttWJxR_APanl90g=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MH0F-7ilGB7o6-GQyZTtlei9CSI=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=1867+48th+Ave%2C+San+Francisco%2C+CA+94122&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hvcZsV7RUlV7fWdH8shmxM3EHvE="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1867-48th-Ave-San-Francisco-CA-94122/15113662_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1867-48th-Ave-San-Francisco-CA-94122/15113662_zpid/",
+    "zpid": 15113662
+  }
+}

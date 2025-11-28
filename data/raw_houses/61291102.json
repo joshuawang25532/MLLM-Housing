@@ -1,0 +1,1265 @@
+{
+  "basic_info": {
+    "zpid": 61291102,
+    "address": "777 Le Conte Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94124",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "livingArea": 1250,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2822,
+    "lotAreaValue": 2822,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1999,
+    "homeType": "CONDO",
+    "description": "This 2-unit building was originally sold as a duplex. Therefore, original sale price listed is for both units.\nAfter condo conversion, now it is 2 condo units. 775 and 777. shared roof, garage, storage, back yard. Top floor is 2/3 of square footage, half of garage and back yard."
+  },
+  "location": {
+    "latitude": 37.71688,
+    "longitude": -122.39689,
+    "neighborhood": "Bret Harte",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": true,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": true,
+    "hasCooling": false,
+    "hasHeating": true,
+    "cooling": [],
+    "heating": [
+      "Forced air",
+      "Gas"
+    ],
+    "appliances": [
+      "Dishwasher",
+      "Dryer",
+      "Microwave",
+      "Range / Oven",
+      "Refrigerator",
+      "Washer"
+    ],
+    "interiorFeatures": null,
+    "exteriorFeatures": [
+      "Stucco"
+    ],
+    "parkingFeatures": [
+      "Garage - Attached"
+    ],
+    "securityFeatures": null,
+    "flooring": [
+      "Tile",
+      "Carpet",
+      "Hardwood"
+    ],
+    "rooms": [
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "level": null,
+        "features": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": null,
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "DiningRoom",
+        "roomWidth": null
+      }
+    ]
+  },
+  "financial": {
+    "price": 785000,
+    "lastSoldPrice": 785000,
+    "dateSold": 1742774400000,
+    "dateSoldString": "2025-03-24",
+    "zestimate": 802200,
+    "zestimateHighPercent": "6",
+    "zestimateLowPercent": "7",
+    "rentZestimate": 4154,
+    "taxAssessedValue": 441604,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 628
+  },
+  "schools": [
+    {
+      "name": "Harte (Bret) Elementary School",
+      "rating": 3,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Brown Jr. (Willie L) Middle",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 1.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Burton (Phillip And Sala) Academic High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.6,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 70,
+    "transitScore": 69,
+    "bikeScore": 45
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-03-24",
+        "time": 1742774400000,
+        "price": 785000,
+        "pricePerSquareFoot": 628,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763620172596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 441604,
+        "valueIncreaseRate": 0.019997874
+      },
+      {
+        "time": 1732084172596,
+        "taxPaid": 5182.64,
+        "taxIncreaseRate": 0.014266851,
+        "value": 432946,
+        "valueIncreaseRate": 0.01999967
+      },
+      {
+        "time": 1700461772596,
+        "taxPaid": 5109.74,
+        "taxIncreaseRate": 0.017827831,
+        "value": 424457,
+        "valueIncreaseRate": 0.019998318
+      },
+      {
+        "time": 1668925772596,
+        "taxPaid": 5020.24,
+        "taxIncreaseRate": 0.017227199,
+        "value": 416135,
+        "valueIncreaseRate": 0.019998726
+      },
+      {
+        "time": 1637389772596,
+        "taxPaid": 4935.22,
+        "taxIncreaseRate": -0.0030421654,
+        "value": 407976,
+        "valueIncreaseRate": 0.010356766
+      },
+      {
+        "time": 1605853772596,
+        "taxPaid": 4950.28,
+        "taxIncreaseRate": 0.035030033,
+        "value": 403794,
+        "valueIncreaseRate": 0.019998636
+      },
+      {
+        "time": 1574231372596,
+        "taxPaid": 4782.74,
+        "taxIncreaseRate": 0.03415524,
+        "value": 395877,
+        "valueIncreaseRate": 0.019996598
+      },
+      {
+        "time": 1542695372596,
+        "taxPaid": 4624.78,
+        "taxIncreaseRate": 0.0116149,
+        "value": 388116,
+        "valueIncreaseRate": 0.019997004
+      },
+      {
+        "time": 1511159372596,
+        "taxPaid": 4571.68,
+        "taxIncreaseRate": 0.020929221,
+        "value": 380507,
+        "valueIncreaseRate": 0.01999748
+      },
+      {
+        "time": 1479623372596,
+        "taxPaid": 4477.96,
+        "taxIncreaseRate": 0.012105609,
+        "value": 373047,
+        "valueIncreaseRate": 0.015245819
+      },
+      {
+        "time": 1448000972596,
+        "taxPaid": 4424.4,
+        "taxIncreaseRate": 0.026690619,
+        "value": 367445,
+        "valueIncreaseRate": 0.019977905
+      },
+      {
+        "time": 1416464972596,
+        "taxPaid": 4309.38,
+        "taxIncreaseRate": 0,
+        "value": 360248,
+        "valueIncreaseRate": 0.004536823
+      },
+      {
+        "time": 1384928972596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 358621,
+        "valueIncreaseRate": 0.019994823
+      },
+      {
+        "time": 1353392972596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 351591,
+        "valueIncreaseRate": 0.019997215
+      },
+      {
+        "time": 1321770572596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 344698,
+        "valueIncreaseRate": 0.007523588
+      },
+      {
+        "time": 1290234572596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 342124,
+        "valueIncreaseRate": -0.002370698
+      },
+      {
+        "time": 1258698572596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 342937,
+        "valueIncreaseRate": 0.019999227
+      },
+      {
+        "time": 1227162572596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 336213,
+        "valueIncreaseRate": 0.019995632
+      },
+      {
+        "time": 1195540172596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 329622,
+        "valueIncreaseRate": 0.019996287
+      },
+      {
+        "time": 1164004172596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 323160,
+        "valueIncreaseRate": 0.019995265
+      },
+      {
+        "time": 1132468172596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 316825,
+        "valueIncreaseRate": 0.039046437
+      },
+      {
+        "time": 1069309772596,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 304919,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 61291101,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=775+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fZEZyEXIWhyOtViKYJuFue1JBUg="
+          }
+        ],
+        "price": 494900,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 700,
+        "livingAreaValue": 700,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2822,
+        "lotAreaValue": 2822,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "775 Le Conte Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "775 Le Conte Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71688,
+        "longitude": -122.39689,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/775-Le-Conte-Ave-San-Francisco-CA-94124/61291101_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15154961,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=755+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ujMl1Jh66Fiy4EAdf01cwtMN3Q4="
+          }
+        ],
+        "price": 1127600,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1867,
+        "livingAreaValue": 1867,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1964,
+        "lotAreaValue": 1964,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "755 Le Conte Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "755 Le Conte Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.716835,
+        "longitude": -122.397026,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/755-Le-Conte-Ave-San-Francisco-CA-94124/15154961_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15154963,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=785+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=G0--KVqlNCNZEjfhLrYNDcJ3SEs="
+          }
+        ],
+        "price": 1127900,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1867,
+        "livingAreaValue": 1867,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2018,
+        "lotAreaValue": 2018,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "785 Le Conte Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "785 Le Conte Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.716904,
+        "longitude": -122.39672,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/785-Le-Conte-Ave-San-Francisco-CA-94124/15154963_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15154998,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71708297729492,-122.39693450927734&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=mdjgwiAV4XCRoPs4SOZzQOPDDcE="
+          }
+        ],
+        "price": 704000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1212,
+        "livingAreaValue": 1212,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2540,
+        "lotAreaValue": 2540,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "78 Jennings Ct",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "78 Jennings Ct"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.717083,
+        "longitude": -122.396935,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/78-Jennings-Ct-San-Francisco-CA-94124/15154998_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15154999,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1cde8a65b7898c85504e00ef0209ff0c-p_c.jpg"
+          }
+        ],
+        "price": 937000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1212,
+        "livingAreaValue": 1212,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1212,
+        "lotAreaValue": 1212,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "80 Jennings Ct",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "80 Jennings Ct"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.717083,
+        "longitude": -122.396935,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/80-Jennings-Ct-San-Francisco-CA-94124/15154999_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "ML81921079",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15154996,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=72+Jennings+Ct%2C+San+Francisco%2C+CA+94124&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=t59bhcOkNnODOe5Awu3iL76gwN4="
+          }
+        ],
+        "price": 771700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1212,
+        "livingAreaValue": 1212,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "72 Jennings Ct",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "72 Jennings Ct"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.717064,
+        "longitude": -122.39702,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/72-Jennings-Ct-San-Francisco-CA-94124/15154996_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15154997,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9382f44bef55e60d65b4a266af9b3637-p_c.jpg"
+          }
+        ],
+        "price": 814800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1212,
+        "livingAreaValue": 1212,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2523,
+        "lotAreaValue": 2523,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "76 Jennings Ct",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "76 Jennings Ct"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.717064,
+        "longitude": -122.39702,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/76-Jennings-Ct-San-Francisco-CA-94124/15154997_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15154960,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=745+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=byfvV-rnkxix4iBTY64kLPQqSuQ="
+          }
+        ],
+        "price": 1117700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1867,
+        "livingAreaValue": 1867,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1876,
+        "lotAreaValue": 1876,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "745 Le Conte Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "745 Le Conte Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7168,
+        "longitude": -122.39715,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/745-Le-Conte-Ave-San-Francisco-CA-94124/15154960_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1UduZAy0_ErIwzx0OL3s77_zq3o=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kr713t2ZugsaglX9Gkz3YCLuIBY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hW_5NPWeuISdj5Jj5jXB-c0U43k=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IpfyX90pfjSEdInduB1yXiz03JE=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=aaZgFsJm-khGehzGJKG8J4n0fJQ=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=B1POqMzVqhtFKgME6kLXw0G8iq8=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kJ2J6EXPbZ1GVgIMTF_b1bsvpcw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KKMn22UcWcbeBSUun1GUwHRZ4CM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FGL_FpJkjVC4FUDkvwzvzdx_ME4=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kr713t2ZugsaglX9Gkz3YCLuIBY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hW_5NPWeuISdj5Jj5jXB-c0U43k=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IpfyX90pfjSEdInduB1yXiz03JE=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=aaZgFsJm-khGehzGJKG8J4n0fJQ=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=B1POqMzVqhtFKgME6kLXw0G8iq8=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kJ2J6EXPbZ1GVgIMTF_b1bsvpcw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KKMn22UcWcbeBSUun1GUwHRZ4CM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FGL_FpJkjVC4FUDkvwzvzdx_ME4=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=le5-borp6hlW5Ys1csBqYoWKEaw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3q3Ec9C80VQfQWRFfYvoTUlLz8E=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KKMn22UcWcbeBSUun1GUwHRZ4CM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FGL_FpJkjVC4FUDkvwzvzdx_ME4=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=le5-borp6hlW5Ys1csBqYoWKEaw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3q3Ec9C80VQfQWRFfYvoTUlLz8E=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KKMn22UcWcbeBSUun1GUwHRZ4CM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FGL_FpJkjVC4FUDkvwzvzdx_ME4=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=777+Le+Conte+Ave%2C+San+Francisco%2C+CA+94124&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xeSGo3aa3HrDUUoJTwsBGtdAHN8="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/777-Le-Conte-Ave-San-Francisco-CA-94124/61291102_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/777-Le-Conte-Ave-San-Francisco-CA-94124/61291102_zpid/",
+    "zpid": 61291102
+  }
+}

@@ -1,0 +1,1234 @@
+{
+  "basic_info": {
+    "zpid": 59700169,
+    "address": "2431 Chestnut St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94123",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "livingArea": 1280,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1924,
+    "homeType": "CONDO",
+    "description": "2431 Chestnut St, San Francisco, CA 94123 is a condo home that contains 1,280 sq ft and was built in 1924. It contains 2 bedrooms and 1 bathroom. This home last sold for $1,275,000 in March 2025. \n \nThe Zestimate for this house is $1,296,200. The Rent Zestimate for this home is $6,327/mo. "
+  },
+  "location": {
+    "latitude": 37.799625,
+    "longitude": -122.44338,
+    "neighborhood": "Marina District",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1275000,
+    "lastSoldPrice": 1275000,
+    "dateSold": 1741564800000,
+    "dateSoldString": "2025-03-10",
+    "zestimate": 1296200,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 6327,
+    "taxAssessedValue": 437636,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 996
+  },
+  "schools": [
+    {
+      "name": "Cobb (William L.) Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.8,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Roosevelt Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 1.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 1.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 97,
+    "transitScore": 65,
+    "bikeScore": 80
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-03-10",
+        "time": 1741564800000,
+        "price": 1275000,
+        "pricePerSquareFoot": 996,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763578698868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 437636,
+        "valueIncreaseRate": 0.01999739
+      },
+      {
+        "time": 1732042698868,
+        "taxPaid": 5733.38,
+        "taxIncreaseRate": 0.017029189,
+        "value": 429056,
+        "valueIncreaseRate": 0.019997908
+      },
+      {
+        "time": 1700420298868,
+        "taxPaid": 5637.38,
+        "taxIncreaseRate": 0.022156974,
+        "value": 420644,
+        "valueIncreaseRate": 0.019997722
+      },
+      {
+        "time": 1668884298868,
+        "taxPaid": 5515.18,
+        "taxIncreaseRate": 0.01909146,
+        "value": 412397,
+        "valueIncreaseRate": 0.019996934
+      },
+      {
+        "time": 1637348298868,
+        "taxPaid": 5411.86,
+        "taxIncreaseRate": -0.0073733954,
+        "value": 404312,
+        "valueIncreaseRate": 0.010358175
+      },
+      {
+        "time": 1605812298868,
+        "taxPaid": 5452.06,
+        "taxIncreaseRate": 0.0350021,
+        "value": 400167,
+        "valueIncreaseRate": 0.01999633
+      },
+      {
+        "time": 1574189898868,
+        "taxPaid": 5267.68,
+        "taxIncreaseRate": 0.03484674,
+        "value": 392322,
+        "valueIncreaseRate": 0.01999844
+      },
+      {
+        "time": 1542653898868,
+        "taxPaid": 5090.3,
+        "taxIncreaseRate": 0.07607779,
+        "value": 384630,
+        "valueIncreaseRate": 0.019997932
+      },
+      {
+        "time": 1511117898868,
+        "taxPaid": 4730.42,
+        "taxIncreaseRate": 0.021922942,
+        "value": 377089,
+        "valueIncreaseRate": 0.019997511
+      },
+      {
+        "time": 1479581898868,
+        "taxPaid": 4628.94,
+        "taxIncreaseRate": 0.013149906,
+        "value": 369696,
+        "valueIncreaseRate": 0.015246715
+      },
+      {
+        "time": 1447959498868,
+        "taxPaid": 4568.86,
+        "taxIncreaseRate": 0.027084013,
+        "value": 364144,
+        "valueIncreaseRate": 0.01997692
+      },
+      {
+        "time": 1416423498868,
+        "taxPaid": 4448.38,
+        "taxIncreaseRate": 0,
+        "value": 357012,
+        "valueIncreaseRate": 0.004535734
+      },
+      {
+        "time": 1384887498868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 355400,
+        "valueIncreaseRate": 0.019998163
+      },
+      {
+        "time": 1353351498868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 348432,
+        "valueIncreaseRate": 0.019997014
+      },
+      {
+        "time": 1321729098868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 341601,
+        "valueIncreaseRate": 0.0075209923
+      },
+      {
+        "time": 1290193098868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 339051,
+        "valueIncreaseRate": -0.0023686502
+      },
+      {
+        "time": 1258657098868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 339856,
+        "valueIncreaseRate": 0.019994358
+      },
+      {
+        "time": 1227121098868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 333194,
+        "valueIncreaseRate": 0.019996203
+      },
+      {
+        "time": 1195498698868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 326662,
+        "valueIncreaseRate": 0.019996379
+      },
+      {
+        "time": 1163962698868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 320258,
+        "valueIncreaseRate": 0.019998154
+      },
+      {
+        "time": 1132426698868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 313979,
+        "valueIncreaseRate": 0.03903939
+      },
+      {
+        "time": 1069268298868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 302182,
+        "valueIncreaseRate": 0.019996084
+      },
+      {
+        "time": 1037732298868,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 296258,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 59779296,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2429+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IA-yHTZef1__bRoZnfojkxZDPko="
+          }
+        ],
+        "price": 2809600,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2685,
+        "livingAreaValue": 2685,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2429 Chestnut St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2429 Chestnut St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799625,
+        "longitude": -122.44338,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2429-Chestnut-St-San-Francisco-CA-94123/59779296_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332851936,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.79961395263672,-122.44346618652344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Hng_Ozl55co2OvEbh5wawuVCItI="
+          }
+        ],
+        "price": 2515200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 3040,
+        "livingAreaValue": 3040,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3436,
+        "lotAreaValue": 3436,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2435-2437 Chestnut St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2435-2437 Chestnut St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799614,
+        "longitude": -122.44347,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/2435-2437-Chestnut-St-San-Francisco-CA-94123/332851936_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15080210,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2441+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=I4caNYyn8Tq9buVKZxYiPiegTx0="
+          }
+        ],
+        "price": 1595900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1303,
+        "livingAreaValue": 1303,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2441 Chestnut St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2441 Chestnut St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799603,
+        "longitude": -122.44355,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2441-Chestnut-St-San-Francisco-CA-94123/15080210_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 53734182,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/35dc215e2db00a9e60486a77da36629d-p_c.jpg"
+          }
+        ],
+        "price": 1758900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1570,
+        "livingAreaValue": 1570,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2443 Chestnut St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2443 Chestnut St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799603,
+        "longitude": -122.44355,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2443-Chestnut-St-San-Francisco-CA-94123/53734182_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15080211,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2447+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=x9ENpZ-gezv-lqMbWlh6MO7QNMI="
+          }
+        ],
+        "price": 1619600,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1300,
+        "livingAreaValue": 1300,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2447 Chestnut St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2447 Chestnut St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79959,
+        "longitude": -122.443634,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2447-Chestnut-St-San-Francisco-CA-94123/15080211_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15080212,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/ffb6b7833a0a03c85482eb426ff4040f-p_c.jpg"
+          }
+        ],
+        "price": 1924300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1581,
+        "livingAreaValue": 1581,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2449 Chestnut St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2449 Chestnut St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79959,
+        "longitude": -122.443634,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2449-Chestnut-St-San-Francisco-CA-94123/15080212_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332851931,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7995719909668,-122.443115234375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rYA8n40jxlMg0Pjx1g3acaP68Kg="
+          }
+        ],
+        "price": 2762000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 3656,
+        "livingAreaValue": 3656,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2968,
+        "lotAreaValue": 2968,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3241-3243 Divisadero St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3241-3243 Divisadero St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799572,
+        "longitude": -122.443115,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/3241-3243-Divisadero-St-San-Francisco-CA-94123/332851931_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2091470152,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3247+Divisadero+St%2C+San+Francisco%2C+CA+94123&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oTsUNSMCxI4SgkD7LLdZsbsiHMY="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "3247 Divisadero St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3247 Divisadero St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799644,
+        "longitude": -122.44309,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3247-Divisadero-St-San-Francisco-CA-94123/2091470152_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OT8dTFYONjdZwAAvaohXLl9IC7U=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9OFk4xhll8y0pge6qNFdMJgD0BI=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Ika9qSOf5P1hcQyDLtbLU-iUMZU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZiMZxvCOCo2dVDGjaW8CLCHH-50=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-Qwpex0lQT5LeDBGbiDONtyNFI0=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=lykcemkH-MVUTwW4-JicVStoQ58=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7Gt_4LTIYQRhrenjFb43tnvHSzo=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DvMQX0t6ZZEYlTYCyYd9SqNX0ao=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=D8fIprM7CxBO2AtmmlyRgzA8OrI=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9OFk4xhll8y0pge6qNFdMJgD0BI=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Ika9qSOf5P1hcQyDLtbLU-iUMZU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZiMZxvCOCo2dVDGjaW8CLCHH-50=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-Qwpex0lQT5LeDBGbiDONtyNFI0=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=lykcemkH-MVUTwW4-JicVStoQ58=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7Gt_4LTIYQRhrenjFb43tnvHSzo=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DvMQX0t6ZZEYlTYCyYd9SqNX0ao=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=D8fIprM7CxBO2AtmmlyRgzA8OrI=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BvZvFhWWGLdz3ejA11DEupwfCF4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tTigfQxkYBreTPsLDQod1CIs8tY=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DvMQX0t6ZZEYlTYCyYd9SqNX0ao=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=D8fIprM7CxBO2AtmmlyRgzA8OrI=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BvZvFhWWGLdz3ejA11DEupwfCF4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tTigfQxkYBreTPsLDQod1CIs8tY=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DvMQX0t6ZZEYlTYCyYd9SqNX0ao=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=D8fIprM7CxBO2AtmmlyRgzA8OrI=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=2431+Chestnut+St%2C+San+Francisco%2C+CA+94123&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=m_JG1OGZxFh5kT9qJ8GzAsr8-2E="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2431-Chestnut-St-San-Francisco-CA-94123/59700169_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2431-Chestnut-St-San-Francisco-CA-94123/59700169_zpid/",
+    "zpid": 59700169
+  }
+}

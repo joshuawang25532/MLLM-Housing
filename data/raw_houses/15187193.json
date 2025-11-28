@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15187193,
+    "address": "45 Cerritos Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94127",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1800,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 7910,
+    "lotAreaValue": 7910,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1924,
+    "homeType": "SINGLE_FAMILY",
+    "description": "45 Cerritos Ave, San Francisco, CA 94127 is a single family home that contains 1,800 sq ft and was built in 1924. It contains 1 bathroom. This home last sold for $1,300,000 in November 2024. \n \nThe Zestimate for this house is $1,324,500. The Rent Zestimate for this home is $3,860/mo. "
+  },
+  "location": {
+    "latitude": 37.726364,
+    "longitude": -122.467445,
+    "neighborhood": "Ingleside Terrace",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1300000,
+    "lastSoldPrice": 1300000,
+    "dateSold": 1732579200000,
+    "dateSoldString": "2024-11-26",
+    "zestimate": 1324500,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 3860,
+    "taxAssessedValue": 346371,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 722
+  },
+  "schools": [
+    {
+      "name": "Sloat (Commodore) Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Aptos Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.3,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lowell High School",
+      "rating": 10,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 88,
+    "transitScore": 69,
+    "bikeScore": 70
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2024-11-26",
+        "time": 1732579200000,
+        "price": 1300000,
+        "pricePerSquareFoot": 722,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763571387469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 346371,
+        "valueIncreaseRate": 0.01999523
+      },
+      {
+        "time": 1732035387469,
+        "taxPaid": 4006.94,
+        "taxIncreaseRate": -0.38323268,
+        "value": 339581,
+        "valueIncreaseRate": 0.019998617
+      },
+      {
+        "time": 1700412987469,
+        "taxPaid": 6496.68,
+        "taxIncreaseRate": 0.6748424,
+        "value": 332923,
+        "valueIncreaseRate": 0.019997181
+      },
+      {
+        "time": 1668876987469,
+        "taxPaid": 3878.98,
+        "taxIncreaseRate": 0.017549448,
+        "value": 326396,
+        "valueIncreaseRate": 0.019997062
+      },
+      {
+        "time": 1637340987469,
+        "taxPaid": 3812.08,
+        "taxIncreaseRate": -0.050289705,
+        "value": 319997,
+        "valueIncreaseRate": 0.010356248
+      },
+      {
+        "time": 1605804987469,
+        "taxPaid": 4013.94,
+        "taxIncreaseRate": 0.08699915,
+        "value": 316717,
+        "valueIncreaseRate": 0.019996265
+      },
+      {
+        "time": 1574182587469,
+        "taxPaid": 3692.68,
+        "taxIncreaseRate": 0.034369927,
+        "value": 310508,
+        "valueIncreaseRate": 0.019998686
+      },
+      {
+        "time": 1542646587469,
+        "taxPaid": 3569.98,
+        "taxIncreaseRate": -0.87117696,
+        "value": 304420,
+        "valueIncreaseRate": 0.019996515
+      },
+      {
+        "time": 1511110587469,
+        "taxPaid": 27712.28,
+        "taxIncreaseRate": 7.040002,
+        "value": 298452,
+        "valueIncreaseRate": 0.019996515
+      },
+      {
+        "time": 1479574587469,
+        "taxPaid": 3446.8,
+        "taxIncreaseRate": 0.01241284,
+        "value": 292601,
+        "valueIncreaseRate": 0.015245986
+      },
+      {
+        "time": 1447952187469,
+        "taxPaid": 3404.54,
+        "taxIncreaseRate": -0.047446664,
+        "value": 288207,
+        "valueIncreaseRate": 0.019974306
+      },
+      {
+        "time": 1416416187469,
+        "taxPaid": 3574.12,
+        "taxIncreaseRate": 0,
+        "value": 282563,
+        "valueIncreaseRate": 0.004536292
+      },
+      {
+        "time": 1384880187469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 281287,
+        "valueIncreaseRate": 0.019998405
+      },
+      {
+        "time": 1353344187469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 275772,
+        "valueIncreaseRate": 0.019998891
+      },
+      {
+        "time": 1321721787469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 270365,
+        "valueIncreaseRate": 0.007520114
+      },
+      {
+        "time": 1290185787469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 268347,
+        "valueIncreaseRate": -0.0023681705
+      },
+      {
+        "time": 1258649787469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 268984,
+        "valueIncreaseRate": 0.019995375
+      },
+      {
+        "time": 1227113787469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 263711,
+        "valueIncreaseRate": 0.019996827
+      },
+      {
+        "time": 1195491387469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 258541,
+        "valueIncreaseRate": 0.01999424
+      },
+      {
+        "time": 1163955387469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 253473,
+        "valueIncreaseRate": 0.019995654
+      },
+      {
+        "time": 1132419387469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 248504,
+        "valueIncreaseRate": 0.039035324
+      },
+      {
+        "time": 1069260987469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 239168,
+        "valueIncreaseRate": 0.019997526
+      },
+      {
+        "time": 1037724987469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 234479,
+        "valueIncreaseRate": 0.019997217
+      },
+      {
+        "time": 1006188987469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 229882,
+        "valueIncreaseRate": 0.019997781
+      },
+      {
+        "time": 974652987469,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 225375,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15187194,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cb3247a105694b718ee4178342f40e1e-p_c.jpg"
+          }
+        ],
+        "price": 2393100,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "livingArea": 3000,
+        "livingAreaValue": 3000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 6372,
+        "lotAreaValue": 6372,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "35 Cerritos Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "35 Cerritos Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726475,
+        "longitude": -122.46731,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/35-Cerritos-Ave-San-Francisco-CA-94127/15187194_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15187192,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=49+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=brIITrwUovOInB5oas0BT45T7r0="
+          }
+        ],
+        "price": 3445400,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 3928,
+        "livingAreaValue": 3928,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 9936,
+        "lotAreaValue": 9936,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "49 Cerritos Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "49 Cerritos Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726257,
+        "longitude": -122.46759,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/49-Cerritos-Ave-San-Francisco-CA-94127/15187192_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15187191,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d0bfca0b93e2bb373d9a6cdd724f3add-p_c.jpg"
+          }
+        ],
+        "price": 1836200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1820,
+        "livingAreaValue": 1820,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 7871,
+        "lotAreaValue": 7871,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "55 Cerritos Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "55 Cerritos Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726227,
+        "longitude": -122.467766,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/55-Cerritos-Ave-San-Francisco-CA-94127/15187191_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15187195,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oKwJFCvk1splZKMdS-TPWQ0iHDw="
+          }
+        ],
+        "price": 2375400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2726,
+        "livingAreaValue": 2726,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 5656,
+        "lotAreaValue": 5656,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "25 Cerritos Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "25 Cerritos Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72657,
+        "longitude": -122.46716,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/25-Cerritos-Ave-San-Francisco-CA-94127/15187195_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15187172,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1bf48da2e9d1c63e8112543c93c30267-p_c.jpg"
+          }
+        ],
+        "price": 2911800,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "livingArea": 3027,
+        "livingAreaValue": 3027,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 8276,
+        "lotAreaValue": 8276,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "255 Corona St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "255 Corona St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726276,
+        "longitude": -122.46707,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/255-Corona-St-San-Francisco-CA-94127/15187172_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15187173,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=245+Corona+St%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=S9hotkxk6grj5yGGzvz2n33ZGH0="
+          }
+        ],
+        "price": 2017700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2092,
+        "livingAreaValue": 2092,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 9034,
+        "lotAreaValue": 9034,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "245 Corona St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "245 Corona St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726078,
+        "longitude": -122.4672,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/245-Corona-St-San-Francisco-CA-94127/15187173_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15187190,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=65+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2zq_HOxyBLEWk11X3bqSlMgNKxc="
+          }
+        ],
+        "price": 1718100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 2420,
+        "livingAreaValue": 2420,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 6599,
+        "lotAreaValue": 6599,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "65 Cerritos Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "65 Cerritos Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726215,
+        "longitude": -122.46796,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/65-Cerritos-Ave-San-Francisco-CA-94127/15187190_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15187196,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=19+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9B6Ar_Tsx66Ek2raERsj3S0GPQY="
+          }
+        ],
+        "price": 2142300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2663,
+        "livingAreaValue": 2663,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 6634,
+        "lotAreaValue": 6634,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "19 Cerritos Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "19 Cerritos Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726635,
+        "longitude": -122.466995,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/19-Cerritos-Ave-San-Francisco-CA-94127/15187196_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yQOTmA_5d-mC_K-yRcdHxh9MyTg=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1iwlNIehNwghWe3d7VfLPJEa7mY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PRmQBgMNBJ-ji2Lu7W1k8QRz_lU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eiYF7wCsOdOz2xy4DRJ2DpNmkec=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=u_pQQ1LrU6IXr5Uy7_S0TsTJwGo=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WxD8gTfBKkTANOq_IHBLEAwGJ9c=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jy27mfedjAHMphJ17C4BTMHNVBc=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sXZDIbqCvqOtHQRdoYyojA-x6PA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KHby0gThFeFSc3PVSNmN4WHMBos=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1iwlNIehNwghWe3d7VfLPJEa7mY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PRmQBgMNBJ-ji2Lu7W1k8QRz_lU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eiYF7wCsOdOz2xy4DRJ2DpNmkec=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=u_pQQ1LrU6IXr5Uy7_S0TsTJwGo=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WxD8gTfBKkTANOq_IHBLEAwGJ9c=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jy27mfedjAHMphJ17C4BTMHNVBc=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sXZDIbqCvqOtHQRdoYyojA-x6PA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KHby0gThFeFSc3PVSNmN4WHMBos=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=M7rDuvPYGbU5iDAxOkNbkG3dovE=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=G-gyxlodhL4AfLz-jHV9QEvEXXc=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sXZDIbqCvqOtHQRdoYyojA-x6PA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KHby0gThFeFSc3PVSNmN4WHMBos=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=M7rDuvPYGbU5iDAxOkNbkG3dovE=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=G-gyxlodhL4AfLz-jHV9QEvEXXc=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sXZDIbqCvqOtHQRdoYyojA-x6PA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KHby0gThFeFSc3PVSNmN4WHMBos=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=45+Cerritos+Ave%2C+San+Francisco%2C+CA+94127&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=n2ZpYDASdLoIntaVDjeZs2ZMLmI="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/45-Cerritos-Ave-San-Francisco-CA-94127/15187193_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/45-Cerritos-Ave-San-Francisco-CA-94127/15187193_zpid/",
+    "zpid": 15187193
+  }
+}

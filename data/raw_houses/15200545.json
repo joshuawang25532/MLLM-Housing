@@ -1,0 +1,1284 @@
+{
+  "basic_info": {
+    "zpid": 15200545,
+    "address": "384 Sussex St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94131",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "livingArea": 1970,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 4000,
+    "lotAreaValue": 4000,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1931,
+    "homeType": "SINGLE_FAMILY",
+    "description": "384 Sussex St, San Francisco, CA 94131 is a single family home that contains 1,970 sq ft and was built in 1931. It contains 3 bedrooms and 2 bathrooms. This home last sold for $1,071,500 in January 2025. \n \nThe Zestimate for this house is $1,091,300. The Rent Zestimate for this home is $7,260/mo. "
+  },
+  "location": {
+    "latitude": 37.737362,
+    "longitude": -122.43922,
+    "neighborhood": "Glen Park",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1071500,
+    "lastSoldPrice": 1071500,
+    "dateSold": 1735862400000,
+    "dateSoldString": "2025-01-03",
+    "zestimate": 1091300,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 7260,
+    "taxAssessedValue": 1255749,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 544
+  },
+  "schools": [
+    {
+      "name": "Glen Park Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.9,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Academy (The)- SF @Mcateer",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": null,
+    "transitScore": 79,
+    "bikeScore": null
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-01-03",
+        "time": 1735862400000,
+        "price": 1071500,
+        "pricePerSquareFoot": 544,
+        "priceChangeRate": 0.23160919540229885,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2007-05-04",
+        "time": 1178236800000,
+        "price": 870000,
+        "pricePerSquareFoot": 442,
+        "priceChangeRate": 0.48717948717948717,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2002-05-17",
+        "time": 1021593600000,
+        "price": 585000,
+        "pricePerSquareFoot": 297,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763633792574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1255749,
+        "valueIncreaseRate": -0.49000105
+      },
+      {
+        "time": 1732097792574,
+        "taxPaid": 29551.02,
+        "taxIncreaseRate": 0.015051762,
+        "value": 2462258,
+        "valueIncreaseRate": 0.019997647
+      },
+      {
+        "time": 1700475392574,
+        "taxPaid": 29112.82,
+        "taxIncreaseRate": 0.018988933,
+        "value": 2413984,
+        "valueIncreaseRate": 0.0199987
+      },
+      {
+        "time": 1668939392574,
+        "taxPaid": 28570.3,
+        "taxIncreaseRate": 0.01791179,
+        "value": 2366654,
+        "valueIncreaseRate": 0.019997811
+      },
+      {
+        "time": 1637403392574,
+        "taxPaid": 28067.56,
+        "taxIncreaseRate": -0.003937715,
+        "value": 2320254,
+        "valueIncreaseRate": 0.0103585245
+      },
+      {
+        "time": 1605867392574,
+        "taxPaid": 28178.52,
+        "taxIncreaseRate": 0.03569476,
+        "value": 2296466,
+        "valueIncreaseRate": 0.019989695
+      },
+      {
+        "time": 1574244992574,
+        "taxPaid": 27207.36,
+        "taxIncreaseRate": 0.03496705,
+        "value": 2251460,
+        "valueIncreaseRate": 0.019998949
+      },
+      {
+        "time": 1542708992574,
+        "taxPaid": 26288.14,
+        "taxIncreaseRate": 0.023728516,
+        "value": 2207316,
+        "valueIncreaseRate": 0.019998726
+      },
+      {
+        "time": 1511172992574,
+        "taxPaid": 25678.82,
+        "taxIncreaseRate": 0.015475636,
+        "value": 2164038,
+        "valueIncreaseRate": 0.019998983
+      },
+      {
+        "time": 1479636992574,
+        "taxPaid": 25287.48,
+        "taxIncreaseRate": 0.0124809295,
+        "value": 2121608,
+        "valueIncreaseRate": 0.015249258
+      },
+      {
+        "time": 1448014592574,
+        "taxPaid": 24975.76,
+        "taxIncreaseRate": 0.027169045,
+        "value": 2089741,
+        "valueIncreaseRate": 0.019978935
+      },
+      {
+        "time": 1416478592574,
+        "taxPaid": 24315.14,
+        "taxIncreaseRate": 0,
+        "value": 2048808,
+        "valueIncreaseRate": 0.23381215
+      },
+      {
+        "time": 1384942592574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1660551,
+        "valueIncreaseRate": 0.019998858
+      },
+      {
+        "time": 1353406592574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1627993,
+        "valueIncreaseRate": 0.7894005
+      },
+      {
+        "time": 1321784192574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 909798,
+        "valueIncreaseRate": 0.0075260075
+      },
+      {
+        "time": 1290248192574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 903002,
+        "valueIncreaseRate": -0.0023697808
+      },
+      {
+        "time": 1258712192574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 905147,
+        "valueIncreaseRate": 0.019998873
+      },
+      {
+        "time": 1227176192574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 887400,
+        "valueIncreaseRate": 0.3757329
+      },
+      {
+        "time": 1195553792574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 645038,
+        "valueIncreaseRate": 0.01999709
+      },
+      {
+        "time": 1164017792574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 632392,
+        "valueIncreaseRate": 0.019993678
+      },
+      {
+        "time": 1132481792574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 619996,
+        "valueIncreaseRate": 0.039041393
+      },
+      {
+        "time": 1069323392574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 596700,
+        "valueIncreaseRate": 2.0676928
+      },
+      {
+        "time": 1037787392574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 194511,
+        "valueIncreaseRate": 0.019989617
+      },
+      {
+        "time": 1006251392574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 190699,
+        "valueIncreaseRate": 0.01999893
+      },
+      {
+        "time": 974715392574,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 186960,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15200544,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=378+Sussex+St%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=D1kXwB52SZaYJjhK12iC8QhP9uQ="
+          }
+        ],
+        "price": 2024800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1550,
+        "livingAreaValue": 1550,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2324,
+        "lotAreaValue": 2324,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "378 Sussex St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "378 Sussex St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.737335,
+        "longitude": -122.439095,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/378-Sussex-St-San-Francisco-CA-94131/15200544_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15200543,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=372+Sussex+St%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BRI0eBwF-yv-w2vjCZorMvfm1vc="
+          }
+        ],
+        "price": 1972300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1840,
+        "livingAreaValue": 1840,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2360,
+        "lotAreaValue": 2360,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "372 Sussex St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "372 Sussex St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.737328,
+        "longitude": -122.438995,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/372-Sussex-St-San-Francisco-CA-94131/15200543_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15200546,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/eca5d926701bc901107ec9f4f3f27bca-p_c.jpg"
+          }
+        ],
+        "price": 3014100,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2237,
+        "livingAreaValue": 2237,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4176,
+        "lotAreaValue": 4176,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "400 Sussex St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "400 Sussex St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73731,
+        "longitude": -122.43944,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/400-Sussex-St-San-Francisco-CA-94131/15200546_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15200547,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=5827+Diamond+Heights+Blvd%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0h84v1DxCrxvAVlo7xLA0BVsZuc="
+          }
+        ],
+        "price": 2411000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2289,
+        "livingAreaValue": 2289,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4856,
+        "lotAreaValue": 4856,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "5827 Diamond Heights Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "5827 Diamond Heights Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73744,
+        "longitude": -122.43945,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/5827-Diamond-Heights-Blvd-San-Francisco-CA-94131/15200547_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15200542,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=366+Sussex+St%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UnzAHAIOvCdnZKi3rllFXSyx60s="
+          }
+        ],
+        "price": 1770200,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1759,
+        "livingAreaValue": 1759,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2408,
+        "lotAreaValue": 2408,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "366 Sussex St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "366 Sussex St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.737324,
+        "longitude": -122.4389,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/366-Sussex-St-San-Francisco-CA-94131/15200542_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15184512,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2+Mizpah+St%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=mPzxjy9kT4myKpb72_DT7HO23NA="
+          }
+        ],
+        "price": 1587500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1233,
+        "livingAreaValue": 1233,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2827,
+        "lotAreaValue": 2827,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2 Mizpah St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2 Mizpah St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73705,
+        "longitude": -122.43911,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2-Mizpah-St-San-Francisco-CA-94131/15184512_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15200541,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=360+Sussex+St%2C+San+Francisco%2C+CA+94131&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_-nEIgCi4wcg-cI2B9MZ-D40-nQ="
+          }
+        ],
+        "price": 1606800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1360,
+        "livingAreaValue": 1360,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "360 Sussex St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "360 Sussex St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.737343,
+        "longitude": -122.43881,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/360-Sussex-St-San-Francisco-CA-94131/15200541_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15200540,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.737342834472656,-122.43872833251953&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=osdZnURwj3izdR_aX2Sm0xj2piQ="
+          }
+        ],
+        "price": 1677700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1270,
+        "livingAreaValue": 1270,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "354 Sussex St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94131"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "354 Sussex St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.737343,
+        "longitude": -122.43873,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/354-Sussex-St-San-Francisco-CA-94131/15200540_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cvOVwlTWYS-LunYtDIujfLkFcTM=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=EL3AcasFGontaqBQ2AeuVn2h6IU=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NU2WDVyh8mqmtUuOaBCNU_h_d18=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OFj-P-W3IU7wWmYYmHBB8zMoUTo=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-brqr02KE--Vxp8Y8vUcIcQJl-c=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TB0ktton07HszwcpeP5y7tbaE-Q=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rcg8EoLp5N5_mmpgWbWntCOh7ww=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=e7i_cba9qvIeWuWjacj15EA_cAA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cGDD6JsQAVAvNSbkZcHpkocxTCs=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=EL3AcasFGontaqBQ2AeuVn2h6IU=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NU2WDVyh8mqmtUuOaBCNU_h_d18=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OFj-P-W3IU7wWmYYmHBB8zMoUTo=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-brqr02KE--Vxp8Y8vUcIcQJl-c=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TB0ktton07HszwcpeP5y7tbaE-Q=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rcg8EoLp5N5_mmpgWbWntCOh7ww=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=e7i_cba9qvIeWuWjacj15EA_cAA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cGDD6JsQAVAvNSbkZcHpkocxTCs=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zKHiN34BA5C0vF2h0rcWf4TW2zQ=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5I11IKP54jNAAFkW58tfaATp55o=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=e7i_cba9qvIeWuWjacj15EA_cAA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cGDD6JsQAVAvNSbkZcHpkocxTCs=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zKHiN34BA5C0vF2h0rcWf4TW2zQ=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5I11IKP54jNAAFkW58tfaATp55o=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=e7i_cba9qvIeWuWjacj15EA_cAA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cGDD6JsQAVAvNSbkZcHpkocxTCs=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=384+Sussex+St%2C+San+Francisco%2C+CA+94131&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=faCONa6Yp0ANP3Isu85sy3WSDo4="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/384-Sussex-St-San-Francisco-CA-94131/15200545_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/384-Sussex-St-San-Francisco-CA-94131/15200545_zpid/",
+    "zpid": 15200545
+  }
+}

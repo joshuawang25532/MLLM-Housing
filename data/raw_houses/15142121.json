@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15142121,
+    "address": "18 Fairfield Way",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94127",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1492,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 4499,
+    "lotAreaValue": 4499,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1928,
+    "homeType": "SINGLE_FAMILY",
+    "description": "18 Fairfield Way, San Francisco, CA 94127 is a single family home that contains 1,492 sq ft and was built in 1928. It contains 1 bathroom. This home last sold for $600,000 in March 2025. \n \nThe Zestimate for this house is $1,418,600. The Rent Zestimate for this home is $4,367/mo. "
+  },
+  "location": {
+    "latitude": 37.72624,
+    "longitude": -122.46328,
+    "neighborhood": "Mount Davidson Manor",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 600000,
+    "lastSoldPrice": 600000,
+    "dateSold": 1742342400000,
+    "dateSoldString": "2025-03-19",
+    "zestimate": 1418600,
+    "zestimateHighPercent": "15",
+    "zestimateLowPercent": "15",
+    "rentZestimate": 4367,
+    "taxAssessedValue": 533460,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 402
+  },
+  "schools": [
+    {
+      "name": "Sloat (Commodore) Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.6,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Aptos Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.3,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lowell High School",
+      "rating": 10,
+      "level": "High",
+      "distance": 1.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 88,
+    "transitScore": 73,
+    "bikeScore": 59
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-03-19",
+        "time": 1742342400000,
+        "price": 600000,
+        "pricePerSquareFoot": 402,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763624006024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 533460,
+        "valueIncreaseRate": 0.0199961
+      },
+      {
+        "time": 1732088006024,
+        "taxPaid": 6833.88,
+        "taxIncreaseRate": 0.016625673,
+        "value": 523002,
+        "valueIncreaseRate": 0.019994149
+      },
+      {
+        "time": 1700465606024,
+        "taxPaid": 6722.12,
+        "taxIncreaseRate": 0.021521179,
+        "value": 512750,
+        "valueIncreaseRate": 0.019996101
+      },
+      {
+        "time": 1668929606024,
+        "taxPaid": 6580.5,
+        "taxIncreaseRate": 0.018776227,
+        "value": 502698,
+        "valueIncreaseRate": 0.019911379
+      },
+      {
+        "time": 1637393606024,
+        "taxPaid": 6459.22,
+        "taxIncreaseRate": -0.006683392,
+        "value": 492884,
+        "valueIncreaseRate": 0.010358095
+      },
+      {
+        "time": 1605857606024,
+        "taxPaid": 6502.68,
+        "taxIncreaseRate": 0.03514546,
+        "value": 487831,
+        "valueIncreaseRate": 0.01999933
+      },
+      {
+        "time": 1574235206024,
+        "taxPaid": 6281.9,
+        "taxIncreaseRate": 0.034868415,
+        "value": 478266,
+        "valueIncreaseRate": 0.019998336
+      },
+      {
+        "time": 1542699206024,
+        "taxPaid": 6070.24,
+        "taxIncreaseRate": 0.06517497,
+        "value": 468889,
+        "valueIncreaseRate": 0.019998
+      },
+      {
+        "time": 1511163206024,
+        "taxPaid": 5698.82,
+        "taxIncreaseRate": 0.020573266,
+        "value": 459696,
+        "valueIncreaseRate": 0.019998536
+      },
+      {
+        "time": 1479627206024,
+        "taxPaid": 5583.94,
+        "taxIncreaseRate": 0.019547638,
+        "value": 450683,
+        "valueIncreaseRate": 0.015248449
+      },
+      {
+        "time": 1448004806024,
+        "taxPaid": 5476.88,
+        "taxIncreaseRate": 0.023991471,
+        "value": 443914,
+        "valueIncreaseRate": 0.019978447
+      },
+      {
+        "time": 1416468806024,
+        "taxPaid": 5348.56,
+        "taxIncreaseRate": 0,
+        "value": 435219,
+        "valueIncreaseRate": 0.0045377645
+      },
+      {
+        "time": 1384932806024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 433253,
+        "valueIncreaseRate": 0.019997222
+      },
+      {
+        "time": 1353396806024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 424759,
+        "valueIncreaseRate": 0.019996062
+      },
+      {
+        "time": 1321774406024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 416432,
+        "valueIncreaseRate": 0.0075268373
+      },
+      {
+        "time": 1290238406024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 413321,
+        "valueIncreaseRate": -0.002370246
+      },
+      {
+        "time": 1258702406024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 414303,
+        "valueIncreaseRate": 0.019998522
+      },
+      {
+        "time": 1227166406024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 406180,
+        "valueIncreaseRate": 0.019999197
+      },
+      {
+        "time": 1195544006024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 398216,
+        "valueIncreaseRate": 0.019996978
+      },
+      {
+        "time": 1164008006024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 390409,
+        "valueIncreaseRate": 0.019997125
+      },
+      {
+        "time": 1132472006024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 382755,
+        "valueIncreaseRate": 0.039039128
+      },
+      {
+        "time": 1069313606024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 368374,
+        "valueIncreaseRate": 0.019985823
+      },
+      {
+        "time": 1037777606024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 361156,
+        "valueIncreaseRate": 0.02000147
+      },
+      {
+        "time": 1006241606024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 354074,
+        "valueIncreaseRate": 0.020001095
+      },
+      {
+        "time": 974705606024,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 347131,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15142120,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cbbc935f17d2f53f1f7ced67f6b3599f-p_c.jpg"
+          }
+        ],
+        "price": 1787000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1252,
+        "livingAreaValue": 1252,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4791,
+        "lotAreaValue": 4791,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "14 Fairfield Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "14 Fairfield Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72614,
+        "longitude": -122.46333,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/14-Fairfield-Way-San-Francisco-CA-94127/15142120_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15142122,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/ccbb84b1db3559bc753ee8a317cad1c7-p_c.jpg"
+          }
+        ],
+        "price": 2450000,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "livingArea": 2584,
+        "livingAreaValue": 2584,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4120,
+        "lotAreaValue": 4120.776,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "22 Fairfield Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "22 Fairfield Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726402,
+        "longitude": -122.4633,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/22-Fairfield-Way-San-Francisco-CA-94127/15142122_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423924174",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15142123,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=26+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3WYSHpN8Ogs4Pc-7mdWzQxHFmEQ="
+          }
+        ],
+        "price": 1615400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1850,
+        "livingAreaValue": 1850,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3933,
+        "lotAreaValue": 3933,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "26 Fairfield Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "26 Fairfield Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726437,
+        "longitude": -122.46318,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/26-Fairfield-Way-San-Francisco-CA-94127/15142123_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2069520890,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1944+Ocean+Ave%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_gXgEnoegxKl1biKILiqjwsUSLg="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1944 Ocean Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1944 Ocean Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72603,
+        "longitude": -122.46354,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1944-Ocean-Ave-San-Francisco-CA-94127/2069520890_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241584655,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7259521484375,-122.4633560180664&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=sseZ7GVh65SdjP0gRaqLSK6MalQ="
+          }
+        ],
+        "price": 1908200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2604,
+        "livingAreaValue": 2604,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1938-1940 Ocean Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1938-1940 Ocean Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.725952,
+        "longitude": -122.463356,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1938-1940-Ocean-Ave-San-Francisco-CA-94127/241584655_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15142117,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=19+Keystone+Way%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Lb4GgCPBO1YysK7NnuKNiEPE_gM="
+          }
+        ],
+        "price": 1899100,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1635,
+        "livingAreaValue": 1635,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3297,
+        "lotAreaValue": 3297,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "19 Keystone Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "19 Keystone Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7262,
+        "longitude": -122.4629,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/19-Keystone-Way-San-Francisco-CA-94127/15142117_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15142124,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.72653579711914,-122.46315002441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=P56f3vthMtUphk5Bhkg3BBAo8gs="
+          }
+        ],
+        "price": 1474700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1200,
+        "livingAreaValue": 1200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3711,
+        "lotAreaValue": 3711,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "30 Fairfield Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "30 Fairfield Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726536,
+        "longitude": -122.46315,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/30-Fairfield-Way-San-Francisco-CA-94127/15142124_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15142118,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/23abfa3976a3792bd0ddcaf7c1ad12b0-p_c.jpg"
+          }
+        ],
+        "price": 1400000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 990,
+        "livingAreaValue": 990,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3371,
+        "lotAreaValue": 3371,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "15 Keystone Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "15 Keystone Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.726112,
+        "longitude": -122.46291,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/15-Keystone-Way-San-Francisco-CA-94127/15142118_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "ML81985529",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6y0FDVsTeAn44cEACUDXw1ZaRJM=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=q4gko-GZ_8a6uoSmYtcpZCywIFI=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=L_2B4FRKl9QOaQqjr-fvclQEmDU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Hh6DtHZn2mrCHgKrnKoi6uhogOU=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UQJZo-649d4EHFKR1bvAvrGu7qM=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=A7cKliU3oZN8j26PEIozxQrk4UE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xU3uEsTrG2322F7d-PZwYoa_5PY=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WGwEZwEXqT5rTP1b2ZCo1Vl82QQ=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IssAeJT2WNC6818qgva7x3--158=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=q4gko-GZ_8a6uoSmYtcpZCywIFI=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=L_2B4FRKl9QOaQqjr-fvclQEmDU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Hh6DtHZn2mrCHgKrnKoi6uhogOU=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UQJZo-649d4EHFKR1bvAvrGu7qM=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=A7cKliU3oZN8j26PEIozxQrk4UE=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xU3uEsTrG2322F7d-PZwYoa_5PY=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WGwEZwEXqT5rTP1b2ZCo1Vl82QQ=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IssAeJT2WNC6818qgva7x3--158=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1Utgi885xwEcVHDiKVG6sBB9HAQ=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kL94wxMdc6RCMDKDn5kYMoI9tJk=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WGwEZwEXqT5rTP1b2ZCo1Vl82QQ=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IssAeJT2WNC6818qgva7x3--158=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1Utgi885xwEcVHDiKVG6sBB9HAQ=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kL94wxMdc6RCMDKDn5kYMoI9tJk=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WGwEZwEXqT5rTP1b2ZCo1Vl82QQ=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IssAeJT2WNC6818qgva7x3--158=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=18+Fairfield+Way%2C+San+Francisco%2C+CA+94127&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QcMvxK03tYyraFvfZJXra5_S-hw="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/18-Fairfield-Way-San-Francisco-CA-94127/15142121_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/18-Fairfield-Way-San-Francisco-CA-94127/15142121_zpid/",
+    "zpid": 15142121
+  }
+}

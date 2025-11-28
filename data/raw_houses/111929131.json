@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 111929131,
+    "address": "260 Seacliff Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94121",
+    "bedrooms": null,
+    "bathrooms": 6,
+    "livingArea": 8306,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 7326,
+    "lotAreaValue": 7326,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1905,
+    "homeType": "SINGLE_FAMILY",
+    "description": "260 Seacliff Ave, San Francisco, CA 94121 is a single family home that contains 8,306 sq ft and was built in 1905. It contains 6 bathrooms. This home last sold for $30,000,000 in January 2025. \n \nThe Zestimate for this house is $13,381,600. The Rent Zestimate for this home is $9,297/mo. "
+  },
+  "location": {
+    "latitude": 37.788868,
+    "longitude": -122.48919,
+    "neighborhood": "Seacliff",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 30000000,
+    "lastSoldPrice": 30000000,
+    "dateSold": 1738281600000,
+    "dateSoldString": "2025-01-31",
+    "zestimate": 13381600,
+    "zestimateHighPercent": "28",
+    "zestimateLowPercent": "23",
+    "rentZestimate": 9297,
+    "taxAssessedValue": 5526664,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 3612
+  },
+  "schools": [
+    {
+      "name": "Alamo Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.6,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Presidio Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Washington (George) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 57,
+    "transitScore": 50,
+    "bikeScore": 66
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-01-31",
+        "time": 1738281600000,
+        "price": 30000000,
+        "pricePerSquareFoot": 3612,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763623290823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 5526664,
+        "valueIncreaseRate": 0.01999963
+      },
+      {
+        "time": 1732087290823,
+        "taxPaid": 64179.16,
+        "taxIncreaseRate": 0.014798077,
+        "value": 5418300,
+        "valueIncreaseRate": 0.019999582
+      },
+      {
+        "time": 1700464890823,
+        "taxPaid": 63243.28,
+        "taxIncreaseRate": 0.018580563,
+        "value": 5312061,
+        "valueIncreaseRate": 0.019999597
+      },
+      {
+        "time": 1668928890823,
+        "taxPaid": 62089.62,
+        "taxIncreaseRate": 0.017760187,
+        "value": 5207905,
+        "valueIncreaseRate": 0.019999644
+      },
+      {
+        "time": 1637392890823,
+        "taxPaid": 61006.14,
+        "taxIncreaseRate": -0.0034910035,
+        "value": 5105791,
+        "valueIncreaseRate": 0.0103596775
+      },
+      {
+        "time": 1605856890823,
+        "taxPaid": 61219.86,
+        "taxIncreaseRate": 0.035795428,
+        "value": 5053439,
+        "valueIncreaseRate": 0.019999785
+      },
+      {
+        "time": 1574234490823,
+        "taxPaid": 59104.2,
+        "taxIncreaseRate": 0.034983408,
+        "value": 4954353,
+        "valueIncreaseRate": 0.019999543
+      },
+      {
+        "time": 1542698490823,
+        "taxPaid": 57106.42,
+        "taxIncreaseRate": 0.01731558,
+        "value": 4857211,
+        "valueIncreaseRate": 0.019999694
+      },
+      {
+        "time": 1511162490823,
+        "taxPaid": 56134.42,
+        "taxIncreaseRate": 0.014691923,
+        "value": 4761973,
+        "valueIncreaseRate": 0.019999778
+      },
+      {
+        "time": 1479626490823,
+        "taxPaid": 55321.64,
+        "taxIncreaseRate": 0.01239956,
+        "value": 4668602,
+        "valueIncreaseRate": 0.015249615
+      },
+      {
+        "time": 1448004090823,
+        "taxPaid": 54644.08,
+        "taxIncreaseRate": 0.027179848,
+        "value": 4598477,
+        "valueIncreaseRate": 0.019979363
+      },
+      {
+        "time": 1416468090823,
+        "taxPaid": 53198.16,
+        "taxIncreaseRate": 0,
+        "value": 4508402,
+        "valueIncreaseRate": 0.004539633
+      },
+      {
+        "time": 1384932090823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 4488028,
+        "valueIncreaseRate": 0.01999964
+      },
+      {
+        "time": 1353396090823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 4400029,
+        "valueIncreaseRate": 0.019999271
+      },
+      {
+        "time": 1321773690823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 4313757,
+        "valueIncreaseRate": 0.0075286296
+      },
+      {
+        "time": 1290237690823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 4281523,
+        "valueIncreaseRate": -0.0023699265
+      },
+      {
+        "time": 1258701690823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 4291694,
+        "valueIncreaseRate": 0.019999549
+      },
+      {
+        "time": 1227165690823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 4207545,
+        "valueIncreaseRate": 0.019999534
+      },
+      {
+        "time": 1195543290823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 4125046,
+        "valueIncreaseRate": 0.019999431
+      },
+      {
+        "time": 1164007290823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 4044165,
+        "valueIncreaseRate": 0.019999651
+      },
+      {
+        "time": 1132471290823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 3964869,
+        "valueIncreaseRate": 0.039042562
+      },
+      {
+        "time": 1069312890823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 3815887,
+        "valueIncreaseRate": 0.01999937
+      },
+      {
+        "time": 1037776890823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 3741068,
+        "valueIncreaseRate": 0.019999368
+      },
+      {
+        "time": 1006240890823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 3667716,
+        "valueIncreaseRate": 0.019999433
+      },
+      {
+        "time": 974704890823,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 3595802,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15088688,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=270+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zrEFSBJ0l2cMtQDLp79phiP4LOg="
+          }
+        ],
+        "price": 14524000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 4,
+        "livingArea": 6165,
+        "livingAreaValue": 6165,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 6002,
+        "lotAreaValue": 6002,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "270 Seacliff Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "270 Seacliff Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.788857,
+        "longitude": -122.48935,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/270-Seacliff-Ave-San-Francisco-CA-94121/15088688_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2060466204,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=270+Sea+Cliff+Ave%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=g5wFV-oHOPNFQU6ycu65adkip2k="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "270 Sea Cliff Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "270 Sea Cliff Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.788857,
+        "longitude": -122.48935,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/270-Sea-Cliff-Ave-San-Francisco-CA-94121/2060466204_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15088691,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=250+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DvrpxaJ-qMjn-CApB3AbT1nZmWE="
+          }
+        ],
+        "price": 17470700,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 6,
+        "livingArea": 8516,
+        "livingAreaValue": 8516,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 11312,
+        "lotAreaValue": 0.25968778696051426,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "250 Seacliff Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "250 Seacliff Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78888,
+        "longitude": -122.48897,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/250-Seacliff-Ave-San-Francisco-CA-94121/15088691_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15088687,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/7b8ea2e1a5e924424e797026b7325bd3-p_c.jpg"
+          }
+        ],
+        "price": 26000000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 6,
+        "livingArea": 7890,
+        "livingAreaValue": 7890,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 7400,
+        "lotAreaValue": 7400.844,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "290 Seacliff Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "290 Seacliff Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78868,
+        "longitude": -122.48939,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/290-Seacliff-Ave-San-Francisco-CA-94121/15088687_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424030510",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15088692,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=230+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sUf7kyakkrs-VkNuvvELyHb9da8="
+          }
+        ],
+        "price": 18583800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 7071,
+        "livingAreaValue": 7071,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 10815,
+        "lotAreaValue": 10815,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "230 Seacliff Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "230 Seacliff Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7889,
+        "longitude": -122.48869,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/230-Seacliff-Ave-San-Francisco-CA-94121/15088692_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2060419321,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=230+Sea+Cliff+Ave%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7nfdHLkZ0pIUj7HAZgImKMlUfKQ="
+          }
+        ],
+        "price": 4643100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 0,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "230 Sea Cliff Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "230 Sea Cliff Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7889,
+        "longitude": -122.48869,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/230-Sea-Cliff-Ave-San-Francisco-CA-94121/2060419321_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15088686,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=300+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=imKEzs9Slk40heO2z60AjHdeY8o="
+          }
+        ],
+        "price": 28913200,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "livingArea": 9836,
+        "livingAreaValue": 9836,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 18813,
+        "lotAreaValue": 0.4318870523415978,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "300 Seacliff Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "300 Seacliff Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.788757,
+        "longitude": -122.48976,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/300-Seacliff-Ave-San-Francisco-CA-94121/15088686_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2060461570,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=300+Sea+Cliff+Ave%2C+San+Francisco%2C+CA+94121&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-hwRIR_q6M1haYodCNs2EBZX3nM="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "300 Sea Cliff Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "300 Sea Cliff Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.788757,
+        "longitude": -122.48976,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/300-Sea-Cliff-Ave-San-Francisco-CA-94121/2060461570_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wS_f-OUsunne0J8JtaJhvhfbLfY=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_PeQJhPKCoxG09WnMq7Br8SS9lA=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=j4mPAp1PW4yWslRp-hFHa3AiG6w=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MQqEdD7vSN4bTe7sUryp94JI4vY=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=GjorDphH9FzUCI6c2MoggF6znl4=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7irUBseCUxeoE9us00cV_WdD1hg=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=aGI-4ZN2gjXkGfi7mPZtxnmZnDE=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z5z3TLyyG066iOn_87qp9q1iZTE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XPWiymc0clnpN9uc7Lwrz3CnG4c=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_PeQJhPKCoxG09WnMq7Br8SS9lA=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=j4mPAp1PW4yWslRp-hFHa3AiG6w=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MQqEdD7vSN4bTe7sUryp94JI4vY=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=GjorDphH9FzUCI6c2MoggF6znl4=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7irUBseCUxeoE9us00cV_WdD1hg=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=aGI-4ZN2gjXkGfi7mPZtxnmZnDE=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z5z3TLyyG066iOn_87qp9q1iZTE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XPWiymc0clnpN9uc7Lwrz3CnG4c=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Mb9OziFQ4YkSLWZqyb6UFkyRjQk=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=L_k7wZ1XuTxUopD5DCAe1zZpKkM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z5z3TLyyG066iOn_87qp9q1iZTE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XPWiymc0clnpN9uc7Lwrz3CnG4c=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Mb9OziFQ4YkSLWZqyb6UFkyRjQk=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=L_k7wZ1XuTxUopD5DCAe1zZpKkM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z5z3TLyyG066iOn_87qp9q1iZTE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XPWiymc0clnpN9uc7Lwrz3CnG4c=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=260+Seacliff+Ave%2C+San+Francisco%2C+CA+94121&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0okDOdnlH2vlzHImWRMYxQ0xRbc="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/260-Seacliff-Ave-San-Francisco-CA-94121/111929131_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/260-Seacliff-Ave-San-Francisco-CA-94121/111929131_zpid/",
+    "zpid": 111929131
+  }
+}

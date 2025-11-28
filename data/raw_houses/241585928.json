@@ -1,0 +1,1832 @@
+{
+  "basic_info": {
+    "zpid": 241585928,
+    "address": "2044 Jefferson St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94123",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "livingArea": 1965,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1940,
+    "homeType": "CONDO",
+    "description": "2044 Jefferson St, San Francisco, CA 94123 is a condo home that contains 1,965 sq ft and was built in 1940. It contains 2 bedrooms and 2 bathrooms. This home last sold for $2,695,000 in September 2025. \n \nThe Zestimate for this house is $2,707,100. The Rent Zestimate for this home is $7,492/mo. "
+  },
+  "location": {
+    "latitude": 37.80461,
+    "longitude": -122.44627,
+    "neighborhood": "Marina District",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 2695000,
+    "lastSoldPrice": 2695000,
+    "dateSold": 1757030400000,
+    "dateSoldString": "2025-09-05",
+    "zestimate": 2707100,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 7492,
+    "taxAssessedValue": 1377559,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1372
+  },
+  "schools": [
+    {
+      "name": "Cobb (William L.) Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 1.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Roosevelt Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 1.7,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 1.2,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 79,
+    "transitScore": 63,
+    "bikeScore": 95
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-09-05",
+        "time": 1757030400000,
+        "price": 2695000,
+        "pricePerSquareFoot": 1372,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763634667630,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1377559,
+        "valueIncreaseRate": 0.019999275
+      },
+      {
+        "time": 1732098667630,
+        "taxPaid": 16742.06,
+        "taxIncreaseRate": 0.021047898,
+        "value": 1350549,
+        "valueIncreaseRate": 0.019998958
+      },
+      {
+        "time": 1700476267630,
+        "taxPaid": 16396.94,
+        "taxIncreaseRate": 0.020456454,
+        "value": 1324069,
+        "valueIncreaseRate": 0.019999105
+      },
+      {
+        "time": 1668940267630,
+        "taxPaid": 16068.24,
+        "taxIncreaseRate": 0.01801587,
+        "value": 1298108,
+        "valueIncreaseRate": 0.01999912
+      },
+      {
+        "time": 1637404267630,
+        "taxPaid": 15783.88,
+        "taxIncreaseRate": -0.004558498,
+        "value": 1272656,
+        "valueIncreaseRate": 0.010358778
+      },
+      {
+        "time": 1605868267630,
+        "taxPaid": 15856.16,
+        "taxIncreaseRate": 0.035331275,
+        "value": 1259608,
+        "valueIncreaseRate": 0.019999012
+      },
+      {
+        "time": 1574245867630,
+        "taxPaid": 15315.06,
+        "taxIncreaseRate": 0.042019386,
+        "value": 1234911,
+        "valueIncreaseRate": 0.019999208
+      },
+      {
+        "time": 1542709867630,
+        "taxPaid": 14697.48,
+        "taxIncreaseRate": 0.033248205,
+        "value": 1210698,
+        "valueIncreaseRate": 0.019998988
+      },
+      {
+        "time": 1511173867630,
+        "taxPaid": 14224.54,
+        "taxIncreaseRate": 0,
+        "value": 1186960,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15079495,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/819609f7195cef426cdd0c372d049bd3-p_c.jpg"
+          }
+        ],
+        "price": 4822700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3.5,
+        "livingArea": 3780,
+        "livingAreaValue": 3780,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4120,
+        "lotAreaValue": 4120,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2050 Jefferson St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2050 Jefferson St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.8046,
+        "longitude": -122.44637,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2050-Jefferson-St-San-Francisco-CA-94123/15079495_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2096400846,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a0a13315ef798a6f29ba6e1f6ef09097-p_c.jpg"
+          }
+        ],
+        "price": 1662100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2040 Jefferson St APT 203",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2040 Jefferson St APT 203"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.804626,
+        "longitude": -122.44615,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/2040-Jefferson-St-APT-203-San-Francisco-CA-94123/2096400846_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 344754301,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a7e3fe9a6399d4332d3926df8b7fcf5a-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2040 Jefferson St APT 105",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2040 Jefferson St APT 105"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80463,
+        "longitude": -122.44615,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2040-Jefferson-St-APT-105-San-Francisco-CA-94123/344754301_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "51n3j05hg1dwm",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 377521662,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4da3cbe89e37ce75d19493d7db6759e4-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2040 Jefferson St APT 304",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2040 Jefferson St APT 304"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80463,
+        "longitude": -122.44615,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2040-Jefferson-St-APT-304-San-Francisco-CA-94123/377521662_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3umge6x4zsjae",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 443113226,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/5cfea3033276ae2b92d169f225c0d7cd-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2040 Jefferson St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2040 Jefferson St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80463,
+        "longitude": -122.44615,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2040-Jefferson-St-San-Francisco-CA-94123/443113226_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "4s740x53fyg54",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 456080790,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1e31c5a37e09bf3d9e6caf91f7700c56-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2040 Jefferson St APT 305",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2040 Jefferson St APT 305"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80463,
+        "longitude": -122.44615,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2040-Jefferson-St-APT-305-San-Francisco-CA-94123/456080790_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3vg1fhxryecam",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2053826954,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/ad557acf791149ca4497d6fe881c5934-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2040 Jefferson St APT 302",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2040 Jefferson St APT 302"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80463,
+        "longitude": -122.44615,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2040-Jefferson-St-APT-302-San-Francisco-CA-94123/2053826954_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "34uprj6tz29xq",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2055980538,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/72f21a42f369d2d1c76db64e7b85e763-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 650,
+        "livingAreaValue": 650,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2040 Jefferson St APT 301",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2040 Jefferson St APT 301"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80463,
+        "longitude": -122.44615,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2040-Jefferson-St-APT-301-San-Francisco-CA-94123/2055980538_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "49s21uhnrh4r7",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 7,
+    "responsivePhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-p_d.jpg",
+        "caption": "Watercolor ",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-p_d.jpg",
+        "caption": "Living / Dining ",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-p_d.jpg",
+        "caption": "Living / Dining ",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-p_d.jpg",
+        "caption": "Proposed Plans",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-p_d.jpg",
+        "caption": "Existing Plans ",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "Watercolor ",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/bfc3965a436bef36331b844e3aae20c0-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "Living / Dining ",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/40b759dd316d3290d9495923a41ea1bd-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "Living / Dining ",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e35d4be17f7c2dc8b91dd06f9d6fb3de-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4dff85f9ca47d96606307db48ecdfce6-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "Proposed Plans",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/11bd240998c5301e24c7f425def5a108-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      },
+      {
+        "caption": "Existing Plans ",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/27b1dfdc17c028f03aaf772c76a2a946-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://photos.zillowstatic.com/fp/cc7287dd8dfb5d2f3329d8aa79e599f3-p_a.jpg"
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2044-Jefferson-St-San-Francisco-CA-94123/241585928_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2044-Jefferson-St-San-Francisco-CA-94123/241585928_zpid/",
+    "zpid": 241585928
+  }
+}

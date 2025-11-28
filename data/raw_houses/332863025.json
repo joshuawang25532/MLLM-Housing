@@ -1,0 +1,1302 @@
+{
+  "basic_info": {
+    "zpid": 332863025,
+    "address": "1477-1483 Dolores St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94110",
+    "bedrooms": 8,
+    "bathrooms": 8,
+    "livingArea": 6316,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3149,
+    "lotAreaValue": 3149,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1906,
+    "homeType": "HOME_TYPE_UNKNOWN",
+    "description": "1477-1483 Dolores St, San Francisco, CA 94110 contains 6,316 sq ft and was built in 1906. It contains 8 bedrooms and 8 bathrooms. This home last sold for $1,450,000 in December 2024. \n \nThe Rent Zestimate for this home is $5,536/mo. "
+  },
+  "location": {
+    "latitude": 37.7458,
+    "longitude": -122.42423,
+    "neighborhood": "Noe Valley",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1450000,
+    "lastSoldPrice": 1450000,
+    "dateSold": 1734048000000,
+    "dateSoldString": "2024-12-13",
+    "zestimate": null,
+    "zestimateHighPercent": null,
+    "zestimateLowPercent": null,
+    "rentZestimate": 5536,
+    "taxAssessedValue": 6614569,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 230
+  },
+  "schools": [
+    {
+      "name": "Alvarado Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.9,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "O'connell (John) High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 1.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 96,
+    "transitScore": 82,
+    "bikeScore": 98
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2024-12-13",
+        "time": 1734048000000,
+        "price": 1450000,
+        "pricePerSquareFoot": 230,
+        "priceChangeRate": -0.09853901150139882,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2020-08-06",
+        "time": 1596672000000,
+        "price": 1608500,
+        "pricePerSquareFoot": 255,
+        "priceChangeRate": 0.0053125,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2017-06-02",
+        "time": 1496361600000,
+        "price": 1600000,
+        "pricePerSquareFoot": 253,
+        "priceChangeRate": -0.4074074074074074,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2014-09-23",
+        "time": 1411430400000,
+        "price": 2700000,
+        "pricePerSquareFoot": 427,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763627866697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 6614569,
+        "valueIncreaseRate": 0.01999946
+      },
+      {
+        "time": 1732091866697,
+        "taxPaid": 77269.42,
+        "taxIncreaseRate": 0.016496444,
+        "value": 6484875,
+        "valueIncreaseRate": 0.019999452
+      },
+      {
+        "time": 1700469466697,
+        "taxPaid": 76015.44,
+        "taxIncreaseRate": 0.019077534,
+        "value": 6357724,
+        "valueIncreaseRate": 0.019999467
+      },
+      {
+        "time": 1668933466697,
+        "taxPaid": 74592.4,
+        "taxIncreaseRate": 0.017637162,
+        "value": 6233066,
+        "valueIncreaseRate": 0.019999502
+      },
+      {
+        "time": 1637397466697,
+        "taxPaid": 73299.6,
+        "taxIncreaseRate": -0.021641748,
+        "value": 6110852,
+        "valueIncreaseRate": -0.0070308987
+      },
+      {
+        "time": 1605861466697,
+        "taxPaid": 74921.02,
+        "taxIncreaseRate": 0.033599034,
+        "value": 6154121,
+        "valueIncreaseRate": 0.019999485
+      },
+      {
+        "time": 1574239066697,
+        "taxPaid": 72485.58,
+        "taxIncreaseRate": 0.034987185,
+        "value": 6033455,
+        "valueIncreaseRate": 0.019999648
+      },
+      {
+        "time": 1542703066697,
+        "taxPaid": 70035.24,
+        "taxIncreaseRate": 0.042853434,
+        "value": 5915154,
+        "valueIncreaseRate": 0.047124695
+      },
+      {
+        "time": 1511167066697,
+        "taxPaid": 67157.32,
+        "taxIncreaseRate": 0.0147609,
+        "value": 5648949,
+        "valueIncreaseRate": 0.019999502
+      },
+      {
+        "time": 1479631066697,
+        "taxPaid": 66180.44,
+        "taxIncreaseRate": 10.95171,
+        "value": 5538188,
+        "valueIncreaseRate": 12.986595
+      },
+      {
+        "time": 1448008666697,
+        "taxPaid": 5537.32,
+        "taxIncreaseRate": -0.44408438,
+        "value": 395964,
+        "valueIncreaseRate": -0.49003088
+      },
+      {
+        "time": 1416472666697,
+        "taxPaid": 9960.72,
+        "taxIncreaseRate": 0,
+        "value": 776447,
+        "valueIncreaseRate": 0.004538521
+      },
+      {
+        "time": 1384936666697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 772939,
+        "valueIncreaseRate": 0.019999102
+      },
+      {
+        "time": 1353400666697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 757784,
+        "valueIncreaseRate": 0.0199993
+      },
+      {
+        "time": 1321778266697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 742926,
+        "valueIncreaseRate": 0.007526689
+      },
+      {
+        "time": 1290242266697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 737376,
+        "valueIncreaseRate": -0.002369011
+      },
+      {
+        "time": 1258706266697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 739127,
+        "valueIncreaseRate": 0.019999035
+      },
+      {
+        "time": 1227170266697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 724635,
+        "valueIncreaseRate": 0.01999924
+      },
+      {
+        "time": 1195547866697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 710427,
+        "valueIncreaseRate": 0.019998621
+      },
+      {
+        "time": 1164011866697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 696498,
+        "valueIncreaseRate": 0.019997276
+      },
+      {
+        "time": 1132475866697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 682843,
+        "valueIncreaseRate": 0.0390407
+      },
+      {
+        "time": 1069317466697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 657186,
+        "valueIncreaseRate": 0.020014249
+      },
+      {
+        "time": 1037781466697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 644291,
+        "valueIncreaseRate": 0.019999746
+      },
+      {
+        "time": 1006245466697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 631658,
+        "valueIncreaseRate": 0.019979492
+      },
+      {
+        "time": 974709466697,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 619285,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15182596,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1477+Dolores+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PLnzSaeTSmkRVlL500A8szL5Zxg="
+          }
+        ],
+        "price": 1522300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1477 Dolores St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1477 Dolores St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7458,
+        "longitude": -122.42423,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1477-Dolores-St-San-Francisco-CA-94110/15182596_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2069661401,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3afacc7f39795dafc8e7ef6b162cac59-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1050,
+        "livingAreaValue": 1050,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1481 Dolores St #1481",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1481 Dolores St #1481"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7458,
+        "longitude": -122.42423,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1481-Dolores-St-1481-San-Francisco-CA-94110/2069661401_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2079942005,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f8cc8f1adf41192ce4cb5cd8673353af-p_c.jpg"
+          }
+        ],
+        "price": 1480800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1483,
+        "livingAreaValue": 1483,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1477 Dolores St #1477",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1477 Dolores St #1477"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7458,
+        "longitude": -122.42423,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1477-Dolores-St-1477-San-Francisco-CA-94110/2079942005_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2105066046,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/412ebc6e72dec19fc8462cc95399154a-p_c.jpg"
+          }
+        ],
+        "price": 1563700,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1460,
+        "livingAreaValue": 1460,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1483 Dolores St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1483 Dolores St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7458,
+        "longitude": -122.42423,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1483-Dolores-St-San-Francisco-CA-94110/2105066046_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2105571965,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/c97cd140f913152683524969e16c4f09-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 0,
+        "livingAreaValue": 0,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 0,
+        "lotAreaValue": 0,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1479 Dolores St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1479 Dolores St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7458,
+        "longitude": -122.42423,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1479-Dolores-St-San-Francisco-CA-94110/2105571965_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15182597,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74589157104492,-122.42420196533203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=k9dBt4cG_pD8vyKIu_LVn9y0qIA="
+          }
+        ],
+        "price": 1176000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 900,
+        "livingAreaValue": 900,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1475 Dolores St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1475 Dolores St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74589,
+        "longitude": -122.4242,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1475-Dolores-St-San-Francisco-CA-94110/15182597_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2105066027,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a1036d0ce901acd2154f46dd45b9c68-p_c.jpg"
+          }
+        ],
+        "price": 1450000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 0,
+        "livingAreaValue": 0,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3149,
+        "lotAreaValue": 3149.388,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1481 Dolores St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1481 Dolores St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.745804,
+        "longitude": -122.424355,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1481-Dolores-St-San-Francisco-CA-94110/2105066027_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424078567",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 111933947,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/bd88e249a88119124d2f0e855600f3a9-p_c.jpg"
+          }
+        ],
+        "price": 1586500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1366,
+        "livingAreaValue": 1366,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500.344,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1469 Dolores St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1469 Dolores St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74596,
+        "longitude": -122.42421,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1469-Dolores-St-San-Francisco-CA-94110/111933947_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423715703",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RhN7afQ1CqQpvnXecZRVMjOk5pc=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=y6Dqz2xUoMiEV4rTCYKIQpg-63k=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hEM1wUvO4pSG07UOzZcOd2slTlA=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oSXdxRP4GYjvPoEp2YY3j20BG_8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=bsIE12SUbk1KRHbqo2p4Lf8iikI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=lWtWJtHJHsQinbR0cM9RmzMcW14=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xd1pWtOmNVBWPGU2301G1Yzt5so=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pt97RRHhqytfhbsbIK5ybDEOQgk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gZhOLA1y-PFZiKbXK6a6ngVJF8c=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=y6Dqz2xUoMiEV4rTCYKIQpg-63k=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hEM1wUvO4pSG07UOzZcOd2slTlA=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oSXdxRP4GYjvPoEp2YY3j20BG_8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=bsIE12SUbk1KRHbqo2p4Lf8iikI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=lWtWJtHJHsQinbR0cM9RmzMcW14=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xd1pWtOmNVBWPGU2301G1Yzt5so=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pt97RRHhqytfhbsbIK5ybDEOQgk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gZhOLA1y-PFZiKbXK6a6ngVJF8c=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=f3sKJRBNaf7W7Xd3gxVZJbKJiy0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5gVnGO0Bk92m1E9NYt_fByZNIlA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pt97RRHhqytfhbsbIK5ybDEOQgk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gZhOLA1y-PFZiKbXK6a6ngVJF8c=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=f3sKJRBNaf7W7Xd3gxVZJbKJiy0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5gVnGO0Bk92m1E9NYt_fByZNIlA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pt97RRHhqytfhbsbIK5ybDEOQgk=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gZhOLA1y-PFZiKbXK6a6ngVJF8c=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=1477-1483+Dolores+St%2C+San+Francisco%2C+CA+94110&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TMadx5PpA_-ZwOAjeaaE0ZbfJuY="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1477-1483-Dolores-St-San-Francisco-CA-94110/332863025_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1477-1483-Dolores-St-San-Francisco-CA-94110/332863025_zpid/",
+    "zpid": 332863025
+  }
+}

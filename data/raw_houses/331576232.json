@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 331576232,
+    "address": "1801-1811 Clement St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94121",
+    "bedrooms": null,
+    "bathrooms": 3,
+    "livingArea": 3000,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1746,
+    "lotAreaValue": 1746,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1918,
+    "homeType": "MULTI_FAMILY",
+    "description": "1801-1811 Clement St, San Francisco, CA 94121 is a multi family home that contains 3,000 sq ft and was built in 1918. It contains 3 bathrooms. This home last sold for $1,300,000 in August 2025. \n \nThe Zestimate for this house is $1,524,400. The Rent Zestimate for this home is $5,273/mo. "
+  },
+  "location": {
+    "latitude": 37.782154,
+    "longitude": -122.478676,
+    "neighborhood": "Outer Richmond",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1300000,
+    "lastSoldPrice": 1300000,
+    "dateSold": 1756339200000,
+    "dateSoldString": "2025-08-28",
+    "zestimate": 1524400,
+    "zestimateHighPercent": "16",
+    "zestimateLowPercent": "14",
+    "rentZestimate": 5273,
+    "taxAssessedValue": 333226,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 433
+  },
+  "schools": [
+    {
+      "name": "Alamo Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Presidio Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.6,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Washington (George) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 97,
+    "transitScore": 71,
+    "bikeScore": 81
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-08-28",
+        "time": 1756339200000,
+        "price": 1300000,
+        "pricePerSquareFoot": 433,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763638911985,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 333226,
+        "valueIncreaseRate": 0.029749783
+      },
+      {
+        "time": 1732102911985,
+        "taxPaid": 4794,
+        "taxIncreaseRate": 0.03715942,
+        "value": 323599,
+        "valueIncreaseRate": 0.019986888
+      },
+      {
+        "time": 1700480511986,
+        "taxPaid": 4622.24,
+        "taxIncreaseRate": 0.025783096,
+        "value": 317258,
+        "valueIncreaseRate": 0.019984439
+      },
+      {
+        "time": 1668944511986,
+        "taxPaid": 4506.06,
+        "taxIncreaseRate": 0.018627087,
+        "value": 311042,
+        "valueIncreaseRate": 0.019983735
+      },
+      {
+        "time": 1637408511986,
+        "taxPaid": 4423.66,
+        "taxIncreaseRate": -0.030192558,
+        "value": 304948,
+        "valueIncreaseRate": 0.010350402
+      },
+      {
+        "time": 1605872511986,
+        "taxPaid": 4561.38,
+        "taxIncreaseRate": 0.032794867,
+        "value": 301824,
+        "valueIncreaseRate": 0.01998236
+      },
+      {
+        "time": 1574250111986,
+        "taxPaid": 4416.54,
+        "taxIncreaseRate": 0.03516701,
+        "value": 295911,
+        "valueIncreaseRate": 0.0199818
+      },
+      {
+        "time": 1542714111986,
+        "taxPaid": 4266.5,
+        "taxIncreaseRate": -0.20600802,
+        "value": 290114,
+        "valueIncreaseRate": 0.019983828
+      },
+      {
+        "time": 1511178111986,
+        "taxPaid": 5373.48,
+        "taxIncreaseRate": 0.1972514,
+        "value": 284430,
+        "valueIncreaseRate": 0.019981496
+      },
+      {
+        "time": 1479642111986,
+        "taxPaid": 4488.18,
+        "taxIncreaseRate": 0.18999997,
+        "value": 278858,
+        "valueIncreaseRate": 0.0152362995
+      },
+      {
+        "time": 1448019711986,
+        "taxPaid": 3771.58,
+        "taxIncreaseRate": 0.025833644,
+        "value": 274673,
+        "valueIncreaseRate": 0.0199593
+      },
+      {
+        "time": 1416483711986,
+        "taxPaid": 3676.6,
+        "taxIncreaseRate": 0,
+        "value": 269298,
+        "valueIncreaseRate": 0.0045321784
+      },
+      {
+        "time": 1384947711986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 268083,
+        "valueIncreaseRate": 0.020755278
+      },
+      {
+        "time": 1353411711986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 262632,
+        "valueIncreaseRate": 0.019993475
+      },
+      {
+        "time": 1321789311986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 257484,
+        "valueIncreaseRate": 0.00752068
+      },
+      {
+        "time": 1290253311986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 255562,
+        "valueIncreaseRate": -0.0023695296
+      },
+      {
+        "time": 1258717311986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 256169,
+        "valueIncreaseRate": 0.019996257
+      },
+      {
+        "time": 1227181311986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 251147,
+        "valueIncreaseRate": 0.019993989
+      },
+      {
+        "time": 1195558911986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 246224,
+        "valueIncreaseRate": 0.019996107
+      },
+      {
+        "time": 1164022911986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 241397,
+        "valueIncreaseRate": 0.019998817
+      },
+      {
+        "time": 1132486911986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 236664,
+        "valueIncreaseRate": 0.039029915
+      },
+      {
+        "time": 1069328511986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 227774,
+        "valueIncreaseRate": 0.019994715
+      },
+      {
+        "time": 1037792511986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 223309,
+        "valueIncreaseRate": 0.01999251
+      },
+      {
+        "time": 1006256511986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 218932,
+        "valueIncreaseRate": 0.019996272
+      },
+      {
+        "time": 974720511986,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 214640,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 332854478,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.78208541870117,-122.47866821289062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0j_nYkru_OFlgyFQgE8pgby9Ujw="
+          }
+        ],
+        "price": 1285700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2050,
+        "livingAreaValue": 2050,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1750,
+        "lotAreaValue": 1750,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "303-305 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "303-305 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782085,
+        "longitude": -122.47867,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/303-305-19th-Ave-San-Francisco-CA-94121/332854478_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 331644647,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.78201675415039,-122.47866821289062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=QGs10np6nRH5BRtG-qKVJ0oXoaw="
+          }
+        ],
+        "price": 1500700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 2350,
+        "livingAreaValue": 2350,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1750,
+        "lotAreaValue": 1750,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "307-309 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "307-309 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782017,
+        "longitude": -122.47867,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/307-309-19th-Ave-San-Francisco-CA-94121/331644647_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241584027,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.78204345703125,-122.47882843017578&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AeZ3liq93qMyH1awWRrcD6W4V0g="
+          }
+        ],
+        "price": 2007700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "livingArea": 2560,
+        "livingAreaValue": 2560,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1823-1825 Clement St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1823-1825 Clement St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782043,
+        "longitude": -122.47883,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1823-1825-Clement-St-San-Francisco-CA-94121/241584027_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2091949489,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/04a50a3867adc688e4c643aa8442bf01-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1025,
+        "livingAreaValue": 1025,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "311 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "311 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78195,
+        "longitude": -122.47866,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/311-19th-Ave-San-Francisco-CA-94121/2091949489_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2093465372,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/04a50a3867adc688e4c643aa8442bf01-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1025,
+        "livingAreaValue": 1025,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "315 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "315 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78195,
+        "longitude": -122.47866,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/315-19th-Ave-San-Francisco-CA-94121/2093465372_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332854479,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/82096a3ebcc22c0f35488543a34da6a3-p_c.jpg"
+          }
+        ],
+        "price": 1322024,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 976,
+        "livingAreaValue": 976,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "311-315 19th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "311-315 19th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.781948,
+        "longitude": -122.47866,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/311-315-19th-Ave-San-Francisco-CA-94121/332854479_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "1cbr5c6vrt079",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 447174858,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/8358e7f82549c9f40300dfd3683ab4f5-p_c.jpg"
+          }
+        ],
+        "price": 1649500,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 3054,
+        "livingAreaValue": 3054,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500.344,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1827 Clement St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1827 Clement St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782116,
+        "longitude": -122.47894,
+        "homeStatus": "FOR_SALE",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1827-Clement-St-San-Francisco-CA-94121/447174858_zpid/",
+        "hdpTypeDimension": "ForSale",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "For Sale by Agent",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": true
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425044205",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 447265416,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d920832230bf6c6d5b7dc409f5786a35-p_c.jpg"
+          }
+        ],
+        "price": 2057900,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 0,
+        "livingArea": 5250,
+        "livingAreaValue": 5250,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 0,
+        "lotAreaValue": 0,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1828-1830 Clement St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94121"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1828-1830 Clement St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782326,
+        "longitude": -122.47885,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1828-1830-Clement-St-San-Francisco-CA-94121/447265416_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "392963",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JyN6l70xuj7XcSYbsKULmzTUanc=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ibukHnQvcZ8dGlV_u9IcKsBAy2Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cg9syt4jx2YjFIXqC1RDtpvG0E8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sgPD7CcDOL-TFOu7G2mgnsJFr0Q=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=EgKaZzhRTy9Lj0lshLClAxkKVow=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UzGftCwmG6jUnAccp_tyZIo5Ghw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZNQO4lcgqkTvrAgEgnYwzQr40Uo=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=bq5k-lEvfCDUU8ipqdBXsGmLavA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Y7uTQGe2sVdBZ7AotHSluFZs8RM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ibukHnQvcZ8dGlV_u9IcKsBAy2Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cg9syt4jx2YjFIXqC1RDtpvG0E8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sgPD7CcDOL-TFOu7G2mgnsJFr0Q=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=EgKaZzhRTy9Lj0lshLClAxkKVow=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UzGftCwmG6jUnAccp_tyZIo5Ghw=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZNQO4lcgqkTvrAgEgnYwzQr40Uo=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=bq5k-lEvfCDUU8ipqdBXsGmLavA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Y7uTQGe2sVdBZ7AotHSluFZs8RM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BgOW3hMtmc2m2oeqEzNV8GWGqk0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FOqhM8lVbtIVntq11A5tqmQTySM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=bq5k-lEvfCDUU8ipqdBXsGmLavA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Y7uTQGe2sVdBZ7AotHSluFZs8RM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BgOW3hMtmc2m2oeqEzNV8GWGqk0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FOqhM8lVbtIVntq11A5tqmQTySM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=bq5k-lEvfCDUU8ipqdBXsGmLavA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Y7uTQGe2sVdBZ7AotHSluFZs8RM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=1801-1811+Clement+St%2C+San+Francisco%2C+CA+94121&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WWlrEX7dg70ISb1NfVEmMQHYiak="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1801-1811-Clement-St-San-Francisco-CA-94121/331576232_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1801-1811-Clement-St-San-Francisco-CA-94121/331576232_zpid/",
+    "zpid": 331576232
+  }
+}

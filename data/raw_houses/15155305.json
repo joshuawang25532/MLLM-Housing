@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15155305,
+    "address": "254 Wheeler Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94134",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "livingArea": 1000,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3197,
+    "lotAreaValue": 3197,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1923,
+    "homeType": "SINGLE_FAMILY",
+    "description": "254 Wheeler Ave, San Francisco, CA 94134 is a single family home that contains 1,000 sq ft and was built in 1923. It contains 2 bedrooms and 1 bathroom. This home last sold for $649,444 in February 2025. \n \nThe Zestimate for this house is $1,019,000. The Rent Zestimate for this home is $3,635/mo. "
+  },
+  "location": {
+    "latitude": 37.712513,
+    "longitude": -122.399956,
+    "neighborhood": "Little Hollywood",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 649444,
+    "lastSoldPrice": 649444,
+    "dateSold": 1739404800000,
+    "dateSoldString": "2025-02-13",
+    "zestimate": 1019000,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "11",
+    "rentZestimate": 3635,
+    "taxAssessedValue": 76872,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 649
+  },
+  "schools": [
+    {
+      "name": "El Dorado Elementary School",
+      "rating": 5,
+      "level": "Elementary",
+      "distance": 0.6,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Visitacion Valley Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.7,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Burton (Phillip And Sala) Academic High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.7,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 72,
+    "transitScore": 69,
+    "bikeScore": 58
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-02-13",
+        "time": 1739404800000,
+        "price": 649444,
+        "pricePerSquareFoot": 649,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763624388126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 76872,
+        "valueIncreaseRate": 0.019982485
+      },
+      {
+        "time": 1732088388126,
+        "taxPaid": 1590.12,
+        "taxIncreaseRate": 0.023467142,
+        "value": 75366,
+        "valueIncreaseRate": 0.019989444
+      },
+      {
+        "time": 1700465988126,
+        "taxPaid": 1553.66,
+        "taxIncreaseRate": 0.032592975,
+        "value": 73889,
+        "valueIncreaseRate": 0.01998868
+      },
+      {
+        "time": 1668929988126,
+        "taxPaid": 1504.62,
+        "taxIncreaseRate": 0.023036025,
+        "value": 72441,
+        "valueIncreaseRate": 0.019994086
+      },
+      {
+        "time": 1637393988126,
+        "taxPaid": 1470.74,
+        "taxIncreaseRate": -0.018643115,
+        "value": 71021,
+        "valueIncreaseRate": 0.010342277
+      },
+      {
+        "time": 1605857988126,
+        "taxPaid": 1498.68,
+        "taxIncreaseRate": 0.03274623,
+        "value": 70294,
+        "valueIncreaseRate": 0.019995356
+      },
+      {
+        "time": 1574235588126,
+        "taxPaid": 1451.16,
+        "taxIncreaseRate": 0.0344297,
+        "value": 68916,
+        "valueIncreaseRate": 0.019980464
+      },
+      {
+        "time": 1542699588126,
+        "taxPaid": 1402.86,
+        "taxIncreaseRate": 0.2913399,
+        "value": 67566,
+        "valueIncreaseRate": 0.019987319
+      },
+      {
+        "time": 1511163588126,
+        "taxPaid": 1086.36,
+        "taxIncreaseRate": 0.049318973,
+        "value": 66242,
+        "valueIncreaseRate": 0.01998645
+      },
+      {
+        "time": 1479627588126,
+        "taxPaid": 1035.3,
+        "taxIncreaseRate": 0.015996123,
+        "value": 64944,
+        "valueIncreaseRate": 0.015225887
+      },
+      {
+        "time": 1448005188126,
+        "taxPaid": 1019,
+        "taxIncreaseRate": 0.026720962,
+        "value": 63970,
+        "valueIncreaseRate": 0.01996237
+      },
+      {
+        "time": 1416469188126,
+        "taxPaid": 992.48,
+        "taxIncreaseRate": 0,
+        "value": 62718,
+        "valueIncreaseRate": 0.004532714
+      },
+      {
+        "time": 1384933188126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62435,
+        "valueIncreaseRate": 0.019979743
+      },
+      {
+        "time": 1353397188126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 61212,
+        "valueIncreaseRate": 0.019996
+      },
+      {
+        "time": 1321774788126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 60012,
+        "valueIncreaseRate": 0.0074705794
+      },
+      {
+        "time": 1290238788126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59567,
+        "valueIncreaseRate": -0.0023614925
+      },
+      {
+        "time": 1258702788126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59708,
+        "valueIncreaseRate": 0.019987017
+      },
+      {
+        "time": 1227166788126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 58538,
+        "valueIncreaseRate": 0.019985711
+      },
+      {
+        "time": 1195544388126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57391,
+        "valueIncreaseRate": 0.019976186
+      },
+      {
+        "time": 1164008388126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 56267,
+        "valueIncreaseRate": 0.019976435
+      },
+      {
+        "time": 1132472388126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 55165,
+        "valueIncreaseRate": 0.03902586
+      },
+      {
+        "time": 1069313988126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 53093,
+        "valueIncreaseRate": 0.019979635
+      },
+      {
+        "time": 1037777988126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 52053,
+        "valueIncreaseRate": 0.019967081
+      },
+      {
+        "time": 1006241988126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 51034,
+        "valueIncreaseRate": 0.020006796
+      },
+      {
+        "time": 974705988126,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 50033,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15155306,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=260+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Ms8WSyE8qtrb_fzKybMh_ZnzLT4="
+          }
+        ],
+        "price": 989000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3197,
+        "lotAreaValue": 3197,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "260 Wheeler Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "260 Wheeler Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71243,
+        "longitude": -122.39999,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/260-Wheeler-Ave-San-Francisco-CA-94134/15155306_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15155304,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=248+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RnywGOwqRCA4qolgNbdwvWGDntU="
+          }
+        ],
+        "price": 920900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3197,
+        "lotAreaValue": 3197,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "248 Wheeler Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "248 Wheeler Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.712597,
+        "longitude": -122.399925,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/248-Wheeler-Ave-San-Francisco-CA-94134/15155304_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15155303,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/ed3d753ff806d4ff8858c123d6399fd4-p_c.jpg"
+          }
+        ],
+        "price": 972400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3197,
+        "lotAreaValue": 3197,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "244 Wheeler Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "244 Wheeler Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71268,
+        "longitude": -122.39989,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/244-Wheeler-Ave-San-Francisco-CA-94134/15155303_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15155307,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4af27dec2a5d8609fb57a5da661f87c8-p_c.jpg"
+          }
+        ],
+        "price": 1282300,
+        "currency": "USD",
+        "bedrooms": 8,
+        "bathrooms": 5,
+        "livingArea": 2880,
+        "livingAreaValue": 2880,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3223,
+        "lotAreaValue": 3223,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "266 Wheeler Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "266 Wheeler Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.712345,
+        "longitude": -122.40002,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/266-Wheeler-Ave-San-Francisco-CA-94134/15155307_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15155308,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/7605a9d7728c937e2c8c26a8329e2b32-p_c.jpg"
+          }
+        ],
+        "price": 940000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 897,
+        "livingAreaValue": 897,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3201,
+        "lotAreaValue": 3201.66,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "272 Wheeler Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "272 Wheeler Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.712246,
+        "longitude": -122.39998,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/272-Wheeler-Ave-San-Francisco-CA-94134/15155308_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423719564",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15155302,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=236+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=maNz9N5mSWavtMrtYQlDhlcP-eY="
+          }
+        ],
+        "price": 892300,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 897,
+        "livingAreaValue": 897,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3200,
+        "lotAreaValue": 3200,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "236 Wheeler Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "236 Wheeler Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71277,
+        "longitude": -122.39986,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/236-Wheeler-Ave-San-Francisco-CA-94134/15155302_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15155321,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71259307861328,-122.40028381347656&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XHrBHxVJVdVq-ePMwWyqbwOZYHc="
+          }
+        ],
+        "price": 891500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1045,
+        "livingAreaValue": 1045,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3200,
+        "lotAreaValue": 3200,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "167 Tunnel Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "167 Tunnel Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.712593,
+        "longitude": -122.40028,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/167-Tunnel-Ave-San-Francisco-CA-94134/15155321_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15155320,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/2d08db459e21dae0b85404bc5ec8212c-p_c.jpg"
+          }
+        ],
+        "price": 999500,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1200,
+        "livingAreaValue": 1200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3197,
+        "lotAreaValue": 3197,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "171 Tunnel Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94134"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "171 Tunnel Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71251,
+        "longitude": -122.400314,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/171-Tunnel-Ave-San-Francisco-CA-94134/15155320_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4rTPkXfHsQSrjZZdLq7C_WUQFBI=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jZ46AE5yB6nggEEwwlGTSGaMFe8=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NwdkeUbiiclf0XzDspeZ9madUgI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kh2wUqjTRLofODyIFzlI-q6ZnPs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=M54v2X705yvjp5iHiqhoGlNXd8c=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=h8DC19YH8mW9sWwt92o8GTR98h4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cysFlZyrSYbQrkod-5H-6lSNUx4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zKtwtunSdQuj6AsJfG9gMy7x9gY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=liy0qEJW9-3gdEWnHPYYJFnvh6w=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jZ46AE5yB6nggEEwwlGTSGaMFe8=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NwdkeUbiiclf0XzDspeZ9madUgI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=kh2wUqjTRLofODyIFzlI-q6ZnPs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=M54v2X705yvjp5iHiqhoGlNXd8c=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=h8DC19YH8mW9sWwt92o8GTR98h4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cysFlZyrSYbQrkod-5H-6lSNUx4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zKtwtunSdQuj6AsJfG9gMy7x9gY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=liy0qEJW9-3gdEWnHPYYJFnvh6w=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uEXuVIYQeMwBFbE5LTDfqiXdNRk=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tQOtccEUUcZAcxxAy7ovIUyHo20=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zKtwtunSdQuj6AsJfG9gMy7x9gY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=liy0qEJW9-3gdEWnHPYYJFnvh6w=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uEXuVIYQeMwBFbE5LTDfqiXdNRk=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tQOtccEUUcZAcxxAy7ovIUyHo20=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zKtwtunSdQuj6AsJfG9gMy7x9gY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=liy0qEJW9-3gdEWnHPYYJFnvh6w=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=254+Wheeler+Ave%2C+San+Francisco%2C+CA+94134&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_tIkc2KxE0nXOup5Te2u5f-8VOQ="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/254-Wheeler-Ave-San-Francisco-CA-94134/15155305_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/254-Wheeler-Ave-San-Francisco-CA-94134/15155305_zpid/",
+    "zpid": 15155305
+  }
+}

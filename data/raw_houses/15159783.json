@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15159783,
+    "address": "90 Peralta Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94110",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "livingArea": 875,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2495,
+    "lotAreaValue": 2495,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1900,
+    "homeType": "SINGLE_FAMILY",
+    "description": "90 Peralta Ave, San Francisco, CA 94110 is a single family home that contains 875 sq ft and was built in 1900. It contains 2 bedrooms and 1 bathroom. This home last sold for $750,000 in January 2025. \n \nThe Zestimate for this house is $1,152,600. The Rent Zestimate for this home is $4,099/mo. "
+  },
+  "location": {
+    "latitude": 37.74773,
+    "longitude": -122.40715,
+    "neighborhood": "Peralta Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 750000,
+    "lastSoldPrice": 750000,
+    "dateSold": 1736812800000,
+    "dateSoldString": "2025-01-14",
+    "zestimate": 1152600,
+    "zestimateHighPercent": "15",
+    "zestimateLowPercent": "14",
+    "rentZestimate": 4099,
+    "taxAssessedValue": 150700,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 857
+  },
+  "schools": [
+    {
+      "name": "Flynn (Leonard R.) Elementary School",
+      "rating": 5,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "S.F. International High School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 1.1,
+      "grades": "8-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marshall (Thurgood) High School",
+      "rating": 2,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 91,
+    "transitScore": 78,
+    "bikeScore": 75
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-01-14",
+        "time": 1736812800000,
+        "price": 750000,
+        "pricePerSquareFoot": 857,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763630767249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 150700,
+        "valueIncreaseRate": 0.019993773
+      },
+      {
+        "time": 1732094767249,
+        "taxPaid": 1759.72,
+        "taxIncreaseRate": 0.0145869665,
+        "value": 147746,
+        "valueIncreaseRate": 0.019993097
+      },
+      {
+        "time": 1700472367249,
+        "taxPaid": 1734.42,
+        "taxIncreaseRate": 0.018007474,
+        "value": 144850,
+        "valueIncreaseRate": 0.019991409
+      },
+      {
+        "time": 1668936367249,
+        "taxPaid": 1703.74,
+        "taxIncreaseRate": 0.017449759,
+        "value": 142011,
+        "valueIncreaseRate": 0.019996122
+      },
+      {
+        "time": 1637400367249,
+        "taxPaid": 1674.52,
+        "taxIncreaseRate": -0.0024068481,
+        "value": 139227,
+        "valueIncreaseRate": 0.010348256
+      },
+      {
+        "time": 1605864367249,
+        "taxPaid": 1678.56,
+        "taxIncreaseRate": 0.034424175,
+        "value": 137801,
+        "valueIncreaseRate": 0.019992597
+      },
+      {
+        "time": 1574241967249,
+        "taxPaid": 1622.7,
+        "taxIncreaseRate": 0.033566847,
+        "value": 135100,
+        "valueIncreaseRate": 0.019992149
+      },
+      {
+        "time": 1542705967249,
+        "taxPaid": 1570,
+        "taxIncreaseRate": 0.012093557,
+        "value": 132452,
+        "valueIncreaseRate": 0.019991376
+      },
+      {
+        "time": 1511169967249,
+        "taxPaid": 1551.24,
+        "taxIncreaseRate": 0.035761934,
+        "value": 129856,
+        "valueIncreaseRate": 0.01999843
+      },
+      {
+        "time": 1479633967249,
+        "taxPaid": 1497.68,
+        "taxIncreaseRate": 0.012506929,
+        "value": 127310,
+        "valueIncreaseRate": 0.015239356
+      },
+      {
+        "time": 1448011567249,
+        "taxPaid": 1479.18,
+        "taxIncreaseRate": 0.026837554,
+        "value": 125399,
+        "valueIncreaseRate": 0.01996844
+      },
+      {
+        "time": 1416475567249,
+        "taxPaid": 1440.52,
+        "taxIncreaseRate": 0,
+        "value": 122944,
+        "valueIncreaseRate": 0.0045347214
+      },
+      {
+        "time": 1384939567249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 122389,
+        "valueIncreaseRate": 0.019993333
+      },
+      {
+        "time": 1353403567249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 119990,
+        "valueIncreaseRate": 0.01999354
+      },
+      {
+        "time": 1321781167249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 117638,
+        "valueIncreaseRate": 0.0075110695
+      },
+      {
+        "time": 1290245167249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 116761,
+        "valueIncreaseRate": -0.0023667526
+      },
+      {
+        "time": 1258709167249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 117038,
+        "valueIncreaseRate": 0.019992331
+      },
+      {
+        "time": 1227173167249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 114744,
+        "valueIncreaseRate": 0.019992
+      },
+      {
+        "time": 1195550767249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 112495,
+        "valueIncreaseRate": 0.019992746
+      },
+      {
+        "time": 1164014767249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 110290,
+        "valueIncreaseRate": 0.019994821
+      },
+      {
+        "time": 1132478767249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 108128,
+        "valueIncreaseRate": 0.039022937
+      },
+      {
+        "time": 1069320367249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 104067,
+        "valueIncreaseRate": 0.019984711
+      },
+      {
+        "time": 1037784367249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 102028,
+        "valueIncreaseRate": 0.019984204
+      },
+      {
+        "time": 1006248367249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 100029,
+        "valueIncreaseRate": 0.019996328
+      },
+      {
+        "time": 974712367249,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 98068,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15159782,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=88+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BzJOLXL2b9jcBsU969QhO28MsMM="
+          }
+        ],
+        "price": 1158700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1145,
+        "livingAreaValue": 1145,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "88 Peralta Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "88 Peralta Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.747765,
+        "longitude": -122.407074,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/88-Peralta-Ave-San-Francisco-CA-94110/15159782_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 331637819,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=92-94+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RjbGYC9hVDokN5QU316NoHUHKYA="
+          }
+        ],
+        "price": 1631300,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 1338,
+        "livingAreaValue": 1338,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "92-94 Peralta Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "92-94 Peralta Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7477,
+        "longitude": -122.40723,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/92-94-Peralta-Ave-San-Francisco-CA-94110/331637819_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2067500889,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/dd5e4f66fbf0b02387e6b9cea6e9c60b-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 696,
+        "livingAreaValue": 696,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "94 Peralta Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "94 Peralta Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74769,
+        "longitude": -122.407074,
+        "homeStatus": "OTHER",
+        "homeType": "TOWNHOUSE",
+        "hdpUrl": "/homedetails/94-Peralta-Ave-San-Francisco-CA-94110/2067500889_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Townhouse",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3uw7tr7rdh05w",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332861591,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/c17f56e7aad3f25d3e1e218edabcb7ef-p_c.jpg"
+          }
+        ],
+        "price": 1490400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1585,
+        "livingAreaValue": 1585,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "86 Peralta Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "86 Peralta Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.747787,
+        "longitude": -122.407,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/86-Peralta-Ave-San-Francisco-CA-94110/332861591_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "2b93ppgcxt1wc",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15159785,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1527+York+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z7yNkFmEqDplhGrXUOeOVbtR20Y="
+          }
+        ],
+        "price": 2054400,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "livingArea": 3011,
+        "livingAreaValue": 3011,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1527 York St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1527 York St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.747665,
+        "longitude": -122.4073,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1527-York-St-San-Francisco-CA-94110/15159785_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 325646152,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1519+York+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=X5lvOQVw9RypWFyKNbxJW3LqD3s="
+          }
+        ],
+        "price": 1573400,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "livingArea": 2038,
+        "livingAreaValue": 2038,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1519 York St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1519 York St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.747868,
+        "longitude": -122.407295,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1519-York-St-San-Francisco-CA-94110/325646152_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2091097689,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/23dafab5a1350bc493cd896bba2bcae2-p_c.jpg"
+          }
+        ],
+        "price": 759700,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1519B York St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1519B York St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.747868,
+        "longitude": -122.407295,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1519B-York-St-San-Francisco-CA-94110/2091097689_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15159775,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=84+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=t8QhRZTyHeu6-GwaXdw-Vyfio8k="
+          }
+        ],
+        "price": 1650400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2100,
+        "livingAreaValue": 2100,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2059,
+        "lotAreaValue": 2059,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "84 Peralta Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "84 Peralta Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74781,
+        "longitude": -122.40691,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/84-Peralta-Ave-San-Francisco-CA-94110/15159775_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=YJXwYqf0EjfhTZ3FFKZNAS69_fo=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=djXZchmkkvCGppFnKmj5ZmOLLZQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QOiMETtRyJ2PZ3aVdnUR8VzhhtI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7O46RLifObQITnHEwbawYQfj7yk=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PWqBogbM5QuDxNcTaTeQaeMfPd8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JylepmLB6yu-l0W2YGG6oo7ocDs=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1LjI83opw1XJ2oo-xU7AIPrrQVs=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4ru14aKxMgYpbdMO4sxP6qkYdMM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=baEha-xSkZWR6-TuDJfeJTr58no=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=djXZchmkkvCGppFnKmj5ZmOLLZQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QOiMETtRyJ2PZ3aVdnUR8VzhhtI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7O46RLifObQITnHEwbawYQfj7yk=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PWqBogbM5QuDxNcTaTeQaeMfPd8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JylepmLB6yu-l0W2YGG6oo7ocDs=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1LjI83opw1XJ2oo-xU7AIPrrQVs=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4ru14aKxMgYpbdMO4sxP6qkYdMM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=baEha-xSkZWR6-TuDJfeJTr58no=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=19lfmohqiw7FxemPagHQQbPDY_M=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xhgN0zH2Wwehm0H7nHxXVezk07Q=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4ru14aKxMgYpbdMO4sxP6qkYdMM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=baEha-xSkZWR6-TuDJfeJTr58no=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=19lfmohqiw7FxemPagHQQbPDY_M=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xhgN0zH2Wwehm0H7nHxXVezk07Q=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4ru14aKxMgYpbdMO4sxP6qkYdMM=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=baEha-xSkZWR6-TuDJfeJTr58no=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=90+Peralta+Ave%2C+San+Francisco%2C+CA+94110&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=lBcMuQZBviS8wRNtGpuxKGs2fh8="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/90-Peralta-Ave-San-Francisco-CA-94110/15159783_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/90-Peralta-Ave-San-Francisco-CA-94110/15159783_zpid/",
+    "zpid": 15159783
+  }
+}

@@ -1,0 +1,1316 @@
+{
+  "basic_info": {
+    "zpid": 15158067,
+    "address": "125 Topeka Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94124",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "livingArea": 1725,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2430,
+    "lotAreaValue": 2430,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1950,
+    "homeType": "SINGLE_FAMILY",
+    "description": null
+  },
+  "location": {
+    "latitude": 37.73398,
+    "longitude": -122.398865,
+    "neighborhood": "Silver Terrace",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": true,
+    "garageParkingCapacity": 1,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": true,
+    "cooling": [
+      "None"
+    ],
+    "heating": [
+      "Central Forced Air"
+    ],
+    "appliances": null,
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [
+      "Attached",
+      "On Street"
+    ],
+    "securityFeatures": null,
+    "flooring": null,
+    "rooms": [
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "level": null,
+        "features": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": [
+          "FormalDiningRoom"
+        ],
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "DiningRoom",
+        "roomWidth": null
+      },
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "level": null,
+        "features": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": [
+          "NoFamilyRoom"
+        ],
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "FamilyRoom",
+        "roomWidth": null
+      }
+    ]
+  },
+  "financial": {
+    "price": 825000,
+    "lastSoldPrice": 825000,
+    "dateSold": 1745798400000,
+    "dateSoldString": "2025-04-28",
+    "zestimate": 1091700,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "11",
+    "rentZestimate": 4909,
+    "taxAssessedValue": 930606,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 478
+  },
+  "schools": [
+    {
+      "name": "Drew (Charles) College Preparatory Academy",
+      "rating": 3,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Brown Jr. (Willie L) Middle",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marshall (Thurgood) High School",
+      "rating": 2,
+      "level": "High",
+      "distance": 0.2,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 77,
+    "transitScore": 72,
+    "bikeScore": 63
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-04-28",
+        "time": 1745798400000,
+        "price": 825000,
+        "pricePerSquareFoot": 478,
+        "priceChangeRate": 0.21145374449339208,
+        "event": "Sold",
+        "source": "MLSListings Inc",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "ML81998598",
+          "infoString2": "MLSListings Inc",
+          "infoString3": "https://photos.zillowstatic.com/fp/f6d938e7ba070e360124972ca1b833bc-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "2005-02-01",
+        "time": 1107216000000,
+        "price": 681000,
+        "pricePerSquareFoot": 395,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763573587240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 930606,
+        "valueIncreaseRate": 0.019998685
+      },
+      {
+        "time": 1732037587240,
+        "taxPaid": 11394.96,
+        "taxIncreaseRate": 0.015807275,
+        "value": 912360,
+        "valueIncreaseRate": 4.3842533e-06
+      },
+      {
+        "time": 1700415187240,
+        "taxPaid": 11217.64,
+        "taxIncreaseRate": -0.005967296,
+        "value": 912356,
+        "valueIncreaseRate": 0.0199962
+      },
+      {
+        "time": 1668879187240,
+        "taxPaid": 11284.98,
+        "taxIncreaseRate": 0.018196806,
+        "value": 894470,
+        "valueIncreaseRate": 0.019996945
+      },
+      {
+        "time": 1637343187240,
+        "taxPaid": 11083.3,
+        "taxIncreaseRate": -0.00972294,
+        "value": 876934,
+        "valueIncreaseRate": 0.010357811
+      },
+      {
+        "time": 1605807187240,
+        "taxPaid": 11192.12,
+        "taxIncreaseRate": 0.03993759,
+        "value": 867944,
+        "valueIncreaseRate": 0.019996991
+      },
+      {
+        "time": 1574184787240,
+        "taxPaid": 10762.3,
+        "taxIncreaseRate": 0.034748975,
+        "value": 850928,
+        "valueIncreaseRate": 0.019983051
+      },
+      {
+        "time": 1542648787240,
+        "taxPaid": 10400.88,
+        "taxIncreaseRate": 0.04215979,
+        "value": 834257,
+        "valueIncreaseRate": 0.019998778
+      },
+      {
+        "time": 1511112787240,
+        "taxPaid": 9980.12,
+        "taxIncreaseRate": 0.017588364,
+        "value": 817900,
+        "valueIncreaseRate": 0.019998403
+      },
+      {
+        "time": 1479576787240,
+        "taxPaid": 9807.62,
+        "taxIncreaseRate": 0.019835971,
+        "value": 801864,
+        "valueIncreaseRate": 0.022785714
+      },
+      {
+        "time": 1447954387240,
+        "taxPaid": 9616.86,
+        "taxIncreaseRate": 0.20645982,
+        "value": 784000,
+        "valueIncreaseRate": 0.20615384
+      },
+      {
+        "time": 1416418387240,
+        "taxPaid": 7971.14,
+        "taxIncreaseRate": 0,
+        "value": 650000,
+        "valueIncreaseRate": 0.28712872
+      },
+      {
+        "time": 1384882387240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 505000,
+        "valueIncreaseRate": 0.07446808
+      },
+      {
+        "time": 1353346387240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 470000,
+        "valueIncreaseRate": 0.044444446
+      },
+      {
+        "time": 1321723987240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 450000,
+        "valueIncreaseRate": -0.296875
+      },
+      {
+        "time": 1290187987240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 640000,
+        "valueIncreaseRate": 0.06666667
+      },
+      {
+        "time": 1258651987240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 600000,
+        "valueIncreaseRate": -0.16975817
+      },
+      {
+        "time": 1227115987240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 722681,
+        "valueIncreaseRate": 0.01999969
+      },
+      {
+        "time": 1195493587240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 708511,
+        "valueIncreaseRate": 0.019997984
+      },
+      {
+        "time": 1163957587240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 694620,
+        "valueIncreaseRate": 11.981853
+      },
+      {
+        "time": 1132421587240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 53507,
+        "valueIncreaseRate": 0.03899105
+      },
+      {
+        "time": 1069263187240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 51499,
+        "valueIncreaseRate": 0.019984156
+      },
+      {
+        "time": 1037727187240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 50490,
+        "valueIncreaseRate": 0.019979395
+      },
+      {
+        "time": 1006191187240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 49501,
+        "valueIncreaseRate": 0.019987226
+      },
+      {
+        "time": 974655187240,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 48531,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15158068,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.734012603759766,-122.39894104003906&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MQ6OGt6rvnryayYxOlvxW88w0xg="
+          }
+        ],
+        "price": 840200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1010,
+        "livingAreaValue": 1010,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "121 Topeka Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "121 Topeka Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.734013,
+        "longitude": -122.39894,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/121-Topeka-Ave-San-Francisco-CA-94124/15158068_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15158066,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.733924865722656,-122.3988037109375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=cJwU36tMRWnCb6bdzw9-o1DXdTU="
+          }
+        ],
+        "price": 868700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1100,
+        "livingAreaValue": 1100,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1947,
+        "lotAreaValue": 1947,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "131 Topeka Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "131 Topeka Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.733925,
+        "longitude": -122.3988,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/131-Topeka-Ave-San-Francisco-CA-94124/15158066_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15158069,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.73404312133789,-122.39901733398438&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=FNSw_9jcqT0t0_AZyqzfqNJTqLc="
+          }
+        ],
+        "price": 986400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1010,
+        "livingAreaValue": 1010,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "115 Topeka Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "115 Topeka Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.734043,
+        "longitude": -122.39902,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/115-Topeka-Ave-San-Francisco-CA-94124/15158069_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15158065,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=137+Topeka+Ave%2C+San+Francisco%2C+CA+94124&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_flkhYPHsDW--hrz9X1JEqaaGBw="
+          }
+        ],
+        "price": 966100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1568,
+        "livingAreaValue": 1568,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2182,
+        "lotAreaValue": 2182,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "137 Topeka Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "137 Topeka Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73389,
+        "longitude": -122.39873,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/137-Topeka-Ave-San-Francisco-CA-94124/15158065_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15158063,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=80+Maddux+Ave%2C+San+Francisco%2C+CA+94124&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=YXRkFKfI7zq7-oZogNycp7z3KWs="
+          }
+        ],
+        "price": 878500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1050,
+        "livingAreaValue": 1050,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2069,
+        "lotAreaValue": 2069,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "80 Maddux Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "80 Maddux Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73402,
+        "longitude": -122.39864,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/80-Maddux-Ave-San-Francisco-CA-94124/15158063_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15158070,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.734073638916016,-122.39909362792969&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=FeoTB697Gb1i7jnjPiwGbOfssyU="
+          }
+        ],
+        "price": 807900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1010,
+        "livingAreaValue": 1010,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "111 Topeka Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "111 Topeka Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.734074,
+        "longitude": -122.39909,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/111-Topeka-Ave-San-Francisco-CA-94124/15158070_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15158064,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=145+Topeka+Ave%2C+San+Francisco%2C+CA+94124&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zsdik_OzM9sEVJNJLhGAL6SWHaI="
+          }
+        ],
+        "price": 990900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1836,
+        "livingAreaValue": 1836,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2622,
+        "lotAreaValue": 2622,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "145 Topeka Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "145 Topeka Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.733852,
+        "longitude": -122.39863,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/145-Topeka-Ave-San-Francisco-CA-94124/15158064_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15158071,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.73410415649414,-122.399169921875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OsNkispNC0UnUjEdef-YlEy8x4M="
+          }
+        ],
+        "price": 876800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1010,
+        "livingAreaValue": 1010,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "107 Topeka Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94124"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "107 Topeka Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.734104,
+        "longitude": -122.39917,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/107-Topeka-Ave-San-Francisco-CA-94124/15158071_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": false,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://photos.zillowstatic.com/fp/c50d203f7b49e2a7d7cb1c1de67694c0-p_a.jpg"
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/125-Topeka-Ave-San-Francisco-CA-94124/15158067_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/125-Topeka-Ave-San-Francisco-CA-94124/15158067_zpid/",
+    "zpid": 15158067
+  }
+}

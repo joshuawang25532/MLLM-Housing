@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 332859087,
+    "address": "1926 Folsom St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94103",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "livingArea": 2663,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3063,
+    "lotAreaValue": 3063,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1900,
+    "homeType": "MULTI_FAMILY",
+    "description": "Stately Victorian 2-unit flat building in the Inner Mission. The upper flat has 6 rooms and the lower 5 rooms."
+  },
+  "location": {
+    "latitude": 37.76645,
+    "longitude": -122.41577,
+    "neighborhood": "Mission",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 600000,
+    "lastSoldPrice": 600000,
+    "dateSold": 1748563200000,
+    "dateSoldString": "2025-05-30",
+    "zestimate": 606000,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 5162,
+    "taxAssessedValue": 1099220,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 225
+  },
+  "schools": [
+    {
+      "name": "Moscone (George R.) Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.7,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "S.F. International High School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.9,
+      "grades": "8-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "O'connell (John) High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 98,
+    "transitScore": 98,
+    "bikeScore": 100
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-05-30",
+        "time": 1748563200000,
+        "price": 600000,
+        "pricePerSquareFoot": 225,
+        "priceChangeRate": -0.3006993006993007,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2010-11-16",
+        "time": 1289865600000,
+        "price": 858000,
+        "pricePerSquareFoot": 322,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763622180617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1099220,
+        "valueIncreaseRate": 0.019996844
+      },
+      {
+        "time": 1732086180617,
+        "taxPaid": 13627.44,
+        "taxIncreaseRate": 0.022410234,
+        "value": 1077670,
+        "valueIncreaseRate": 0.019997312
+      },
+      {
+        "time": 1700463780617,
+        "taxPaid": 13328.74,
+        "taxIncreaseRate": 0.020841544,
+        "value": 1056542,
+        "valueIncreaseRate": 0.019997528
+      },
+      {
+        "time": 1668927780617,
+        "taxPaid": 13056.62,
+        "taxIncreaseRate": 0.017975945,
+        "value": 1035828,
+        "valueIncreaseRate": 0.019997636
+      },
+      {
+        "time": 1637391780617,
+        "taxPaid": 12826.06,
+        "taxIncreaseRate": -0.016406475,
+        "value": 1015520,
+        "valueIncreaseRate": 0.010357075
+      },
+      {
+        "time": 1605855780617,
+        "taxPaid": 13040,
+        "taxIncreaseRate": 0.03465456,
+        "value": 1005110,
+        "valueIncreaseRate": 0.01999789
+      },
+      {
+        "time": 1574233380617,
+        "taxPaid": 12603.24,
+        "taxIncreaseRate": 0.035342153,
+        "value": 985404,
+        "valueIncreaseRate": 0.019998262
+      },
+      {
+        "time": 1542697380617,
+        "taxPaid": 12173.02,
+        "taxIncreaseRate": 0.03739307,
+        "value": 966084,
+        "valueIncreaseRate": 0.019999113
+      },
+      {
+        "time": 1511161380617,
+        "taxPaid": 11734.24,
+        "taxIncreaseRate": 0.018086407,
+        "value": 947142,
+        "valueIncreaseRate": 0.01999845
+      },
+      {
+        "time": 1479625380617,
+        "taxPaid": 11525.78,
+        "taxIncreaseRate": 0.013107548,
+        "value": 928572,
+        "valueIncreaseRate": 0.015247762
+      },
+      {
+        "time": 1448002980617,
+        "taxPaid": 11376.66,
+        "taxIncreaseRate": 0.026744701,
+        "value": 914626,
+        "valueIncreaseRate": 0.019977428
+      },
+      {
+        "time": 1416466980617,
+        "taxPaid": 11080.32,
+        "taxIncreaseRate": 0,
+        "value": 896712,
+        "valueIncreaseRate": 0.0045369915
+      },
+      {
+        "time": 1384930980617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 892662,
+        "valueIncreaseRate": 0.019998629
+      },
+      {
+        "time": 1353394980617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 875160,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1321772580617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 858000,
+        "valueIncreaseRate": 4.553578
+      },
+      {
+        "time": 1290236580617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 154495,
+        "valueIncreaseRate": -0.0023698518
+      },
+      {
+        "time": 1258700580617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 154862,
+        "valueIncreaseRate": 0.019996574
+      },
+      {
+        "time": 1227164580617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 151826,
+        "valueIncreaseRate": 0.019993281
+      },
+      {
+        "time": 1195542180617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 148850,
+        "valueIncreaseRate": 0.019995615
+      },
+      {
+        "time": 1164006180617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 145932,
+        "valueIncreaseRate": 0.019989936
+      },
+      {
+        "time": 1132470180617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 143072,
+        "valueIncreaseRate": 0.039027438
+      },
+      {
+        "time": 1069311780617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 137698,
+        "valueIncreaseRate": 0.01997763
+      },
+      {
+        "time": 1037775780617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 135001,
+        "valueIncreaseRate": 0.019999396
+      },
+      {
+        "time": 1006239780617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 132354,
+        "valueIncreaseRate": 0.019998612
+      },
+      {
+        "time": 974703780617,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 129759,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 331614821,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.766517639160156,-122.41577911376953&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZQYmnpvYgQeF8YV_oZ0lenA2rzo="
+          }
+        ],
+        "price": 1368500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 2920,
+        "livingAreaValue": 2920,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3062,
+        "lotAreaValue": 3062,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1922-1924 Folsom St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1922-1924 Folsom St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766518,
+        "longitude": -122.41578,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1922-1924-Folsom-St-San-Francisco-CA-94103/331614821_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2080965845,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/8ab5c381d1199d601af8914e15546981-p_c.jpg"
+          }
+        ],
+        "price": 940200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1934 Folsom St APT C",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1934 Folsom St APT C"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76638,
+        "longitude": -122.415764,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1934-Folsom-St-APT-C-San-Francisco-CA-94103/2080965845_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2082731676,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1934+Folsom+St%2C+San+Francisco%2C+CA+94103&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MwYGvM2Kdz-WxKYmTK5gwvAIaIM="
+          }
+        ],
+        "price": 940200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1934 Folsom St APT B",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1934 Folsom St APT B"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76638,
+        "longitude": -122.415764,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1934-Folsom-St-APT-B-San-Francisco-CA-94103/2082731676_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2084162719,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1934+Folsom+St%2C+San+Francisco%2C+CA+94103&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MwYGvM2Kdz-WxKYmTK5gwvAIaIM="
+          }
+        ],
+        "price": 940200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1934 Folsom St APT A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1934 Folsom St APT A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76638,
+        "longitude": -122.415764,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1934-Folsom-St-APT-A-San-Francisco-CA-94103/2084162719_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15143163,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.76631164550781,-122.41575622558594&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=FXMj-kazJ8VAwsiW2aybLRRNZ34="
+          }
+        ],
+        "price": 1079600,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1374,
+        "livingAreaValue": 1374,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3062,
+        "lotAreaValue": 3062,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1936 Folsom St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1936 Folsom St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76631,
+        "longitude": -122.41576,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1936-Folsom-St-San-Francisco-CA-94103/15143163_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 456528844,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/efafc65eac9f86002fd92c4bfc4a5135-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1912 Folsom St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1912 Folsom St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.76666,
+        "longitude": -122.41577,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1912-Folsom-St-San-Francisco-CA-94103/456528844_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "40e8uxqdwfpcc",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 448379966,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f0a823dd57ddef757f384194b2c3dd29-p_c.jpg"
+          }
+        ],
+        "price": 1050000,
+        "currency": "USD",
+        "bedrooms": 12,
+        "bathrooms": 0,
+        "livingArea": 4875,
+        "livingAreaValue": 4875,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2750,
+        "lotAreaValue": 2750,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1906-1908 Folsom St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1906-1908 Folsom St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766743,
+        "longitude": -122.41577,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1906-1908-Folsom-St-San-Francisco-CA-94103/448379966_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425020262",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 453601576,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/95443a77151fe4d80bea2f55d3dc94a2-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1415 15th St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94103"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1415 15th St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766678,
+        "longitude": -122.41601,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1415-15th-St-San-Francisco-CA-94103/453601576_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "y6pqrugxqhxg",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=DKVjFtaZkCqzj9gUGRU5Xmo5auY=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fTfioD0til-06bFct-OFeUDfQc4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XwOE2qDT6DKXtM6ZSOJHxMb6IBE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-49cULwuWRPVgin76IgILLBpdeM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0I8DPx22neFVqSST4eJrjRFptKw=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eVSSd1NLD1TPg_tomOIDYSYhuW4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=brK_VVAyHiDNnKP4Tkvy9D7f6jk=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GxGgCF56ojcx2Xb-Cmm8IhrgyCI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=a0JIvfHo2WaXHD6O9PLTV0DfCng=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fTfioD0til-06bFct-OFeUDfQc4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XwOE2qDT6DKXtM6ZSOJHxMb6IBE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-49cULwuWRPVgin76IgILLBpdeM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0I8DPx22neFVqSST4eJrjRFptKw=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eVSSd1NLD1TPg_tomOIDYSYhuW4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=brK_VVAyHiDNnKP4Tkvy9D7f6jk=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GxGgCF56ojcx2Xb-Cmm8IhrgyCI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=a0JIvfHo2WaXHD6O9PLTV0DfCng=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=T5xXpOKwca40_xrdeOh8cXGhrG4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0jtEMGBI1-NjcOqh_moLQZ7c9-0=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GxGgCF56ojcx2Xb-Cmm8IhrgyCI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=a0JIvfHo2WaXHD6O9PLTV0DfCng=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=T5xXpOKwca40_xrdeOh8cXGhrG4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0jtEMGBI1-NjcOqh_moLQZ7c9-0=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GxGgCF56ojcx2Xb-Cmm8IhrgyCI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=a0JIvfHo2WaXHD6O9PLTV0DfCng=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.766448974609375,-122.415771484375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OjtHmtUyX7-Opz_YNArncfXlIT0="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1926-Folsom-St-San-Francisco-CA-94103/332859087_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1926-Folsom-St-San-Francisco-CA-94103/332859087_zpid/",
+    "zpid": 332859087
+  }
+}

@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15178474,
+    "address": "52 Allison St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "livingArea": 1792,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1750,
+    "lotAreaValue": 1750,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1908,
+    "homeType": "SINGLE_FAMILY",
+    "description": "52 Allison St, San Francisco, CA 94112 is a single family home that contains 1,792 sq ft and was built in 1908. It contains 4 bedrooms and 2 bathrooms. This home last sold for $212,500 in July 2025. \n \nThe Zestimate for this house is $839,900. The Rent Zestimate for this home is $5,689/mo. "
+  },
+  "location": {
+    "latitude": 37.71385,
+    "longitude": -122.44245,
+    "neighborhood": "Crocker Amazon",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 212500,
+    "lastSoldPrice": 212500,
+    "dateSold": 1752019200000,
+    "dateSoldString": "2025-07-09",
+    "zestimate": 839900,
+    "zestimateHighPercent": "20",
+    "zestimateLowPercent": "19",
+    "rentZestimate": 5689,
+    "taxAssessedValue": 617363,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 119
+  },
+  "schools": [
+    {
+      "name": "Guadalupe Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.5,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Visitacion Valley Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 1.7,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Balboa High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 92,
+    "transitScore": 84,
+    "bikeScore": 43
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-07-09",
+        "time": 1752019200000,
+        "price": 212500,
+        "pricePerSquareFoot": 119,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763631798480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 617363,
+        "valueIncreaseRate": 0.019998051
+      },
+      {
+        "time": 1732095798480,
+        "taxPaid": 7879.46,
+        "taxIncreaseRate": 0.016140742,
+        "value": 605259,
+        "valueIncreaseRate": 0.019995147
+      },
+      {
+        "time": 1700473398480,
+        "taxPaid": 7754.3,
+        "taxIncreaseRate": 0.020864105,
+        "value": 593394,
+        "valueIncreaseRate": 0.019997938
+      },
+      {
+        "time": 1668937398480,
+        "taxPaid": 7595.82,
+        "taxIncreaseRate": 0.01847126,
+        "value": 581760,
+        "valueIncreaseRate": 0.019996319
+      },
+      {
+        "time": 1637401398480,
+        "taxPaid": 7458.06,
+        "taxIncreaseRate": -0.012904404,
+        "value": 570355,
+        "valueIncreaseRate": 0.010354113
+      },
+      {
+        "time": 1605865398480,
+        "taxPaid": 7555.56,
+        "taxIncreaseRate": 0.0347729,
+        "value": 564510,
+        "valueIncreaseRate": 0.019998481
+      },
+      {
+        "time": 1574242998480,
+        "taxPaid": 7301.66,
+        "taxIncreaseRate": 0.03513562,
+        "value": 553442,
+        "valueIncreaseRate": 0.019994728
+      },
+      {
+        "time": 1542706998480,
+        "taxPaid": 7053.82,
+        "taxIncreaseRate": 0.057068758,
+        "value": 542593,
+        "valueIncreaseRate": 0.019996015
+      },
+      {
+        "time": 1511170998480,
+        "taxPaid": 6673,
+        "taxIncreaseRate": 0.020046309,
+        "value": 531956,
+        "valueIncreaseRate": 0.019999003
+      },
+      {
+        "time": 1479634998480,
+        "taxPaid": 6541.86,
+        "taxIncreaseRate": 1.466151,
+        "value": 521526,
+        "valueIncreaseRate": 1.3217319
+      },
+      {
+        "time": 1448012598480,
+        "taxPaid": 2652.66,
+        "taxIncreaseRate": 0.027000446,
+        "value": 224628,
+        "valueIncreaseRate": 0.019979294
+      },
+      {
+        "time": 1416476598480,
+        "taxPaid": 2582.92,
+        "taxIncreaseRate": 0,
+        "value": 220228,
+        "valueIncreaseRate": 0.0045339684
+      },
+      {
+        "time": 1384940598480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 219234,
+        "valueIncreaseRate": 0.01999665
+      },
+      {
+        "time": 1353404598480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 214936,
+        "valueIncreaseRate": 0.019988231
+      },
+      {
+        "time": 1321782198480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 210724,
+        "valueIncreaseRate": 0.007511248
+      },
+      {
+        "time": 1290246198480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 209153,
+        "valueIncreaseRate": -0.0023706176
+      },
+      {
+        "time": 1258710198480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 209650,
+        "valueIncreaseRate": 0.019986182
+      },
+      {
+        "time": 1227174198480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 205542,
+        "valueIncreaseRate": 0.01999881
+      },
+      {
+        "time": 1195551798480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 201512,
+        "valueIncreaseRate": 0.019983398
+      },
+      {
+        "time": 1164015798480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 197564,
+        "valueIncreaseRate": 0.0199905
+      },
+      {
+        "time": 1132479798480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 193692,
+        "valueIncreaseRate": 0.039019838
+      },
+      {
+        "time": 1069321398480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 186418,
+        "valueIncreaseRate": 0.019981835
+      },
+      {
+        "time": 1037785398480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 182766,
+        "valueIncreaseRate": 0.019910937
+      },
+      {
+        "time": 1006249398480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 179198,
+        "valueIncreaseRate": 0.020001821
+      },
+      {
+        "time": 974713398480,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 175684,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15178475,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=54+Allison+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zZK2Fw5GbXjuhrmQpxVO2zt8Xdk="
+          }
+        ],
+        "price": 1238300,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2023,
+        "livingAreaValue": 2023,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1750,
+        "lotAreaValue": 1750,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "54 Allison St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "54 Allison St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.713783,
+        "longitude": -122.44242,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/54-Allison-St-San-Francisco-CA-94112/15178475_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178467,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.713890075683594,-122.44255828857422&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=JOm4Xe5ZGsiY01ipOwEf-y6aZ6U="
+          }
+        ],
+        "price": 956600,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1406,
+        "livingAreaValue": 1406,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "48 Allison St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "48 Allison St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71389,
+        "longitude": -122.44256,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/48-Allison-St-San-Francisco-CA-94112/15178467_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178476,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=56+Allison+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cvj47R6G3yhmLQ5mvOAJ5UdVKYI="
+          }
+        ],
+        "price": 843300,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1750,
+        "lotAreaValue": 1750,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "56 Allison St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "56 Allison St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71372,
+        "longitude": -122.4424,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/56-Allison-St-San-Francisco-CA-94112/15178476_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178477,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=110+Cross+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yitr2mNkU8GWKOmaBZAjlgasidg="
+          }
+        ],
+        "price": 1213500,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": null,
+        "livingArea": 2148,
+        "livingAreaValue": 2148,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1875,
+        "lotAreaValue": 1875,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "110 Cross St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "110 Cross St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71374,
+        "longitude": -122.44258,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/110-Cross-St-San-Francisco-CA-94112/15178477_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178466,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71395492553711,-122.44258880615234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=LxO9PYII6gMCxSTsEmunhZ3TD4I="
+          }
+        ],
+        "price": 1176200,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1775,
+        "livingAreaValue": 1775,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "44 Allison St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "44 Allison St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.713955,
+        "longitude": -122.44259,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/44-Allison-St-San-Francisco-CA-94112/15178466_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178473,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71371841430664,-122.44265747070312&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1jako-GKP51DeI-Q7oOGjliF9rw="
+          }
+        ],
+        "price": 1283600,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "livingArea": 1999,
+        "livingAreaValue": 1999,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1875,
+        "lotAreaValue": 1875,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "120 Cross St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "120 Cross St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71372,
+        "longitude": -122.44266,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/120-Cross-St-San-Francisco-CA-94112/15178473_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178465,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.714019775390625,-122.44261932373047&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=54fvByUw-T5jlY3W_4JyppIh96w="
+          }
+        ],
+        "price": 886900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 946,
+        "livingAreaValue": 946,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "42 Allison St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "42 Allison St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71402,
+        "longitude": -122.44262,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/42-Allison-St-San-Francisco-CA-94112/15178465_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15178464,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=28+Allison+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=f-JKf4cw4J2CtjKd6D8KP6B8V3o="
+          }
+        ],
+        "price": 969800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1288,
+        "livingAreaValue": 1288,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1825,
+        "lotAreaValue": 1825,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "28 Allison St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "28 Allison St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.714115,
+        "longitude": -122.44256,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/28-Allison-St-San-Francisco-CA-94112/15178464_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Msn7EXUiLqh5eUA2SmmLWAZCMD8=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZO4T9wcknf3ADTzEc8E22FuvIHM=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yzRhw80uw3Jj6m6e-cOGkqUKWls=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=b-osanscjIDfHiSdJE-MtzEh_pM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=k8WEYrZUb60met_u2wTmubXEJoI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=O1pXBm2xQgFlPFB4dvgS2KlxH_s=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=YT4TM3ZCQln1fv1Cv9pRy2_fTyA=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=81VoU0m2GCql5WyL_HwvI0-x054=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=q9M0elWLnXxxjjiA9lmKDoOSGdQ=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZO4T9wcknf3ADTzEc8E22FuvIHM=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yzRhw80uw3Jj6m6e-cOGkqUKWls=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=b-osanscjIDfHiSdJE-MtzEh_pM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=k8WEYrZUb60met_u2wTmubXEJoI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=O1pXBm2xQgFlPFB4dvgS2KlxH_s=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=YT4TM3ZCQln1fv1Cv9pRy2_fTyA=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=81VoU0m2GCql5WyL_HwvI0-x054=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=q9M0elWLnXxxjjiA9lmKDoOSGdQ=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZzoQ7yt0gYqBhEJIrcfV0hb_jb0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LqkgSfxBu0J_pmTIGh338UBM6UE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=81VoU0m2GCql5WyL_HwvI0-x054=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=q9M0elWLnXxxjjiA9lmKDoOSGdQ=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZzoQ7yt0gYqBhEJIrcfV0hb_jb0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LqkgSfxBu0J_pmTIGh338UBM6UE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=81VoU0m2GCql5WyL_HwvI0-x054=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=q9M0elWLnXxxjjiA9lmKDoOSGdQ=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=52+Allison+St%2C+San+Francisco%2C+CA+94112&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=i3FxiOqUCgK37wTf_Pq-94F4CRo="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/52-Allison-St-San-Francisco-CA-94112/15178474_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/52-Allison-St-San-Francisco-CA-94112/15178474_zpid/",
+    "zpid": 15178474
+  }
+}

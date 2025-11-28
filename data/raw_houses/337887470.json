@@ -1,0 +1,1231 @@
+{
+  "basic_info": {
+    "zpid": 337887470,
+    "address": "509 Frederick St APT 3",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94117",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "livingArea": 1314,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 2005,
+    "homeType": "CONDO",
+    "description": "509 Frederick St APT 3, San Francisco, CA 94117 is a condo home that contains 1,314 sq ft and was built in 2005. It contains 2 bedrooms and 2 bathrooms. This home last sold for $1,660,000 in May 2025. \n \nThe Zestimate for this house is $1,683,100. The Rent Zestimate for this home is $5,990/mo. "
+  },
+  "location": {
+    "latitude": 37.766113,
+    "longitude": -122.45317,
+    "neighborhood": "Parnassus Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1660000,
+    "lastSoldPrice": 1660000,
+    "dateSold": 1747353600000,
+    "dateSoldString": "2025-05-16",
+    "zestimate": 1683100,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 5990,
+    "taxAssessedValue": 1717430,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1263
+  },
+  "schools": [
+    {
+      "name": "Grattan Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Giannini (A.P.) Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 2.7,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 1.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 97,
+    "transitScore": 68,
+    "bikeScore": 77
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-05-16",
+        "time": 1747353600000,
+        "price": 1660000,
+        "pricePerSquareFoot": 1263,
+        "priceChangeRate": 0.07096774193548387,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2019-07-23",
+        "time": 1563840000000,
+        "price": 1550000,
+        "pricePerSquareFoot": 1180,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763623436771,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1717430,
+        "valueIncreaseRate": 0.020000547
+      },
+      {
+        "time": 1732087436771,
+        "taxPaid": 20431.36,
+        "taxIncreaseRate": 0.011123087,
+        "value": 1683754,
+        "valueIncreaseRate": 0.01999828
+      },
+      {
+        "time": 1700465036771,
+        "taxPaid": 20206.6,
+        "taxIncreaseRate": 0.025956277,
+        "value": 1650742,
+        "valueIncreaseRate": 0.026979376
+      },
+      {
+        "time": 1668929036771,
+        "taxPaid": 19695.38,
+        "taxIncreaseRate": 0.024089998,
+        "value": 1607376,
+        "valueIncreaseRate": 0.026384752
+      },
+      {
+        "time": 1637393036771,
+        "taxPaid": 19232.08,
+        "taxIncreaseRate": -0.0043600844,
+        "value": 1566056,
+        "valueIncreaseRate": 0.01035871
+      },
+      {
+        "time": 1605857036771,
+        "taxPaid": 19316.3,
+        "taxIncreaseRate": 2.1386778,
+        "value": 1550000,
+        "valueIncreaseRate": 2.3662574
+      },
+      {
+        "time": 1574234636771,
+        "taxPaid": 6154.28,
+        "taxIncreaseRate": 0.034586594,
+        "value": 460452,
+        "valueIncreaseRate": 0.019998936
+      },
+      {
+        "time": 1542698636771,
+        "taxPaid": 5948.54,
+        "taxIncreaseRate": 0.06601218,
+        "value": 451424,
+        "valueIncreaseRate": 0.019996656
+      },
+      {
+        "time": 1511162636771,
+        "taxPaid": 5580.18,
+        "taxIncreaseRate": 0.020411246,
+        "value": 442574,
+        "valueIncreaseRate": 0.019997833
+      },
+      {
+        "time": 1479626636771,
+        "taxPaid": 5468.56,
+        "taxIncreaseRate": 0.012793839,
+        "value": 433897,
+        "valueIncreaseRate": 0.015248725
+      },
+      {
+        "time": 1448004236771,
+        "taxPaid": 5399.48,
+        "taxIncreaseRate": 0.026778651,
+        "value": 427380,
+        "valueIncreaseRate": 0.019978091
+      },
+      {
+        "time": 1416468236771,
+        "taxPaid": 5258.66,
+        "taxIncreaseRate": 0,
+        "value": 419009,
+        "valueIncreaseRate": 0.004538306
+      },
+      {
+        "time": 1384932236771,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 417116,
+        "valueIncreaseRate": 0.01999814
+      },
+      {
+        "time": 1353396236771,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 408938,
+        "valueIncreaseRate": 0.019996459
+      },
+      {
+        "time": 1321773836771,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 400921,
+        "valueIncreaseRate": 0.007526525
+      },
+      {
+        "time": 1290237836771,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 397926,
+        "valueIncreaseRate": -0.002369187
+      },
+      {
+        "time": 1258701836771,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 398871,
+        "valueIncreaseRate": 0.019997392
+      },
+      {
+        "time": 1227165836771,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 391051,
+        "valueIncreaseRate": 0.019998226
+      },
+      {
+        "time": 1195543436771,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 383384,
+        "valueIncreaseRate": 0.019996382
+      },
+      {
+        "time": 1164007436771,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 375868,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 335644783,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UlvheiwvQIjguXZikEeQhScO5jM="
+          }
+        ],
+        "price": 1671300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1300,
+        "livingAreaValue": 1300,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "509 Frederick St #2",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "509 Frederick St #2"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766113,
+        "longitude": -122.45317,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/509-Frederick-St-2-San-Francisco-CA-94117/335644783_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 337887471,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UlvheiwvQIjguXZikEeQhScO5jM="
+          }
+        ],
+        "price": 1626100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1323,
+        "livingAreaValue": 1323,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "509 Frederick St #1",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "509 Frederick St #1"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766113,
+        "longitude": -122.45317,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/509-Frederick-St-1-San-Francisco-CA-94117/337887471_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2076178947,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1314f745a3882b22d33b17faff631e2b-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1264,
+        "livingAreaValue": 1264,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 0,
+        "lotAreaValue": 0,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "509 Frederick St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "509 Frederick St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766113,
+        "longitude": -122.45317,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/509-Frederick-St-San-Francisco-CA-94117/2076178947_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241583844,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7661018371582,-122.45325469970703&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bCnZfqAL0L0d2qCpJq7swJu4c54="
+          }
+        ],
+        "price": 2235700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2667,
+        "livingAreaValue": 2667,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "513-515 Frederick St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "513-515 Frederick St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7661,
+        "longitude": -122.453255,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/513-515-Frederick-St-San-Francisco-CA-94117/241583844_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 427774873,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/7c71840738b2f0cf67347e575a99e6b9-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "901 Stanyan St APT 3",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "901 Stanyan St APT 3"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766125,
+        "longitude": -122.45307,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/901-Stanyan-St-APT-3-San-Francisco-CA-94117/427774873_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3z1r1kn8a0r7t",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2055644968,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d51a806095db0edd04eeb89942f09a45-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "901 Stanyan St APT 11",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "901 Stanyan St APT 11"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766125,
+        "longitude": -122.45307,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/901-Stanyan-St-APT-11-San-Francisco-CA-94117/2055644968_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2071989992,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d51a806095db0edd04eeb89942f09a45-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "901 Stanyan St #20",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "901 Stanyan St #20"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766125,
+        "longitude": -122.45307,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/901-Stanyan-St-20-San-Francisco-CA-94117/2071989992_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2072264493,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d51a806095db0edd04eeb89942f09a45-p_c.jpg"
+          }
+        ],
+        "price": 1404100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "901 Stanyan St #12B",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "901 Stanyan St #12B"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.766125,
+        "longitude": -122.45307,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/901-Stanyan-St-12B-San-Francisco-CA-94117/2072264493_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=D8d4h912EFbgF9MomwGIXztqy8I=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=H6av5wpgULbOhqiu4qdtOx5rrLE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RS0JPaZVyRAAF1bJNJWsjpxAv9I=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JFrfcO5G3rGc--g1_Kw5oH8Bki4=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oxSIcMfi-DbcaHINEBKxFNzFnog=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=U6QoGAO8URvygozR_SqsHvwP1ps=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zm8TNIEOcWFVd9XoR8BY5G7jcW4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sa_VWEx9reMH2XfmpGrCPi2Wno4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CpOIdUV6Jk0fj02uAMrvAsBUGIA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=H6av5wpgULbOhqiu4qdtOx5rrLE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RS0JPaZVyRAAF1bJNJWsjpxAv9I=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JFrfcO5G3rGc--g1_Kw5oH8Bki4=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oxSIcMfi-DbcaHINEBKxFNzFnog=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=U6QoGAO8URvygozR_SqsHvwP1ps=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zm8TNIEOcWFVd9XoR8BY5G7jcW4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sa_VWEx9reMH2XfmpGrCPi2Wno4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CpOIdUV6Jk0fj02uAMrvAsBUGIA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NRgWfz7v2X5A5UP01jn3gny8C6I=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qAf1NSSQah6oMQXDCz6pekLTNz4=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sa_VWEx9reMH2XfmpGrCPi2Wno4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CpOIdUV6Jk0fj02uAMrvAsBUGIA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NRgWfz7v2X5A5UP01jn3gny8C6I=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qAf1NSSQah6oMQXDCz6pekLTNz4=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sa_VWEx9reMH2XfmpGrCPi2Wno4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CpOIdUV6Jk0fj02uAMrvAsBUGIA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=509+Frederick+St%2C+San+Francisco%2C+CA+94117&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=w_Z_aM8Ph_S6Gt85wgEZdkWjf-g="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/509-Frederick-St-APT-3-San-Francisco-CA-94117/337887470_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/509-Frederick-St-APT-3-San-Francisco-CA-94117/337887470_zpid/",
+    "zpid": 337887470
+  }
+}

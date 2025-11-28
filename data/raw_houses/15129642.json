@@ -1,0 +1,1302 @@
+{
+  "basic_info": {
+    "zpid": 15129642,
+    "address": "50 Graystone Ter",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94114",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1497,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2495,
+    "lotAreaValue": 2495,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1937,
+    "homeType": "SINGLE_FAMILY",
+    "description": "50 Graystone Ter, San Francisco, CA 94114 is a single family home that contains 1,497 sq ft and was built in 1937. It contains 1 bathroom. This home last sold for $2,545,000 in January 2025. \n \nThe Zestimate for this house is $2,591,000. The Rent Zestimate for this home is $6,602/mo. "
+  },
+  "location": {
+    "latitude": 37.75836,
+    "longitude": -122.44759,
+    "neighborhood": "Clarendon Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 2545000,
+    "lastSoldPrice": 2545000,
+    "dateSold": 1737590400000,
+    "dateSoldString": "2025-01-23",
+    "zestimate": 2591000,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 6602,
+    "taxAssessedValue": 1274397,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1700
+  },
+  "schools": [
+    {
+      "name": "Clarendon Alternative Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.6,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "S.F. International High School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 2.6,
+      "grades": "8-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Academy (The)- SF @Mcateer",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 66,
+    "transitScore": 71,
+    "bikeScore": 44
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-01-23",
+        "time": 1737590400000,
+        "price": 2545000,
+        "pricePerSquareFoot": 1700,
+        "priceChangeRate": -0.019267822736030827,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2024-10-29",
+        "time": 1730160000000,
+        "price": 2595000,
+        "pricePerSquareFoot": 1733,
+        "priceChangeRate": 2.46,
+        "event": "Listed for sale",
+        "source": "SFAR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "424062172",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "1997-11-14",
+        "time": 879465600000,
+        "price": 750000,
+        "pricePerSquareFoot": 501,
+        "priceChangeRate": 0.4044943820224719,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1994-04-27",
+        "time": 767404800000,
+        "price": 534000,
+        "pricePerSquareFoot": 357,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763640239555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1274397,
+        "valueIncreaseRate": 0.01999904
+      },
+      {
+        "time": 1732104239555,
+        "taxPaid": 15425.3,
+        "taxIncreaseRate": 0.015382144,
+        "value": 1249410,
+        "valueIncreaseRate": 0.019998971
+      },
+      {
+        "time": 1700481839555,
+        "taxPaid": 15191.62,
+        "taxIncreaseRate": 0.019570483,
+        "value": 1224913,
+        "valueIncreaseRate": 0.019999234
+      },
+      {
+        "time": 1668945839555,
+        "taxPaid": 14900.02,
+        "taxIncreaseRate": 0.018059904,
+        "value": 1200896,
+        "valueIncreaseRate": 0.01999915
+      },
+      {
+        "time": 1637409839555,
+        "taxPaid": 14635.7,
+        "taxIncreaseRate": -0.008121685,
+        "value": 1177350,
+        "valueIncreaseRate": 0.010358892
+      },
+      {
+        "time": 1605873839555,
+        "taxPaid": 14755.54,
+        "taxIncreaseRate": 0.03895134,
+        "value": 1165279,
+        "valueIncreaseRate": 0.019998565
+      },
+      {
+        "time": 1574251439555,
+        "taxPaid": 14202.34,
+        "taxIncreaseRate": 0.034819577,
+        "value": 1142432,
+        "valueIncreaseRate": 0.019998519
+      },
+      {
+        "time": 1542715439555,
+        "taxPaid": 13724.46,
+        "taxIncreaseRate": 0.034669764,
+        "value": 1120033,
+        "valueIncreaseRate": 0.01999867
+      },
+      {
+        "time": 1511179439555,
+        "taxPaid": 13264.58,
+        "taxIncreaseRate": 0.016704718,
+        "value": 1098073,
+        "valueIncreaseRate": 0.019998254
+      },
+      {
+        "time": 1479643439555,
+        "taxPaid": 13046.64,
+        "taxIncreaseRate": 0.012524379,
+        "value": 1076544,
+        "valueIncreaseRate": 0.015249336
+      },
+      {
+        "time": 1448021039555,
+        "taxPaid": 12885.26,
+        "taxIncreaseRate": 0.027020006,
+        "value": 1060374,
+        "valueIncreaseRate": 0.019978762
+      },
+      {
+        "time": 1416485039555,
+        "taxPaid": 12546.26,
+        "taxIncreaseRate": 0,
+        "value": 1039604,
+        "valueIncreaseRate": 0.004538572
+      },
+      {
+        "time": 1384949039555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1034907,
+        "valueIncreaseRate": 0.0199987
+      },
+      {
+        "time": 1353413039555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1014616,
+        "valueIncreaseRate": 0.019998532
+      },
+      {
+        "time": 1321790639555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 994723,
+        "valueIncreaseRate": 0.0075286897
+      },
+      {
+        "time": 1290254639555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 987290,
+        "valueIncreaseRate": -0.0023715766
+      },
+      {
+        "time": 1258718639555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 989637,
+        "valueIncreaseRate": 0.01999932
+      },
+      {
+        "time": 1227182639555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 970233,
+        "valueIncreaseRate": 0.019998739
+      },
+      {
+        "time": 1195560239555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 951210,
+        "valueIncreaseRate": 0.019998712
+      },
+      {
+        "time": 1164024239555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 932560,
+        "valueIncreaseRate": 0.019998338
+      },
+      {
+        "time": 1132488239555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 914276,
+        "valueIncreaseRate": 0.039040916
+      },
+      {
+        "time": 1069329839555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 879923,
+        "valueIncreaseRate": 0.019998355
+      },
+      {
+        "time": 1037793839555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 862671,
+        "valueIncreaseRate": 0.019998653
+      },
+      {
+        "time": 1006257839555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 845757,
+        "valueIncreaseRate": 0.01999942
+      },
+      {
+        "time": 974721839555,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 829174,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15129641,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/581e0f9e3c4ee40800f5a55224810a61-p_c.jpg"
+          }
+        ],
+        "price": 2675500,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "livingArea": 2600,
+        "livingAreaValue": 2600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "42 Graystone Ter",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "42 Graystone Ter"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75843,
+        "longitude": -122.44762,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/42-Graystone-Ter-San-Francisco-CA-94114/15129641_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15129643,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=58+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=C7IZMW8is5NDOHg7VN1wy3YaR-s="
+          }
+        ],
+        "price": 3140000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 2921,
+        "livingAreaValue": 2921,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4151,
+        "lotAreaValue": 4151,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "58 Graystone Ter",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "58 Graystone Ter"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75827,
+        "longitude": -122.447586,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/58-Graystone-Ter-San-Francisco-CA-94114/15129643_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15129640,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=36+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=S2AdozVqoQ3UrrRmFMTtWq3dcyk="
+          }
+        ],
+        "price": 1812600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 2100,
+        "livingAreaValue": 2100,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "36 Graystone Ter",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "36 Graystone Ter"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.758495,
+        "longitude": -122.44765,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/36-Graystone-Ter-San-Francisco-CA-94114/15129640_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15129644,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=64+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gnNlIpesdVK6Gq6kv7wNqfauhMw="
+          }
+        ],
+        "price": 2424000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1988,
+        "livingAreaValue": 1988,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4155,
+        "lotAreaValue": 4155,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "64 Graystone Ter",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "64 Graystone Ter"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.758183,
+        "longitude": -122.447495,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/64-Graystone-Ter-San-Francisco-CA-94114/15129644_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15129639,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=30+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cLLQfTeaBBApu_wSe0XLxGF3O1M="
+          }
+        ],
+        "price": 2267200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 2395,
+        "livingAreaValue": 2395,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "30 Graystone Ter",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "30 Graystone Ter"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75856,
+        "longitude": -122.44767,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/30-Graystone-Ter-San-Francisco-CA-94114/15129639_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 447132769,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4aa368933b7c5f0d845377c3645544ae-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 550,
+        "livingAreaValue": 550,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "199A Graystone Ter #199",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "199A Graystone Ter #199"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.758533,
+        "longitude": -122.44737,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/199A-Graystone-Ter-199-San-Francisco-CA-94114/447132769_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "jbfq0cvevh8x",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15129645,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/8d83179e28a625eb100074281aa0a98b-p_c.jpg"
+          }
+        ],
+        "price": 4210000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2445,
+        "livingAreaValue": 2445,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3397,
+        "lotAreaValue": 3397.68,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "70 Graystone Ter",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "70 Graystone Ter"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.758167,
+        "longitude": -122.44739,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/70-Graystone-Ter-San-Francisco-CA-94114/15129645_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425044545",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15129638,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/8e4a08047119fcf78be531312b94d86e-p_c.jpg"
+          }
+        ],
+        "price": 3000000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "livingArea": 2860,
+        "livingAreaValue": 2860,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495.988,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "26 Graystone Ter",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "26 Graystone Ter"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.758644,
+        "longitude": -122.44764,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/26-Graystone-Ter-San-Francisco-CA-94114/15129638_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423922494",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=R5eypBzhtwrGD0HHfP7cbs3HjQg=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZXlI33IDvY1OTIrulTP9p1wKvo4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OcQ0BWgXq57jHImYNK6Ql6jMxbI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z-a_DR6cIc5xlMI1kuYR0qXga_U=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RnXxP8os1rxa-Voq7sgYzZHICb4=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=N5Z5MxSf07_3EyEchSEKt8exeG4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IcrNX1n-7etvTIJYlgcnU3QeiU8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NTOLHXDOcdo2Wh8L-ERONu65z_4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=keWK-AvZqyTWsgm41IYb82C7ihk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZXlI33IDvY1OTIrulTP9p1wKvo4=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OcQ0BWgXq57jHImYNK6Ql6jMxbI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z-a_DR6cIc5xlMI1kuYR0qXga_U=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RnXxP8os1rxa-Voq7sgYzZHICb4=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=N5Z5MxSf07_3EyEchSEKt8exeG4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IcrNX1n-7etvTIJYlgcnU3QeiU8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NTOLHXDOcdo2Wh8L-ERONu65z_4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=keWK-AvZqyTWsgm41IYb82C7ihk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KMeuITdncetkfNukC-NrO6hRvzo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=08WVjA24vC8-G-Bs31GM7ktdWBQ=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NTOLHXDOcdo2Wh8L-ERONu65z_4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=keWK-AvZqyTWsgm41IYb82C7ihk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KMeuITdncetkfNukC-NrO6hRvzo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=08WVjA24vC8-G-Bs31GM7ktdWBQ=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NTOLHXDOcdo2Wh8L-ERONu65z_4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=keWK-AvZqyTWsgm41IYb82C7ihk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=50+Graystone+Ter%2C+San+Francisco%2C+CA+94114&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=icjRhvWq76bAid6mPU9-fnOE_sc="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/50-Graystone-Ter-San-Francisco-CA-94114/15129642_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/50-Graystone-Ter-San-Francisco-CA-94114/15129642_zpid/",
+    "zpid": 15129642
+  }
+}

@@ -1,0 +1,1270 @@
+{
+  "basic_info": {
+    "zpid": 15134142,
+    "address": "155 Madrone Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94127",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "livingArea": 2813,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3319,
+    "lotAreaValue": 3319,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1920,
+    "homeType": "SINGLE_FAMILY",
+    "description": "155 Madrone Ave, San Francisco, CA 94127 is a single family home that contains 2,813 sq ft and was built in 1920. It contains 5 bedrooms and 3 bathrooms. This home last sold for $3,350,000 in March 2025. \n \nThe Zestimate for this house is $3,406,200. The Rent Zestimate for this home is $7,488/mo. "
+  },
+  "location": {
+    "latitude": 37.740772,
+    "longitude": -122.46771,
+    "neighborhood": "West Portal",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 3350000,
+    "lastSoldPrice": 3350000,
+    "dateSold": 1741219200000,
+    "dateSoldString": "2025-03-06",
+    "zestimate": 3406200,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 7488,
+    "taxAssessedValue": 2107696,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1191
+  },
+  "schools": [
+    {
+      "name": "West Portal Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Hoover (Herbert) Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lincoln (Abraham) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 95,
+    "transitScore": 77,
+    "bikeScore": 72
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-03-06",
+        "time": 1741219200000,
+        "price": 3350000,
+        "pricePerSquareFoot": 1191,
+        "priceChangeRate": 1.5769230769230769,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/LynnFinneganSF/",
+          "name": "Lynn Finnegan"
+        },
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2005-09-30",
+        "time": 1128038400000,
+        "price": 1300000,
+        "pricePerSquareFoot": 462,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763621627890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2107696,
+        "valueIncreaseRate": 0.019999323
+      },
+      {
+        "time": 1732085627890,
+        "taxPaid": 24235.16,
+        "taxIncreaseRate": 0.014580359,
+        "value": 2066370,
+        "valueIncreaseRate": 0.019998964
+      },
+      {
+        "time": 1700463227890,
+        "taxPaid": 23886.88,
+        "taxIncreaseRate": 0.018216968,
+        "value": 2025855,
+        "valueIncreaseRate": 0.019999668
+      },
+      {
+        "time": 1668927227890,
+        "taxPaid": 23459.52,
+        "taxIncreaseRate": 0.01761559,
+        "value": 1986133,
+        "valueIncreaseRate": 0.01999959
+      },
+      {
+        "time": 1637391227890,
+        "taxPaid": 23053.42,
+        "taxIncreaseRate": -0.0030591483,
+        "value": 1947190,
+        "valueIncreaseRate": 0.010358931
+      },
+      {
+        "time": 1605855227890,
+        "taxPaid": 23124.16,
+        "taxIncreaseRate": 0.0082406225,
+        "value": 1927226,
+        "valueIncreaseRate": 0.019999057
+      },
+      {
+        "time": 1574232827890,
+        "taxPaid": 22935.16,
+        "taxIncreaseRate": 0.03496145,
+        "value": 1889439,
+        "valueIncreaseRate": 0.019998996
+      },
+      {
+        "time": 1542696827890,
+        "taxPaid": 22160.4,
+        "taxIncreaseRate": 0.025961531,
+        "value": 1852393,
+        "valueIncreaseRate": 0.019998634
+      },
+      {
+        "time": 1511160827890,
+        "taxPaid": 21599.64,
+        "taxIncreaseRate": 0.015748162,
+        "value": 1816074,
+        "valueIncreaseRate": 0.019998686
+      },
+      {
+        "time": 1479624827890,
+        "taxPaid": 21264.76,
+        "taxIncreaseRate": 0.012509295,
+        "value": 1780467,
+        "valueIncreaseRate": 0.015248685
+      },
+      {
+        "time": 1448002427890,
+        "taxPaid": 21002.04,
+        "taxIncreaseRate": 0.06978931,
+        "value": 1753725,
+        "valueIncreaseRate": 0.06286363
+      },
+      {
+        "time": 1416466427890,
+        "taxPaid": 19631.94,
+        "taxIncreaseRate": 0,
+        "value": 1650000,
+        "valueIncreaseRate": 0.06451613
+      },
+      {
+        "time": 1384930427890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1550000,
+        "valueIncreaseRate": 0
+      },
+      {
+        "time": 1353394427890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1550000,
+        "valueIncreaseRate": -0.057833236
+      },
+      {
+        "time": 1321772027890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1645144,
+        "valueIncreaseRate": 0.0075285495
+      },
+      {
+        "time": 1290236027890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1632851,
+        "valueIncreaseRate": -0.0023699694
+      },
+      {
+        "time": 1258700027890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1636730,
+        "valueIncreaseRate": 0.21013367
+      },
+      {
+        "time": 1227164027890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1352520,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1195541627890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1326000,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1164005627890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1300000,
+        "valueIncreaseRate": 4.137467
+      },
+      {
+        "time": 1132469627890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 253043,
+        "valueIncreaseRate": 0.03903735
+      },
+      {
+        "time": 1069311227890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 243536,
+        "valueIncreaseRate": 0.01999908
+      },
+      {
+        "time": 1037775227890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 238761,
+        "valueIncreaseRate": 0.019997437
+      },
+      {
+        "time": 1006239227890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 234080,
+        "valueIncreaseRate": 0.019996427
+      },
+      {
+        "time": 974703227890,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 229491,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15134143,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=145+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WijtOfVz6F5CIInD_L5vgQpHguU="
+          }
+        ],
+        "price": 1942100,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 1,
+        "livingArea": 1728,
+        "livingAreaValue": 1728,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3031,
+        "lotAreaValue": 3031,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "145 Madrone Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "145 Madrone Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.740883,
+        "longitude": -122.46765,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/145-Madrone-Ave-San-Francisco-CA-94127/15134143_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15134141,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=165+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jNUSKExhsV7ucGQ094msQ9Qvvpc="
+          }
+        ],
+        "price": 1940000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 2025,
+        "livingAreaValue": 2025,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2800,
+        "lotAreaValue": 2800,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "165 Madrone Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "165 Madrone Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.740646,
+        "longitude": -122.46779,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/165-Madrone-Ave-San-Francisco-CA-94127/15134141_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15134136,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1319a447a1a81a4b1010e667bea5a993-p_c.jpg"
+          }
+        ],
+        "price": 2250000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2311,
+        "livingAreaValue": 2311,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2622,
+        "lotAreaValue": 2622.312,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "150 Wawona St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "150 Wawona St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74064,
+        "longitude": -122.4676,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/150-Wawona-St-San-Francisco-CA-94127/15134136_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423900402",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15134137,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/2749b0d91893ab301fa86788797fa07c-p_c.jpg"
+          }
+        ],
+        "price": 2150000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "livingArea": 3198,
+        "livingAreaValue": 3198,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3341,
+        "lotAreaValue": 3341.052,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "160 Wawona St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "160 Wawona St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74057,
+        "longitude": -122.46762,
+        "homeStatus": "FOR_SALE",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/160-Wawona-St-San-Francisco-CA-94127/15134137_zpid/",
+        "hdpTypeDimension": "ForSale",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425044579",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15134135,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74078369140625,-122.46742248535156&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=v1mKrq4GinhqiNatZmX8KyCORxc="
+          }
+        ],
+        "price": 2452700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1888,
+        "livingAreaValue": 1888,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2931,
+        "lotAreaValue": 2931,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "142 Wawona St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "142 Wawona St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.740784,
+        "longitude": -122.46742,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/142-Wawona-St-San-Francisco-CA-94127/15134135_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15134144,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=135+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sMj2lNnoCj7_n79_L-3J94gVycA="
+          }
+        ],
+        "price": 2210000,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 1,
+        "livingArea": 3034,
+        "livingAreaValue": 3034,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3362,
+        "lotAreaValue": 3362,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "135 Madrone Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "135 Madrone Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.740986,
+        "longitude": -122.46759,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/135-Madrone-Ave-San-Francisco-CA-94127/15134144_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15134140,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=175+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KVc6uEwziwdqiQ8kaHcUVm7qGeQ="
+          }
+        ],
+        "price": 1883500,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1830,
+        "livingAreaValue": 1830,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2360,
+        "lotAreaValue": 2360,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "175 Madrone Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "175 Madrone Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.740513,
+        "longitude": -122.467865,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/175-Madrone-Ave-San-Francisco-CA-94127/15134140_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15134134,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/05ab261736d72d6cc67284e5306e2e16-p_c.jpg"
+          }
+        ],
+        "price": 2680000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 1888,
+        "livingAreaValue": 1888,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3075,
+        "lotAreaValue": 3075,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "134 Wawona St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "134 Wawona St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74087,
+        "longitude": -122.46735,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/134-Wawona-St-San-Francisco-CA-94127/15134134_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rGtW0eUwaajE1gGbpIrijGiQeI0=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=H-6BtLM4vAXshejDIVlXyZVPrDc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fvQugd0AotGwaGbjA4LxFcZ3F6c=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RlBfJMpojLpNn4buMNiMIuG29m8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fVOmeSUdllDRLW0Q6_63fLaF0DE=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rtfb7IlNO2MdcaBaMOVGllc3k7U=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=whSY75WwS1mWwdeAiTqNDxmZklw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LqLdKzIT9Ukpm20C64ojlLyTPuA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3kotgjDE9uIVzB6TFnwYj35pTMI=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=H-6BtLM4vAXshejDIVlXyZVPrDc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fvQugd0AotGwaGbjA4LxFcZ3F6c=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RlBfJMpojLpNn4buMNiMIuG29m8=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fVOmeSUdllDRLW0Q6_63fLaF0DE=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rtfb7IlNO2MdcaBaMOVGllc3k7U=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=whSY75WwS1mWwdeAiTqNDxmZklw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LqLdKzIT9Ukpm20C64ojlLyTPuA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3kotgjDE9uIVzB6TFnwYj35pTMI=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ig-0Lyw6Y36_IE6UWDbnU3BiHcs=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=v6Ct_S4T1q7YsK9aHWYaT3B170s=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LqLdKzIT9Ukpm20C64ojlLyTPuA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3kotgjDE9uIVzB6TFnwYj35pTMI=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ig-0Lyw6Y36_IE6UWDbnU3BiHcs=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=v6Ct_S4T1q7YsK9aHWYaT3B170s=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LqLdKzIT9Ukpm20C64ojlLyTPuA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3kotgjDE9uIVzB6TFnwYj35pTMI=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=155+Madrone+Ave%2C+San+Francisco%2C+CA+94127&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=c9i6FEHH36xe_Fq4VRMCu4-b0N4="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/155-Madrone-Ave-San-Francisco-CA-94127/15134142_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/155-Madrone-Ave-San-Francisco-CA-94127/15134142_zpid/",
+    "zpid": 15134142
+  }
+}

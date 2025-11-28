@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 15075260,
+    "address": "2552B Pine St #B",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94115",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 406,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1885,
+    "homeType": "CONDO",
+    "description": "2552B Pine St #B, San Francisco, CA 94115 is a condo home that contains 406 sq ft and was built in 1885. It contains 1 bathroom. This home last sold for $381,500 in February 2025. \n \nThe Zestimate for this house is $451,600. The Rent Zestimate for this home is $3,170/mo. "
+  },
+  "location": {
+    "latitude": 37.78773,
+    "longitude": -122.43782,
+    "neighborhood": "Lower Pacific Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 381500,
+    "lastSoldPrice": 381500,
+    "dateSold": 1738713600000,
+    "dateSoldString": "2025-02-05",
+    "zestimate": 451600,
+    "zestimateHighPercent": "12",
+    "zestimateLowPercent": "11",
+    "rentZestimate": 3170,
+    "taxAssessedValue": 263439,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 940
+  },
+  "schools": [
+    {
+      "name": "Cobb (William L.) Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Roosevelt Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 1.2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.7,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 98,
+    "transitScore": 75,
+    "bikeScore": 87
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-02-05",
+        "time": 1738713600000,
+        "price": 381500,
+        "pricePerSquareFoot": 940,
+        "priceChangeRate": 1.312121212121212,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1997-10-31",
+        "time": 878256000000,
+        "price": 165000,
+        "pricePerSquareFoot": 406,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763643553070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 263439,
+        "valueIncreaseRate": 0.019994192
+      },
+      {
+        "time": 1732107553070,
+        "taxPaid": 3904.1,
+        "taxIncreaseRate": 0.029964248,
+        "value": 258275,
+        "valueIncreaseRate": 0.019995103
+      },
+      {
+        "time": 1700485153070,
+        "taxPaid": 3790.52,
+        "taxIncreaseRate": 0.02797663,
+        "value": 253212,
+        "valueIncreaseRate": 0.019996133
+      },
+      {
+        "time": 1668949153070,
+        "taxPaid": 3687.36,
+        "taxIncreaseRate": 0.019300427,
+        "value": 248248,
+        "valueIncreaseRate": 0.019997453
+      },
+      {
+        "time": 1637413153070,
+        "taxPaid": 3617.54,
+        "taxIncreaseRate": -0.009392538,
+        "value": 243381,
+        "valueIncreaseRate": 0.010357597
+      },
+      {
+        "time": 1605877153070,
+        "taxPaid": 3651.84,
+        "taxIncreaseRate": 0.033485044,
+        "value": 240886,
+        "valueIncreaseRate": 0.01999458
+      },
+      {
+        "time": 1574254753070,
+        "taxPaid": 3533.52,
+        "taxIncreaseRate": 0.03365845,
+        "value": 236164,
+        "valueIncreaseRate": 0.019997062
+      },
+      {
+        "time": 1542718753070,
+        "taxPaid": 3418.46,
+        "taxIncreaseRate": 0.11005537,
+        "value": 231534,
+        "valueIncreaseRate": 0.019996036
+      },
+      {
+        "time": 1511182753070,
+        "taxPaid": 3079.54,
+        "taxIncreaseRate": 0.025692826,
+        "value": 226995,
+        "valueIncreaseRate": 0.019995956
+      },
+      {
+        "time": 1479646753070,
+        "taxPaid": 3002.4,
+        "taxIncreaseRate": 0.013146871,
+        "value": 222545,
+        "valueIncreaseRate": 0.015246142
+      },
+      {
+        "time": 1448024353070,
+        "taxPaid": 2963.44,
+        "taxIncreaseRate": 0.026001042,
+        "value": 219203,
+        "valueIncreaseRate": 0.019975804
+      },
+      {
+        "time": 1416488353070,
+        "taxPaid": 2888.34,
+        "taxIncreaseRate": 0,
+        "value": 214910,
+        "valueIncreaseRate": 0.0045339814
+      },
+      {
+        "time": 1384952353070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 213940,
+        "valueIncreaseRate": 0.019995613
+      },
+      {
+        "time": 1353416353070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 209746,
+        "valueIncreaseRate": 0.019996693
+      },
+      {
+        "time": 1321793953070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 205634,
+        "valueIncreaseRate": 0.00752086
+      },
+      {
+        "time": 1290257953070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 204099,
+        "valueIncreaseRate": -0.0023706644
+      },
+      {
+        "time": 1258721953070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 204584,
+        "valueIncreaseRate": 0.019997707
+      },
+      {
+        "time": 1227185953070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 200573,
+        "valueIncreaseRate": 0.01999583
+      },
+      {
+        "time": 1195563553070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 196641,
+        "valueIncreaseRate": 0.019990975
+      },
+      {
+        "time": 1164027553070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 192787,
+        "valueIncreaseRate": 0.01999926
+      },
+      {
+        "time": 1132491553070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 189007,
+        "valueIncreaseRate": 0.039030932
+      },
+      {
+        "time": 1069333153070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 181907,
+        "valueIncreaseRate": 0.019995403
+      },
+      {
+        "time": 1037797153070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 178341,
+        "valueIncreaseRate": 0.019983185
+      },
+      {
+        "time": 1006261153070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 174847,
+        "valueIncreaseRate": 0.020003734
+      },
+      {
+        "time": 974725153070,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 171418,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15075257,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7877311706543,-122.43782043457031&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=vNq0Goky_sll7_23w4P4nbLMu3w="
+          }
+        ],
+        "price": 1250900,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4286,
+        "lotAreaValue": 4286,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2548 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2548 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78773,
+        "longitude": -122.43782,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2548-Pine-St-San-Francisco-CA-94115/15075257_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15075258,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2550+Pine+St%2C+San+Francisco%2C+CA+94115&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NPB6NKnSY2ShpoXCCDhQOvoBGg8="
+          }
+        ],
+        "price": 1538400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "livingArea": 1403,
+        "livingAreaValue": 1403,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2550 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2550 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78773,
+        "longitude": -122.43782,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2550-Pine-St-San-Francisco-CA-94115/15075258_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332851276,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.787681579589844,-122.43772888183594&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=LF7egzn3LRjdGs-GkKCl1TYmwYw="
+          }
+        ],
+        "price": 2025600,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "livingArea": 2775,
+        "livingAreaValue": 2775,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2796,
+        "lotAreaValue": 2796,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2542 Pine St #2546",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2542 Pine St #2546"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78768,
+        "longitude": -122.43773,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/2542-Pine-St-2546-San-Francisco-CA-94115/332851276_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2071094519,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/959142dad5d0c2afa1f1ad3005f90e1b-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1500,
+        "livingAreaValue": 1500,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2542 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2542 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78768,
+        "longitude": -122.43773,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2542-Pine-St-San-Francisco-CA-94115/2071094519_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15075253,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/88e555a7f75f0353b3ec8429c6c7d49b-p_c.jpg"
+          }
+        ],
+        "price": 2202400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1770,
+        "livingAreaValue": 1770,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2554 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2554 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.787693,
+        "longitude": -122.43792,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2554-Pine-St-San-Francisco-CA-94115/15075253_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15075254,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2556+Pine+St%2C+San+Francisco%2C+CA+94115&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dzL43TEsi5YqX0Xb5svQE5zwP-o="
+          }
+        ],
+        "price": 1867300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1620,
+        "livingAreaValue": 1620,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2556 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2556 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.787693,
+        "longitude": -122.43792,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2556-Pine-St-San-Francisco-CA-94115/15075254_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15075255,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/69bbc2716b81cbb0ceb48582995d3fdc-p_c.jpg"
+          }
+        ],
+        "price": 1606300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1800,
+        "livingAreaValue": 1800,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2558 Pine St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2558 Pine St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.787693,
+        "longitude": -122.43792,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2558-Pine-St-San-Francisco-CA-94115/15075255_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2059084469,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1c40cc454c17b3b8e98dd88c858a4436-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2562 Pine St #2562",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2562 Pine St #2562"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78768,
+        "longitude": -122.438,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2562-Pine-St-2562-San-Francisco-CA-94115/2059084469_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VCd-j3U9RSKSwXI1tcvCJlIFI9Q=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WmQ2btzNjf5NNouWgwleZox6-bo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=h9mHhwoM7euEu_lP62eo4DN3PG4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=l0fYvhLQDGeXhWUhcw4F925DnmQ=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XDlJIet48sI568R0TJvts-IK-Xs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RzTcSH58hs2brQSr_Wr1r0UlV5Y=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=b09sy9LpSOknpbnc2yRBUMIe4II=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wHuD5FSE4qX65iiShlIA8oK5Yh0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ffpXMUtbjfJk4u0TPPFxOINVa4Q=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WmQ2btzNjf5NNouWgwleZox6-bo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=h9mHhwoM7euEu_lP62eo4DN3PG4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=l0fYvhLQDGeXhWUhcw4F925DnmQ=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XDlJIet48sI568R0TJvts-IK-Xs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RzTcSH58hs2brQSr_Wr1r0UlV5Y=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=b09sy9LpSOknpbnc2yRBUMIe4II=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wHuD5FSE4qX65iiShlIA8oK5Yh0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ffpXMUtbjfJk4u0TPPFxOINVa4Q=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=av9qTACgRWbIpud1ydnS3xlNl74=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IZASUgwFXG9Ky3EmYU3nLxNye88=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wHuD5FSE4qX65iiShlIA8oK5Yh0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ffpXMUtbjfJk4u0TPPFxOINVa4Q=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=av9qTACgRWbIpud1ydnS3xlNl74=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IZASUgwFXG9Ky3EmYU3nLxNye88=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wHuD5FSE4qX65iiShlIA8oK5Yh0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ffpXMUtbjfJk4u0TPPFxOINVa4Q=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=2552B+Pine+St%2C+San+Francisco%2C+CA+94115&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=RgAFKq1PHQG2ZLCvQensOufupQM="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2552B-Pine-St-B-San-Francisco-CA-94115/15075260_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2552B-Pine-St-B-San-Francisco-CA-94115/15075260_zpid/",
+    "zpid": 15075260
+  }
+}

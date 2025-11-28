@@ -1,0 +1,1441 @@
+{
+  "basic_info": {
+    "zpid": 15119261,
+    "address": "2235 30th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94116",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "livingArea": 1600,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2996,
+    "lotAreaValue": 2996,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1947,
+    "homeType": "SINGLE_FAMILY",
+    "description": "Step into this Parkside ocean-view beauty, offering 4 bedrooms, 2 bathrooms, and 1,600 sqft of comfortable living space. Recently refreshed with new exterior paint, this home captures stunning ocean views from the rear bedrooms, bringing natural beauty indoors. The upper level welcomes you through a classic tunnel entrance, leading to a bright living room with a cozy fireplace, an elegant dining room, a remodeled kitchen, and two spacious bedrooms. The lower level adds versatility with two bonus bedrooms, a wet bar, a full bathroom, and direct access to the one-car garage. The property also features a large backyard, a pass-through closet to the primary bedroom, and a full basement for additional storage. Located just 1.5 blocks from Taraval Streets MUNI lines, shops, and dining, this home offers a perfect mix of serene ocean views and urban convenience."
+  },
+  "location": {
+    "latitude": 37.745556,
+    "longitude": -122.488014,
+    "neighborhood": "Parkside",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": true,
+    "garageParkingCapacity": 1,
+    "hasFireplace": null,
+    "fireplaces": 1,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": true,
+    "cooling": [
+      "None"
+    ],
+    "heating": [
+      "Central Forced Air"
+    ],
+    "appliances": [
+      "Range Hood",
+      "Microwave",
+      "Gas Oven/Range",
+      "Refrigerator"
+    ],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "securityFeatures": null,
+    "flooring": [
+      "Tile",
+      "Wood"
+    ],
+    "rooms": [
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "level": null,
+        "features": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": [
+          "Other",
+          " ShowerandTub",
+          " Tile",
+          " Tub"
+        ],
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "Bathroom",
+        "roomWidth": null
+      },
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "level": null,
+        "features": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": [
+          "DiningArea"
+        ],
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "DiningRoom",
+        "roomWidth": null
+      },
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "level": null,
+        "features": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": [
+          "KitchenFamilyRoomCombo"
+        ],
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "FamilyRoom",
+        "roomWidth": null
+      }
+    ]
+  },
+  "financial": {
+    "price": 1650000,
+    "lastSoldPrice": 1650000,
+    "dateSold": 1742428800000,
+    "dateSoldString": "2025-03-20",
+    "zestimate": 1676800,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 4937,
+    "taxAssessedValue": 572193,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1031
+  },
+  "schools": [
+    {
+      "name": "Feinstein (Dianne) Elementary School",
+      "rating": 6,
+      "level": "Elementary",
+      "distance": 0.5,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Aptos Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 1.6,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lincoln (Abraham) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.4,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 86,
+    "transitScore": 60,
+    "bikeScore": 51
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-03-20",
+        "time": 1742428800000,
+        "price": 1650000,
+        "pricePerSquareFoot": 1031,
+        "priceChangeRate": 1.5037936267071321,
+        "event": "Sold",
+        "source": "MLSListings Inc",
+        "buyerAgent": null,
+        "sellerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/YourAgentBryan/",
+          "name": "Bryan Cruz"
+        },
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "ML81990227",
+          "infoString2": "MLSListings Inc",
+          "infoString3": "https://photos.zillowstatic.com/fp/f6d938e7ba070e360124972ca1b833bc-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "2011-11-08",
+        "time": 1320710400000,
+        "price": 659000,
+        "pricePerSquareFoot": 412,
+        "priceChangeRate": 0,
+        "event": "Listing removed",
+        "source": "Barbagelata Real Estate",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "389165",
+          "infoString2": "Barbagelata Real Estate",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2011-09-08",
+        "time": 1315440000000,
+        "price": 659000,
+        "pricePerSquareFoot": 412,
+        "priceChangeRate": -0.1070460704607046,
+        "event": "Listed for sale",
+        "source": "Barbagelata Real Estate",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "389165",
+          "infoString2": "Barbagelata Real Estate",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2010-12-04",
+        "time": 1291420800000,
+        "price": 738000,
+        "pricePerSquareFoot": 461,
+        "priceChangeRate": 0,
+        "event": "Listing removed",
+        "source": "TNC",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "TNC",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2010-10-09",
+        "time": 1286582400000,
+        "price": 738000,
+        "pricePerSquareFoot": 461,
+        "priceChangeRate": 1.021917808219178,
+        "event": "Listed for sale",
+        "source": "NRT California",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "376840",
+          "infoString2": "NRT California",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1998-09-09",
+        "time": 905299200000,
+        "price": 365000,
+        "pricePerSquareFoot": 228,
+        "priceChangeRate": 0.43137254901960786,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1994-10-25",
+        "time": 783043200000,
+        "price": 255000,
+        "pricePerSquareFoot": 159,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763638071340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 572193,
+        "valueIncreaseRate": 0.019997327
+      },
+      {
+        "time": 1732102071340,
+        "taxPaid": 6600.4,
+        "taxIncreaseRate": 0.014581397,
+        "value": 560975,
+        "valueIncreaseRate": 0.019999055
+      },
+      {
+        "time": 1700479671340,
+        "taxPaid": 6505.54,
+        "taxIncreaseRate": 0.018173812,
+        "value": 549976,
+        "valueIncreaseRate": 0.019998405
+      },
+      {
+        "time": 1668943671340,
+        "taxPaid": 6389.42,
+        "taxIncreaseRate": 0.017579101,
+        "value": 539193,
+        "valueIncreaseRate": 0.019999206
+      },
+      {
+        "time": 1637407671340,
+        "taxPaid": 6279.04,
+        "taxIncreaseRate": -0.09348626,
+        "value": 528621,
+        "valueIncreaseRate": 0.010359308
+      },
+      {
+        "time": 1605871671340,
+        "taxPaid": 6926.58,
+        "taxIncreaseRate": 0.035189915,
+        "value": 523201,
+        "valueIncreaseRate": 0.019998323
+      },
+      {
+        "time": 1574249271340,
+        "taxPaid": 6691.12,
+        "taxIncreaseRate": 0.03487678,
+        "value": 512943,
+        "valueIncreaseRate": 0.019998569
+      },
+      {
+        "time": 1542713271340,
+        "taxPaid": 6465.62,
+        "taxIncreaseRate": 0.061754882,
+        "value": 502886,
+        "valueIncreaseRate": 0.019998945
+      },
+      {
+        "time": 1511177271340,
+        "taxPaid": 6089.56,
+        "taxIncreaseRate": 0.0201533,
+        "value": 493026,
+        "valueIncreaseRate": 0.019999627
+      },
+      {
+        "time": 1479641271340,
+        "taxPaid": 5969.26,
+        "taxIncreaseRate": 0.012968267,
+        "value": 483359,
+        "valueIncreaseRate": 0.015248929
+      },
+      {
+        "time": 1448018871340,
+        "taxPaid": 5892.84,
+        "taxIncreaseRate": 0.009563069,
+        "value": 476099,
+        "valueIncreaseRate": 0.019977547
+      },
+      {
+        "time": 1416482871340,
+        "taxPaid": 5837.02,
+        "taxIncreaseRate": 0,
+        "value": 466774,
+        "valueIncreaseRate": 0.004536592
+      },
+      {
+        "time": 1384946871340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 464666,
+        "valueIncreaseRate": 0.01999754
+      },
+      {
+        "time": 1353410871340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 455556,
+        "valueIncreaseRate": 0.019996641
+      },
+      {
+        "time": 1321788471340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 446625,
+        "valueIncreaseRate": 0.0075232917
+      },
+      {
+        "time": 1290252471340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 443290,
+        "valueIncreaseRate": -0.0023697908
+      },
+      {
+        "time": 1258716471340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 444343,
+        "valueIncreaseRate": 0.019998576
+      },
+      {
+        "time": 1227180471340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 435631,
+        "valueIncreaseRate": 0.019998128
+      },
+      {
+        "time": 1195558071340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 427090,
+        "valueIncreaseRate": 0.0199968
+      },
+      {
+        "time": 1164022071340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 418717,
+        "valueIncreaseRate": 0.019997174
+      },
+      {
+        "time": 1132486071340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 410508,
+        "valueIncreaseRate": 0.039037168
+      },
+      {
+        "time": 1069327671340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 395085,
+        "valueIncreaseRate": 0.019995352
+      },
+      {
+        "time": 1037791671340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 387340,
+        "valueIncreaseRate": 0.019997578
+      },
+      {
+        "time": 1006255671340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 379746,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 974719671340,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 372300,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15119262,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.745487213134766,-122.4880142211914&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5vR4bjQ161jsy5gTlfTpNAUeo3o="
+          }
+        ],
+        "price": 1310300,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1150,
+        "livingAreaValue": 1150,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2239 30th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2239 30th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.745487,
+        "longitude": -122.488014,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2239-30th-Ave-San-Francisco-CA-94116/15119262_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15119260,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74562454223633,-122.48802185058594&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AT6iWuChvU31u6YlwgjltzKnYcQ="
+          }
+        ],
+        "price": 1392000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1570,
+        "livingAreaValue": 1570,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2231 30th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2231 30th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.745625,
+        "longitude": -122.48802,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2231-30th-Ave-San-Francisco-CA-94116/15119260_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15119265,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.745418548583984,-122.48800659179688&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hD4Kkpy3z7LTdG4uUEEyMqA3d7I="
+          }
+        ],
+        "price": 1243800,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "livingArea": 1150,
+        "livingAreaValue": 1150,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2243 30th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2243 30th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74542,
+        "longitude": -122.48801,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2243-30th-Ave-San-Francisco-CA-94116/15119265_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15119259,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74569320678711,-122.48802947998047&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=qJQf9qyfNJzw4XsRqEmb2zWR4sk="
+          }
+        ],
+        "price": 1292300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1175,
+        "livingAreaValue": 1175,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2227 30th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2227 30th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.745693,
+        "longitude": -122.48803,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2227-30th-Ave-San-Francisco-CA-94116/15119259_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15119258,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74576187133789,-122.48802947998047&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Tma5N3R3WQfWAs1j7Zbw0011c0I="
+          }
+        ],
+        "price": 1567400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1575,
+        "livingAreaValue": 1575,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2223 30th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2223 30th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74576,
+        "longitude": -122.48803,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2223-30th-Ave-San-Francisco-CA-94116/15119258_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15119266,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7453498840332,-122.48799896240234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=RE7sYRe801yuvY3A167zBoIcviQ="
+          }
+        ],
+        "price": 1530900,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "livingArea": 1950,
+        "livingAreaValue": 1950,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2247 30th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2247 30th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74535,
+        "longitude": -122.488,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2247-30th-Ave-San-Francisco-CA-94116/15119266_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15119257,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74583053588867,-122.488037109375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lyKz39qM50WXMSZ0J97od8lQcSw="
+          }
+        ],
+        "price": 1490100,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1550,
+        "livingAreaValue": 1550,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2219 30th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2219 30th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74583,
+        "longitude": -122.48804,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2219-30th-Ave-San-Francisco-CA-94116/15119257_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15119267,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74528121948242,-122.48799896240234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OFvwt0WIz3hyqpNhJ6uWjCJ_Jvw="
+          }
+        ],
+        "price": 1740800,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2240,
+        "livingAreaValue": 2240,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3000,
+        "lotAreaValue": 3000,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2251 30th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2251 30th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74528,
+        "longitude": -122.488,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2251-30th-Ave-San-Francisco-CA-94116/15119267_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": false,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://photos.zillowstatic.com/fp/29dff8c89f835ba60ada4328067f8954-p_a.jpg"
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2235-30th-Ave-San-Francisco-CA-94116/15119261_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2235-30th-Ave-San-Francisco-CA-94116/15119261_zpid/",
+    "zpid": 15119261
+  }
+}

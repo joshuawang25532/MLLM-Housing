@@ -1,0 +1,1234 @@
+{
+  "basic_info": {
+    "zpid": 64969132,
+    "address": "3338 17th St APT 101",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94110",
+    "bedrooms": null,
+    "bathrooms": null,
+    "livingArea": 1017,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 11550,
+    "lotAreaValue": 0.26515151515151514,
+    "lotAreaUnits": "Acres",
+    "yearBuilt": null,
+    "homeType": "SINGLE_FAMILY",
+    "description": "3338 17th St APT 101, San Francisco, CA 94110 is a single family home that contains 1,017 sq ft. This home last sold for $505,000 in July 2025. \n \nThe Zestimate for this house is $777,100. The Rent Zestimate for this home is $6,463/mo. "
+  },
+  "location": {
+    "latitude": 37.763596,
+    "longitude": -122.4207,
+    "neighborhood": "Mission",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 505000,
+    "lastSoldPrice": 505000,
+    "dateSold": 1753920000000,
+    "dateSoldString": "2025-07-31",
+    "zestimate": 777100,
+    "zestimateHighPercent": "21",
+    "zestimateLowPercent": "18",
+    "rentZestimate": 6463,
+    "taxAssessedValue": 408885,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 497
+  },
+  "schools": [
+    {
+      "name": "Sanchez Elementary School",
+      "rating": 3,
+      "level": "Elementary",
+      "distance": 0.5,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Everett Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Mission High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.4,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 99,
+    "transitScore": 97,
+    "bikeScore": 100
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-07-31",
+        "time": 1753920000000,
+        "price": 505000,
+        "pricePerSquareFoot": 497,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763644243678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 408885,
+        "valueIncreaseRate": 0.019996557
+      },
+      {
+        "time": 1732108243678,
+        "taxPaid": 5525.06,
+        "taxIncreaseRate": 0.018925082,
+        "value": 400869,
+        "valueIncreaseRate": 0.019994352
+      },
+      {
+        "time": 1700485843678,
+        "taxPaid": 5422.44,
+        "taxIncreaseRate": 0.022600204,
+        "value": 393011,
+        "valueIncreaseRate": 0.019991798
+      },
+      {
+        "time": 1668949843678,
+        "taxPaid": 5302.6,
+        "taxIncreaseRate": 0.018755138,
+        "value": 385308,
+        "valueIncreaseRate": -0.41963995
+      },
+      {
+        "time": 1637413843678,
+        "taxPaid": 5204.98,
+        "taxIncreaseRate": -0.40634602,
+        "value": 663912,
+        "valueIncreaseRate": 0.00044905624
+      },
+      {
+        "time": 1605877843678,
+        "taxPaid": 8767.7,
+        "taxIncreaseRate": 3.6900144,
+        "value": 663614,
+        "valueIncreaseRate": 5.9639325
+      },
+      {
+        "time": 1574255443678,
+        "taxPaid": 1869.44,
+        "taxIncreaseRate": 0.033182222,
+        "value": 95293,
+        "valueIncreaseRate": 0.019994648
+      },
+      {
+        "time": 1542719443678,
+        "taxPaid": 1809.4,
+        "taxIncreaseRate": 0.21434611,
+        "value": 93425,
+        "valueIncreaseRate": 0.019990392
+      },
+      {
+        "time": 1511183443678,
+        "taxPaid": 1490.02,
+        "taxIncreaseRate": 0.03809554,
+        "value": 91594,
+        "valueIncreaseRate": 0.019989086
+      },
+      {
+        "time": 1479647443678,
+        "taxPaid": 1435.34,
+        "taxIncreaseRate": 0.013873006,
+        "value": 89799,
+        "valueIncreaseRate": 0.015240076
+      },
+      {
+        "time": 1448025043678,
+        "taxPaid": 1415.7,
+        "taxIncreaseRate": 0.025171269,
+        "value": 88451,
+        "valueIncreaseRate": 0.019960793
+      },
+      {
+        "time": 1416489043678,
+        "taxPaid": 1380.94,
+        "taxIncreaseRate": 0,
+        "value": 86720,
+        "valueIncreaseRate": 0.0045291847
+      },
+      {
+        "time": 1384953043678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 86329,
+        "valueIncreaseRate": 0.019991256
+      },
+      {
+        "time": 1353417043678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 84637,
+        "valueIncreaseRate": 0.01998096
+      },
+      {
+        "time": 1321794643678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 82979,
+        "valueIncreaseRate": 0.0075280177
+      },
+      {
+        "time": 1290258643678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 82359,
+        "valueIncreaseRate": -0.0023741748
+      },
+      {
+        "time": 1258722643678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 82555,
+        "valueIncreaseRate": 0.019990858
+      },
+      {
+        "time": 1227186643678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 80937,
+        "valueIncreaseRate": 0.019987145
+      },
+      {
+        "time": 1195564243678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 79351,
+        "valueIncreaseRate": 0.019988174
+      },
+      {
+        "time": 1164028243678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 77796,
+        "valueIncreaseRate": 0.01998112
+      },
+      {
+        "time": 1132492243678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 76272,
+        "valueIncreaseRate": 0.03901482
+      },
+      {
+        "time": 1069333843678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 73408,
+        "valueIncreaseRate": 0.019966375
+      },
+      {
+        "time": 1037797843678,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 71971,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 59779683,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dO07Ld3ge9JM8oiRBWET9fVX4Us="
+          }
+        ],
+        "price": 1350000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": 2489,
+        "livingAreaValue": 2489,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 11550,
+        "lotAreaValue": 0.26515151515151514,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "3338 17th St #100A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3338 17th St #100A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.763596,
+        "longitude": -122.4207,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3338-17th-St-100A-San-Francisco-CA-94110/59779683_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 59779684,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dO07Ld3ge9JM8oiRBWET9fVX4Us="
+          }
+        ],
+        "price": 513000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": 1034,
+        "livingAreaValue": 1034,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 11550,
+        "lotAreaValue": 0.26515151515151514,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "3338 17th St APT 107",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3338 17th St APT 107"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.763596,
+        "longitude": -122.4207,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3338-17th-St-APT-107-San-Francisco-CA-94110/59779684_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 59779685,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/81b99016580bfe12123428ad104ee5c7-p_c.jpg"
+          }
+        ],
+        "price": 517000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "livingArea": 1043,
+        "livingAreaValue": 1043,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "3338 17th St APT 204",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3338 17th St APT 204"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.763596,
+        "longitude": -122.4207,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/3338-17th-St-APT-204-San-Francisco-CA-94110/59779685_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 64969134,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dO07Ld3ge9JM8oiRBWET9fVX4Us="
+          }
+        ],
+        "price": 513000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": 1034,
+        "livingAreaValue": 1034,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 11550,
+        "lotAreaValue": 0.26515151515151514,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "3338 17th St APT 103",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3338 17th St APT 103"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.763596,
+        "longitude": -122.4207,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3338-17th-St-APT-103-San-Francisco-CA-94110/64969134_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 64969135,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dO07Ld3ge9JM8oiRBWET9fVX4Us="
+          }
+        ],
+        "price": 516000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": 1043,
+        "livingAreaValue": 1043,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 11550,
+        "lotAreaValue": 0.26515151515151514,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "3338 17th St APT 104",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3338 17th St APT 104"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.763596,
+        "longitude": -122.4207,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3338-17th-St-APT-104-San-Francisco-CA-94110/64969135_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 64969136,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/5e22616474ca26b191462d3e91075956-p_c.jpg"
+          }
+        ],
+        "price": 513000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "livingArea": 1034,
+        "livingAreaValue": 1034,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 11550,
+        "lotAreaValue": 0.26515151515151514,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "3338 17th St APT 105",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3338 17th St APT 105"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.763596,
+        "longitude": -122.4207,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/3338-17th-St-APT-105-San-Francisco-CA-94110/64969136_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 64969138,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/b25bfc96799c41188fefa4852f2bb6f6-p_c.jpg"
+          }
+        ],
+        "price": 516000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "livingArea": 1200,
+        "livingAreaValue": 1200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 11550,
+        "lotAreaValue": 0.26515151515151514,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "3338 17th St APT 108",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3338 17th St APT 108"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.763596,
+        "longitude": -122.4207,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/3338-17th-St-APT-108-San-Francisco-CA-94110/64969138_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 64969139,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/13fe397f3f3edd34339a3e79e879e658-p_c.jpg"
+          }
+        ],
+        "price": 500500,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "livingArea": 1008,
+        "livingAreaValue": 1008,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 11550,
+        "lotAreaValue": 0.26515151515151514,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "3338 17th St APT 109",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94110"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3338 17th St APT 109"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.763596,
+        "longitude": -122.4207,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/3338-17th-St-APT-109-San-Francisco-CA-94110/64969139_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pl7GIYeBarMFOaBCYEhLp5UgUbk=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=93bD9kO6re6tt6iOmuCtR7p_wWE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_5zW-UOR1GSxK1Qdwl-hriu2mls=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=J5tVasknk4xaSfZU51qLY5eOfBE=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-Yde82y1wIvmJROHW3uotSbn8KA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DqC5FbaZmXlXefBtsCDKLaNim0s=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dl_ICIIUwU2-MRfqoqFx-2x2UG0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=av762l4sxjZouAtaCkGNPgWH4CU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dO72mRH0IWolpAAMH2qqoxRirwQ=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=93bD9kO6re6tt6iOmuCtR7p_wWE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_5zW-UOR1GSxK1Qdwl-hriu2mls=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=J5tVasknk4xaSfZU51qLY5eOfBE=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-Yde82y1wIvmJROHW3uotSbn8KA=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DqC5FbaZmXlXefBtsCDKLaNim0s=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dl_ICIIUwU2-MRfqoqFx-2x2UG0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=av762l4sxjZouAtaCkGNPgWH4CU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dO72mRH0IWolpAAMH2qqoxRirwQ=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hFPPBlzrASFyemPP1SxQyX3eZBo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0OTl7nscycfC7ssGFHG3kr-mcgs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=av762l4sxjZouAtaCkGNPgWH4CU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dO72mRH0IWolpAAMH2qqoxRirwQ=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hFPPBlzrASFyemPP1SxQyX3eZBo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0OTl7nscycfC7ssGFHG3kr-mcgs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=av762l4sxjZouAtaCkGNPgWH4CU=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dO72mRH0IWolpAAMH2qqoxRirwQ=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=3338+17th+St%2C+San+Francisco%2C+CA+94110&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2AYKdNFtBWEi8Jf4hQVWtuMm7EY="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/3338-17th-St-APT-101-San-Francisco-CA-94110/64969132_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/3338-17th-St-APT-101-San-Francisco-CA-94110/64969132_zpid/",
+    "zpid": 64969132
+  }
+}

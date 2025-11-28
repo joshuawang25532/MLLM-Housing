@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 332850437,
+    "address": "77-79 Casa Way",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94123",
+    "bedrooms": null,
+    "bathrooms": 4,
+    "livingArea": 4230,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2996,
+    "lotAreaValue": 2996,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1925,
+    "homeType": "MULTI_FAMILY",
+    "description": "77-79 Casa Way, San Francisco, CA 94123 is a multi family home that contains 4,230 sq ft and was built in 1925. It contains 4 bathrooms. This home last sold for $2,695,000 in February 2025. \n \nThe Zestimate for this house is $2,744,600. The Rent Zestimate for this home is $7,307/mo. "
+  },
+  "location": {
+    "latitude": 37.805622,
+    "longitude": -122.4395,
+    "neighborhood": "Marina District",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 2695000,
+    "lastSoldPrice": 2695000,
+    "dateSold": 1738800000000,
+    "dateSoldString": "2025-02-06",
+    "zestimate": 2744600,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 7307,
+    "taxAssessedValue": 3024442,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 637
+  },
+  "schools": [
+    {
+      "name": "Sherman Elementary School",
+      "rating": 5,
+      "level": "Elementary",
+      "distance": 0.9,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marina Middle School",
+      "rating": 6,
+      "level": "Middle",
+      "distance": 0.3,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 85,
+    "transitScore": 65,
+    "bikeScore": 91
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-02-06",
+        "time": 1738800000000,
+        "price": 2695000,
+        "pricePerSquareFoot": 637,
+        "priceChangeRate": -0.054385964912280704,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2022-06-28",
+        "time": 1656374400000,
+        "price": 2850000,
+        "pricePerSquareFoot": 674,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763572860745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 3024442,
+        "valueIncreaseRate": 0.01999973
+      },
+      {
+        "time": 1732036860745,
+        "taxPaid": 35523.98,
+        "taxIncreaseRate": 0.014928507,
+        "value": 2965140,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1700414460745,
+        "taxPaid": 35001.46,
+        "taxIncreaseRate": 9.340776,
+        "value": 2907000,
+        "valueIncreaseRate": 11.540226
+      },
+      {
+        "time": 1668878460745,
+        "taxPaid": 3384.8,
+        "taxIncreaseRate": 0.020028073,
+        "value": 231814,
+        "valueIncreaseRate": 0.01999384
+      },
+      {
+        "time": 1637342460745,
+        "taxPaid": 3318.34,
+        "taxIncreaseRate": -0.024602871,
+        "value": 227270,
+        "valueIncreaseRate": 0.010353826
+      },
+      {
+        "time": 1605806460745,
+        "taxPaid": 3402.04,
+        "taxIncreaseRate": 0.033941552,
+        "value": 224941,
+        "valueIncreaseRate": 0.019997189
+      },
+      {
+        "time": 1574184060745,
+        "taxPaid": 3290.36,
+        "taxIncreaseRate": 0.035824932,
+        "value": 220531,
+        "valueIncreaseRate": 0.019994635
+      },
+      {
+        "time": 1542648060745,
+        "taxPaid": 3176.56,
+        "taxIncreaseRate": 0.11860947,
+        "value": 216208,
+        "valueIncreaseRate": 0.019998208
+      },
+      {
+        "time": 1511112060745,
+        "taxPaid": 2839.74,
+        "taxIncreaseRate": 0.028876375,
+        "value": 211969,
+        "valueIncreaseRate": 0.01999875
+      },
+      {
+        "time": 1479576060745,
+        "taxPaid": 2760.04,
+        "taxIncreaseRate": 0.014646014,
+        "value": 207813,
+        "valueIncreaseRate": 0.015242338
+      },
+      {
+        "time": 1447953660745,
+        "taxPaid": 2720.2,
+        "taxIncreaseRate": 0.0270099,
+        "value": 204693,
+        "valueIncreaseRate": 0.01997668
+      },
+      {
+        "time": 1416417660745,
+        "taxPaid": 2648.66,
+        "taxIncreaseRate": 0,
+        "value": 200684,
+        "valueIncreaseRate": 0.004535034
+      },
+      {
+        "time": 1384881660745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 199778,
+        "valueIncreaseRate": 0.019993668
+      },
+      {
+        "time": 1353345660745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 195862,
+        "valueIncreaseRate": 0.019992396
+      },
+      {
+        "time": 1321723260745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 192023,
+        "valueIncreaseRate": 0.0075187576
+      },
+      {
+        "time": 1290187260745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 190590,
+        "valueIncreaseRate": -0.0023711938
+      },
+      {
+        "time": 1258651260745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 191043,
+        "valueIncreaseRate": 0.019994874
+      },
+      {
+        "time": 1227115260745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 187298,
+        "valueIncreaseRate": 0.019997168
+      },
+      {
+        "time": 1195492860745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 183626,
+        "valueIncreaseRate": 0.019997112
+      },
+      {
+        "time": 1163956860745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 180026,
+        "valueIncreaseRate": 0.019994674
+      },
+      {
+        "time": 1132420860745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 176497,
+        "valueIncreaseRate": 0.039036654
+      },
+      {
+        "time": 1069262460745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 169866,
+        "valueIncreaseRate": 0.019995676
+      },
+      {
+        "time": 1037726460745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 166536,
+        "valueIncreaseRate": 0.019984933
+      },
+      {
+        "time": 1006190460745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 163273,
+        "valueIncreaseRate": 0.020003624
+      },
+      {
+        "time": 974654460745,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 160071,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15069623,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/07445b51aabbde4a19bac0cb0c72caa4-p_c.jpg"
+          }
+        ],
+        "price": 3687000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3.5,
+        "livingArea": 2550,
+        "livingAreaValue": 2550,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2300,
+        "lotAreaValue": 2300,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "85 Casa Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "85 Casa Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80566,
+        "longitude": -122.439575,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/85-Casa-Way-San-Francisco-CA-94123/15069623_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 439971945,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f2ac379fad76babb1c52e19c426c9d71-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "75 Casa Way APT 4",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "75 Casa Way APT 4"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.805576,
+        "longitude": -122.439415,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/75-Casa-Way-APT-4-San-Francisco-CA-94123/439971945_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "4mtceq7fabnk5",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 454838908,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/21c2a55f9dabe670481a0d6e786332e7-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "75 Casa Way APT 6",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "75 Casa Way APT 6"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.805576,
+        "longitude": -122.439415,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/75-Casa-Way-APT-6-San-Francisco-CA-94123/454838908_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "44rab1wjn0bw9",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2056489533,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/05b2aa2a5b8edcfbbbf16b91b0d21de5-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "75 Casa Way APT 1",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "75 Casa Way APT 1"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.805576,
+        "longitude": -122.439415,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/75-Casa-Way-APT-1-San-Francisco-CA-94123/2056489533_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2062798307,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e3743705613c62dd0573a0828e187b06-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "75 Casa Way APT 2",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "75 Casa Way APT 2"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.805576,
+        "longitude": -122.439415,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/75-Casa-Way-APT-2-San-Francisco-CA-94123/2062798307_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 443756574,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/047b9ace4e541d3176fa5adf787d3f9f-p_c.jpg"
+          }
+        ],
+        "price": 2695000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2665,
+        "livingAreaValue": 2665,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2996,
+        "lotAreaValue": 2996.928,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "79 Casa Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "79 Casa Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80572,
+        "longitude": -122.43945,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/79-Casa-Way-San-Francisco-CA-94123/443756574_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424082780",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 325645493,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=67-69+Casa+Way%2C+San+Francisco%2C+CA+94123&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=D-42ursI9SxHgONkRDi2DRpZlKI="
+          }
+        ],
+        "price": 2300900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 2915,
+        "livingAreaValue": 2915,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "67-69 Casa Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "67-69 Casa Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.805534,
+        "longitude": -122.43934,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/67-69-Casa-Way-San-Francisco-CA-94123/325645493_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15069622,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=95+Casa+Way%2C+San+Francisco%2C+CA+94123&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-tPL3NT8e7cCiPF0E-wtkTcwboc="
+          }
+        ],
+        "price": 6396000,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "livingArea": 4200,
+        "livingAreaValue": 4200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4146,
+        "lotAreaValue": 4146,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "95 Casa Way",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94123"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "95 Casa Way"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.805744,
+        "longitude": -122.439644,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/95-Casa-Way-San-Francisco-CA-94123/15069622_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zq5Dbzq_-ivqSQMrx-Z5KSfrCKY=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Qs1PvIY5fJxHMoDUDY_Yg_Ox5vs=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZEtub16EJnPxHU6YLFenU87ufSs=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XDuoC_z7EtWi5u7VRl8LfQF0sHc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=d9_-KojGUdESSkLoXC2OfCqC4hc=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=v67-mSJpuGpvWdf8_dC5N0Gtlts=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CcbyszCeyFzxFTjQw6kFlHKUZLc=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=37b62TtRx8YaQeoHSxKm3CZVsLs=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KiSRii_vZRWRF9Bg7IkSzBjQwNg=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Qs1PvIY5fJxHMoDUDY_Yg_Ox5vs=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZEtub16EJnPxHU6YLFenU87ufSs=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XDuoC_z7EtWi5u7VRl8LfQF0sHc=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=d9_-KojGUdESSkLoXC2OfCqC4hc=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=v67-mSJpuGpvWdf8_dC5N0Gtlts=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CcbyszCeyFzxFTjQw6kFlHKUZLc=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=37b62TtRx8YaQeoHSxKm3CZVsLs=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KiSRii_vZRWRF9Bg7IkSzBjQwNg=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4MkTLyFg1oy5RL5AQsQ9SmjAZAA=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=35QuDmjH_Nwl82hF1QSi4WAB79c=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=37b62TtRx8YaQeoHSxKm3CZVsLs=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KiSRii_vZRWRF9Bg7IkSzBjQwNg=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4MkTLyFg1oy5RL5AQsQ9SmjAZAA=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=35QuDmjH_Nwl82hF1QSi4WAB79c=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=37b62TtRx8YaQeoHSxKm3CZVsLs=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KiSRii_vZRWRF9Bg7IkSzBjQwNg=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=77-79+Casa+Way%2C+San+Francisco%2C+CA+94123&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FIGqvO6JB7O0cgiKQKV49Cb3dn0="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/77-79-Casa-Way-San-Francisco-CA-94123/332850437_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/77-79-Casa-Way-San-Francisco-CA-94123/332850437_zpid/",
+    "zpid": 332850437
+  }
+}

@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15147283,
+    "address": "543 Elizabeth St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94114",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1688,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2848,
+    "lotAreaValue": 2848,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1907,
+    "homeType": "SINGLE_FAMILY",
+    "description": "543 Elizabeth St, San Francisco, CA 94114 is a single family home that contains 1,688 sq ft and was built in 1907. It contains 1 bathroom. This home last sold for $2,035,000 in August 2025. \n \nThe Zestimate for this house is $2,047,200. The Rent Zestimate for this home is $5,928/mo. "
+  },
+  "location": {
+    "latitude": 37.75191,
+    "longitude": -122.433075,
+    "neighborhood": "Noe Valley",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 2035000,
+    "lastSoldPrice": 2035000,
+    "dateSold": 1755734400000,
+    "dateSoldString": "2025-08-21",
+    "zestimate": 2047200,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 5928,
+    "taxAssessedValue": 64161,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1206
+  },
+  "schools": [
+    {
+      "name": "Alvarado Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Mission High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 97,
+    "transitScore": 71,
+    "bikeScore": 74
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-08-21",
+        "time": 1755734400000,
+        "price": 2035000,
+        "pricePerSquareFoot": 1206,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763638718426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64161,
+        "valueIncreaseRate": 0.019982832
+      },
+      {
+        "time": 1732102718426,
+        "taxPaid": 1633.14,
+        "taxIncreaseRate": -0.07433061,
+        "value": 62904,
+        "valueIncreaseRate": 0.019976651
+      },
+      {
+        "time": 1700480318426,
+        "taxPaid": 1764.28,
+        "taxIncreaseRate": -0.011153596,
+        "value": 61672,
+        "valueIncreaseRate": 0.0199957
+      },
+      {
+        "time": 1668944318426,
+        "taxPaid": 1784.18,
+        "taxIncreaseRate": 0.21650851,
+        "value": 60463,
+        "valueIncreaseRate": 0.019973347
+      },
+      {
+        "time": 1637408318426,
+        "taxPaid": 1466.64,
+        "taxIncreaseRate": -0.05089046,
+        "value": 59279,
+        "valueIncreaseRate": 0.010345651
+      },
+      {
+        "time": 1605872318426,
+        "taxPaid": 1545.28,
+        "taxIncreaseRate": 0.029280955,
+        "value": 58672,
+        "valueIncreaseRate": 0.01997462
+      },
+      {
+        "time": 1574249918426,
+        "taxPaid": 1501.32,
+        "taxIncreaseRate": 0.03442286,
+        "value": 57523,
+        "valueIncreaseRate": 0.019983687
+      },
+      {
+        "time": 1542713918426,
+        "taxPaid": 1451.36,
+        "taxIncreaseRate": 0.27641454,
+        "value": 56396,
+        "valueIncreaseRate": 0.019966722
+      },
+      {
+        "time": 1511177918426,
+        "taxPaid": 1137.06,
+        "taxIncreaseRate": 0.049664944,
+        "value": 55292,
+        "valueIncreaseRate": 0.019978233
+      },
+      {
+        "time": 1479641918426,
+        "taxPaid": 1083.26,
+        "taxIncreaseRate": 0.0164393,
+        "value": 54209,
+        "valueIncreaseRate": 0.015225859
+      },
+      {
+        "time": 1448019518426,
+        "taxPaid": 1065.74,
+        "taxIncreaseRate": 0.023824668,
+        "value": 53396,
+        "valueIncreaseRate": 0.019961415
+      },
+      {
+        "time": 1416483518426,
+        "taxPaid": 1040.94,
+        "taxIncreaseRate": 0,
+        "value": 52351,
+        "valueIncreaseRate": 0.004509172
+      },
+      {
+        "time": 1384947518426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 52116,
+        "valueIncreaseRate": 0.019982386
+      },
+      {
+        "time": 1353411518426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 51095,
+        "valueIncreaseRate": 0.019982433
+      },
+      {
+        "time": 1321789118426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 50094,
+        "valueIncreaseRate": 0.007481598
+      },
+      {
+        "time": 1290253118426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 49722,
+        "valueIncreaseRate": -0.0023675764
+      },
+      {
+        "time": 1258717118426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 49840,
+        "valueIncreaseRate": 0.019973805
+      },
+      {
+        "time": 1227181118426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 48864,
+        "valueIncreaseRate": 0.019976204
+      },
+      {
+        "time": 1195558718426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 47907,
+        "valueIncreaseRate": 0.019992335
+      },
+      {
+        "time": 1164022718426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 46968,
+        "valueIncreaseRate": 0.019979153
+      },
+      {
+        "time": 1132486718426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 46048,
+        "valueIncreaseRate": 0.03898917
+      },
+      {
+        "time": 1069328318426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 44320,
+        "valueIncreaseRate": 0.01990565
+      },
+      {
+        "time": 1037792318426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 43455,
+        "valueIncreaseRate": 0.019998591
+      },
+      {
+        "time": 1006256318426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 42603,
+        "valueIncreaseRate": 0.020015802
+      },
+      {
+        "time": 974720318426,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 41767,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 332860243,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75190734863281,-122.43315887451172&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=V13rgbmVi7eY5uzvuiYkE1chbbk="
+          }
+        ],
+        "price": 2433600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 4098,
+        "livingAreaValue": 4098,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2848,
+        "lotAreaValue": 2848,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "547-551 Elizabeth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "547-551 Elizabeth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751907,
+        "longitude": -122.43316,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/547-551-Elizabeth-St-San-Francisco-CA-94114/332860243_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15147284,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75191879272461,-122.4329833984375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=E1NgW270JMOybp8IUnJ7T0o-2so="
+          }
+        ],
+        "price": 1435100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 800,
+        "livingAreaValue": 800,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2848,
+        "lotAreaValue": 2848,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "541 Elizabeth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "541 Elizabeth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75192,
+        "longitude": -122.43298,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/541-Elizabeth-St-San-Francisco-CA-94114/15147284_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15147281,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a862aed445b5219da2d6d386d8c575b6-p_c.jpg"
+          }
+        ],
+        "price": 8406400,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 7,
+        "livingArea": 4456,
+        "livingAreaValue": 4456,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2848,
+        "lotAreaValue": 2848,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "553 Elizabeth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "553 Elizabeth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751904,
+        "longitude": -122.43324,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/553-Elizabeth-St-San-Francisco-CA-94114/15147281_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15147291,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/b44d8b25f63ed7b74998f105abbf0f23-p_c.jpg"
+          }
+        ],
+        "price": 2156700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1891,
+        "livingAreaValue": 1891,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "535 Elizabeth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "535 Elizabeth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751923,
+        "longitude": -122.4329,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/535-Elizabeth-St-San-Francisco-CA-94114/15147291_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3589y4sqkrzn",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 53734612,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.751922607421875,-122.43289947509766&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=08t0yl7dl2rsPl5nrUilmrCB83s="
+          }
+        ],
+        "price": 2506600,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2225,
+        "livingAreaValue": 2225,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2848,
+        "lotAreaValue": 2848,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "537 Elizabeth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "537 Elizabeth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751923,
+        "longitude": -122.4329,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/537-Elizabeth-St-San-Francisco-CA-94114/53734612_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15147285,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.75192642211914,-122.43281555175781&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=doT0ruRFfvopKr0upTv_ttD8hFI="
+          }
+        ],
+        "price": 8480000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 4812,
+        "livingAreaValue": 4812,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2850,
+        "lotAreaValue": 2850,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "533 Elizabeth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "533 Elizabeth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751926,
+        "longitude": -122.432816,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/533-Elizabeth-St-San-Francisco-CA-94114/15147285_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 331632899,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/80e2a588fa2d261082c644e2a4004ed7-p_c.jpg"
+          }
+        ],
+        "price": 1800000,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": 2376,
+        "livingAreaValue": 2376,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3049,
+        "lotAreaValue": 3049.2,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "557-559 Elizabeth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "557-559 Elizabeth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751972,
+        "longitude": -122.43336,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/557-559-Elizabeth-St-San-Francisco-CA-94114/331632899_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "41074014",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15147279,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e04510c4ad5f8e8fbfe6fcd30ceb6130-p_c.jpg"
+          }
+        ],
+        "price": 2951500,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 2000,
+        "livingAreaValue": 2000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2848,
+        "lotAreaValue": 2848,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "561 Elizabeth St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "561 Elizabeth St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.751892,
+        "longitude": -122.43342,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/561-Elizabeth-St-San-Francisco-CA-94114/15147279_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bddpo3OvbCXYfl9ZcClMi9g3qyo=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UGpDC9__h_EtxO1pYQ71-ff4rqc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XtZAOzo6M5UOD3hDSRFsF2gF1W4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4qdGvfhS-ktmV6FN0BN8z5nW6KM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WmSaOy_iRuLYyDLBX7Ju-0JsRRI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=j6vyncKtvVv22tbD3T44f_jqFfo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=23nZl7ggyVhd7YMIjKzLdn7OJbA=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=g25Hk2LlNnqx_w4oA2_v6TTw-Pg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=SrNlyHcH-7n5lc4xmxlZ9Le7tyg=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UGpDC9__h_EtxO1pYQ71-ff4rqc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XtZAOzo6M5UOD3hDSRFsF2gF1W4=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4qdGvfhS-ktmV6FN0BN8z5nW6KM=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=WmSaOy_iRuLYyDLBX7Ju-0JsRRI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=j6vyncKtvVv22tbD3T44f_jqFfo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=23nZl7ggyVhd7YMIjKzLdn7OJbA=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=g25Hk2LlNnqx_w4oA2_v6TTw-Pg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=SrNlyHcH-7n5lc4xmxlZ9Le7tyg=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VCbY6xvQIgGa_Um06zWQFhEI0o8=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=QJjKlPyBDxgPF_q0p2SiQeAvpxo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=g25Hk2LlNnqx_w4oA2_v6TTw-Pg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=SrNlyHcH-7n5lc4xmxlZ9Le7tyg=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VCbY6xvQIgGa_Um06zWQFhEI0o8=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=QJjKlPyBDxgPF_q0p2SiQeAvpxo=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=g25Hk2LlNnqx_w4oA2_v6TTw-Pg=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=SrNlyHcH-7n5lc4xmxlZ9Le7tyg=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.75191116333008,-122.43307495117188&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eRygPLEFj8pLQK3SMikl2S5V41M="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/543-Elizabeth-St-San-Francisco-CA-94114/15147283_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/543-Elizabeth-St-San-Francisco-CA-94114/15147283_zpid/",
+    "zpid": 15147283
+  }
+}

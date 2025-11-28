@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15195292,
+    "address": "25 Ramsell St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94132",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "livingArea": 1194,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2500,
+    "lotAreaValue": 2500,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1948,
+    "homeType": "SINGLE_FAMILY",
+    "description": "25 Ramsell St, San Francisco, CA 94132 is a single family home that contains 1,194 sq ft and was built in 1948. It contains 3 bedrooms and 1 bathroom. This home last sold for $925,000 in October 2025. \n \nThe Zestimate for this house is $983,900. The Rent Zestimate for this home is $3,444/mo. "
+  },
+  "location": {
+    "latitude": 37.711205,
+    "longitude": -122.46644,
+    "neighborhood": "Ingleside Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 925000,
+    "lastSoldPrice": 925000,
+    "dateSold": 1759968000000,
+    "dateSoldString": "2025-10-09",
+    "zestimate": 983900,
+    "zestimateHighPercent": "9",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 3444,
+    "taxAssessedValue": 232953,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 775
+  },
+  "schools": [
+    {
+      "name": "Ortega (Jose) Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Aptos Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 1.3,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Balboa High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 1.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 84,
+    "transitScore": 83,
+    "bikeScore": 42
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-10-09",
+        "time": 1759968000000,
+        "price": 925000,
+        "pricePerSquareFoot": 775,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763580456074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 232953,
+        "valueIncreaseRate": 0.019996848
+      },
+      {
+        "time": 1732044456074,
+        "taxPaid": 2746.5,
+        "taxIncreaseRate": 0.014666747,
+        "value": 228386,
+        "valueIncreaseRate": 0.01999473
+      },
+      {
+        "time": 1700422056074,
+        "taxPaid": 2706.8,
+        "taxIncreaseRate": 0.018114584,
+        "value": 223909,
+        "valueIncreaseRate": 0.019993622
+      },
+      {
+        "time": 1668886056074,
+        "taxPaid": 2658.64,
+        "taxIncreaseRate": 0.017544337,
+        "value": 219520,
+        "valueIncreaseRate": 0.019993775
+      },
+      {
+        "time": 1637350056074,
+        "taxPaid": 2612.8,
+        "taxIncreaseRate": -0.002344419,
+        "value": 215217,
+        "valueIncreaseRate": 0.010356273
+      },
+      {
+        "time": 1605814056074,
+        "taxPaid": 2618.94,
+        "taxIncreaseRate": 0.034687947,
+        "value": 213011,
+        "valueIncreaseRate": 0.019991765
+      },
+      {
+        "time": 1574191656074,
+        "taxPaid": 2531.14,
+        "taxIncreaseRate": 0.033852566,
+        "value": 208836,
+        "valueIncreaseRate": 0.019990915
+      },
+      {
+        "time": 1542655656074,
+        "taxPaid": 2448.26,
+        "taxIncreaseRate": 0.012154445,
+        "value": 204743,
+        "valueIncreaseRate": 0.01999203
+      },
+      {
+        "time": 1511119656074,
+        "taxPaid": 2418.86,
+        "taxIncreaseRate": 0.027937371,
+        "value": 200730,
+        "valueIncreaseRate": 0.019995427
+      },
+      {
+        "time": 1479583656074,
+        "taxPaid": 2353.12,
+        "taxIncreaseRate": -0.07895601,
+        "value": 196795,
+        "valueIncreaseRate": 0.015244531
+      },
+      {
+        "time": 1447961256074,
+        "taxPaid": 2554.84,
+        "taxIncreaseRate": 0.14644964,
+        "value": 193840,
+        "valueIncreaseRate": 0.019974321
+      },
+      {
+        "time": 1416425256074,
+        "taxPaid": 2228.48,
+        "taxIncreaseRate": 0,
+        "value": 190044,
+        "valueIncreaseRate": 0.004535219
+      },
+      {
+        "time": 1384889256074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 189186,
+        "valueIncreaseRate": 0.019997088
+      },
+      {
+        "time": 1353353256074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 185477,
+        "valueIncreaseRate": 0.01999549
+      },
+      {
+        "time": 1321730856074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 181841,
+        "valueIncreaseRate": 0.0075242543
+      },
+      {
+        "time": 1290194856074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 180483,
+        "valueIncreaseRate": -0.0023713186
+      },
+      {
+        "time": 1258658856074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 180912,
+        "valueIncreaseRate": 0.019998308
+      },
+      {
+        "time": 1227122856074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 177365,
+        "valueIncreaseRate": 0.01999563
+      },
+      {
+        "time": 1195500456074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 173888,
+        "valueIncreaseRate": 0.019996598
+      },
+      {
+        "time": 1163964456074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 170479,
+        "valueIncreaseRate": 0.019995572
+      },
+      {
+        "time": 1132428456074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 167137,
+        "valueIncreaseRate": 0.039034426
+      },
+      {
+        "time": 1069270056074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 160858,
+        "valueIncreaseRate": 0.019993026
+      },
+      {
+        "time": 1037734056074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 157705,
+        "valueIncreaseRate": 0.019978527
+      },
+      {
+        "time": 1006198056074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 154616,
+        "valueIncreaseRate": 0.020002112
+      },
+      {
+        "time": 974662056074,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 151584,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15195293,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=21+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wPWMhd_5olc3GKcRQsgYy2zPOuQ="
+          }
+        ],
+        "price": 1083300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1496,
+        "livingAreaValue": 1496,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "21 Ramsell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "21 Ramsell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.711136,
+        "longitude": -122.46644,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/21-Ramsell-St-San-Francisco-CA-94132/15195293_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15195291,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LyMbf_XfsSz1uVAb99DShJmL2O4="
+          }
+        ],
+        "price": 922400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1050,
+        "livingAreaValue": 1050,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1873,
+        "lotAreaValue": 1873,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "29 Ramsell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "29 Ramsell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.711273,
+        "longitude": -122.46639,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/29-Ramsell-St-San-Francisco-CA-94132/15195291_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15195294,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=17+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=mSGaScdZii4TUUsFyssQP1cUHGs="
+          }
+        ],
+        "price": 1180000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2168,
+        "livingAreaValue": 2168,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2151,
+        "lotAreaValue": 2151,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "17 Ramsell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "17 Ramsell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.711067,
+        "longitude": -122.466415,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/17-Ramsell-St-San-Francisco-CA-94132/15195294_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15195298,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/797a5bed56bc0faf142ed98403ab172b-p_c.jpg"
+          }
+        ],
+        "price": 1490100,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1915,
+        "livingAreaValue": 1915,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2282,
+        "lotAreaValue": 2282,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3821 Alemany Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3821 Alemany Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71136,
+        "longitude": -122.46657,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3821-Alemany-Blvd-San-Francisco-CA-94132/15195298_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15195297,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71131134033203,-122.4666519165039&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=W73nBq2KtZGdhLInftPsCHHcqzU="
+          }
+        ],
+        "price": 963400,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1050,
+        "livingAreaValue": 1050,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2761,
+        "lotAreaValue": 2761,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3827 Alemany Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3827 Alemany Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71131,
+        "longitude": -122.46665,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3827-Alemany-Blvd-San-Francisco-CA-94132/15195297_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15195299,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71140670776367,-122.46648406982422&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=FY8-xApKX5hA70TUe5gR5vrLbF4="
+          }
+        ],
+        "price": 1007300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1325,
+        "livingAreaValue": 1325,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1838,
+        "lotAreaValue": 1838,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3815 Alemany Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3815 Alemany Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.711407,
+        "longitude": -122.466484,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3815-Alemany-Blvd-San-Francisco-CA-94132/15195299_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15195295,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=9+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SWQQ-rm4hOXe9LAVWn5_Ffm4j4c="
+          }
+        ],
+        "price": 1051600,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1540,
+        "livingAreaValue": 1540,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1960,
+        "lotAreaValue": 1960,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "9 Ramsell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "9 Ramsell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.710995,
+        "longitude": -122.46638,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/9-Ramsell-St-San-Francisco-CA-94132/15195295_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15195300,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.71141815185547,-122.46639251708984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HDzg_BTCRw1WuNiW2eJLDIjkacc="
+          }
+        ],
+        "price": 1025500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1170,
+        "livingAreaValue": 1170,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2003,
+        "lotAreaValue": 2003,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3809 Alemany Blvd",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3809 Alemany Blvd"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71142,
+        "longitude": -122.46639,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3809-Alemany-Blvd-San-Francisco-CA-94132/15195300_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=mlOZQyGeq3V664nzmxXbVQtFu78=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Qo9Kh1DiuwsidGmGx9sicq2fBNc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NoFhGzgBmwWrpG_NGetscjmZoJQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=i7h2YPT26EMYIb3Gqh21YPX8Ph4=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yo22CMzqmLt6BQJLGjAFLrnHEfQ=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oJafNWU7TpI83b4WZarpkI9K4u4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6HTtJWDWvMeODuMaDyJjScnYNKw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qN8g6wgUSup7BIVkdwUydcI68b0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DZAc5XxAX4rMDuAcJqlabEEpvxU=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Qo9Kh1DiuwsidGmGx9sicq2fBNc=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NoFhGzgBmwWrpG_NGetscjmZoJQ=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=i7h2YPT26EMYIb3Gqh21YPX8Ph4=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yo22CMzqmLt6BQJLGjAFLrnHEfQ=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oJafNWU7TpI83b4WZarpkI9K4u4=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6HTtJWDWvMeODuMaDyJjScnYNKw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qN8g6wgUSup7BIVkdwUydcI68b0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DZAc5XxAX4rMDuAcJqlabEEpvxU=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tnw7ZQyT8JYzLowv1pSggyvvBj4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=vXQ6A6g9opCGN3TWHSpFJ1y3wJA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qN8g6wgUSup7BIVkdwUydcI68b0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DZAc5XxAX4rMDuAcJqlabEEpvxU=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tnw7ZQyT8JYzLowv1pSggyvvBj4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=vXQ6A6g9opCGN3TWHSpFJ1y3wJA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qN8g6wgUSup7BIVkdwUydcI68b0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DZAc5XxAX4rMDuAcJqlabEEpvxU=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=25+Ramsell+St%2C+San+Francisco%2C+CA+94132&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fUQENsBiDPjA3DkuDueAn5yE-no="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/25-Ramsell-St-San-Francisco-CA-94132/15195292_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/25-Ramsell-St-San-Francisco-CA-94132/15195292_zpid/",
+    "zpid": 15195292
+  }
+}

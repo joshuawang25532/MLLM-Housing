@@ -1,0 +1,1269 @@
+{
+  "basic_info": {
+    "zpid": 15085148,
+    "address": "2013 Golden Gate Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94115",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "livingArea": 2180,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3781,
+    "lotAreaValue": 3781,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1876,
+    "homeType": "APARTMENT",
+    "description": "2013 Golden Gate Ave, San Francisco, CA 94115 is a apartment home that contains 2,180 sq ft and was built in 1876. It contains 4 bedrooms and 3 bathrooms. This home last sold for $1,500,000 in August 2025. \n \nThe Zestimate for this house is $1,549,700. The Rent Zestimate for this home is $7,801/mo. "
+  },
+  "location": {
+    "latitude": 37.77772,
+    "longitude": -122.44418,
+    "neighborhood": "Western Addition",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": true,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": true,
+    "hasCooling": false,
+    "hasHeating": true,
+    "cooling": [
+      "None"
+    ],
+    "heating": [
+      "Forced air",
+      "Wall",
+      "Gas"
+    ],
+    "appliances": [
+      "Dishwasher",
+      "Dryer",
+      "Freezer",
+      "Garbage disposal",
+      "Range / Oven",
+      "Refrigerator",
+      "Washer"
+    ],
+    "interiorFeatures": null,
+    "exteriorFeatures": [
+      "Wood"
+    ],
+    "parkingFeatures": [
+      "Garage - Attached"
+    ],
+    "securityFeatures": null,
+    "flooring": [
+      "Carpet",
+      "Hardwood"
+    ],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1500000,
+    "lastSoldPrice": 1500000,
+    "dateSold": 1755129600000,
+    "dateSoldString": "2025-08-14",
+    "zestimate": 1549700,
+    "zestimateHighPercent": "14",
+    "zestimateLowPercent": "12",
+    "rentZestimate": 7801,
+    "taxAssessedValue": 252470,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 688
+  },
+  "schools": [
+    {
+      "name": "New Traditions Elementary School",
+      "rating": 9,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Roosevelt Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 0.8,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.2,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 95,
+    "transitScore": 75,
+    "bikeScore": 94
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-08-14",
+        "time": 1755129600000,
+        "price": 1500000,
+        "pricePerSquareFoot": 688,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763624035672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 252470,
+        "valueIncreaseRate": 0.019994263
+      },
+      {
+        "time": 1732088035672,
+        "taxPaid": 3753.64,
+        "taxIncreaseRate": 0.024705581,
+        "value": 247521,
+        "valueIncreaseRate": 0.019994313
+      },
+      {
+        "time": 1700465635672,
+        "taxPaid": 3663.14,
+        "taxIncreaseRate": 0.03164371,
+        "value": 242669,
+        "valueIncreaseRate": 0.019999076
+      },
+      {
+        "time": 1668929635672,
+        "taxPaid": 3550.78,
+        "taxIncreaseRate": 0.019144207,
+        "value": 237911,
+        "valueIncreaseRate": 0.01999597
+      },
+      {
+        "time": 1637393635672,
+        "taxPaid": 3484.08,
+        "taxIncreaseRate": -0.037493777,
+        "value": 233247,
+        "valueIncreaseRate": 0.010352729
+      },
+      {
+        "time": 1605857635672,
+        "taxPaid": 3619.8,
+        "taxIncreaseRate": 0.032712005,
+        "value": 230857,
+        "valueIncreaseRate": 0.019997261
+      },
+      {
+        "time": 1574235235672,
+        "taxPaid": 3505.14,
+        "taxIncreaseRate": 0.03592639,
+        "value": 226331,
+        "valueIncreaseRate": 0.019991437
+      },
+      {
+        "time": 1542699235672,
+        "taxPaid": 3383.58,
+        "taxIncreaseRate": 0.110324346,
+        "value": 221895,
+        "valueIncreaseRate": 0.019995863
+      },
+      {
+        "time": 1511163235672,
+        "taxPaid": 3047.38,
+        "taxIncreaseRate": 0.028491752,
+        "value": 217545,
+        "valueIncreaseRate": 0.019997187
+      },
+      {
+        "time": 1479627235672,
+        "taxPaid": 2962.96,
+        "taxIncreaseRate": 0.0024766442,
+        "value": 213280,
+        "valueIncreaseRate": 0.015246791
+      },
+      {
+        "time": 1448004835672,
+        "taxPaid": 2955.64,
+        "taxIncreaseRate": 0.038458552,
+        "value": 210077,
+        "valueIncreaseRate": 0.01997446
+      },
+      {
+        "time": 1416468835672,
+        "taxPaid": 2846.18,
+        "taxIncreaseRate": 0,
+        "value": 205963,
+        "valueIncreaseRate": 0.0045358553
+      },
+      {
+        "time": 1384932835672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 205033,
+        "valueIncreaseRate": 0.019993633
+      },
+      {
+        "time": 1353396835672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 201014,
+        "valueIncreaseRate": 0.019997666
+      },
+      {
+        "time": 1321774435672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 197073,
+        "valueIncreaseRate": 0.007525524
+      },
+      {
+        "time": 1290238435672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 195601,
+        "valueIncreaseRate": -0.0023716504
+      },
+      {
+        "time": 1258702435672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 196066,
+        "valueIncreaseRate": 0.01999771
+      },
+      {
+        "time": 1227166435672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 192222,
+        "valueIncreaseRate": 0.01999427
+      },
+      {
+        "time": 1195544035672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 188454,
+        "valueIncreaseRate": 0.019993505
+      },
+      {
+        "time": 1164008035672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 184760,
+        "valueIncreaseRate": 0.019995805
+      },
+      {
+        "time": 1132472035672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 181138,
+        "valueIncreaseRate": 0.039034493
+      },
+      {
+        "time": 1069313635672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 174333,
+        "valueIncreaseRate": 0.019992277
+      },
+      {
+        "time": 1037777635672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 170916,
+        "valueIncreaseRate": 0.01999821
+      },
+      {
+        "time": 1006241635672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 167565,
+        "valueIncreaseRate": 0.019996347
+      },
+      {
+        "time": 974705635672,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 164280,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 456910899,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/be93c4eeb2a8d4dcb1af59af1fc0bff3-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 600,
+        "livingAreaValue": 600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2015 Golden Gate Ave #2015",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2015 Golden Gate Ave #2015"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77772,
+        "longitude": -122.44418,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2015-Golden-Gate-Ave-2015-San-Francisco-CA-94115/456910899_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "n5u0q34pk20d",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2055102019,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/be93c4eeb2a8d4dcb1af59af1fc0bff3-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 598,
+        "livingAreaValue": 598,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2015 Golden Gate Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2015 Golden Gate Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77772,
+        "longitude": -122.44418,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2015-Golden-Gate-Ave-San-Francisco-CA-94115/2055102019_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3thuw1nrm9yj9",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15085149,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/7ac9a942b68391ab6d1a2ba94a24bf97-p_c.jpg"
+          }
+        ],
+        "price": 3610900,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 4.5,
+        "livingArea": 4356,
+        "livingAreaValue": 4356,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3781,
+        "lotAreaValue": 3781,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2011 Golden Gate Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2011 Golden Gate Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.777737,
+        "longitude": -122.44409,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2011-Golden-Gate-Ave-San-Francisco-CA-94115/15085149_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241586016,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7777099609375,-122.44427490234375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=FtUVaVG5zwC4CmzaQ1LUooDAYr4="
+          }
+        ],
+        "price": 781200,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 712,
+        "livingAreaValue": 712,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2049 Golden Gate Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2049 Golden Gate Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77771,
+        "longitude": -122.444275,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2049-Golden-Gate-Ave-San-Francisco-CA-94115/241586016_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241586017,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7777099609375,-122.44427490234375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=FtUVaVG5zwC4CmzaQ1LUooDAYr4="
+          }
+        ],
+        "price": 1161400,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1453,
+        "livingAreaValue": 1453,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2051 Golden Gate Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2051 Golden Gate Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77771,
+        "longitude": -122.444275,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2051-Golden-Gate-Ave-San-Francisco-CA-94115/241586017_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241586018,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.7777099609375,-122.44427490234375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=FtUVaVG5zwC4CmzaQ1LUooDAYr4="
+          }
+        ],
+        "price": 1275000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1533,
+        "livingAreaValue": 1533,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2053 Golden Gate Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2053 Golden Gate Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77771,
+        "longitude": -122.444275,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2053-Golden-Gate-Ave-San-Francisco-CA-94115/241586018_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 456384286,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/918e32821f76c29de182545966aacd37-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 712,
+        "livingAreaValue": 712,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2049 Golden Gate Ave #2049",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2049 Golden Gate Ave #2049"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77771,
+        "longitude": -122.444275,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2049-Golden-Gate-Ave-2049-San-Francisco-CA-94115/456384286_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "4apu9yk3sdx2n",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 453288976,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/74ff1452063e006f86aefbf236c62690-p_c.jpg"
+          }
+        ],
+        "price": 1500000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 2385,
+        "livingAreaValue": 2385,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3781,
+        "lotAreaValue": 3781.008,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2013-2015 Golden Gate",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2013-2015 Golden Gate"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.777794,
+        "longitude": -122.44423,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/2013-2015-Golden-Gate-San-Francisco-CA-94115/453288976_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425049426",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XSb4SJJVjuYyW9Fd1bIogwHWiw8=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ahP6MjskIjCCRu8oEbSCtIJZjS0=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7Jg2OprRmYN1LBqtHYkFyB-QI9Y=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7C7TJ7_Q4MyGBXbpiy-20wI6mcs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3JzUM4g0TIKGXeSMkGzQtWYut1Q=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=y5ADSlyK2g5IobF6aD-0bkaypkY=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=15XOkdqy5LyK4P0EoBUUfyJIMsM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NKjBIDL38REX_mn2w1haWuc2MnI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hFPpH1QIxImfV04lG-bPnHRIBEU=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ahP6MjskIjCCRu8oEbSCtIJZjS0=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7Jg2OprRmYN1LBqtHYkFyB-QI9Y=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7C7TJ7_Q4MyGBXbpiy-20wI6mcs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3JzUM4g0TIKGXeSMkGzQtWYut1Q=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=y5ADSlyK2g5IobF6aD-0bkaypkY=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=15XOkdqy5LyK4P0EoBUUfyJIMsM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NKjBIDL38REX_mn2w1haWuc2MnI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hFPpH1QIxImfV04lG-bPnHRIBEU=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=O7TiQUtrHX1eqD70LU6C3woD-bw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bg-Aqn4olGuC1JKXwLiPOLYMTqE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NKjBIDL38REX_mn2w1haWuc2MnI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hFPpH1QIxImfV04lG-bPnHRIBEU=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=O7TiQUtrHX1eqD70LU6C3woD-bw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bg-Aqn4olGuC1JKXwLiPOLYMTqE=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NKjBIDL38REX_mn2w1haWuc2MnI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=hFPpH1QIxImfV04lG-bPnHRIBEU=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.7777214050293,-122.44418334960938&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=uvZiaJ6G8-WNwdx8pjLinVm49aY="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2013-Golden-Gate-Ave-San-Francisco-CA-94115/15085148_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2013-Golden-Gate-Ave-San-Francisco-CA-94115/15085148_zpid/",
+    "zpid": 15085148
+  }
+}

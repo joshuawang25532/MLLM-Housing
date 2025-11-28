@@ -1,7 +1,7 @@
 # MLLM-Housing
 
 ## Project Overview
-MLLM-Housing is a machine learning project designed to predict housing prices by integrating traditional structured data with abstract quality assessments (e.g., beauty, cleanliness, spaciousness) derived from Multimodal Large Language Models (MLLMs). 
+MLLM-Housing is a machine learning project designed to predict housing prices by integrating traditional structured data with abstract quality assessments (e.g., beauty, cleanliness, spaciousness) derived from Multimodal Large Language Models (MLLMs).
 
 The project utilizes a robust scraping pipeline to collect real estate data (Zillow), processes it through a comprehensive cleaning and imputation workflow, and employs XGBoost for price prediction. Unique to this project is the use of Gemini-encoded descriptions to capture qualitative features from property text.
 
@@ -15,7 +15,7 @@ The project implements a custom, driverless scraping solution using `nodriver` t
 
 ### 2. Data Processing Pipeline
 A unified pipeline orchestrates the transformation of raw JSON data into a model-ready CSV dataset.
-- **Validation**: Checks structure and content of scraped files.
+- **Validation**: Checks structure and content of scraped files using `utils/data_validator.py`.
 - **Preprocessing**: Cleans raw fields, handles missing values, and normalizes data.
 - **One-Hot Encoding**: Converts categorical variables for machine learning compatibility.
 - **Imputation**: Uses KNN imputation to fill missing numerical data.
@@ -48,44 +48,97 @@ The project features a **Concurrent Scraping Architecture** designed for scalabi
 
 ## Quick-Start Commands
 
-### 1. Run the Data Processing Pipeline
-To process raw scraped data into the final dataset:
+To run the model, run the command:
 ```bash
-python run_full_pipeline.py
+jupyter notebook model/xgboost.ipynb
+```
+Alternatively, start from the beginning. This system is designed to be run end-to-end, starting with data collection.
+
+### 1. Data Collection (Scraping)
+The data collection process has 4 steps:
+
+**Step 1: Generate Search Links**
+Generate grid-based search URLs to cover the target area.
+```bash
+python -m scripts.scraping.generate_links
+```
+*Output: `data/zillow_links.json`*
+
+**Step 2: Scrape Tiles (Search Results)**
+Visit the generated search links to collect lists of properties.
+```bash
+python -m scripts.scraping.scrape_tiles
+```
+*Output: `data/raw_tiles/*.json`*
+
+**Step 3: Extract URLs**
+Extract unique property URLs from the scraped search results.
+```bash
+python -m scripts.scraping.extract_urls
+```
+*Output: `data/raw_tiles/all_house_urls.json`*
+
+**Step 4: Scrape Property Details**
+Visit each property URL to scrape detailed listing data. This script supports concurrent execution.
+```bash
+python -m scripts.scraping.scrape_listings
+```
+*Output: Raw JSON files are saved to `data/raw_houses/`.*
+
+### 2. Run the Data Processing Pipeline
+Once data is collected, run the full pipeline to validate, clean, encode, and impute the data into a final CSV.
+```bash
+python scripts/pipeline/run_pipeline.py
 ```
 *Options:*
 - `--skip-validation`: Skip the initial data validation step.
 - `--skip-imputation`: Skip the KNN imputation step.
-
-### 2. Launch the Scraper
-To start collecting property details (concurrently safe):
-```bash
-python nodriver_detail_scraper_concurrent.py
-```
+- `--source`: Specify source directory (default: `data/raw_houses`).
 
 ### 3. Train and Evaluate Model
-Open the Jupyter Notebook to train the XGBoost model:
+Open the Jupyter Notebook to train the XGBoost model on the processed dataset:
 ```bash
-jupyter notebook xgboost.ipynb
+jupyter notebook model/xgboost.ipynb
 ```
-*Follow the cells to load data, merge LLM features, train the model, and view evaluation metrics.*
+*Note: Ensure you update file paths in the notebook to point to `../data/final_dataset.csv`.*
 
 ## Directory Structure
 
 ```
 MLLM-Housing/
-├── data_checking/              # Scripts for validating and verifying data integrity
-├── models/                     # Directory for saving trained XGBoost models
-├── nodriver_houses/            # Raw JSON files containing scraped property details
-├── nodriver_results/           # Raw tile results from initial search
-├── houses_dataset.csv          # Final merged and processed dataset for training
-├── gemini_encoded_descriptions.csv # Pre-computed features from LLM analysis
-├── run_full_pipeline.py        # Main script to orchestrate data processing
-├── nodriver_detail_scraper_concurrent.py # Main scraping script
-├── house_preprocessing.py      # Data cleaning logic
-├── house_imputation.py         # Missing value imputation logic
-├── one_hot_encode_houses.py    # Categorical encoding logic
-├── xgboost.ipynb               # Model training and evaluation notebook
+├── data/                       # All data files (Input/Output)
+│   ├── raw_houses/             # Raw JSON files containing scraped property details
+│   ├── raw_tiles/              # Raw tile results from initial search
+│   ├── preprocessed_houses/    # Intermediate filtered & cleaned JSONs
+│   ├── encoded_houses/         # Intermediate one-hot encoded JSONs
+│   ├── imputed_houses/         # Intermediate KNN-imputed JSONs
+│   ├── final_dataset.csv       # Final merged and processed dataset for training
+│   └── gemini_encoded_descriptions.csv # Pre-computed features from LLM analysis
+│
+├── model/                      # Model training and artifacts
+│   ├── artifacts/              # Saved .pkl models and feature names
+│   └── xgboost.ipynb           # Model training and evaluation notebook
+│
+├── scripts/                    # Executable scripts
+│   ├── pipeline/               # Data processing pipeline scripts
+│   │   ├── run_pipeline.py     # Main pipeline orchestrator
+│   │   ├── preprocess_data.py  # Cleaning and filtering
+│   │   ├── encode_features.py  # Categorical encoding
+│   │   ├── impute_missing.py   # KNN imputation
+│   │   └── json_to_csv.py      # Final conversion
+│   ├── scraping/               # Data collection scripts
+│   │   ├── generate_links.py   # Step 1: Generate search grid
+│   │   ├── scrape_tiles.py     # Step 2: Scrape search results
+│   │   ├── extract_urls.py     # Step 3: Extract property URLs
+│   │   └── scrape_listings.py  # Step 4: Scrape property details
+│   └── analysis/               # Data checking and verification scripts
+│
+├── utils/                      # Shared utility modules
+│   ├── common.py               # Common helpers
+│   ├── data_validator.py       # Data validation logic
+│   ├── detail_scraper.py       # Core scraping logic (nodriver)
+│   └── html_parser.py          # HTML parsing logic
+│
 ├── environment.yml             # Conda environment dependency file
 └── README.md                   # Project documentation
 ```
@@ -94,9 +147,9 @@ MLLM-Housing/
 
 ### Dataset
 - **Source**: Zillow (Scraped via `nodriver`).
-- **Processed Data**: `houses_dataset.csv` (Contains ~4,800 listings with 100+ features).
-- **LLM Features**: `gemini_encoded_descriptions.csv` (Contains embedding-like features representing qualitative aspects).
+- **Processed Data**: `data/final_dataset.csv` (Contains ~4,800 listings with 100+ features).
+- **LLM Features**: `data/gemini_encoded_descriptions.csv` (Contains embedding-like features representing qualitative aspects).
 
 ### Experiment Logs
-- Model performance metrics (MAE, RMSE, R²) are output directly in `xgboost.ipynb` after training.
-- Scraping progress is logged to the console and tracked via `visited_houses.json` (internal state file).
+- Model performance metrics (MAE, RMSE, R²) are output directly in `model/xgboost.ipynb` after training.
+- Scraping progress is logged to the console and tracked via `data/raw_houses/visited_houses.json` (internal state file).

@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15194646,
+    "address": "29 Laura St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94112",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1030,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1999,
+    "lotAreaValue": 1999,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1907,
+    "homeType": "SINGLE_FAMILY",
+    "description": "29 Laura St, San Francisco, CA 94112 is a single family home that contains 1,030 sq ft and was built in 1907. It contains 1 bathroom. This home last sold for $505,000 in September 2025. \n \nThe Zestimate for this house is $507,000. The Rent Zestimate for this home is $4,137/mo. "
+  },
+  "location": {
+    "latitude": 37.709934,
+    "longitude": -122.45071,
+    "neighborhood": "Outer Mission",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 505000,
+    "lastSoldPrice": 505000,
+    "dateSold": 1757462400000,
+    "dateSoldString": "2025-09-10",
+    "zestimate": 507000,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 4137,
+    "taxAssessedValue": 82422,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 490
+  },
+  "schools": [
+    {
+      "name": "Longfellow Elementary School",
+      "rating": 4,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Denman (James) Middle School",
+      "rating": 4,
+      "level": "Middle",
+      "distance": 0.9,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Balboa High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 89,
+    "transitScore": 69,
+    "bikeScore": 55
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-09-10",
+        "time": 1757462400000,
+        "price": 505000,
+        "pricePerSquareFoot": 490,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763628466804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 82422,
+        "valueIncreaseRate": 0.019985892
+      },
+      {
+        "time": 1732092466804,
+        "taxPaid": 1842.84,
+        "taxIncreaseRate": 0.047699198,
+        "value": 80807,
+        "valueIncreaseRate": 0.01998132
+      },
+      {
+        "time": 1700470066804,
+        "taxPaid": 1758.94,
+        "taxIncreaseRate": 0.034135234,
+        "value": 79224,
+        "valueIncreaseRate": 0.019994592
+      },
+      {
+        "time": 1668934066804,
+        "taxPaid": 1700.88,
+        "taxIncreaseRate": 0.020850582,
+        "value": 77671,
+        "valueIncreaseRate": 0.01998713
+      },
+      {
+        "time": 1637398066804,
+        "taxPaid": 1666.14,
+        "taxIncreaseRate": -0.0453889,
+        "value": 76149,
+        "valueIncreaseRate": 0.010349083
+      },
+      {
+        "time": 1605862066804,
+        "taxPaid": 1745.36,
+        "taxIncreaseRate": -0.11443505,
+        "value": 75369,
+        "valueIncreaseRate": 0.019988632
+      },
+      {
+        "time": 1574239666804,
+        "taxPaid": 1970.9,
+        "taxIncreaseRate": 0.20323567,
+        "value": 73892,
+        "valueIncreaseRate": 0.019987853
+      },
+      {
+        "time": 1542703666804,
+        "taxPaid": 1638,
+        "taxIncreaseRate": 0.23950057,
+        "value": 72444,
+        "valueIncreaseRate": 0.01997888
+      },
+      {
+        "time": 1511167666804,
+        "taxPaid": 1321.5,
+        "taxIncreaseRate": -0.5876343,
+        "value": 71025,
+        "valueIncreaseRate": 0.019975875
+      },
+      {
+        "time": 1479631666804,
+        "taxPaid": 3204.68,
+        "taxIncreaseRate": 1.5732133,
+        "value": 69634,
+        "valueIncreaseRate": 0.015235679
+      },
+      {
+        "time": 1448009266804,
+        "taxPaid": 1245.4,
+        "taxIncreaseRate": 0.024295593,
+        "value": 68589,
+        "valueIncreaseRate": 0.019971449
+      },
+      {
+        "time": 1416473266804,
+        "taxPaid": 1215.86,
+        "taxIncreaseRate": 0,
+        "value": 67246,
+        "valueIncreaseRate": 0.004526239
+      },
+      {
+        "time": 1384937266804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 66943,
+        "valueIncreaseRate": 0.019975012
+      },
+      {
+        "time": 1353401266804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 65632,
+        "valueIncreaseRate": 0.019985702
+      },
+      {
+        "time": 1321778866804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64346,
+        "valueIncreaseRate": 0.007515736
+      },
+      {
+        "time": 1290242866804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63866,
+        "valueIncreaseRate": -0.0023743322
+      },
+      {
+        "time": 1258706866804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64018,
+        "valueIncreaseRate": 0.019979605
+      },
+      {
+        "time": 1227170866804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62764,
+        "valueIncreaseRate": 0.019972373
+      },
+      {
+        "time": 1195548466804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 61535,
+        "valueIncreaseRate": 0.019990386
+      },
+      {
+        "time": 1164012466804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 60329,
+        "valueIncreaseRate": 0.019984107
+      },
+      {
+        "time": 1132476466804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59147,
+        "valueIncreaseRate": 0.039015565
+      },
+      {
+        "time": 1069318066804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 56926,
+        "valueIncreaseRate": 0.019978141
+      },
+      {
+        "time": 1037782066804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 55811,
+        "valueIncreaseRate": 0.019993786
+      },
+      {
+        "time": 1006246066804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 54717,
+        "valueIncreaseRate": 0.020002237
+      },
+      {
+        "time": 974710066804,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 53644,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15194653,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=35+Laura+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=g9iuKTRbEDHVOsn8uolUoYVLr5I="
+          }
+        ],
+        "price": 1051700,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "livingArea": 1695,
+        "livingAreaValue": 1695,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3440,
+        "lotAreaValue": 3440,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "35 Laura St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "35 Laura St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71,
+        "longitude": -122.45079,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/35-Laura-St-San-Francisco-CA-94112/15194653_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 184808439,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=5760+Mission+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XSo-ialjO6Kp2ezEcEDeSmKbojc="
+          }
+        ],
+        "price": 132179,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2443,
+        "lotAreaValue": 2443,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "5760 Mission St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "5760 Mission St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709763,
+        "longitude": -122.45062,
+        "homeStatus": "OTHER",
+        "homeType": "LOT",
+        "hdpUrl": "/homedetails/5760-Mission-St-San-Francisco-CA-94112/184808439_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Lot",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15194652,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=45+Laura+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DgCBfOvdn4faodV7uKfPfFGnbaA="
+          }
+        ],
+        "price": 1144600,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1550,
+        "livingAreaValue": 1550,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3366,
+        "lotAreaValue": 3366,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "45 Laura St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "45 Laura St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.710083,
+        "longitude": -122.4509,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/45-Laura-St-San-Francisco-CA-94112/15194652_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15194632,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4443eed86bf2e7d040bd3741d8caf3e7-p_c.jpg"
+          }
+        ],
+        "price": 1013700,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1285,
+        "livingAreaValue": 1285,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "24 Lawrence Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "24 Lawrence Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709858,
+        "longitude": -122.45105,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/24-Lawrence-Ave-San-Francisco-CA-94112/15194632_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 241587713,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.70969772338867,-122.45092010498047&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=add00JPSxNJh1TFVHGjRsp9L6S4="
+          }
+        ],
+        "price": 1110200,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 2150,
+        "livingAreaValue": 2150,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3192,
+        "lotAreaValue": 3192,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "5784 Mission St #5786",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "5784 Mission St #5786"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709698,
+        "longitude": -122.45092,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/5784-Mission-St-5786-San-Francisco-CA-94112/241587713_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15194633,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cb73168623d9a191f336e00a1a569c82-p_c.jpg"
+          }
+        ],
+        "price": 1240200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1857,
+        "livingAreaValue": 1857,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2500,
+        "lotAreaValue": 2500,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "30 Lawrence Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "30 Lawrence Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.709908,
+        "longitude": -122.45111,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/30-Lawrence-Ave-San-Francisco-CA-94112/15194633_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15194651,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/48520ce3c2e2e48cdb9beffce65097a7-p_c.jpg"
+          }
+        ],
+        "price": 937900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1215,
+        "livingAreaValue": 1215,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2953,
+        "lotAreaValue": 2953,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "71 Laura St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "71 Laura St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.71016,
+        "longitude": -122.451,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/71-Laura-St-San-Francisco-CA-94112/15194651_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15194606,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=32+Laura+St%2C+San+Francisco%2C+CA+94112&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZqKQTc4Qcbcn2YpPnSwEfMpgpq8="
+          }
+        ],
+        "price": 775300,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 642,
+        "livingAreaValue": 642,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1999,
+        "lotAreaValue": 1999,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "32 Laura St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94112"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "32 Laura St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.710167,
+        "longitude": -122.45042,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/32-Laura-St-San-Francisco-CA-94112/15194606_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=8DC0mLRgRfKCxAVG_CCXf4mYezc=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nwzT5rWemDY0QlJqpmxGhdAUq3Q=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=A3S003pcSmzrsYzOopeKepqbAHo=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eoWbAsQyf8qi0q81njbjN7Kkp5c=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=d6F3UCkQ24JCbribDv0ev8kfJWY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xgzJy0O_UfbJ9FGF9FIvqFI2lfY=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tMzjdh3aq0H1j93qxRuSCmYmjH0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4tm1xttcTA6o07aAefrQz0TS0a4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TL8isKH5OBPPYsHE8QpYSFR7_BA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nwzT5rWemDY0QlJqpmxGhdAUq3Q=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=A3S003pcSmzrsYzOopeKepqbAHo=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eoWbAsQyf8qi0q81njbjN7Kkp5c=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=d6F3UCkQ24JCbribDv0ev8kfJWY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xgzJy0O_UfbJ9FGF9FIvqFI2lfY=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tMzjdh3aq0H1j93qxRuSCmYmjH0=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4tm1xttcTA6o07aAefrQz0TS0a4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TL8isKH5OBPPYsHE8QpYSFR7_BA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uOh5Ed_eyoe0vEOr64mif-JM2SU=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HWI70Lb5IUg1Jo6Val4UtFR9vSs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4tm1xttcTA6o07aAefrQz0TS0a4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TL8isKH5OBPPYsHE8QpYSFR7_BA=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uOh5Ed_eyoe0vEOr64mif-JM2SU=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HWI70Lb5IUg1Jo6Val4UtFR9vSs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4tm1xttcTA6o07aAefrQz0TS0a4=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TL8isKH5OBPPYsHE8QpYSFR7_BA=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=29+Laura+St%2C+San+Francisco%2C+CA+94112&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XSFMC9Z9D03sB83BlVrtg7s_L8w="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/29-Laura-St-San-Francisco-CA-94112/15194646_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/29-Laura-St-San-Francisco-CA-94112/15194646_zpid/",
+    "zpid": 15194646
+  }
+}

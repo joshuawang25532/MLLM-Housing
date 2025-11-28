@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 15196495,
+    "address": "2974 26th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94132",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1590,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 4399,
+    "lotAreaValue": 4399,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1933,
+    "homeType": "SINGLE_FAMILY",
+    "description": "2974 26th Ave, San Francisco, CA 94132 is a single family home that contains 1,590 sq ft and was built in 1933. It contains 1 bathroom. This home last sold for $1,600,000 in December 2024. \n \nThe Zestimate for this house is $1,630,100. The Rent Zestimate for this home is $5,673/mo. "
+  },
+  "location": {
+    "latitude": 37.73297,
+    "longitude": -122.48164,
+    "neighborhood": "Merced Manor",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1600000,
+    "lastSoldPrice": 1600000,
+    "dateSold": 1733097600000,
+    "dateSoldString": "2024-12-02",
+    "zestimate": 1630100,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 5673,
+    "taxAssessedValue": 124240,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1006
+  },
+  "schools": [
+    {
+      "name": "Lakeshore Alternative Elementary School",
+      "rating": 6,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Denman (James) Middle School",
+      "rating": 4,
+      "level": "Middle",
+      "distance": 2.3,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lowell High School",
+      "rating": 10,
+      "level": "High",
+      "distance": 0.2,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 83,
+    "transitScore": 67,
+    "bikeScore": 73
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2024-12-02",
+        "time": 1733097600000,
+        "price": 1600000,
+        "pricePerSquareFoot": 1006,
+        "priceChangeRate": -0.05771495877502945,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2024-10-18",
+        "time": 1729209600000,
+        "price": 1698000,
+        "pricePerSquareFoot": 1068,
+        "priceChangeRate": 0,
+        "event": "Listed for sale",
+        "source": "SFAR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "424073416",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763639417498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 124240,
+        "valueIncreaseRate": 0.01999097
+      },
+      {
+        "time": 1732103417498,
+        "taxPaid": 1455.82,
+        "taxIncreaseRate": 0.0145793585,
+        "value": 121805,
+        "valueIncreaseRate": 0.019988611
+      },
+      {
+        "time": 1700481017498,
+        "taxPaid": 1434.9,
+        "taxIncreaseRate": 0.017948389,
+        "value": 119418,
+        "valueIncreaseRate": 0.019986676
+      },
+      {
+        "time": 1668945017498,
+        "taxPaid": 1409.6,
+        "taxIncreaseRate": 0.017423827,
+        "value": 117078,
+        "valueIncreaseRate": 0.01999425
+      },
+      {
+        "time": 1637409017498,
+        "taxPaid": 1385.46,
+        "taxIncreaseRate": -0.0022468963,
+        "value": 114783,
+        "valueIncreaseRate": 0.010351474
+      },
+      {
+        "time": 1605873017498,
+        "taxPaid": 1388.58,
+        "taxIncreaseRate": 0.03410829,
+        "value": 113607,
+        "valueIncreaseRate": 0.019994613
+      },
+      {
+        "time": 1574250617498,
+        "taxPaid": 1342.78,
+        "taxIncreaseRate": 0.033273302,
+        "value": 111380,
+        "valueIncreaseRate": 0.019991392
+      },
+      {
+        "time": 1542714617498,
+        "taxPaid": 1299.54,
+        "taxIncreaseRate": 0.012150177,
+        "value": 109197,
+        "valueIncreaseRate": 0.019998878
+      },
+      {
+        "time": 1511178617498,
+        "taxPaid": 1283.94,
+        "taxIncreaseRate": 0.040368803,
+        "value": 107056,
+        "valueIncreaseRate": 0.019988948
+      },
+      {
+        "time": 1479642617498,
+        "taxPaid": 1234.12,
+        "taxIncreaseRate": 0.012569696,
+        "value": 104958,
+        "valueIncreaseRate": 0.015244434
+      },
+      {
+        "time": 1448020217498,
+        "taxPaid": 1218.8,
+        "taxIncreaseRate": 0.026755635,
+        "value": 103382,
+        "valueIncreaseRate": 0.019968823
+      },
+      {
+        "time": 1416484217498,
+        "taxPaid": 1187.04,
+        "taxIncreaseRate": 0,
+        "value": 101358,
+        "valueIncreaseRate": 0.004529192
+      },
+      {
+        "time": 1384948217498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 100901,
+        "valueIncreaseRate": 0.01999535
+      },
+      {
+        "time": 1353412217498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 98923,
+        "valueIncreaseRate": 0.019992989
+      },
+      {
+        "time": 1321789817498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 96984,
+        "valueIncreaseRate": 0.0075108297
+      },
+      {
+        "time": 1290253817498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 96261,
+        "valueIncreaseRate": -0.0023733028
+      },
+      {
+        "time": 1258717817498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 96490,
+        "valueIncreaseRate": 0.019989641
+      },
+      {
+        "time": 1227181817498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 94599,
+        "valueIncreaseRate": 0.019990295
+      },
+      {
+        "time": 1195559417498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 92745,
+        "valueIncreaseRate": 0.019994061
+      },
+      {
+        "time": 1164023417498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 90927,
+        "valueIncreaseRate": 0.019989904
+      },
+      {
+        "time": 1132487417498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 89145,
+        "valueIncreaseRate": 0.039022345
+      },
+      {
+        "time": 1069329017498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 85797,
+        "valueIncreaseRate": 0.019996433
+      },
+      {
+        "time": 1037793017498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 84115,
+        "valueIncreaseRate": 0.019971384
+      },
+      {
+        "time": 1006257017498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 82468,
+        "valueIncreaseRate": 0.019999752
+      },
+      {
+        "time": 974721017498,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 80851,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15196494,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2980+26th+Ave%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HUdszfTHzUWFpEskAbZcPV8ZjFc="
+          }
+        ],
+        "price": 1808900,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2299,
+        "livingAreaValue": 2299,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4399,
+        "lotAreaValue": 4399,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2980 26th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2980 26th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73285,
+        "longitude": -122.481636,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2980-26th-Ave-San-Francisco-CA-94132/15196494_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15196496,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/36781c795438f820c642aca062dca38a-p_c.jpg"
+          }
+        ],
+        "price": 2733900,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 6,
+        "livingArea": 3136,
+        "livingAreaValue": 3136,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4400,
+        "lotAreaValue": 4400,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2966 26th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2966 26th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73309,
+        "longitude": -122.48165,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2966-26th-Ave-San-Francisco-CA-94132/15196496_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2089383573,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2966+26th+Avenue+%23+A+First+Floor%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zA1ZSoX600I1YrH8_EMR61ZgaU0="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2966 26th Avenue #A First Floor",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2966 26th Avenue #A First Floor"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73309,
+        "longitude": -122.48165,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2966-26th-Avenue-A-First-Floor-San-Francisco-CA-94132/2089383573_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15196493,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2990+26th+Ave%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PDrpkstyiKgyyM8LiJ6J8Uv6AcA="
+          }
+        ],
+        "price": 2042900,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2700,
+        "livingAreaValue": 2700,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4400,
+        "lotAreaValue": 4400,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2990 26th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2990 26th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73273,
+        "longitude": -122.48163,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2990-26th-Ave-San-Francisco-CA-94132/15196493_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15196497,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2960+26th+Ave%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=8yMr18Iv7uaT-AFqPzL6_SxNKGc="
+          }
+        ],
+        "price": 2338400,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2459,
+        "livingAreaValue": 2459,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4399,
+        "lotAreaValue": 4399,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2960 26th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2960 26th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73321,
+        "longitude": -122.48166,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2960-26th-Ave-San-Francisco-CA-94132/15196497_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15196488,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/5338d09d0d8efc6af8bb8f9d7559fbe0-p_c.jpg"
+          }
+        ],
+        "price": 1851200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1825,
+        "livingAreaValue": 1825,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2975 25th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2975 25th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.732952,
+        "longitude": -122.48129,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2975-25th-Ave-San-Francisco-CA-94132/15196488_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "1uhh9mk4suvpq",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15196487,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/99d109ccaa4bd463487018f0ca98f292-p_c.jpg"
+          }
+        ],
+        "price": 1969000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "livingArea": 1200,
+        "livingAreaValue": 1200,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2971 25th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2971 25th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.73306,
+        "longitude": -122.4813,
+        "homeStatus": "SOLD",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2971-25th-Ave-San-Francisco-CA-94132/15196487_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "4uen6mtnwubd8",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15196489,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2981+25th+Ave%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=A10BVqhPLkeNPexl-g_7701QvHc="
+          }
+        ],
+        "price": 1630100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1984,
+        "livingAreaValue": 1984,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3863,
+        "lotAreaValue": 3863,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2981 25th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2981 25th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.732845,
+        "longitude": -122.481285,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2981-25th-Ave-San-Francisco-CA-94132/15196489_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jxoQeTg5fXqSQo1cvAFctw2ptXc=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Q34-Mg_PlBg808zB19WuXd858Tw=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cWy0b5dans053PhsN_lgSXm8aBE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NgcBJBNHaZqHKpRzeKtRssgutuA=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nMS-iSafF0lOMaB6kyq36uwWPx4=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rtnUtUjoMLcgizfqWaKL-kfVwIU=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MLRgXR-c5qhmZtlTS96peHbwG7w=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6sqTTIUwy8I_2eRNXtR6RigmGbE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DlVuE2iuJ6GppIoyY0_1prPlkMM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Q34-Mg_PlBg808zB19WuXd858Tw=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=cWy0b5dans053PhsN_lgSXm8aBE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=NgcBJBNHaZqHKpRzeKtRssgutuA=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nMS-iSafF0lOMaB6kyq36uwWPx4=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rtnUtUjoMLcgizfqWaKL-kfVwIU=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=MLRgXR-c5qhmZtlTS96peHbwG7w=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6sqTTIUwy8I_2eRNXtR6RigmGbE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DlVuE2iuJ6GppIoyY0_1prPlkMM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OoOElkAkOBYMtFv4cNS4kBJIVj4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VnBZtNMlMo-zKJQwW3tSSM69Ek4=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6sqTTIUwy8I_2eRNXtR6RigmGbE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DlVuE2iuJ6GppIoyY0_1prPlkMM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=OoOElkAkOBYMtFv4cNS4kBJIVj4=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VnBZtNMlMo-zKJQwW3tSSM69Ek4=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=6sqTTIUwy8I_2eRNXtR6RigmGbE=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DlVuE2iuJ6GppIoyY0_1prPlkMM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=2974+26th+Ave%2C+San+Francisco%2C+CA+94132&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HlK91NyKkkLV4fs23zx5tvniJVE="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2974-26th-Ave-San-Francisco-CA-94132/15196495_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2974-26th-Ave-San-Francisco-CA-94132/15196495_zpid/",
+    "zpid": 15196495
+  }
+}

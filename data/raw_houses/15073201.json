@@ -1,0 +1,1357 @@
+{
+  "basic_info": {
+    "zpid": 15073201,
+    "address": "2230 Pacific Ave APT 304",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94115",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 785,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1949,
+    "homeType": "CONDO",
+    "description": "2230 Pacific Ave APT 304, San Francisco, CA 94115 is a condo home that contains 785 sq ft and was built in 1949. It contains 1 bathroom. This home last sold for $950,000 in April 2025. \n \nThe Zestimate for this house is $964,900. The Rent Zestimate for this home is $4,532/mo. "
+  },
+  "location": {
+    "latitude": 37.79397,
+    "longitude": -122.43207,
+    "neighborhood": "Pacific Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 950000,
+    "lastSoldPrice": 950000,
+    "dateSold": 1743724800000,
+    "dateSoldString": "2025-04-04",
+    "zestimate": 964900,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 4532,
+    "taxAssessedValue": 720524,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1210
+  },
+  "schools": [
+    {
+      "name": "Sherman Elementary School",
+      "rating": 5,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Marina Middle School",
+      "rating": 6,
+      "level": "Middle",
+      "distance": 0.6,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 97,
+    "transitScore": 83,
+    "bikeScore": 61
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-04-04",
+        "time": 1743724800000,
+        "price": 950000,
+        "pricePerSquareFoot": 1210,
+        "priceChangeRate": 0.9095477386934674,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/mike-annunziata/",
+          "name": "Mike Annunziata"
+        },
+        "sellerAgent": {
+          "photo": {
+            "url": "https://photos.zillowstatic.com/h_e/IS668kbre0dsai1000000000.jpg"
+          },
+          "profileUrl": "/profile/dayerdi/",
+          "name": "David Ayerdi"
+        },
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2002-12-12",
+        "time": 1039651200000,
+        "price": 497500,
+        "pricePerSquareFoot": 634,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763575801168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 720524,
+        "valueIncreaseRate": 0.019997226
+      },
+      {
+        "time": 1732039801168,
+        "taxPaid": 9107.12,
+        "taxIncreaseRate": 0.017182512,
+        "value": 706398,
+        "valueIncreaseRate": 0.019998614
+      },
+      {
+        "time": 1700417401168,
+        "taxPaid": 8953.28,
+        "taxIncreaseRate": 0.020919466,
+        "value": 692548,
+        "valueIncreaseRate": 0.019997938
+      },
+      {
+        "time": 1668881401168,
+        "taxPaid": 8769.82,
+        "taxIncreaseRate": 0.018304382,
+        "value": 678970,
+        "valueIncreaseRate": 0.019998258
+      },
+      {
+        "time": 1637345401168,
+        "taxPaid": 8612.18,
+        "taxIncreaseRate": -0.011591635,
+        "value": 665658,
+        "valueIncreaseRate": 0.010357693
+      },
+      {
+        "time": 1605809401168,
+        "taxPaid": 8713.18,
+        "taxIncreaseRate": 0.034807198,
+        "value": 658834,
+        "valueIncreaseRate": 0.019999504
+      },
+      {
+        "time": 1574187001168,
+        "taxPaid": 8420.1,
+        "taxIncreaseRate": 0.035000265,
+        "value": 645916,
+        "valueIncreaseRate": 0.019998359
+      },
+      {
+        "time": 1542651001168,
+        "taxPaid": 8135.36,
+        "taxIncreaseRate": 0.050794974,
+        "value": 633252,
+        "valueIncreaseRate": 0.019998841
+      },
+      {
+        "time": 1511115001168,
+        "taxPaid": 7742.1,
+        "taxIncreaseRate": 0.019158676,
+        "value": 620836,
+        "valueIncreaseRate": 0.019997897
+      },
+      {
+        "time": 1479579001168,
+        "taxPaid": 7596.56,
+        "taxIncreaseRate": 0.012958428,
+        "value": 608664,
+        "valueIncreaseRate": 0.015248815
+      },
+      {
+        "time": 1447956601168,
+        "taxPaid": 7499.38,
+        "taxIncreaseRate": 0.026797485,
+        "value": 599522,
+        "valueIncreaseRate": 0.019976862
+      },
+      {
+        "time": 1416420601168,
+        "taxPaid": 7303.66,
+        "taxIncreaseRate": 0,
+        "value": 587780,
+        "valueIncreaseRate": 0.004539209
+      },
+      {
+        "time": 1384884601168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 585124,
+        "valueIncreaseRate": 0.019998187
+      },
+      {
+        "time": 1353348601168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 573652,
+        "valueIncreaseRate": 0.019999858
+      },
+      {
+        "time": 1321726201168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 562404,
+        "valueIncreaseRate": 0.007524131
+      },
+      {
+        "time": 1290190201168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 558204,
+        "valueIncreaseRate": -0.0023698462
+      },
+      {
+        "time": 1258654201168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 559530,
+        "valueIncreaseRate": -0.32000145
+      },
+      {
+        "time": 1227118201168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 822840,
+        "valueIncreaseRate": 0.01999985
+      },
+      {
+        "time": 1195495801168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 806706,
+        "valueIncreaseRate": 0.019997723
+      },
+      {
+        "time": 1163959801168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 790890,
+        "valueIncreaseRate": 0.019999148
+      },
+      {
+        "time": 1132423801168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 775383,
+        "valueIncreaseRate": 0.039039195
+      },
+      {
+        "time": 1069265401168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 746250,
+        "valueIncreaseRate": 1.4292862
+      },
+      {
+        "time": 1037729401168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 307189,
+        "valueIncreaseRate": 0.019988777
+      },
+      {
+        "time": 1006193401168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 301169,
+        "valueIncreaseRate": 0.020002507
+      },
+      {
+        "time": 974657401168,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 295263,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15073191,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/93c4b5d641913323fd26a736f80d30c1-p_c.jpg"
+          }
+        ],
+        "price": 883500,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 735,
+        "livingAreaValue": 735,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 741,
+        "lotAreaValue": 741,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2230 Pacific Ave APT 102",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2230 Pacific Ave APT 102"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79397,
+        "longitude": -122.43207,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/2230-Pacific-Ave-APT-102-San-Francisco-CA-94115/15073191_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15073193,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9R0Mv5gYABg0fQTbkeLZ_KQQ1fY="
+          }
+        ],
+        "price": 760000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 785,
+        "livingAreaValue": 785,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2230 Pacific Ave APT 104",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2230 Pacific Ave APT 104"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79397,
+        "longitude": -122.43207,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2230-Pacific-Ave-APT-104-San-Francisco-CA-94115/15073193_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15073194,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/b4be3f41550cf21c4a4b49f9f9ebb226-p_c.jpg"
+          }
+        ],
+        "price": 905000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 730,
+        "livingAreaValue": 730,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2230 Pacific Ave APT 201",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2230 Pacific Ave APT 201"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79397,
+        "longitude": -122.43207,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2230-Pacific-Ave-APT-201-San-Francisco-CA-94115/15073194_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15073195,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9R0Mv5gYABg0fQTbkeLZ_KQQ1fY="
+          }
+        ],
+        "price": 984000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 730,
+        "livingAreaValue": 730,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2230 Pacific Ave APT 202",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2230 Pacific Ave APT 202"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79397,
+        "longitude": -122.43207,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2230-Pacific-Ave-APT-202-San-Francisco-CA-94115/15073195_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15073196,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0279f55b4afa4ba3b83f550999793cbe-p_c.jpg"
+          }
+        ],
+        "price": 912700,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 780,
+        "livingAreaValue": 780,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2230 Pacific Ave APT 203",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2230 Pacific Ave APT 203"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79397,
+        "longitude": -122.43207,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2230-Pacific-Ave-APT-203-San-Francisco-CA-94115/15073196_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15073197,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e57549e350602ad1d16cbc20d9bfdd40-p_c.jpg"
+          }
+        ],
+        "price": 919300,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 785,
+        "livingAreaValue": 785,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2230 Pacific Ave APT 204",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2230 Pacific Ave APT 204"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79397,
+        "longitude": -122.43207,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2230-Pacific-Ave-APT-204-San-Francisco-CA-94115/15073197_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15073198,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4c85931974a2b8a618b155025b0a28ca-p_c.jpg"
+          }
+        ],
+        "price": 847800,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 730,
+        "livingAreaValue": 730,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2230 Pacific Ave APT 301",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2230 Pacific Ave APT 301"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79397,
+        "longitude": -122.43207,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/2230-Pacific-Ave-APT-301-San-Francisco-CA-94115/15073198_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15073199,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/bbd7bd8fd8aa2721e19f4b6ef273120c-p_c.jpg"
+          }
+        ],
+        "price": 852000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 730,
+        "livingAreaValue": 730,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2230 Pacific Ave APT 302",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2230 Pacific Ave APT 302"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79397,
+        "longitude": -122.43207,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2230-Pacific-Ave-APT-302-San-Francisco-CA-94115/15073199_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15073200,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f8e48658607e8bfb66595ad6dd7cf97d-p_c.jpg"
+          }
+        ],
+        "price": 1103700,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 800,
+        "livingAreaValue": 800,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "2230 Pacific Ave APT 303",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2230 Pacific Ave APT 303"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79397,
+        "longitude": -122.43207,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/2230-Pacific-Ave-APT-303-San-Francisco-CA-94115/15073200_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0xGXp1AQ89tCA0mYaNlnO4dWEgM=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ov7qHTdWv9UtsjX6rvs91ni6E4Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TfagaqSZY1OP8tLzwt7drmoyyo8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=mrt7RDmZ95EwDQ5f6qz76OMjsNw=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SCwn2aRvgOgeClxh7gGc2aD9H48=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KEmMLq5eHBe-tvBbt3PKvjmEuhk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jziOjOeR3hzXwyHGu3PV8RDsrr8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LLXFcSFZaG8ZT6CxBxSKe9ZXoE8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QNP8bxInR-QrAUsGPH1Avsvr1tM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ov7qHTdWv9UtsjX6rvs91ni6E4Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TfagaqSZY1OP8tLzwt7drmoyyo8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=mrt7RDmZ95EwDQ5f6qz76OMjsNw=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SCwn2aRvgOgeClxh7gGc2aD9H48=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KEmMLq5eHBe-tvBbt3PKvjmEuhk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jziOjOeR3hzXwyHGu3PV8RDsrr8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LLXFcSFZaG8ZT6CxBxSKe9ZXoE8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QNP8bxInR-QrAUsGPH1Avsvr1tM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DCCKbogJvYkHlPVIhngOlHu9bmw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VLqCjVv2mfYsSnw-CFL5F8xkza8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LLXFcSFZaG8ZT6CxBxSKe9ZXoE8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QNP8bxInR-QrAUsGPH1Avsvr1tM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DCCKbogJvYkHlPVIhngOlHu9bmw=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VLqCjVv2mfYsSnw-CFL5F8xkza8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LLXFcSFZaG8ZT6CxBxSKe9ZXoE8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QNP8bxInR-QrAUsGPH1Avsvr1tM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=2230+Pacific+Ave%2C+San+Francisco%2C+CA+94115&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2dq9yPDMMqFH0gIZdMMvV-8x788="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/2230-Pacific-Ave-APT-304-San-Francisco-CA-94115/15073201_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/2230-Pacific-Ave-APT-304-San-Francisco-CA-94115/15073201_zpid/",
+    "zpid": 15073201
+  }
+}

@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15197091,
+    "address": "121 Denslowe Dr",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94132",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 2030,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3628,
+    "lotAreaValue": 3628,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1942,
+    "homeType": "SINGLE_FAMILY",
+    "description": "121 Denslowe Dr, San Francisco, CA 94132 is a single family home that contains 2,030 sq ft and was built in 1942. It contains 1 bathroom. This home last sold for $1,900,000 in August 2025. \n \nThe Zestimate for this house is $1,911,600. The Rent Zestimate for this home is $3,367/mo. "
+  },
+  "location": {
+    "latitude": 37.72267,
+    "longitude": -122.47408,
+    "neighborhood": "Stonestown",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1900000,
+    "lastSoldPrice": 1900000,
+    "dateSold": 1755648000000,
+    "dateSoldString": "2025-08-20",
+    "zestimate": 1911600,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 3367,
+    "taxAssessedValue": 86117,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 936
+  },
+  "schools": [
+    {
+      "name": "Sloat (Commodore) Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.6,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Aptos Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.7,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lowell High School",
+      "rating": 10,
+      "level": "High",
+      "distance": 0.7,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 89,
+    "transitScore": 68,
+    "bikeScore": 68
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-08-20",
+        "time": 1755648000000,
+        "price": 1900000,
+        "pricePerSquareFoot": 936,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763641130749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 86117,
+        "valueIncreaseRate": 0.01999313
+      },
+      {
+        "time": 1732105130749,
+        "taxPaid": 1778.28,
+        "taxIncreaseRate": 0.021565564,
+        "value": 84429,
+        "valueIncreaseRate": 0.019981878
+      },
+      {
+        "time": 1700482730749,
+        "taxPaid": 1740.74,
+        "taxIncreaseRate": 0.030048067,
+        "value": 82775,
+        "valueIncreaseRate": 0.019986939
+      },
+      {
+        "time": 1668946730749,
+        "taxPaid": 1689.96,
+        "taxIncreaseRate": 0.021432433,
+        "value": 81153,
+        "valueIncreaseRate": 0.019984163
+      },
+      {
+        "time": 1637410730749,
+        "taxPaid": 1654.5,
+        "taxIncreaseRate": -0.045792736,
+        "value": 79563,
+        "valueIncreaseRate": 0.010349469
+      },
+      {
+        "time": 1605874730749,
+        "taxPaid": 1733.9,
+        "taxIncreaseRate": 0.06271226,
+        "value": 78748,
+        "valueIncreaseRate": 0.019985752
+      },
+      {
+        "time": 1574252330749,
+        "taxPaid": 1631.58,
+        "taxIncreaseRate": 0.0334566,
+        "value": 77205,
+        "valueIncreaseRate": 0.019988902
+      },
+      {
+        "time": 1542716330749,
+        "taxPaid": 1578.76,
+        "taxIncreaseRate": 0.25117692,
+        "value": 75692,
+        "valueIncreaseRate": 0.019984098
+      },
+      {
+        "time": 1511180330749,
+        "taxPaid": 1261.82,
+        "taxIncreaseRate": 0.04286091,
+        "value": 74209,
+        "valueIncreaseRate": 0.01998488
+      },
+      {
+        "time": 1479644330749,
+        "taxPaid": 1209.96,
+        "taxIncreaseRate": 0.014420295,
+        "value": 72755,
+        "valueIncreaseRate": 0.015237989
+      },
+      {
+        "time": 1448021930749,
+        "taxPaid": 1192.76,
+        "taxIncreaseRate": 0.025359765,
+        "value": 71663,
+        "valueIncreaseRate": 0.019968688
+      },
+      {
+        "time": 1416485930749,
+        "taxPaid": 1163.26,
+        "taxIncreaseRate": 0,
+        "value": 70260,
+        "valueIncreaseRate": 0.0045179
+      },
+      {
+        "time": 1384949930749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 69944,
+        "valueIncreaseRate": 0.019993292
+      },
+      {
+        "time": 1353413930749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 68573,
+        "valueIncreaseRate": 0.0199762
+      },
+      {
+        "time": 1321791530749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 67230,
+        "valueIncreaseRate": 0.007477784
+      },
+      {
+        "time": 1290255530749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 66731,
+        "valueIncreaseRate": -0.0023621223
+      },
+      {
+        "time": 1258719530749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 66889,
+        "valueIncreaseRate": 0.019991461
+      },
+      {
+        "time": 1227183530749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 65578,
+        "valueIncreaseRate": 0.019986624
+      },
+      {
+        "time": 1195561130749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64293,
+        "valueIncreaseRate": 0.01998953
+      },
+      {
+        "time": 1164025130749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63033,
+        "valueIncreaseRate": 0.019984465
+      },
+      {
+        "time": 1132489130749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 61798,
+        "valueIncreaseRate": 0.03902349
+      },
+      {
+        "time": 1069330730749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59477,
+        "valueIncreaseRate": 0.019996228
+      },
+      {
+        "time": 1037794730749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 58311,
+        "valueIncreaseRate": 0.019975862
+      },
+      {
+        "time": 1006258730749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 57169,
+        "valueIncreaseRate": 0.019982515
+      },
+      {
+        "time": 974722730749,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 56049,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15197090,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=127+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ttKs6OqRBKzO7EgWz0zuWf64bFs="
+          }
+        ],
+        "price": 1631200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1507,
+        "livingAreaValue": 1507,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3639,
+        "lotAreaValue": 3639,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "127 Denslowe Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "127 Denslowe Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.722572,
+        "longitude": -122.4741,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/127-Denslowe-Dr-San-Francisco-CA-94132/15197090_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15197092,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=115+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=a9yXp7bnPMRIO25OzHGmcNYzjqg="
+          }
+        ],
+        "price": 2110500,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "livingArea": 2100,
+        "livingAreaValue": 2100,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3722,
+        "lotAreaValue": 3722,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "115 Denslowe Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "115 Denslowe Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.722775,
+        "longitude": -122.47407,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/115-Denslowe-Dr-San-Francisco-CA-94132/15197092_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15197089,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=133+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hbI9pnpT0CQMpNgA6lgSqFerraY="
+          }
+        ],
+        "price": 1458300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1357,
+        "livingAreaValue": 1357,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3646,
+        "lotAreaValue": 3646,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "133 Denslowe Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "133 Denslowe Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.722473,
+        "longitude": -122.47411,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/133-Denslowe-Dr-San-Francisco-CA-94132/15197089_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15197093,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=109+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hkAxCP9IBzWwjPpxPYaD995sI8A="
+          }
+        ],
+        "price": 1590500,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1569,
+        "livingAreaValue": 1569,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3706,
+        "lotAreaValue": 3706,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "109 Denslowe Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "109 Denslowe Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.722874,
+        "longitude": -122.47405,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/109-Denslowe-Dr-San-Francisco-CA-94132/15197093_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15197067,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=120+Stratford+Dr%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qZCrfMLaGHe2JIsxSY8V--PFDWE="
+          }
+        ],
+        "price": 1285400,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1354,
+        "livingAreaValue": 1354,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3828,
+        "lotAreaValue": 3828,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "120 Stratford Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "120 Stratford Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.72266,
+        "longitude": -122.47373,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/120-Stratford-Dr-San-Francisco-CA-94132/15197067_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15197068,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=126+Stratford+Dr%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dKmcdXjaCSfk3M9YsY8eCPJLxi0="
+          }
+        ],
+        "price": 1585500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1924,
+        "livingAreaValue": 1924,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3837,
+        "lotAreaValue": 3837,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "126 Stratford Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "126 Stratford Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.722553,
+        "longitude": -122.47375,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/126-Stratford-Dr-San-Francisco-CA-94132/15197068_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15197066,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/da425ffe41a158eff7e3e00573f9f579-p_c.jpg"
+          }
+        ],
+        "price": 1827300,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2700,
+        "livingAreaValue": 2700,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3720,
+        "lotAreaValue": 3720,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "114 Stratford Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "114 Stratford Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.722763,
+        "longitude": -122.47372,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/114-Stratford-Dr-San-Francisco-CA-94132/15197066_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15197088,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=139+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gv0elBARHKcj5YcaKowkU6XegDY="
+          }
+        ],
+        "price": 1716500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1549,
+        "livingAreaValue": 1549,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3746,
+        "lotAreaValue": 3746,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "139 Denslowe Dr",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94132"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "139 Denslowe Dr"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.722374,
+        "longitude": -122.47414,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/139-Denslowe-Dr-San-Francisco-CA-94132/15197088_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=pDlDSJW5Ewfcl_HOmcLdScwlIss=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TWIh51I92J2gTvmplgZEcTtdZrg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=n7ampekHPPoB7FhhDGPqiPD1Du8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-OCtY0pFMaL4Y4luxxFs-3clPSA=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BTDpi8TGqizXUy31_I_ppPHoSpQ=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XtvE4Y-iYVhN_GBHywW2hURVbVk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1tql2Bl861aI4LF-Ip5adCRU8zs=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=moIGL_MSNkhDf3ZbqtDzwA2kJxY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VrNrko_tAHHQuQLREmBdRsGiT88=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TWIh51I92J2gTvmplgZEcTtdZrg=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=n7ampekHPPoB7FhhDGPqiPD1Du8=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-OCtY0pFMaL4Y4luxxFs-3clPSA=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BTDpi8TGqizXUy31_I_ppPHoSpQ=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XtvE4Y-iYVhN_GBHywW2hURVbVk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1tql2Bl861aI4LF-Ip5adCRU8zs=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=moIGL_MSNkhDf3ZbqtDzwA2kJxY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VrNrko_tAHHQuQLREmBdRsGiT88=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z4aKgF_aM89N2DPNCcPo3Iewh7c=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Rzg6pI3Y2SfZnaeiXjtCqUGXDS8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=moIGL_MSNkhDf3ZbqtDzwA2kJxY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VrNrko_tAHHQuQLREmBdRsGiT88=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=z4aKgF_aM89N2DPNCcPo3Iewh7c=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Rzg6pI3Y2SfZnaeiXjtCqUGXDS8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=moIGL_MSNkhDf3ZbqtDzwA2kJxY=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VrNrko_tAHHQuQLREmBdRsGiT88=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=121+Denslowe+Dr%2C+San+Francisco%2C+CA+94132&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sj0jvZFCTwqLGIW2BCnMulT-sRU="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/121-Denslowe-Dr-San-Francisco-CA-94132/15197091_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/121-Denslowe-Dr-San-Francisco-CA-94132/15197091_zpid/",
+    "zpid": 15197091
+  }
+}

@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15065550,
+    "address": "990AA Union St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94133",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1170,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1907,
+    "homeType": "CONDO",
+    "description": "990AA Union St, San Francisco, CA 94133 is a condo home that contains 1,170 sq ft and was built in 1907. It contains 1 bathroom. This home last sold for $1,010,000 in February 2025. \n \nThe Zestimate for this house is $1,028,000. The Rent Zestimate for this home is $5,524/mo. "
+  },
+  "location": {
+    "latitude": 37.799835,
+    "longitude": -122.41561,
+    "neighborhood": "Russian Hill",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1010000,
+    "lastSoldPrice": 1010000,
+    "dateSold": 1738627200000,
+    "dateSoldString": "2025-02-04",
+    "zestimate": 1028000,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 5524,
+    "taxAssessedValue": 420833,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 863
+  },
+  "schools": [
+    {
+      "name": "Yick Wo Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Francisco Middle School",
+      "rating": 5,
+      "level": "Middle",
+      "distance": 0.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 98,
+    "transitScore": 87,
+    "bikeScore": 66
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-02-04",
+        "time": 1738627200000,
+        "price": 1010000,
+        "pricePerSquareFoot": 863,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763573647677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 420833,
+        "valueIncreaseRate": 0.019998448
+      },
+      {
+        "time": 1732037647677,
+        "taxPaid": 5626.08,
+        "taxIncreaseRate": -0.033681557,
+        "value": 412582,
+        "valueIncreaseRate": 0.019995352
+      },
+      {
+        "time": 1700415247677,
+        "taxPaid": 5822.18,
+        "taxIncreaseRate": 0.029672517,
+        "value": 404494,
+        "valueIncreaseRate": 0.019996772
+      },
+      {
+        "time": 1668879247677,
+        "taxPaid": 5654.4,
+        "taxIncreaseRate": 0.01802576,
+        "value": 396564,
+        "valueIncreaseRate": 0.019997993
+      },
+      {
+        "time": 1637343247677,
+        "taxPaid": 5554.28,
+        "taxIncreaseRate": 0.043590344,
+        "value": 388789,
+        "valueIncreaseRate": 0.010358547
+      },
+      {
+        "time": 1605807247677,
+        "taxPaid": 5322.28,
+        "taxIncreaseRate": 0.034609493,
+        "value": 384803,
+        "valueIncreaseRate": 0.019996872
+      },
+      {
+        "time": 1574184847677,
+        "taxPaid": 5144.24,
+        "taxIncreaseRate": 0.034458976,
+        "value": 377259,
+        "valueIncreaseRate": 0.019996593
+      },
+      {
+        "time": 1542648847677,
+        "taxPaid": 4972.88,
+        "taxIncreaseRate": 0.07754243,
+        "value": 369863,
+        "valueIncreaseRate": 0.01999658
+      },
+      {
+        "time": 1511112847677,
+        "taxPaid": 4615.02,
+        "taxIncreaseRate": 0.02194914,
+        "value": 362612,
+        "valueIncreaseRate": 0.019997017
+      },
+      {
+        "time": 1479576847677,
+        "taxPaid": 4515.9,
+        "taxIncreaseRate": 0.013024258,
+        "value": 355503,
+        "valueIncreaseRate": 0.015247141
+      },
+      {
+        "time": 1447954447677,
+        "taxPaid": 4457.84,
+        "taxIncreaseRate": 0.026735721,
+        "value": 350164,
+        "valueIncreaseRate": 0.019976348
+      },
+      {
+        "time": 1416418447677,
+        "taxPaid": 4341.76,
+        "taxIncreaseRate": 0,
+        "value": 343306,
+        "valueIncreaseRate": 0.004538339
+      },
+      {
+        "time": 1384882447677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 341755,
+        "valueIncreaseRate": 0.019996718
+      },
+      {
+        "time": 1353346447677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 335055,
+        "valueIncreaseRate": 0.019997807
+      },
+      {
+        "time": 1321724047677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 328486,
+        "valueIncreaseRate": 0.0075237784
+      },
+      {
+        "time": 1290188047677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 326033,
+        "valueIncreaseRate": -0.002371423
+      },
+      {
+        "time": 1258652047677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 326808,
+        "valueIncreaseRate": 0.019996816
+      },
+      {
+        "time": 1227116047677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 320401,
+        "valueIncreaseRate": 0.019995542
+      },
+      {
+        "time": 1195493647677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 314120,
+        "valueIncreaseRate": 0.019995974
+      },
+      {
+        "time": 1163957647677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 307962,
+        "valueIncreaseRate": 0.019995032
+      },
+      {
+        "time": 1132421647677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 301925,
+        "valueIncreaseRate": 0.039035454
+      },
+      {
+        "time": 1069263247677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 290582,
+        "valueIncreaseRate": 0.019993963
+      },
+      {
+        "time": 1037727247677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 284886,
+        "valueIncreaseRate": 0.019996349
+      },
+      {
+        "time": 1006191247677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 279301,
+        "valueIncreaseRate": 0.019998174
+      },
+      {
+        "time": 974655247677,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 273825,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15065553,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=992+Union+St%2C+San+Francisco%2C+CA+94133&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0MgBH_cecsAiqjLiZj1kO0EZTjQ="
+          }
+        ],
+        "price": 1165800,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1141,
+        "livingAreaValue": 1141,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "992 Union St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "992 Union St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799835,
+        "longitude": -122.41561,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/992-Union-St-San-Francisco-CA-94133/15065553_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15065555,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e02b819d74191bcf041a64c06518faac-p_c.jpg"
+          }
+        ],
+        "price": 1710900,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1289,
+        "livingAreaValue": 1289,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "994 Union St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "994 Union St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799835,
+        "longitude": -122.41561,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/994-Union-St-San-Francisco-CA-94133/15065555_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15065551,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/56a5d572a4dc4e0602013483297a68bd-p_c.jpg"
+          }
+        ],
+        "price": 925100,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "990 Union St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "990 Union St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79984,
+        "longitude": -122.41562,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/990-Union-St-San-Francisco-CA-94133/15065551_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3w60sj3avr295",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15065552,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1fefb35e1b7a725ea86d29a12e050c0e-p_c.jpg"
+          }
+        ],
+        "price": 1360000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1181,
+        "livingAreaValue": 1181,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3101,
+        "lotAreaValue": 3101.472,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "998 Union St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "998 Union St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799747,
+        "longitude": -122.41565,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/998-Union-St-San-Francisco-CA-94133/15065552_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423744671",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 443864422,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/19550310f9b8971b2179f19ff365cf2a-p_c.jpg"
+          }
+        ],
+        "price": 1010000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1170,
+        "livingAreaValue": 1170,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3101,
+        "lotAreaValue": 3101.472,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "990 Union St #A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "990 Union St #A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799747,
+        "longitude": -122.41565,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/990-Union-St-A-San-Francisco-CA-94133/443864422_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425001401",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15065554,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/26c10ff4b93ecb88e426121c4d6546b3-p_c.jpg"
+          }
+        ],
+        "price": 1464000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1349,
+        "livingAreaValue": 1349,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3101,
+        "lotAreaValue": 3101.472,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "996 Union St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "996 Union St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799744,
+        "longitude": -122.41565,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/996-Union-St-San-Francisco-CA-94133/15065554_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423914113",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2078889848,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/ee0bbd98b9f0767ff97afceec15d7764-p_c.jpg"
+          }
+        ],
+        "price": 1871700,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "988 Union St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "988 Union St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799854,
+        "longitude": -122.41548,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/988-Union-St-San-Francisco-CA-94133/2078889848_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2086985121,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=988+Union+St%2C+San+Francisco%2C+CA+94133&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JbYrwutOVykTzfmSsaTJGLB7UoM="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "988 Union St APT 101",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "988 Union St APT 101"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.799854,
+        "longitude": -122.41548,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/988-Union-St-APT-101-San-Francisco-CA-94133/2086985121_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nn5iP7GlcLDfCLPmbeefZxTR0Vs=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=N1pBq84PkDE7DYQdfI46sRg6fiQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hcMrkLYWxINJHWBw3hTFpXmircI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LWEAEm7W_r81CwdwBtdPHVqJURk=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=X4BSoR8GZH0u_el2cU-Kg7u52cM=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=T90CRJ_ekhOx4BfETeKvjXFR-eU=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LZXBKSpnU9kvLRVE6DAZmGsQ-rw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=--8eB8I6KnlAV6zt-5ZFneehuKo=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BwJVT4McUJFMz8-5u7HPJDA4ZW4=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=N1pBq84PkDE7DYQdfI46sRg6fiQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hcMrkLYWxINJHWBw3hTFpXmircI=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LWEAEm7W_r81CwdwBtdPHVqJURk=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=X4BSoR8GZH0u_el2cU-Kg7u52cM=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=T90CRJ_ekhOx4BfETeKvjXFR-eU=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LZXBKSpnU9kvLRVE6DAZmGsQ-rw=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=--8eB8I6KnlAV6zt-5ZFneehuKo=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BwJVT4McUJFMz8-5u7HPJDA4ZW4=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=YOugk9_0j0qWPfrsZW4nmHi5hj0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uX-hRK3-Oossivmv_RzI2gCYFKM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=--8eB8I6KnlAV6zt-5ZFneehuKo=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BwJVT4McUJFMz8-5u7HPJDA4ZW4=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=YOugk9_0j0qWPfrsZW4nmHi5hj0=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uX-hRK3-Oossivmv_RzI2gCYFKM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=--8eB8I6KnlAV6zt-5ZFneehuKo=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=BwJVT4McUJFMz8-5u7HPJDA4ZW4=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=990AA+Union+St%2C+San+Francisco%2C+CA+94133&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zQjl9NQdlxZJ_1UcloPP9tJPlHU="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/990AA-Union-St-San-Francisco-CA-94133/15065550_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/990AA-Union-St-San-Francisco-CA-94133/15065550_zpid/",
+    "zpid": 15065550
+  }
+}

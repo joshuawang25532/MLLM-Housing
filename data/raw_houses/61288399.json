@@ -1,0 +1,1261 @@
+{
+  "basic_info": {
+    "zpid": 61288399,
+    "address": "680 Castro St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94114",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "livingArea": 1322,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": null,
+    "lotAreaValue": null,
+    "lotAreaUnits": "sqft",
+    "yearBuilt": 1895,
+    "homeType": "CONDO",
+    "description": "680 Castro St, San Francisco, CA 94114 is a condo home that contains 1,322 sq ft and was built in 1895. It contains 2 bedrooms and 2 bathrooms. This home last sold for $510,000 in April 2025. \n \nThe Zestimate for this house is $517,500. The Rent Zestimate for this home is $6,659/mo. "
+  },
+  "location": {
+    "latitude": 37.758022,
+    "longitude": -122.435036,
+    "neighborhood": "Eureka Valley",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": true,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [
+      "Dishwasher",
+      "Dryer",
+      "Freezer",
+      "Garbage disposal",
+      "Microwave",
+      "Range / Oven",
+      "Refrigerator",
+      "Washer"
+    ],
+    "interiorFeatures": null,
+    "exteriorFeatures": [
+      "Wood"
+    ],
+    "parkingFeatures": [
+      "Garage - Attached"
+    ],
+    "securityFeatures": null,
+    "flooring": [
+      "Tile",
+      "Hardwood"
+    ],
+    "rooms": []
+  },
+  "financial": {
+    "price": 510000,
+    "lastSoldPrice": 510000,
+    "dateSold": 1745971200000,
+    "dateSoldString": "2025-04-30",
+    "zestimate": 517500,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 6659,
+    "taxAssessedValue": 975708,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": 111,
+    "monthlyHoaFee": 111,
+    "pricePerSquareFoot": 386
+  },
+  "schools": [
+    {
+      "name": "Milk (Harvey) Civil Rights Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Everett Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 0.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Mission High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.5,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 98,
+    "transitScore": 83,
+    "bikeScore": 63
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-04-30",
+        "time": 1745971200000,
+        "price": 510000,
+        "pricePerSquareFoot": 386,
+        "priceChangeRate": -0.2714285714285714,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2004-10-14",
+        "time": 1097712000000,
+        "price": 700000,
+        "pricePerSquareFoot": 530,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763578157175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 975708,
+        "valueIncreaseRate": 0.019996237
+      },
+      {
+        "time": 1732042157175,
+        "taxPaid": 11912.98,
+        "taxIncreaseRate": 0.015756987,
+        "value": 956580,
+        "valueIncreaseRate": 0.019999487
+      },
+      {
+        "time": 1700419757175,
+        "taxPaid": 11728.18,
+        "taxIncreaseRate": 0.02011138,
+        "value": 937824,
+        "valueIncreaseRate": 0.019999217
+      },
+      {
+        "time": 1668883757175,
+        "taxPaid": 11496.96,
+        "taxIncreaseRate": 0.018336637,
+        "value": 919436,
+        "valueIncreaseRate": 0.019999823
+      },
+      {
+        "time": 1637347757175,
+        "taxPaid": 11289.94,
+        "taxIncreaseRate": -0.0051618274,
+        "value": 901408,
+        "valueIncreaseRate": 0.010356794
+      },
+      {
+        "time": 1605811757175,
+        "taxPaid": 11348.52,
+        "taxIncreaseRate": 0.03545449,
+        "value": 892168,
+        "valueIncreaseRate": 0.019998262
+      },
+      {
+        "time": 1574189357175,
+        "taxPaid": 10959.94,
+        "taxIncreaseRate": 0.03492126,
+        "value": 874676,
+        "valueIncreaseRate": 0.019997016
+      },
+      {
+        "time": 1542653357175,
+        "taxPaid": 10590.12,
+        "taxIncreaseRate": 0.041768704,
+        "value": 857528,
+        "valueIncreaseRate": 0.019997241
+      },
+      {
+        "time": 1511117357175,
+        "taxPaid": 10165.52,
+        "taxIncreaseRate": 0.0176897,
+        "value": 840716,
+        "valueIncreaseRate": 0.019999223
+      },
+      {
+        "time": 1479581357175,
+        "taxPaid": 9988.82,
+        "taxIncreaseRate": 0.012711577,
+        "value": 824232,
+        "valueIncreaseRate": 0.015249085
+      },
+      {
+        "time": 1447958957175,
+        "taxPaid": 9863.44,
+        "taxIncreaseRate": 0.027135672,
+        "value": 811852,
+        "valueIncreaseRate": 0.01997608
+      },
+      {
+        "time": 1416422957175,
+        "taxPaid": 9602.86,
+        "taxIncreaseRate": 0,
+        "value": 795952,
+        "valueIncreaseRate": 0.0045383642
+      },
+      {
+        "time": 1384886957175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 792356,
+        "valueIncreaseRate": 0.019999485
+      },
+      {
+        "time": 1353350957175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 776820,
+        "valueIncreaseRate": 0.019994957
+      },
+      {
+        "time": 1321728557175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 761592,
+        "valueIncreaseRate": 0.007524765
+      },
+      {
+        "time": 1290192557175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 755904,
+        "valueIncreaseRate": -0.0023703312
+      },
+      {
+        "time": 1258656557175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 757700,
+        "valueIncreaseRate": -0.3200008
+      },
+      {
+        "time": 1227120557175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1114266,
+        "valueIncreaseRate": 0.019997803
+      },
+      {
+        "time": 1195498157175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1092420,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1163962157175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1071000,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1132426157175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1050000,
+        "valueIncreaseRate": 1.6545317
+      },
+      {
+        "time": 1069267757175,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 395550,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 61325238,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=678+Castro+St%2C+San+Francisco%2C+CA+94114&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jpYEKbfw0QAO50ocUbIrRaeyFhw="
+          }
+        ],
+        "price": 1345800,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1150,
+        "livingAreaValue": 1150,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "678 Castro St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "678 Castro St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.758022,
+        "longitude": -122.435036,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/678-Castro-St-San-Francisco-CA-94114/61325238_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 125217359,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/5fd253c9c68dafd6bc29e71bb57cc2f5-p_c.jpg"
+          }
+        ],
+        "price": 1725000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1448,
+        "livingAreaValue": 1448,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3437,
+        "lotAreaValue": 3437,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "684 Castro St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "684 Castro St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75798,
+        "longitude": -122.43495,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/684-Castro-St-San-Francisco-CA-94114/125217359_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424078065",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 125308208,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/67e0badb03f8e760ba9f013b5cbdc8d1-p_c.jpg"
+          }
+        ],
+        "price": 1450000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1336,
+        "livingAreaValue": 1336,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3437,
+        "lotAreaValue": 3437,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "686 Castro St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "686 Castro St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.757957,
+        "longitude": -122.434975,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/686-Castro-St-San-Francisco-CA-94114/125308208_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423716572",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 447176693,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9c6ce3796f869f4a8840ffc169d3ec5f-p_c.jpg"
+          }
+        ],
+        "price": 1116100,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1000,
+        "livingAreaValue": 1000,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 0,
+        "lotAreaValue": 0,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "672 Castro St #676A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "672 Castro St #676A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7581,
+        "longitude": -122.435,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/672-Castro-St-676A-San-Francisco-CA-94114/447176693_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "484575",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 447176730,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/42fea8330914675d590f73b9cf4c4ab1-p_c.jpg"
+          }
+        ],
+        "price": 1400700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 0,
+        "livingAreaValue": 0,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 0,
+        "lotAreaValue": 0,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "672 Castro St #674A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "672 Castro St #674A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7581,
+        "longitude": -122.435,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/672-Castro-St-674A-San-Francisco-CA-94114/447176730_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "484573",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2089849709,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1e1ea5d53695b42c7213156d9bb4a503-p_c.jpg"
+          }
+        ],
+        "price": 1371900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 0,
+        "livingArea": 7216,
+        "livingAreaValue": 7216,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4120,
+        "lotAreaValue": 4120,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "672 Castro St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "672 Castro St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75809,
+        "longitude": -122.43514,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/672-Castro-St-San-Francisco-CA-94114/2089849709_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 447361422,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4970d0d9e8b489aebc0a1eb552ed18e8-p_c.jpg"
+          }
+        ],
+        "price": 1150000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1604,
+        "livingAreaValue": 1604,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4120,
+        "lotAreaValue": 4120.776,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "672 Castro St #672",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "672 Castro St #672"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75814,
+        "longitude": -122.43494,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/672-Castro-St-672-San-Francisco-CA-94114/447361422_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425036539",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 455954412,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/59586b7a51292dcd4e26298b2ea5f0f5-p_c.jpg"
+          }
+        ],
+        "price": 1109000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1549,
+        "livingAreaValue": 1549,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4120,
+        "lotAreaValue": 4120.776,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "672 Castro St #674",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94114"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "672 Castro St #674"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.75814,
+        "longitude": -122.43494,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/672-Castro-St-674-San-Francisco-CA-94114/455954412_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425065560",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": true,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tyH-45P9wzSD1nKHyOSInQwU1qQ=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qYptPGg1XXTibENii6IT3etXkpQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wlhAPGzfoND8u99T3MTha4FryMc=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WpYILUV8qNp-eQzrq2Xo8kmNg2w=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DWzXIxT90YmQ4m2i8vlH1SPUHek=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FXryEN-6mxhFnTztN5LlJSiQRxo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hKzHi7zpSmvTw2bRvjHMm4GTYyM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Fur8HBYbZGpkuHnYWBzb54DY0eA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CESbLYytNS2YoBIC0hv6kl5ffQ0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qYptPGg1XXTibENii6IT3etXkpQ=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wlhAPGzfoND8u99T3MTha4FryMc=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WpYILUV8qNp-eQzrq2Xo8kmNg2w=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DWzXIxT90YmQ4m2i8vlH1SPUHek=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FXryEN-6mxhFnTztN5LlJSiQRxo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=hKzHi7zpSmvTw2bRvjHMm4GTYyM=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Fur8HBYbZGpkuHnYWBzb54DY0eA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CESbLYytNS2YoBIC0hv6kl5ffQ0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1AA5303fzSn9QlYNLGy5zOdT5Vc=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2LA1Xz0-ouSnKi4_xOS9SWo2fi8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Fur8HBYbZGpkuHnYWBzb54DY0eA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CESbLYytNS2YoBIC0hv6kl5ffQ0=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1AA5303fzSn9QlYNLGy5zOdT5Vc=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2LA1Xz0-ouSnKi4_xOS9SWo2fi8=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Fur8HBYbZGpkuHnYWBzb54DY0eA=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CESbLYytNS2YoBIC0hv6kl5ffQ0=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=680+Castro+St%2C+San+Francisco%2C+CA+94114&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=a_LVWAZNOPJTeuqgSGTo1MXNpSI="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/680-Castro-St-San-Francisco-CA-94114/61288399_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/680-Castro-St-San-Francisco-CA-94114/61288399_zpid/",
+    "zpid": 61288399
+  }
+}

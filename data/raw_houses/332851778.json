@@ -1,0 +1,1284 @@
+{
+  "basic_info": {
+    "zpid": 332851778,
+    "address": "88-90 Webster St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94117",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "livingArea": 2600,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2440,
+    "lotAreaValue": 2440,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": null,
+    "homeType": "MULTI_FAMILY",
+    "description": "88-90 Webster St, San Francisco, CA 94117 is a multi family home that contains 2,600 sq ft. It contains 4 bedrooms and 2 bathrooms. This home last sold for $1,275,000 in October 2025. \n \nThe Zestimate for this house is $1,277,800. The Rent Zestimate for this home is $5,421/mo. "
+  },
+  "location": {
+    "latitude": 37.77119,
+    "longitude": -122.42828,
+    "neighborhood": "Mint Hill",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1275000,
+    "lastSoldPrice": 1275000,
+    "dateSold": 1759708800000,
+    "dateSoldString": "2025-10-06",
+    "zestimate": 1277800,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 5421,
+    "taxAssessedValue": 954762,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 490
+  },
+  "schools": [
+    {
+      "name": "Muir (John) Elementary School",
+      "rating": 6,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 1.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Mission High School",
+      "rating": 3,
+      "level": "High",
+      "distance": 0.7,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 98,
+    "transitScore": 99,
+    "bikeScore": 85
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-10-06",
+        "time": 1759708800000,
+        "price": 1275000,
+        "pricePerSquareFoot": 490,
+        "priceChangeRate": 0.886094674556213,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2004-09-10",
+        "time": 1094774400000,
+        "price": 676000,
+        "pricePerSquareFoot": 260,
+        "priceChangeRate": 0.4306878306878307,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1997-06-10",
+        "time": 865900800000,
+        "price": 472500,
+        "pricePerSquareFoot": 182,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763622285398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 954762,
+        "valueIncreaseRate": 0.019995833
+      },
+      {
+        "time": 1732086285398,
+        "taxPaid": 11754.42,
+        "taxIncreaseRate": 0.015632257,
+        "value": 936045,
+        "valueIncreaseRate": 0.019997973
+      },
+      {
+        "time": 1700463885398,
+        "taxPaid": 11573.5,
+        "taxIncreaseRate": 0.019991772,
+        "value": 917693,
+        "valueIncreaseRate": 0.019997755
+      },
+      {
+        "time": 1668927885398,
+        "taxPaid": 11346.66,
+        "taxIncreaseRate": 0.018189242,
+        "value": 899701,
+        "valueIncreaseRate": 0.019996304
+      },
+      {
+        "time": 1637391885398,
+        "taxPaid": 11143.96,
+        "taxIncreaseRate": -0.014065408,
+        "value": 882063,
+        "valueIncreaseRate": 0.01035714
+      },
+      {
+        "time": 1605855885398,
+        "taxPaid": 11302.94,
+        "taxIncreaseRate": 0.034971178,
+        "value": 873021,
+        "valueIncreaseRate": 0.019997546
+      },
+      {
+        "time": 1574233485398,
+        "taxPaid": 10921.02,
+        "taxIncreaseRate": 0.035413086,
+        "value": 855905,
+        "valueIncreaseRate": 0.019997021
+      },
+      {
+        "time": 1542697485398,
+        "taxPaid": 10547.5,
+        "taxIncreaseRate": 0.041615274,
+        "value": 839125,
+        "valueIncreaseRate": 0.019995745
+      },
+      {
+        "time": 1511161485398,
+        "taxPaid": 10126.1,
+        "taxIncreaseRate": 0.018429229,
+        "value": 822675,
+        "valueIncreaseRate": 0.019996354
+      },
+      {
+        "time": 1479625485398,
+        "taxPaid": 9942.86,
+        "taxIncreaseRate": 0.013101325,
+        "value": 806547,
+        "valueIncreaseRate": 0.015246055
+      },
+      {
+        "time": 1448003085398,
+        "taxPaid": 9814.28,
+        "taxIncreaseRate": 0.026965734,
+        "value": 794435,
+        "valueIncreaseRate": 0.019974913
+      },
+      {
+        "time": 1416467085398,
+        "taxPaid": 9556.58,
+        "taxIncreaseRate": 0,
+        "value": 778877,
+        "valueIncreaseRate": 0.0045359577
+      },
+      {
+        "time": 1384931085398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 775360,
+        "valueIncreaseRate": 0.019994449
+      },
+      {
+        "time": 1353395085398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 760161,
+        "valueIncreaseRate": 0.019997101
+      },
+      {
+        "time": 1321772685398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 745258,
+        "valueIncreaseRate": 0.007519305
+      },
+      {
+        "time": 1290236685398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 739696,
+        "valueIncreaseRate": -0.0023696714
+      },
+      {
+        "time": 1258700685398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 741453,
+        "valueIncreaseRate": 0.019995378
+      },
+      {
+        "time": 1227164685398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 726918,
+        "valueIncreaseRate": 0.019995285
+      },
+      {
+        "time": 1195542285398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 712668,
+        "valueIncreaseRate": 0.019997252
+      },
+      {
+        "time": 1164006285398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 698696,
+        "valueIncreaseRate": 0.26573527
+      },
+      {
+        "time": 1132470285398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 552008,
+        "valueIncreaseRate": 0.03893503
+      },
+      {
+        "time": 1069311885398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 531321,
+        "valueIncreaseRate": 0.019990094
+      },
+      {
+        "time": 1037775885398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 520908,
+        "valueIncreaseRate": 0.019970277
+      },
+      {
+        "time": 1006239885398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 510709,
+        "valueIncreaseRate": 0.019998163
+      },
+      {
+        "time": 974703885398,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 500696,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 2060444439,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=90+Webster+St%2C+San+Francisco%2C+CA+94102&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uC9HaOHjFXs9kyECNMJkiVojrhk="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "90 Webster St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94102"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "90 Webster St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77119,
+        "longitude": -122.42828,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/90-Webster-St-San-Francisco-CA-94102/2060444439_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2060444440,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/916ce1bf4f3f82dc94c0c65efe12bed6-p_c.jpg"
+          }
+        ],
+        "price": 1275000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1261,
+        "livingAreaValue": 1261,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2440,
+        "lotAreaValue": 2440,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "88 Webster St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "88 Webster St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77119,
+        "longitude": -122.42828,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/88-Webster-St-San-Francisco-CA-94117/2060444440_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425067329",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15079408,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/2b03f703086a42983117a032145fe312-p_c.jpg"
+          }
+        ],
+        "price": 1667200,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1921,
+        "livingAreaValue": 1921,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2439,
+        "lotAreaValue": 2439,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "86 Webster St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "86 Webster St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.771122,
+        "longitude": -122.42827,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/86-Webster-St-San-Francisco-CA-94117/15079408_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 425000586,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/856fe802b69575ecdc6972d9d1da2271-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 905,
+        "livingAreaValue": 905,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "92-98 Webster St #94",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "92-98 Webster St #94"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.771275,
+        "longitude": -122.4283,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/92-98-Webster-St-94-San-Francisco-CA-94117/425000586_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3wrw0fvvg6j7p",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 450725160,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d5e91b20cd41f5a83b1202395a4bb6b7-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1100,
+        "livingAreaValue": 1100,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "92-98 Webster St #96",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "92-98 Webster St #96"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.771275,
+        "longitude": -122.4283,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/92-98-Webster-St-96-San-Francisco-CA-94117/450725160_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3wrw0fvvg6j7p",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2057738229,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/34c45485c8340343757cbac9a8999a11-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 825,
+        "livingAreaValue": 825,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "98 Webster St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94102"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "98 Webster St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.771275,
+        "longitude": -122.4283,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/98-Webster-St-San-Francisco-CA-94102/2057738229_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2060465626,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=92-98+Webster+St%2C+San+Francisco%2C+CA+94117&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zXpC1ejg3YoUKCN6rHgeuJKQekU="
+          }
+        ],
+        "price": 1885935,
+        "currency": "USD",
+        "bedrooms": 9,
+        "bathrooms": 4,
+        "livingArea": 3550,
+        "livingAreaValue": 3550,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3669,
+        "lotAreaValue": 3669,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "92-98 Webster St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "92-98 Webster St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.771275,
+        "longitude": -122.4283,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/92-98-Webster-St-San-Francisco-CA-94117/2060465626_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2062360107,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e2e3fd4679579b8105822214b8ef9179-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "94 Webster St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94102"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "94 Webster St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.771275,
+        "longitude": -122.4283,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/94-Webster-St-San-Francisco-CA-94102/2062360107_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-QVq_ai4Zs6CSYEd5mnZYe2vDYo=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zmc34DrpEhKBtXJrkippFy5fEY0=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=01p3UXr2SIsEHvlCuyUr48u4q0Q=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=j5PNl2YO34jaXM7Vqx1aDFOBy3E=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=H9JcQd__lR7w4AcLaC4kpW1W_m0=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2dIG3VCORPuqUhIJQSYnpQ07nnk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IcQHcap_ZO6Yo-r9Q8omxE52syU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=iegfGpOrF8zIGWahKk1Dn6QpCuw=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0E3Qk5z3BurDG-NnmNRbdt8YhiM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zmc34DrpEhKBtXJrkippFy5fEY0=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=01p3UXr2SIsEHvlCuyUr48u4q0Q=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=j5PNl2YO34jaXM7Vqx1aDFOBy3E=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=H9JcQd__lR7w4AcLaC4kpW1W_m0=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2dIG3VCORPuqUhIJQSYnpQ07nnk=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IcQHcap_ZO6Yo-r9Q8omxE52syU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=iegfGpOrF8zIGWahKk1Dn6QpCuw=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0E3Qk5z3BurDG-NnmNRbdt8YhiM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1WDAi0cnbn6Xo4gRWVr08-alacI=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=72r6k-gofIxYV0oxCX_2VQxyovs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=iegfGpOrF8zIGWahKk1Dn6QpCuw=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0E3Qk5z3BurDG-NnmNRbdt8YhiM=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1WDAi0cnbn6Xo4gRWVr08-alacI=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=72r6k-gofIxYV0oxCX_2VQxyovs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=iegfGpOrF8zIGWahKk1Dn6QpCuw=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=0E3Qk5z3BurDG-NnmNRbdt8YhiM=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.77119064331055,-122.42828369140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=nUu7avAsVyTVZn0NwTVMPSh8lWo="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/88-90-Webster-St-San-Francisco-CA-94117/332851778_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/88-90-Webster-St-San-Francisco-CA-94117/332851778_zpid/",
+    "zpid": 332851778
+  }
+}

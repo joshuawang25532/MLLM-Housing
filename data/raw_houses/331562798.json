@@ -1,0 +1,1284 @@
+{
+  "basic_info": {
+    "zpid": 331562798,
+    "address": "1343-1345 Pierce St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94115",
+    "bedrooms": null,
+    "bathrooms": 2,
+    "livingArea": 2500,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2187,
+    "lotAreaValue": 2187,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": null,
+    "homeType": "MULTI_FAMILY",
+    "description": "1343-1345 Pierce St, San Francisco, CA 94115 is a multi family home that contains 2,500 sq ft. It contains 2 bathrooms. This home last sold for $1,230,000 in May 2025. \n \nThe Zestimate for this house is $1,407,000. The Rent Zestimate for this home is $5,490/mo. "
+  },
+  "location": {
+    "latitude": 37.782646,
+    "longitude": -122.43622,
+    "neighborhood": "Western Addition",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1230000,
+    "lastSoldPrice": 1230000,
+    "dateSold": 1747612800000,
+    "dateSoldString": "2025-05-19",
+    "zestimate": 1407000,
+    "zestimateHighPercent": "16",
+    "zestimateLowPercent": "15",
+    "rentZestimate": 5490,
+    "taxAssessedValue": 373758,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 492
+  },
+  "schools": [
+    {
+      "name": "Parks (Rosa) Elementary School",
+      "rating": 3,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "S.F. International High School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 2.4,
+      "grades": "8-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.6,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 97,
+    "transitScore": 78,
+    "bikeScore": 93
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-05-19",
+        "time": 1747612800000,
+        "price": 1230000,
+        "pricePerSquareFoot": 492,
+        "priceChangeRate": 5.648648648648648,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1995-10-10",
+        "time": 813283200000,
+        "price": 185000,
+        "pricePerSquareFoot": 74,
+        "priceChangeRate": -0.27450980392156865,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1995-02-17",
+        "time": 792979200000,
+        "price": 255000,
+        "pricePerSquareFoot": 102,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763578246420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 373758,
+        "valueIncreaseRate": 0.019998362
+      },
+      {
+        "time": 1732042246420,
+        "taxPaid": 5081.74,
+        "taxIncreaseRate": 0.017011091,
+        "value": 366430,
+        "valueIncreaseRate": 0.019997438
+      },
+      {
+        "time": 1700419846420,
+        "taxPaid": 4996.74,
+        "taxIncreaseRate": 0.02232163,
+        "value": 359246,
+        "valueIncreaseRate": 0.01999699
+      },
+      {
+        "time": 1668883846420,
+        "taxPaid": 4887.64,
+        "taxIncreaseRate": 0.018941948,
+        "value": 352203,
+        "valueIncreaseRate": 0.01999722
+      },
+      {
+        "time": 1637347846420,
+        "taxPaid": 4796.78,
+        "taxIncreaseRate": -0.028197184,
+        "value": 345298,
+        "valueIncreaseRate": 0.010358207
+      },
+      {
+        "time": 1605811846420,
+        "taxPaid": 4935.96,
+        "taxIncreaseRate": 0.033817146,
+        "value": 341758,
+        "valueIncreaseRate": 0.019996539
+      },
+      {
+        "time": 1574189446420,
+        "taxPaid": 4774.5,
+        "taxIncreaseRate": 0.035953004,
+        "value": 335058,
+        "valueIncreaseRate": 0.01999452
+      },
+      {
+        "time": 1542653446420,
+        "taxPaid": 4608.8,
+        "taxIncreaseRate": 0.08256916,
+        "value": 328490,
+        "valueIncreaseRate": 0.019996895
+      },
+      {
+        "time": 1511117446420,
+        "taxPaid": 4257.28,
+        "taxIncreaseRate": 0.024566708,
+        "value": 322050,
+        "valueIncreaseRate": 0.01999772
+      },
+      {
+        "time": 1479581446420,
+        "taxPaid": 4155.2,
+        "taxIncreaseRate": 0.01417583,
+        "value": 315736,
+        "valueIncreaseRate": 0.015244618
+      },
+      {
+        "time": 1447959046420,
+        "taxPaid": 4097.12,
+        "taxIncreaseRate": 0.026661891,
+        "value": 310995,
+        "valueIncreaseRate": 0.01997678
+      },
+      {
+        "time": 1416423046420,
+        "taxPaid": 3990.72,
+        "taxIncreaseRate": 0,
+        "value": 304904,
+        "valueIncreaseRate": 0.004536664
+      },
+      {
+        "time": 1384887046420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 303527,
+        "valueIncreaseRate": 0.019998252
+      },
+      {
+        "time": 1353351046420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 297576,
+        "valueIncreaseRate": 0.01999712
+      },
+      {
+        "time": 1321728646420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 291742,
+        "valueIncreaseRate": 0.0075251325
+      },
+      {
+        "time": 1290192646420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 289563,
+        "valueIncreaseRate": -0.0023703622
+      },
+      {
+        "time": 1258656646420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 290251,
+        "valueIncreaseRate": 0.019995714
+      },
+      {
+        "time": 1227120646420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 284561,
+        "valueIncreaseRate": 0.01999405
+      },
+      {
+        "time": 1195498246420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 278983,
+        "valueIncreaseRate": 0.01999905
+      },
+      {
+        "time": 1163962246420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 273513,
+        "valueIncreaseRate": 0.019996196
+      },
+      {
+        "time": 1132426246420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 268151,
+        "valueIncreaseRate": 0.039034862
+      },
+      {
+        "time": 1069267846420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 258077,
+        "valueIncreaseRate": 0.019990593
+      },
+      {
+        "time": 1037731846420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 253019,
+        "valueIncreaseRate": 0.019999355
+      },
+      {
+        "time": 1006195846420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 248058,
+        "valueIncreaseRate": 0.020000493
+      },
+      {
+        "time": 974659846420,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 243194,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 449988926,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/d832e7ecfcf8399de010741d7343bc9a-p_c.jpg"
+          }
+        ],
+        "price": 1230000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 0,
+        "livingArea": 2500,
+        "livingAreaValue": 2500,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2188,
+        "lotAreaValue": 2188,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1343 Pierce St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1343 Pierce St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782658,
+        "longitude": -122.43622,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1343-Pierce-St-San-Francisco-CA-94115/449988926_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425028912",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332851363,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.782711029052734,-122.43623352050781&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1HcQsyyOe-soCzHH0VC0BwXFGwU="
+          }
+        ],
+        "price": 1540500,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 3025,
+        "livingAreaValue": 3025,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2186,
+        "lotAreaValue": 2186,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1901-1903 Ofarrell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1901-1903 Ofarrell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78271,
+        "longitude": -122.43623,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1901-1903-Ofarrell-St-San-Francisco-CA-94115/332851363_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332851364,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1339-1341+Pierce+St%2C+San+Francisco%2C+CA+94115&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Qq3Ay15SnTAn6fG7PR4izArGG-w="
+          }
+        ],
+        "price": 1905100,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 3894,
+        "livingAreaValue": 3894,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2186,
+        "lotAreaValue": 2186,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1339-1341 Pierce St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1339-1341 Pierce St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782578,
+        "longitude": -122.4362,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1339-1341-Pierce-St-San-Francisco-CA-94115/332851364_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15077341,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1335+Pierce+St%2C+San+Francisco%2C+CA+94115&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nFp7B1LFo3HGQwvyyTocWO9NoqA="
+          }
+        ],
+        "price": 1938600,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2170,
+        "livingAreaValue": 2170,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2187,
+        "lotAreaValue": 2187,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1335 Pierce St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1335 Pierce St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78251,
+        "longitude": -122.43619,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1335-Pierce-St-San-Francisco-CA-94115/15077341_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332851365,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.78258514404297,-122.4364013671875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4jt_nCpwgOfffl2IXQ5uEsMrMUU="
+          }
+        ],
+        "price": 2006800,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 1550,
+        "livingAreaValue": 1550,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1905-1907 Ofarrell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1905-1907 Ofarrell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782585,
+        "longitude": -122.4364,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1905-1907-Ofarrell-St-San-Francisco-CA-94115/332851365_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 458037638,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc49f24392bf5729d52cc5bb42ce6a9b-p_c.jpg"
+          }
+        ],
+        "price": 995000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1255,
+        "livingAreaValue": 1255,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2495,
+        "lotAreaValue": 2495.988,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1907 Ofarrell St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1907 Ofarrell St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782585,
+        "longitude": -122.4364,
+        "homeStatus": "PENDING",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1907-Ofarrell-St-San-Francisco-CA-94115/458037638_zpid/",
+        "hdpTypeDimension": "Pending",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "For Sale by Agent",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": true
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425084904",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15077363,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/02c075ddceb352420c2f5640a85fbfb6-p_c.jpg"
+          }
+        ],
+        "price": 750000,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": 856,
+        "livingAreaValue": 856,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3794,
+        "lotAreaValue": 3794.076,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1329 Pierce St APT 7",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1329 Pierce St APT 7"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.782455,
+        "longitude": -122.43609,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1329-Pierce-St-APT-7-San-Francisco-CA-94115/15077363_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424025585",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15077357,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=1329+Pierce+St%2C+San+Francisco%2C+CA+94115&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=R3dv72NBxXAHfuC6kjFMimmj-XM="
+          }
+        ],
+        "price": 1105700,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1637,
+        "livingAreaValue": 1637,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1329 Pierce St APT 1",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94115"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1329 Pierce St APT 1"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78242,
+        "longitude": -122.43628,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/1329-Pierce-St-APT-1-San-Francisco-CA-94115/15077357_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IEMV0_vY2JWS4nRtw2fwwo0q6qU=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sSON2_x3mVDO2HDACt-KiFFI9yw=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_yue_bQBgxwj74FFfDm0eVZjK_U=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FxRgGOHWMk7NfPOm7klHQish9bI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Y3wQ7-7jd4hRFBke6b3Fu94aJ3o=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Rr4tv9WjPlcYIQwA1qQNCPt4U70=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=F-6gPr6D3BqrXacw9Y15gaZRzjY=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5HZkT4nvAHyMrjHDvhJc4m-IAKI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rCCqJFjSqIJSsOSUEKxwenCW2XE=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=sSON2_x3mVDO2HDACt-KiFFI9yw=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_yue_bQBgxwj74FFfDm0eVZjK_U=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=FxRgGOHWMk7NfPOm7klHQish9bI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Y3wQ7-7jd4hRFBke6b3Fu94aJ3o=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Rr4tv9WjPlcYIQwA1qQNCPt4U70=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=F-6gPr6D3BqrXacw9Y15gaZRzjY=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5HZkT4nvAHyMrjHDvhJc4m-IAKI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rCCqJFjSqIJSsOSUEKxwenCW2XE=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HUQhC9fJT7JRJ3CSNKdb3JB2XCg=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HwfBiHE9AJBvnuF2cBhNrR8oa3A=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5HZkT4nvAHyMrjHDvhJc4m-IAKI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rCCqJFjSqIJSsOSUEKxwenCW2XE=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HUQhC9fJT7JRJ3CSNKdb3JB2XCg=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=HwfBiHE9AJBvnuF2cBhNrR8oa3A=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5HZkT4nvAHyMrjHDvhJc4m-IAKI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rCCqJFjSqIJSsOSUEKxwenCW2XE=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=1343-1345+Pierce+St%2C+San+Francisco%2C+CA+94115&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=E56TtnwizVatJCQINt9rbShZQ7A="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1343-1345-Pierce-St-San-Francisco-CA-94115/331562798_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1343-1345-Pierce-St-San-Francisco-CA-94115/331562798_zpid/",
+    "zpid": 331562798
+  }
+}

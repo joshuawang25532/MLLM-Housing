@@ -1,0 +1,1266 @@
+{
+  "basic_info": {
+    "zpid": 15118389,
+    "address": "20 Gateview Ct",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94116",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "livingArea": 2320,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3489,
+    "lotAreaValue": 3489,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1975,
+    "homeType": "SINGLE_FAMILY",
+    "description": "20 Gateview Ct, San Francisco, CA 94116 is a single family home that contains 2,320 sq ft and was built in 1975. It contains 4 bedrooms and 3 bathrooms. This home last sold for $1,000,000 in December 2024. \n \nThe Zestimate for this house is $1,018,500. The Rent Zestimate for this home is $6,714/mo. "
+  },
+  "location": {
+    "latitude": 37.748276,
+    "longitude": -122.466515,
+    "neighborhood": "Golden Gate Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1000000,
+    "lastSoldPrice": 1000000,
+    "dateSold": 1735516800000,
+    "dateSoldString": "2024-12-30",
+    "zestimate": 1018500,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 6714,
+    "taxAssessedValue": 1076262,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 431
+  },
+  "schools": [
+    {
+      "name": "West Portal Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.4,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Hoover (Herbert) Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.2,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lincoln (Abraham) High School",
+      "rating": 9,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 56,
+    "transitScore": 75,
+    "bikeScore": 44
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2024-12-30",
+        "time": 1735516800000,
+        "price": 1000000,
+        "pricePerSquareFoot": 431,
+        "priceChangeRate": 0.7094017094017094,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1995-08-31",
+        "time": 809827200000,
+        "price": 585000,
+        "pricePerSquareFoot": 252,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763642256953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1076262,
+        "valueIncreaseRate": 0.019998863
+      },
+      {
+        "time": 1732106256953,
+        "taxPaid": 13149.78,
+        "taxIncreaseRate": 0.0155195575,
+        "value": 1055160,
+        "valueIncreaseRate": 0.019998608
+      },
+      {
+        "time": 1700483856953,
+        "taxPaid": 12948.82,
+        "taxIncreaseRate": 0.019804113,
+        "value": 1034472,
+        "valueIncreaseRate": 0.01999923
+      },
+      {
+        "time": 1668947856953,
+        "taxPaid": 12697.36,
+        "taxIncreaseRate": 0.018136268,
+        "value": 1014189,
+        "valueIncreaseRate": 0.019998914
+      },
+      {
+        "time": 1637411856953,
+        "taxPaid": 12471.18,
+        "taxIncreaseRate": -0.008988988,
+        "value": 994304,
+        "valueIncreaseRate": 0.010359624
+      },
+      {
+        "time": 1605875856953,
+        "taxPaid": 12584.3,
+        "taxIncreaseRate": 0.03948869,
+        "value": 984109,
+        "valueIncreaseRate": 0.019999731
+      },
+      {
+        "time": 1574253456953,
+        "taxPaid": 12106.24,
+        "taxIncreaseRate": 0.034788582,
+        "value": 964813,
+        "valueIncreaseRate": 0.019999027
+      },
+      {
+        "time": 1542717456953,
+        "taxPaid": 11699.24,
+        "taxIncreaseRate": 0.03871369,
+        "value": 945896,
+        "valueIncreaseRate": 0.019998921
+      },
+      {
+        "time": 1511181456953,
+        "taxPaid": 11263.2,
+        "taxIncreaseRate": 0.017184291,
+        "value": 927350,
+        "valueIncreaseRate": 0.019999625
+      },
+      {
+        "time": 1479645456953,
+        "taxPaid": 11072.92,
+        "taxIncreaseRate": 0.0125571815,
+        "value": 909167,
+        "valueIncreaseRate": 0.01524826
+      },
+      {
+        "time": 1448023056953,
+        "taxPaid": 10935.6,
+        "taxIncreaseRate": 0.026990421,
+        "value": 895512,
+        "valueIncreaseRate": 0.01997902
+      },
+      {
+        "time": 1416487056953,
+        "taxPaid": 10648.2,
+        "taxIncreaseRate": 0,
+        "value": 877971,
+        "valueIncreaseRate": 0.0045388807
+      },
+      {
+        "time": 1384951056953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 874004,
+        "valueIncreaseRate": 0.019998413
+      },
+      {
+        "time": 1353415056953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 856868,
+        "valueIncreaseRate": 0.019999595
+      },
+      {
+        "time": 1321792656953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 840067,
+        "valueIncreaseRate": 0.0075258575
+      },
+      {
+        "time": 1290256656953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 833792,
+        "valueIncreaseRate": -0.0023690672
+      },
+      {
+        "time": 1258720656953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 835772,
+        "valueIncreaseRate": 0.019999146
+      },
+      {
+        "time": 1227184656953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 819385,
+        "valueIncreaseRate": 0.019998258
+      },
+      {
+        "time": 1195562256953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 803320,
+        "valueIncreaseRate": 0.019999517
+      },
+      {
+        "time": 1164026256953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 787569,
+        "valueIncreaseRate": 0.019999301
+      },
+      {
+        "time": 1132490256953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 772127,
+        "valueIncreaseRate": 0.039041065
+      },
+      {
+        "time": 1069331856953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 743115,
+        "valueIncreaseRate": 0.019994564
+      },
+      {
+        "time": 1037795856953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 728548,
+        "valueIncreaseRate": 0.020001063
+      },
+      {
+        "time": 1006259856953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 714262,
+        "valueIncreaseRate": 0.0199998
+      },
+      {
+        "time": 974723856953,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 700257,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15118388,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=18+Gateview+Ct%2C+San+Francisco%2C+CA+94116&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=TB1TGNfsk2hfCuUeygkSsEbNu68="
+          }
+        ],
+        "price": 1801100,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2320,
+        "livingAreaValue": 2320,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2726,
+        "lotAreaValue": 2726,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "18 Gateview Ct",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "18 Gateview Ct"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.748383,
+        "longitude": -122.46654,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/18-Gateview-Ct-San-Francisco-CA-94116/15118388_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118387,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/595808b002d55fef47cbd99bd468d51d-p_c.jpg"
+          }
+        ],
+        "price": 1809100,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "livingArea": 2500,
+        "livingAreaValue": 2500,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4477,
+        "lotAreaValue": 4477,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "8 Gateview Ct",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "8 Gateview Ct"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.748512,
+        "longitude": -122.46656,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/8-Gateview-Ct-San-Francisco-CA-94116/15118387_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118356,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/33efe7dbd9f94ca40aeec5fb9e472ab0-p_c.jpg"
+          }
+        ],
+        "price": 2405000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 2830,
+        "livingAreaValue": 2830,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3362,
+        "lotAreaValue": 3362.832,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "103 Mendosa Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "103 Mendosa Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.748016,
+        "longitude": -122.46641,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/103-Mendosa-Ave-San-Francisco-CA-94116/15118356_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424075547",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118386,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/bd8974e688ac2a6bee112b7c7992190a-p_c.jpg"
+          }
+        ],
+        "price": 2216700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2501,
+        "livingAreaValue": 2501,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2769,
+        "lotAreaValue": 2769,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2 Gateview Ct",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2 Gateview Ct"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.748528,
+        "longitude": -122.46674,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2-Gateview-Ct-San-Francisco-CA-94116/15118386_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118390,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fbc1f97ff57cb6e2ba6cabb7decb13b3-p_c.jpg"
+          }
+        ],
+        "price": 1770000,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "livingArea": 2548,
+        "livingAreaValue": 2548,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3201,
+        "lotAreaValue": 3201.66,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "19 Gateview Ct",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "19 Gateview Ct"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74822,
+        "longitude": -122.46696,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/19-Gateview-Ct-San-Francisco-CA-94116/15118390_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425069705",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118400,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4ba5954c1889a36010386ffb16cecf44-p_c.jpg"
+          }
+        ],
+        "price": 3655300,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 4.5,
+        "livingArea": 4011,
+        "livingAreaValue": 4011,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 5275,
+        "lotAreaValue": 5275,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "98 Mendosa Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "98 Mendosa Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.748272,
+        "longitude": -122.46605,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/98-Mendosa-Ave-San-Francisco-CA-94116/15118400_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 53734546,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=2168+10th+Ave%2C+San+Francisco%2C+CA+94116&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VvWyjr2iSA3it3gTYOca6EIJZZ4="
+          }
+        ],
+        "price": 1515700,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1736,
+        "livingAreaValue": 1736,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2017,
+        "lotAreaValue": 2017,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "2168 10th Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "2168 10th Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74848,
+        "longitude": -122.466125,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/2168-10th-Ave-San-Francisco-CA-94116/53734546_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15118357,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/98fbc8f6ae2e329b6035e91eb257ac5c-p_c.jpg"
+          }
+        ],
+        "price": 2263800,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "livingArea": 2464,
+        "livingAreaValue": 2464,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4587,
+        "lotAreaValue": 4587,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "107 Mendosa Ave",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94116"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "107 Mendosa Ave"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.747906,
+        "longitude": -122.46645,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/107-Mendosa-Ave-San-Francisco-CA-94116/15118357_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6gghOuSMnkrq7DpQcGZ_ZrfKzeI=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9SD60nUm113RWRSFltI5812gNfo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-9stxUcOZzB1CqoiVv1Y5HST7pk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=I8yzPJdqP5gmSXcJgaM9KtxOkFE=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=BoNpE4grjAfZF0Q66uPnbY0JuK8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3mkY1sDtYHl3ZynNis8b_b5rISo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=J5WFtLG2BBcbOqTiJsYAr8q2xs8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eEFcAwgyGI87qO932gQ5j-qcVH8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MccktI_bOJfHiuttQzgq3onGnqw=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9SD60nUm113RWRSFltI5812gNfo=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=-9stxUcOZzB1CqoiVv1Y5HST7pk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=I8yzPJdqP5gmSXcJgaM9KtxOkFE=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=BoNpE4grjAfZF0Q66uPnbY0JuK8=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3mkY1sDtYHl3ZynNis8b_b5rISo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=J5WFtLG2BBcbOqTiJsYAr8q2xs8=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eEFcAwgyGI87qO932gQ5j-qcVH8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MccktI_bOJfHiuttQzgq3onGnqw=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AAcCVkQE9gcT93UySB0idGWvTzE=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4UsR_veRu-emyh91onA5Xd9n2Ao=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eEFcAwgyGI87qO932gQ5j-qcVH8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MccktI_bOJfHiuttQzgq3onGnqw=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=AAcCVkQE9gcT93UySB0idGWvTzE=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=4UsR_veRu-emyh91onA5Xd9n2Ao=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eEFcAwgyGI87qO932gQ5j-qcVH8=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=MccktI_bOJfHiuttQzgq3onGnqw=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.74827575683594,-122.46651458740234&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9zdHpZjnR2e3IUjgDEfgZkO7aUI="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/20-Gateview-Ct-San-Francisco-CA-94116/15118389_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/20-Gateview-Ct-San-Francisco-CA-94116/15118389_zpid/",
+    "zpid": 15118389
+  }
+}

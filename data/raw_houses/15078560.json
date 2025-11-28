@@ -1,0 +1,1292 @@
+{
+  "basic_info": {
+    "zpid": 15078560,
+    "address": "1021 Hayes St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94117",
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "livingArea": 4081,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 2060,
+    "lotAreaValue": 2060,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1891,
+    "homeType": "SINGLE_FAMILY",
+    "description": "1021 Hayes St, San Francisco, CA 94117 is a single family home that contains 4,081 sq ft and was built in 1891. It contains 4 bedrooms and 3.5 bathrooms. This home last sold for $4,500,000 in March 2025. \n \nThe Zestimate for this house is $4,373,300. The Rent Zestimate for this home is $8,348/mo. "
+  },
+  "location": {
+    "latitude": 37.77536,
+    "longitude": -122.43325,
+    "neighborhood": "Alamo Square",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": false,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 4500000,
+    "lastSoldPrice": 4500000,
+    "dateSold": 1742169600000,
+    "dateSoldString": "2025-03-17",
+    "zestimate": 4373300,
+    "zestimateHighPercent": "14",
+    "zestimateLowPercent": "12",
+    "rentZestimate": 8348,
+    "taxAssessedValue": 3491438,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1103
+  },
+  "schools": [
+    {
+      "name": "Muir (John) Elementary School",
+      "rating": 6,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Lick (James) Middle School",
+      "rating": 3,
+      "level": "Middle",
+      "distance": 1.8,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 97,
+    "transitScore": 87,
+    "bikeScore": 75
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-03-17",
+        "time": 1742169600000,
+        "price": 4500000,
+        "pricePerSquareFoot": 1103,
+        "priceChangeRate": 0.7647058823529411,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2013-03-28",
+        "time": 1364428800000,
+        "price": 2550000,
+        "pricePerSquareFoot": 625,
+        "priceChangeRate": 0.24390243902439024,
+        "event": "Sold",
+        "source": "SFAR",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/Nina-Hatvany/",
+          "name": "Nina Hatvany"
+        },
+        "sellerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/bonniespindlerRE/",
+          "name": "Bonnie Spindler"
+        },
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "405419",
+          "infoString2": "SFAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "2008-01-08",
+        "time": 1199750400000,
+        "price": 2050000,
+        "pricePerSquareFoot": 502,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763621483009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 3491438,
+        "valueIncreaseRate": 0.019999532
+      },
+      {
+        "time": 1732085483009,
+        "taxPaid": 40805.28,
+        "taxIncreaseRate": 0.014923412,
+        "value": 3422980,
+        "valueIncreaseRate": 0.019999618
+      },
+      {
+        "time": 1700463083009,
+        "taxPaid": 40205.28,
+        "taxIncreaseRate": 0.018780608,
+        "value": 3355864,
+        "valueIncreaseRate": 0.01999961
+      },
+      {
+        "time": 1668927083009,
+        "taxPaid": 39464.12,
+        "taxIncreaseRate": 0.01783475,
+        "value": 3290064,
+        "valueIncreaseRate": 0.019999664
+      },
+      {
+        "time": 1637391083009,
+        "taxPaid": 38772.62,
+        "taxIncreaseRate": -0.004987797,
+        "value": 3225554,
+        "valueIncreaseRate": 0.010359338
+      },
+      {
+        "time": 1605855083009,
+        "taxPaid": 38966.98,
+        "taxIncreaseRate": 0.035704136,
+        "value": 3192482,
+        "valueIncreaseRate": 0.01999945
+      },
+      {
+        "time": 1574232683009,
+        "taxPaid": 37623.66,
+        "taxIncreaseRate": 0.03506949,
+        "value": 3129886,
+        "valueIncreaseRate": 0.019999564
+      },
+      {
+        "time": 1542696683009,
+        "taxPaid": 36348.92,
+        "taxIncreaseRate": 0.03842496,
+        "value": 3068517,
+        "valueIncreaseRate": 0.038186513
+      },
+      {
+        "time": 1511160683009,
+        "taxPaid": 35003.9,
+        "taxIncreaseRate": 0.049348675,
+        "value": 2955651,
+        "valueIncreaseRate": 0.05461036
+      },
+      {
+        "time": 1479624683009,
+        "taxPaid": 33357.74,
+        "taxIncreaseRate": 0.035852946,
+        "value": 2802600,
+        "valueIncreaseRate": 0.03886341
+      },
+      {
+        "time": 1448002283009,
+        "taxPaid": 32203.16,
+        "taxIncreaseRate": 0.060270812,
+        "value": 2697756,
+        "valueIncreaseRate": 0.053162586
+      },
+      {
+        "time": 1416466283009,
+        "taxPaid": 30372.58,
+        "taxIncreaseRate": 0,
+        "value": 2561576,
+        "valueIncreaseRate": 0.17145601
+      },
+      {
+        "time": 1384930283009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2186660,
+        "valueIncreaseRate": 0.019999674
+      },
+      {
+        "time": 1353394283009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2143785,
+        "valueIncreaseRate": 0.019999515
+      },
+      {
+        "time": 1321771883009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2101751,
+        "valueIncreaseRate": 0.0075295633
+      },
+      {
+        "time": 1290235883009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2086044,
+        "valueIncreaseRate": -0.0023701577
+      },
+      {
+        "time": 1258699883009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 2091000,
+        "valueIncreaseRate": 53.085514
+      },
+      {
+        "time": 1227163883009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 38661,
+        "valueIncreaseRate": 0.019971507
+      },
+      {
+        "time": 1195541483009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 37904,
+        "valueIncreaseRate": 0.019966632
+      },
+      {
+        "time": 1164005483009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 37162,
+        "valueIncreaseRate": 0.019981336
+      },
+      {
+        "time": 1132469483009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 36434,
+        "valueIncreaseRate": 0.03901215
+      },
+      {
+        "time": 1069311083009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 35066,
+        "valueIncreaseRate": 0.019953461
+      },
+      {
+        "time": 1037775083009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 34380,
+        "valueIncreaseRate": 0.01996618
+      },
+      {
+        "time": 1006239083009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 33707,
+        "valueIncreaseRate": 0.020002421
+      },
+      {
+        "time": 974703083009,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 33046,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 332851521,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.77537155151367,-122.43316650390625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ecuH6HEbOBUxGk7nJTKt_NMCGWs="
+          }
+        ],
+        "price": 1645900,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 3,
+        "livingArea": 4060,
+        "livingAreaValue": 4060,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2060,
+        "lotAreaValue": 2060,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1015-1019 Hayes St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1015-1019 Hayes St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77537,
+        "longitude": -122.43317,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1015-1019-Hayes-St-San-Francisco-CA-94117/332851521_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2102669601,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f1c737722d3361ee6209a7b2c188ec30-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1019 Hayes St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1019 Hayes St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77537,
+        "longitude": -122.43317,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1019-Hayes-St-San-Francisco-CA-94117/2102669601_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2102863663,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0b6f66d754d1bf924e4cb2f1a2580943-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "1015 Hayes St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1015 Hayes St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77537,
+        "longitude": -122.43317,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1015-Hayes-St-San-Francisco-CA-94117/2102863663_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 447273885,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/765ffd308c840a8d038053dcfb4e61df-p_c.jpg"
+          }
+        ],
+        "price": 2888300,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "livingArea": 3585,
+        "livingAreaValue": 3585,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3713,
+        "lotAreaValue": 3713,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1027 Hayes St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1027 Hayes St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775356,
+        "longitude": -122.43334,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/1027-Hayes-St-San-Francisco-CA-94117/447273885_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "421545949",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332851520,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.775264739990234,-122.43341827392578&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Aw5p8rmVU6noU2VZUPeHyZDFROs="
+          }
+        ],
+        "price": 1983300,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 2,
+        "livingArea": 3306,
+        "livingAreaValue": 3306,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3711,
+        "lotAreaValue": 3711,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1033-1035 Hayes St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1033-1035 Hayes St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775265,
+        "longitude": -122.43342,
+        "homeStatus": "OTHER",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/1033-1035-Hayes-St-San-Francisco-CA-94117/332851520_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2096645475,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/2d1d5a44533002be8764100aa5ae89e3-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1600,
+        "livingAreaValue": 1600,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3200,
+        "lotAreaValue": 3200,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "1033 Hayes St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "1033 Hayes St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.775265,
+        "longitude": -122.43342,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/1033-Hayes-St-San-Francisco-CA-94117/2096645475_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2072582158,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9c1b8317b8291834e157b61073508140-p_c.jpg"
+          }
+        ],
+        "price": 5825000,
+        "currency": "USD",
+        "bedrooms": 12,
+        "bathrooms": 0,
+        "livingArea": 13020,
+        "livingAreaValue": 13020,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 4950,
+        "lotAreaValue": 4950,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "655 Steiner St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "655 Steiner St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77541,
+        "longitude": -122.43304,
+        "homeStatus": "SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/655-Steiner-St-San-Francisco-CA-94117/2072582158_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424057888",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 449412033,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cb8d1a59d462a4d90db3702e4d4a8e20-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "655 Steiner St APT 105",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94117"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "655 Steiner St APT 105"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.77539,
+        "longitude": -122.43302,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/655-Steiner-St-APT-105-San-Francisco-CA-94117/449412033_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "5gw2j46cr1uum",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZgmoF03t084xJEtjKvlmpYoi0vM=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rT1jmhQ23maxjZVPoP9I8qSQyaY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pu5Lrinzstwdmibln0o_fdU5GQk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9dFIsI-NFZ1xBIoVNkGOpY0vQrQ=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=44N-asZhhJ-xuGbJX2V-hL2c4iI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZoNF-J-bDCPPy5Wv5YOuNWB3e8U=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Sldr4yutuGO5p-blhlnGwqn5oq4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IIw9_Xj9WDDfiHEnjMsT58GVh14=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wA4ED9ztUZeuXAAITGuhuxa8gos=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rT1jmhQ23maxjZVPoP9I8qSQyaY=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pu5Lrinzstwdmibln0o_fdU5GQk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=9dFIsI-NFZ1xBIoVNkGOpY0vQrQ=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=44N-asZhhJ-xuGbJX2V-hL2c4iI=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ZoNF-J-bDCPPy5Wv5YOuNWB3e8U=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Sldr4yutuGO5p-blhlnGwqn5oq4=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IIw9_Xj9WDDfiHEnjMsT58GVh14=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wA4ED9ztUZeuXAAITGuhuxa8gos=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=RsooradUY_wQBvs3n19ifx7J2XM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NlrVT9fcP5O2wmf4cXOYPbvQ1Sg=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IIw9_Xj9WDDfiHEnjMsT58GVh14=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wA4ED9ztUZeuXAAITGuhuxa8gos=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=RsooradUY_wQBvs3n19ifx7J2XM=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=NlrVT9fcP5O2wmf4cXOYPbvQ1Sg=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=IIw9_Xj9WDDfiHEnjMsT58GVh14=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wA4ED9ztUZeuXAAITGuhuxa8gos=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.775360107421875,-122.4332504272461&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=5O13ILJObBcO7fdKJRCv-v1rzQ4="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/1021-Hayes-St-San-Francisco-CA-94117/15078560_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/1021-Hayes-St-San-Francisco-CA-94117/15078560_zpid/",
+    "zpid": 15078560
+  }
+}

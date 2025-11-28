@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 15135670,
+    "address": "457 Ulloa St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94127",
+    "bedrooms": null,
+    "bathrooms": 1,
+    "livingArea": 1225,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3746,
+    "lotAreaValue": 3746,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1921,
+    "homeType": "SINGLE_FAMILY",
+    "description": "457 Ulloa St, San Francisco, CA 94127 is a single family home that contains 1,225 sq ft and was built in 1921. It contains 1 bathroom. This home last sold for $1,418,000 in June 2025. \n \nThe Zestimate for this house is $1,439,800. The Rent Zestimate for this home is $4,960/mo. "
+  },
+  "location": {
+    "latitude": 37.74091,
+    "longitude": -122.4587,
+    "neighborhood": "Laguna Honda",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1418000,
+    "lastSoldPrice": 1418000,
+    "dateSold": 1748822400000,
+    "dateSoldString": "2025-06-02",
+    "zestimate": 1439800,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 4960,
+    "taxAssessedValue": 81031,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 1158
+  },
+  "schools": [
+    {
+      "name": "West Portal Elementary School",
+      "rating": 7,
+      "level": "Elementary",
+      "distance": 0.3,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Hoover (Herbert) Middle School",
+      "rating": 7,
+      "level": "Middle",
+      "distance": 0.7,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Academy (The)- SF @Mcateer",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.6,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 76,
+    "transitScore": 74,
+    "bikeScore": 55
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-06-02",
+        "time": 1748822400000,
+        "price": 1418000,
+        "pricePerSquareFoot": 1158,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763641228072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 81031,
+        "valueIncreaseRate": 0.019989174
+      },
+      {
+        "time": 1732105228072,
+        "taxPaid": 959.58,
+        "taxIncreaseRate": 0.014612595,
+        "value": 79443,
+        "valueIncreaseRate": 0.01997766
+      },
+      {
+        "time": 1700482828072,
+        "taxPaid": 945.76,
+        "taxIncreaseRate": 0.01777799,
+        "value": 77887,
+        "valueIncreaseRate": 0.019984024
+      },
+      {
+        "time": 1668946828072,
+        "taxPaid": 929.24,
+        "taxIncreaseRate": 0.017297236,
+        "value": 76361,
+        "valueIncreaseRate": 0.019982636
+      },
+      {
+        "time": 1637410828072,
+        "taxPaid": 913.44,
+        "taxIncreaseRate": -0.0018358168,
+        "value": 74865,
+        "valueIncreaseRate": 0.010351157
+      },
+      {
+        "time": 1605874828072,
+        "taxPaid": 915.12,
+        "taxIncreaseRate": 0.033239998,
+        "value": 74098,
+        "valueIncreaseRate": 0.019987335
+      },
+      {
+        "time": 1574252428072,
+        "taxPaid": 885.68,
+        "taxIncreaseRate": 0.03238136,
+        "value": 72646,
+        "valueIncreaseRate": 0.019993823
+      },
+      {
+        "time": 1542716428072,
+        "taxPaid": 857.9,
+        "taxIncreaseRate": 0.012271415,
+        "value": 71222,
+        "valueIncreaseRate": 0.019992553
+      },
+      {
+        "time": 1511180428072,
+        "taxPaid": 847.5,
+        "taxIncreaseRate": 0.05449793,
+        "value": 69826,
+        "valueIncreaseRate": 0.019997954
+      },
+      {
+        "time": 1479644428072,
+        "taxPaid": 803.7,
+        "taxIncreaseRate": 0.012701315,
+        "value": 68457,
+        "valueIncreaseRate": 0.015245666
+      },
+      {
+        "time": 1448022028072,
+        "taxPaid": 793.62,
+        "taxIncreaseRate": 0.026542518,
+        "value": 67429,
+        "valueIncreaseRate": 0.019967023
+      },
+      {
+        "time": 1416486028072,
+        "taxPaid": 773.1,
+        "taxIncreaseRate": 0,
+        "value": 66109,
+        "valueIncreaseRate": 0.0045281183
+      },
+      {
+        "time": 1384950028072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 65811,
+        "valueIncreaseRate": 0.01999349
+      },
+      {
+        "time": 1353414028072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 64521,
+        "valueIncreaseRate": 0.019981978
+      },
+      {
+        "time": 1321791628072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 63257,
+        "valueIncreaseRate": 0.007485626
+      },
+      {
+        "time": 1290255628072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62787,
+        "valueIncreaseRate": -0.0023674844
+      },
+      {
+        "time": 1258719628072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 62936,
+        "valueIncreaseRate": 0.01998282
+      },
+      {
+        "time": 1227183628072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 61703,
+        "valueIncreaseRate": 0.019985452
+      },
+      {
+        "time": 1195561228072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 60494,
+        "valueIncreaseRate": 0.019980105
+      },
+      {
+        "time": 1164025228072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 59309,
+        "valueIncreaseRate": 0.019983834
+      },
+      {
+        "time": 1132489228072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 58147,
+        "valueIncreaseRate": 0.039025784
+      },
+      {
+        "time": 1069330828072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 55963,
+        "valueIncreaseRate": 0.019975577
+      },
+      {
+        "time": 1037794828072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 54867,
+        "valueIncreaseRate": 0.019965423
+      },
+      {
+        "time": 1006258828072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 53793,
+        "valueIncreaseRate": 0.02000455
+      },
+      {
+        "time": 974722828072,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 52738,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15135671,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74097442626953,-122.45860290527344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=UMEsmQ2kxIzoz8Vzewdd6PvHxm8="
+          }
+        ],
+        "price": 1854300,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "livingArea": 1920,
+        "livingAreaValue": 1920,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3497,
+        "lotAreaValue": 3497,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "451 Ulloa St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "451 Ulloa St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.740974,
+        "longitude": -122.4586,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/451-Ulloa-St-San-Francisco-CA-94127/15135671_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15135669,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/83eebec60fb38f91bf0bc561dba8d305-p_c.jpg"
+          }
+        ],
+        "price": 1635300,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1466,
+        "livingAreaValue": 1466,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3934,
+        "lotAreaValue": 3934,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "463 Ulloa St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "463 Ulloa St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.740864,
+        "longitude": -122.45882,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/463-Ulloa-St-San-Francisco-CA-94127/15135669_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15135672,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=447+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rJJaY5T7uijAY8D2HqejOl_rhMU="
+          }
+        ],
+        "price": 1481300,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": 1,
+        "livingArea": 1450,
+        "livingAreaValue": 1450,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3497,
+        "lotAreaValue": 3497,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "447 Ulloa St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "447 Ulloa St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.741028,
+        "longitude": -122.4585,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/447-Ulloa-St-San-Francisco-CA-94127/15135672_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15135668,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/476187996782dd5c5cc3610c15db88ca-p_c.jpg"
+          }
+        ],
+        "price": 2180000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2249,
+        "livingAreaValue": 2249,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3524,
+        "lotAreaValue": 3524.004,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "469 Ulloa St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "469 Ulloa St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74088,
+        "longitude": -122.459,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/469-Ulloa-St-San-Francisco-CA-94127/15135668_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424025137",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15135673,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=441+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JL3L1jafUBRuRftJPXS1SfxvHTs="
+          }
+        ],
+        "price": 1544600,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1195,
+        "livingAreaValue": 1195,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3497,
+        "lotAreaValue": 3497,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "441 Ulloa St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "441 Ulloa St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.741085,
+        "longitude": -122.458405,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/441-Ulloa-St-San-Francisco-CA-94127/15135673_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15135667,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e3accbff1eabe9ecf5640c8e9d656629-p_c.jpg"
+          }
+        ],
+        "price": 1584200,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "livingArea": 1258,
+        "livingAreaValue": 1258,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3524,
+        "lotAreaValue": 3524,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "475 Ulloa St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "475 Ulloa St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.740803,
+        "longitude": -122.45909,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/475-Ulloa-St-San-Francisco-CA-94127/15135667_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15135674,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.74113845825195,-122.45830535888672&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=S2htPLS8LTUItrwO-fvTxo7VCW4="
+          }
+        ],
+        "price": 1922700,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 2300,
+        "livingAreaValue": 2300,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3497,
+        "lotAreaValue": 3497,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "437 Ulloa St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "437 Ulloa St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74114,
+        "longitude": -122.458305,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/437-Ulloa-St-San-Francisco-CA-94127/15135674_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15133089,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a2104158967b1e7540a7ea57e6cd6166-p_c.jpg"
+          }
+        ],
+        "price": 1805000,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "livingArea": 1645,
+        "livingAreaValue": 1645,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 5832,
+        "lotAreaValue": 5832.684,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "444 Ulloa St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94127"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "444 Ulloa St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.74132,
+        "longitude": -122.45878,
+        "homeStatus": "SOLD",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/444-Ulloa-St-San-Francisco-CA-94127/15133089_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423907827",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=h3l0zv7XO4DquEJ2E_g1vXGgNng=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jI6lPUkOaDgDcGWYOC4LOmXYjTw=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wErG8NCBW6d0btrbxt12PdQ9jvE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=E28AQlE3Khd6eaeN_zotf6ziiCs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9M1C0ln1-kBuvmMleH89eng7ejY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JW5am-t6gNxsC4vV8UgXJflP5yA=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=w8kAR9S5D_bFepWejIPGVsHNb0o=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wUdoYpFZoM21I-qEvBov0CkwO58=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ad-Op_3FCSBEypOjPmBo-b0Hd1Y=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jI6lPUkOaDgDcGWYOC4LOmXYjTw=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wErG8NCBW6d0btrbxt12PdQ9jvE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=E28AQlE3Khd6eaeN_zotf6ziiCs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9M1C0ln1-kBuvmMleH89eng7ejY=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JW5am-t6gNxsC4vV8UgXJflP5yA=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=w8kAR9S5D_bFepWejIPGVsHNb0o=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wUdoYpFZoM21I-qEvBov0CkwO58=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ad-Op_3FCSBEypOjPmBo-b0Hd1Y=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=S0LLsmgxuEgM_Bz0o-0BFH-eGUs=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JRJmTehuJe2H2E3Ch0GVZBjHfkM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wUdoYpFZoM21I-qEvBov0CkwO58=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ad-Op_3FCSBEypOjPmBo-b0Hd1Y=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=S0LLsmgxuEgM_Bz0o-0BFH-eGUs=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JRJmTehuJe2H2E3Ch0GVZBjHfkM=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wUdoYpFZoM21I-qEvBov0CkwO58=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ad-Op_3FCSBEypOjPmBo-b0Hd1Y=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=457+Ulloa+St%2C+San+Francisco%2C+CA+94127&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=svxkcxm3NbqxNGL5hYEDcjDETRA="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/457-Ulloa-St-San-Francisco-CA-94127/15135670_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/457-Ulloa-St-San-Francisco-CA-94127/15135670_zpid/",
+    "zpid": 15135670
+  }
+}

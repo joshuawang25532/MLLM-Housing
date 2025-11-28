@@ -1,0 +1,1270 @@
+{
+  "basic_info": {
+    "zpid": 15081539,
+    "address": "3675 Jackson St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94118",
+    "bedrooms": null,
+    "bathrooms": 4,
+    "livingArea": 3150,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3659,
+    "lotAreaValue": 3659,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1900,
+    "homeType": "SINGLE_FAMILY",
+    "description": "3675 Jackson St, San Francisco, CA 94118 is a single family home that contains 3,150 sq ft and was built in 1900. It contains 4 bathrooms. This home last sold for $9,800,000 in March 2025. \n \nThe Zestimate for this house is $9,959,300. The Rent Zestimate for this home is $8,674/mo. "
+  },
+  "location": {
+    "latitude": 37.789562,
+    "longitude": -122.45534,
+    "neighborhood": "Presidio Heights",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 9800000,
+    "lastSoldPrice": 9800000,
+    "dateSold": 1742428800000,
+    "dateSoldString": "2025-03-20",
+    "zestimate": 9959300,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 8674,
+    "taxAssessedValue": 1508072,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 3111
+  },
+  "schools": [
+    {
+      "name": "Sutro Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Roosevelt Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "distance": 0.5,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Wallenberg (Raoul) Traditional High School",
+      "rating": 7,
+      "level": "High",
+      "distance": 0.8,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 88,
+    "transitScore": 66,
+    "bikeScore": 74
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-03-20",
+        "time": 1742428800000,
+        "price": 9800000,
+        "pricePerSquareFoot": 3111,
+        "priceChangeRate": 2.2666666666666666,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": {
+          "photo": null,
+          "profileUrl": "/profile/Max-Armour/",
+          "name": "Max Armour"
+        },
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "1999-05-18",
+        "time": 926985600000,
+        "price": 3000000,
+        "pricePerSquareFoot": 952,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763627607199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1508072,
+        "valueIncreaseRate": 0.019998593
+      },
+      {
+        "time": 1732091607199,
+        "taxPaid": 17348.7,
+        "taxIncreaseRate": 0.014581824,
+        "value": 1478504,
+        "valueIncreaseRate": 0.019999104
+      },
+      {
+        "time": 1700469207199,
+        "taxPaid": 17099.36,
+        "taxIncreaseRate": -0.018134773,
+        "value": 1449515,
+        "valueIncreaseRate": 0.019998662
+      },
+      {
+        "time": 1668933207199,
+        "taxPaid": 17415.18,
+        "taxIncreaseRate": 0.018093405,
+        "value": 1421095,
+        "valueIncreaseRate": 0.019998822
+      },
+      {
+        "time": 1637397207199,
+        "taxPaid": 17105.68,
+        "taxIncreaseRate": -0.0044662063,
+        "value": 1393232,
+        "valueIncreaseRate": 0.010358621
+      },
+      {
+        "time": 1605861207199,
+        "taxPaid": 17182.42,
+        "taxIncreaseRate": 0.03559839,
+        "value": 1378948,
+        "valueIncreaseRate": 0.019999098
+      },
+      {
+        "time": 1574238807199,
+        "taxPaid": 16591.78,
+        "taxIncreaseRate": 0.03494865,
+        "value": 1351911,
+        "valueIncreaseRate": 0.019999186
+      },
+      {
+        "time": 1542702807199,
+        "taxPaid": 16031.5,
+        "taxIncreaseRate": 0.03143691,
+        "value": 1325404,
+        "valueIncreaseRate": 0.01999897
+      },
+      {
+        "time": 1511166807199,
+        "taxPaid": 15542.88,
+        "taxIncreaseRate": 0.016420562,
+        "value": 1299417,
+        "valueIncreaseRate": 0.019998588
+      },
+      {
+        "time": 1479630807199,
+        "taxPaid": 15291.78,
+        "taxIncreaseRate": 0.012578613,
+        "value": 1273940,
+        "valueIncreaseRate": 0.015249382
+      },
+      {
+        "time": 1448008407199,
+        "taxPaid": 15101.82,
+        "taxIncreaseRate": 0.02715723,
+        "value": 1254805,
+        "valueIncreaseRate": 0.019978426
+      },
+      {
+        "time": 1416472407199,
+        "taxPaid": 14702.54,
+        "taxIncreaseRate": 0,
+        "value": 1230227,
+        "valueIncreaseRate": 0.0045383694
+      },
+      {
+        "time": 1384936407199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1224669,
+        "valueIncreaseRate": 0.01999905
+      },
+      {
+        "time": 1353400407199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1200657,
+        "valueIncreaseRate": 0.019998878
+      },
+      {
+        "time": 1321778007199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1177116,
+        "valueIncreaseRate": 0.0075261723
+      },
+      {
+        "time": 1290242007199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1168323,
+        "valueIncreaseRate": -0.002369571
+      },
+      {
+        "time": 1258706007199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1171098,
+        "valueIncreaseRate": 0.019999374
+      },
+      {
+        "time": 1227170007199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1148136,
+        "valueIncreaseRate": 0.019999573
+      },
+      {
+        "time": 1195547607199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1125624,
+        "valueIncreaseRate": 0.019998098
+      },
+      {
+        "time": 1164011607199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1103555,
+        "valueIncreaseRate": 0.019998742
+      },
+      {
+        "time": 1132475607199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 1081918,
+        "valueIncreaseRate": 0.7574274
+      },
+      {
+        "time": 1069317207199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 615626,
+        "valueIncreaseRate": 0.019998144
+      },
+      {
+        "time": 1037781207199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 603556,
+        "valueIncreaseRate": 1.1558806
+      },
+      {
+        "time": 1006245207199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 279958,
+        "valueIncreaseRate": 0.019998616
+      },
+      {
+        "time": 974709207199,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 274469,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 125243267,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3695+Jackson+St%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=po_yFqqP3ghATzEj49RhN88z2us="
+          }
+        ],
+        "price": 1261613,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 7318,
+        "lotAreaValue": 7318,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3695 Jackson St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3695 Jackson St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.789543,
+        "longitude": -122.4555,
+        "homeStatus": "OTHER",
+        "homeType": "LOT",
+        "hdpUrl": "/homedetails/3695-Jackson-St-San-Francisco-CA-94118/125243267_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Lot",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15081540,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3673+Jackson+St%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oX9xtrvlsxzDxSHROd7xT9BweyM="
+          }
+        ],
+        "price": 15486000,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "livingArea": 7680,
+        "livingAreaValue": 7680,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 9121,
+        "lotAreaValue": 9121,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3673 Jackson St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3673 Jackson St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78958,
+        "longitude": -122.455154,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3673-Jackson-St-San-Francisco-CA-94118/15081540_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15081541,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.78960037231445,-122.45494079589844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=pj3H-UO0sWpDzzYc6v9KX7baZms="
+          }
+        ],
+        "price": 6808900,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "livingArea": 4270,
+        "livingAreaValue": 4270,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 6384,
+        "lotAreaValue": 6384,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3653 Jackson St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3653 Jackson St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.7896,
+        "longitude": -122.45494,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3653-Jackson-St-San-Francisco-CA-94118/15081541_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15081538,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3778+Washington+St%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_MQe0_Sl2wPrzIQleT-2v-bZ86k="
+          }
+        ],
+        "price": 12149900,
+        "currency": "USD",
+        "bedrooms": 7,
+        "bathrooms": 6,
+        "livingArea": 15623,
+        "livingAreaValue": 15623,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 13629,
+        "lotAreaValue": 0.31287878787878787,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "3778 Washington St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3778 Washington St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.789204,
+        "longitude": -122.45536,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3778-Washington-St-San-Francisco-CA-94118/15081538_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15081537,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=3760+Washington+St%2C+San+Francisco%2C+CA+94118&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4u_V9BwFuCRKocsNTNKUBNR0-OY="
+          }
+        ],
+        "price": 26747700,
+        "currency": "USD",
+        "bedrooms": 9,
+        "bathrooms": 6,
+        "livingArea": 10351,
+        "livingAreaValue": 10351,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 11173,
+        "lotAreaValue": 0.2564967860422406,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "3760 Washington St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3760 Washington St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.789238,
+        "longitude": -122.45505,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3760-Washington-St-San-Francisco-CA-94118/15081537_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15081542,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.789615631103516,-122.4548110961914&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ueRHHRnColXlIORAs29YM2GbB3o="
+          }
+        ],
+        "price": 5014900,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "livingArea": 4060,
+        "livingAreaValue": 4060,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3192,
+        "lotAreaValue": 3192,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3641 Jackson St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3641 Jackson St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.789616,
+        "longitude": -122.45481,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3641-Jackson-St-San-Francisco-CA-94118/15081542_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15081543,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=37.78962707519531,-122.45472717285156&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Wq_ISfiXbiHPo1Q8mOF6GbeHoR0="
+          }
+        ],
+        "price": 5772700,
+        "currency": "USD",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "livingArea": 3550,
+        "livingAreaValue": 3550,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 3192,
+        "lotAreaValue": 3192,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "3633 Jackson St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "3633 Jackson St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.789627,
+        "longitude": -122.45473,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/3633-Jackson-St-San-Francisco-CA-94118/15081543_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15081565,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/206e0b1d5981b73ea2ea55d2fcd4fa47-p_c.jpg"
+          }
+        ],
+        "price": 11710600,
+        "currency": "USD",
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "livingArea": 6207,
+        "livingAreaValue": 6207,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 2885,
+        "lotAreaValue": 2885,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "101 Maple St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94118"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "101 Maple St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.78955,
+        "longitude": -122.455956,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/101-Maple-St-San-Francisco-CA-94118/15081565_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=qnMqgVbaS7Zj_j2276ysKQeOYOo=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1CwJLvyR4CQNJHpAxv33juG3s3Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=B_JRkpBy3ZqDkZt2H-5bS1tVTLE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=J1UJtCaq_pzPcwtC12j1Ld1eXaI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=h6Kmejatig3N6f9VkvTlDlqNvkk=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jcQFbWj3GulgoMnATehxafdLXyo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7kwuXnKSI9PeIbxjHMsSk4B5KDU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6z4Nzrmsb0r4gEvjLJkAR-XRlfI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=o-9trgcLv9WDHQsbo65dxs0K5wQ=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=1CwJLvyR4CQNJHpAxv33juG3s3Y=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=B_JRkpBy3ZqDkZt2H-5bS1tVTLE=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=J1UJtCaq_pzPcwtC12j1Ld1eXaI=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=h6Kmejatig3N6f9VkvTlDlqNvkk=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jcQFbWj3GulgoMnATehxafdLXyo=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=7kwuXnKSI9PeIbxjHMsSk4B5KDU=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6z4Nzrmsb0r4gEvjLJkAR-XRlfI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=o-9trgcLv9WDHQsbo65dxs0K5wQ=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=k1QTXT2BRLVXdznuLqBVvbASBCo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rl3Y8eqLuuOuDsmTi9yEXuGyVIA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6z4Nzrmsb0r4gEvjLJkAR-XRlfI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=o-9trgcLv9WDHQsbo65dxs0K5wQ=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=k1QTXT2BRLVXdznuLqBVvbASBCo=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rl3Y8eqLuuOuDsmTi9yEXuGyVIA=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=6z4Nzrmsb0r4gEvjLJkAR-XRlfI=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=o-9trgcLv9WDHQsbo65dxs0K5wQ=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=37.7895622253418,-122.45533752441406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rT3u2ClQeII6FbDhfqdRiW2l1CI="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/3675-Jackson-St-San-Francisco-CA-94118/15081539_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/3675-Jackson-St-San-Francisco-CA-94118/15081539_zpid/",
+    "zpid": 15081539
+  }
+}

@@ -1,0 +1,1343 @@
+{
+  "basic_info": {
+    "zpid": 15063854,
+    "address": "150 Lombard St APT 205",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94111",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "livingArea": 1015,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 47262600,
+    "lotAreaValue": 1085,
+    "lotAreaUnits": "Acres",
+    "yearBuilt": 1975,
+    "homeType": "CONDO",
+    "description": "For comps only."
+  },
+  "location": {
+    "latitude": 37.804417,
+    "longitude": -122.40371,
+    "neighborhood": "North Waterfront",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": "Existing",
+    "architecturalStyle": "Other",
+    "levels": "One",
+    "stories": null,
+    "hasGarage": true,
+    "garageParkingCapacity": 1,
+    "hasFireplace": false,
+    "fireplaces": 0,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": true,
+    "hasHeating": true,
+    "cooling": [
+      "Central Air"
+    ],
+    "heating": [
+      "Central"
+    ],
+    "appliances": [
+      "Dishwasher",
+      "Free-Standing Range"
+    ],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [
+      "Attached",
+      "Below Building Parking"
+    ],
+    "securityFeatures": null,
+    "flooring": [
+      "Hardwood",
+      "Tile",
+      "Carpet"
+    ],
+    "rooms": [
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "level": null,
+        "features": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": [
+          "Dishwasher",
+          "Disposal",
+          "Range/Oven Free Standing"
+        ],
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "Kitchen",
+        "roomWidth": null
+      }
+    ]
+  },
+  "financial": {
+    "price": 724200,
+    "lastSoldPrice": 724200,
+    "dateSold": 1759795200000,
+    "dateSoldString": "2025-10-07",
+    "zestimate": 726400,
+    "zestimateHighPercent": "10",
+    "zestimateLowPercent": "9",
+    "rentZestimate": 4237,
+    "taxAssessedValue": 571494,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": 1300,
+    "monthlyHoaFee": 1300,
+    "pricePerSquareFoot": 713
+  },
+  "schools": [
+    {
+      "name": "Garfield Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "distance": 0.2,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Francisco Middle School",
+      "rating": 5,
+      "level": "Middle",
+      "distance": 0.4,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 1.1,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 93,
+    "transitScore": 82,
+    "bikeScore": 83
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-10-07",
+        "time": 1759795200000,
+        "price": 724200,
+        "pricePerSquareFoot": 713,
+        "priceChangeRate": 0.27927927927927926,
+        "event": "Sold",
+        "source": "CCAR",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": "41114049",
+          "infoString2": "CCAR",
+          "infoString3": "https://photos.zillowstatic.com/fp/3f19a4241560c5a10bd0e85fe1c86b58-zillow_web_logo_inf_11.jpg"
+        }
+      },
+      {
+        "date": "2011-06-13",
+        "time": 1307923200000,
+        "price": 566100,
+        "pricePerSquareFoot": 558,
+        "priceChangeRate": -0.005096660808435852,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2004-08-27",
+        "time": 1093564800000,
+        "price": 569000,
+        "pricePerSquareFoot": 561,
+        "priceChangeRate": 0.12673267326732673,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      },
+      {
+        "date": "2004-04-09",
+        "time": 1081468800000,
+        "price": 505000,
+        "pricePerSquareFoot": 498,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763621870649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 571494,
+        "valueIncreaseRate": 0.019998608
+      },
+      {
+        "time": 1732085870649,
+        "taxPaid": 7374.2,
+        "taxIncreaseRate": 0.017521199,
+        "value": 560289,
+        "valueIncreaseRate": 0.019998034
+      },
+      {
+        "time": 1700463470649,
+        "taxPaid": 7247.22,
+        "taxIncreaseRate": 0.02124443,
+        "value": 549304,
+        "valueIncreaseRate": 0.019998737
+      },
+      {
+        "time": 1668927470649,
+        "taxPaid": 7096.46,
+        "taxIncreaseRate": 0.018505858,
+        "value": 538534,
+        "valueIncreaseRate": 0.019997122
+      },
+      {
+        "time": 1637391470649,
+        "taxPaid": 6967.52,
+        "taxIncreaseRate": -0.013576979,
+        "value": 527976,
+        "valueIncreaseRate": 0.01035856
+      },
+      {
+        "time": 1605855470649,
+        "taxPaid": 7063.42,
+        "taxIncreaseRate": 0.034636203,
+        "value": 522563,
+        "valueIncreaseRate": 0.019997345
+      },
+      {
+        "time": 1574233070649,
+        "taxPaid": 6826.96,
+        "taxIncreaseRate": 0.035093617,
+        "value": 512318,
+        "valueIncreaseRate": 0.019999085
+      },
+      {
+        "time": 1542697070649,
+        "taxPaid": 6595.5,
+        "taxIncreaseRate": 0.060342472,
+        "value": 502273,
+        "valueIncreaseRate": 0.019998984
+      },
+      {
+        "time": 1511161070649,
+        "taxPaid": 6220.16,
+        "taxIncreaseRate": 0.02045788,
+        "value": 492425,
+        "valueIncreaseRate": 0.01999917
+      },
+      {
+        "time": 1479625070649,
+        "taxPaid": 6095.46,
+        "taxIncreaseRate": 0.013147501,
+        "value": 482770,
+        "valueIncreaseRate": 0.015248602
+      },
+      {
+        "time": 1448002670649,
+        "taxPaid": 6016.36,
+        "taxIncreaseRate": 0.026780704,
+        "value": 475519,
+        "valueIncreaseRate": 0.019976148
+      },
+      {
+        "time": 1416466670649,
+        "taxPaid": 5859.44,
+        "taxIncreaseRate": 0,
+        "value": 466206,
+        "valueIncreaseRate": 0.004537815
+      },
+      {
+        "time": 1384930670649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 464100,
+        "valueIncreaseRate": -0.26502028
+      },
+      {
+        "time": 1353394670649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 631446,
+        "valueIncreaseRate": 0.019997869
+      },
+      {
+        "time": 1321772270649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 619066,
+        "valueIncreaseRate": 0.0075288066
+      },
+      {
+        "time": 1290236270649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 614440,
+        "valueIncreaseRate": -0.0023705147
+      },
+      {
+        "time": 1258700270649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 615900,
+        "valueIncreaseRate": -0.32000053
+      },
+      {
+        "time": 1227164270649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 905736,
+        "valueIncreaseRate": 0.019997094
+      },
+      {
+        "time": 1195541870649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 887979,
+        "valueIncreaseRate": 0.019997243
+      },
+      {
+        "time": 1164005870649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 870570,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 1132469870649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 853500,
+        "valueIncreaseRate": 2.1073198
+      },
+      {
+        "time": 1069311470649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 274674,
+        "valueIncreaseRate": 0.019981952
+      },
+      {
+        "time": 1037775470649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 269293,
+        "valueIncreaseRate": 0.02000288
+      },
+      {
+        "time": 1006239470649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 264012,
+        "valueIncreaseRate": 0.020001158
+      },
+      {
+        "time": 974703470649,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 258835,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 15064027,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/74b585110f70edfb5a2835b78ea51808-p_c.jpg"
+          }
+        ],
+        "price": 1258000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "livingArea": 1381,
+        "livingAreaValue": 1381,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "156 Lombard St APT 28",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94111"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "156 Lombard St APT 28"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.804432,
+        "longitude": -122.403725,
+        "homeStatus": "FOR_SALE",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/156-Lombard-St-APT-28-San-Francisco-CA-94111/15064027_zpid/",
+        "hdpTypeDimension": "ForSale",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "For Sale by Agent",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": true
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "41112406",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15063850,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/f6a9aef2048743b595b01a7d05aa00e3-p_c.jpg"
+          }
+        ],
+        "price": 1042500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1172,
+        "livingAreaValue": 1172,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 0,
+        "lotAreaValue": 0,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "150 Lombard St APT 201",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94111"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "150 Lombard St APT 201"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80415,
+        "longitude": -122.40382,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/150-Lombard-St-APT-201-San-Francisco-CA-94111/15063850_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423721662",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15063856,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0c4a80c8507c436990589e4ab179a526-p_c.jpg"
+          }
+        ],
+        "price": 950000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1174,
+        "livingAreaValue": 1174,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 94533,
+        "lotAreaValue": 2.1702,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "150 Lombard St APT 207",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94111"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "150 Lombard St APT 207"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80415,
+        "longitude": -122.40382,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/150-Lombard-St-APT-207-San-Francisco-CA-94111/15063856_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424032078",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15063875,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/b9d3cbde10f0fb0244737ccde2572154-p_c.jpg"
+          }
+        ],
+        "price": 1088000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1172,
+        "livingAreaValue": 1172,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 94533,
+        "lotAreaValue": 2.1702,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "150 Lombard St APT 408",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94111"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "150 Lombard St APT 408"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80415,
+        "longitude": -122.40382,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/150-Lombard-St-APT-408-San-Francisco-CA-94111/15063875_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "422679500",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15063900,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=c1D0fP7SeeV9VhD8TAHk7vo5M5g="
+          }
+        ],
+        "price": 1355000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1395,
+        "livingAreaValue": 1395,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 0,
+        "lotAreaValue": 0,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "150 Lombard St APT 706",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94111"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "150 Lombard St APT 706"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80415,
+        "longitude": -122.40382,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/150-Lombard-St-APT-706-San-Francisco-CA-94111/15063900_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "423717769",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15063915,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/352a69dc11e444f773549c9fc1b33181-p_c.jpg"
+          }
+        ],
+        "price": 1365500,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "livingArea": 1177,
+        "livingAreaValue": 1177,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 94533,
+        "lotAreaValue": 2.1702,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "150 Lombard St APT 905",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94111"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "150 Lombard St APT 905"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80415,
+        "longitude": -122.40382,
+        "homeStatus": "SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/150-Lombard-St-APT-905-San-Francisco-CA-94111/15063915_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "424007915",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15063916,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/8fdcf1cf3ad01846abd8972ad46cc62f-p_c.jpg"
+          }
+        ],
+        "price": 1424500,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "livingArea": 1169,
+        "livingAreaValue": 1169,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 94533,
+        "lotAreaValue": 2.1702,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "150 Lombard St APT 906",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94111"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "150 Lombard St APT 906"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80415,
+        "longitude": -122.40382,
+        "homeStatus": "OTHER",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/150-Lombard-St-APT-906-San-Francisco-CA-94111/15063916_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "422699693",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 15064013,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0c4827078ab6111334c10ca5a1eedc93-p_c.jpg"
+          }
+        ],
+        "price": 1040000,
+        "currency": "USD",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "livingArea": 1364,
+        "livingAreaValue": 1364,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 94533,
+        "lotAreaValue": 2.1702,
+        "lotAreaUnits": "Acres",
+        "address": {
+          "streetAddress": "156 Lombard St APT 25",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94111"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "156 Lombard St APT 25"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.80436,
+        "longitude": -122.404076,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "CONDO",
+        "hdpUrl": "/homedetails/156-Lombard-St-APT-25-San-Francisco-CA-94111/15064013_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Condo",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425069108",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": true,
+    "associationFee": "$1,300 monthly",
+    "associationFeeIncludes": [
+      "Common Area Maint",
+      "Maintenance Grounds"
+    ],
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": false,
+    "numberOfUnitsInCommunity": 50
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=thIG-_yNIKgLo04-w0fnjoDRVVI=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CJmC-0Votgh00MdIwnSEtddEdTE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4tG53L3XTjzHg5kd8kyuJZCAUaU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uPLx89Gv897rFOr347ZRE-gZn9k=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VRUxp3irujH8kOJQ9lEz9il7fMo=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=g75_zz4ObBWH602kP3OwNBegsrM=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DAqx4HFez6hgoX521-8IVWDhIsA=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3iElEZoRYEuFohAZDJXF7gzkm5U=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=B3G39C3e-1pqQoLlQX8VzngFHmk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CJmC-0Votgh00MdIwnSEtddEdTE=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=4tG53L3XTjzHg5kd8kyuJZCAUaU=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uPLx89Gv897rFOr347ZRE-gZn9k=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VRUxp3irujH8kOJQ9lEz9il7fMo=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=g75_zz4ObBWH602kP3OwNBegsrM=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DAqx4HFez6hgoX521-8IVWDhIsA=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3iElEZoRYEuFohAZDJXF7gzkm5U=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=B3G39C3e-1pqQoLlQX8VzngFHmk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ON44Uy2cQpWZcYNFXRmqNIojY8o=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=c5Dom-yiN2t0t5p7Uh1aMGM9zdk=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3iElEZoRYEuFohAZDJXF7gzkm5U=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=B3G39C3e-1pqQoLlQX8VzngFHmk=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ON44Uy2cQpWZcYNFXRmqNIojY8o=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=c5Dom-yiN2t0t5p7Uh1aMGM9zdk=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3iElEZoRYEuFohAZDJXF7gzkm5U=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=B3G39C3e-1pqQoLlQX8VzngFHmk=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=150+Lombard+St%2C+San+Francisco%2C+CA+94111&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VAK76IrmIIopZ5RvFtjbkiKseN4="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/150-Lombard-St-APT-205-San-Francisco-CA-94111/15063854_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/150-Lombard-St-APT-205-San-Francisco-CA-94111/15063854_zpid/",
+    "zpid": 15063854
+  }
+}

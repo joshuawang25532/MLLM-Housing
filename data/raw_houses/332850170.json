@@ -1,0 +1,1248 @@
+{
+  "basic_info": {
+    "zpid": 332850170,
+    "address": "43 John St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94133",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "livingArea": 3360,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 1373,
+    "lotAreaValue": 1373,
+    "lotAreaUnits": "Square Feet",
+    "yearBuilt": 1929,
+    "homeType": "MULTI_FAMILY",
+    "description": "43 John St, San Francisco, CA 94133 is a multi family home that contains 3,360 sq ft and was built in 1929. It contains 5 bedrooms and 3 bathrooms. This home last sold for $1,060,000 in June 2025. \n \nThe Zestimate for this house is $1,072,100. The Rent Zestimate for this home is $5,767/mo. "
+  },
+  "location": {
+    "latitude": 37.795837,
+    "longitude": -122.41074,
+    "neighborhood": "Nob Hill",
+    "county": "San Francisco County",
+    "timeZone": "America/Los_Angeles"
+  },
+  "property_details": {
+    "propertyCondition": null,
+    "architecturalStyle": null,
+    "levels": null,
+    "stories": null,
+    "hasGarage": false,
+    "garageParkingCapacity": null,
+    "hasFireplace": null,
+    "fireplaces": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasCooling": false,
+    "hasHeating": false,
+    "cooling": [],
+    "heating": [],
+    "appliances": [],
+    "interiorFeatures": null,
+    "exteriorFeatures": [],
+    "parkingFeatures": [],
+    "securityFeatures": null,
+    "flooring": [],
+    "rooms": []
+  },
+  "financial": {
+    "price": 1060000,
+    "lastSoldPrice": 1060000,
+    "dateSold": 1750636800000,
+    "dateSoldString": "2025-06-23",
+    "zestimate": 1072100,
+    "zestimateHighPercent": "11",
+    "zestimateLowPercent": "10",
+    "rentZestimate": 5767,
+    "taxAssessedValue": 864874,
+    "taxAssessedYear": 2025,
+    "propertyTaxRate": 1.18,
+    "hoaFee": null,
+    "monthlyHoaFee": null,
+    "pricePerSquareFoot": 315
+  },
+  "schools": [
+    {
+      "name": "Parker (Jean) Elementary School",
+      "rating": 6,
+      "level": "Elementary",
+      "distance": 0.1,
+      "grades": "K-5",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Francisco Middle School",
+      "rating": 5,
+      "level": "Middle",
+      "distance": 0.6,
+      "grades": "6-8",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    },
+    {
+      "name": "Galileo High School",
+      "rating": 8,
+      "level": "High",
+      "distance": 0.9,
+      "grades": "9-12",
+      "assigned": null,
+      "studentsPerTeacher": null,
+      "type": "Public",
+      "size": null
+    }
+  ],
+  "scores": {
+    "walkScore": 100,
+    "transitScore": 100,
+    "bikeScore": 61
+  },
+  "history": {
+    "priceHistory": [
+      {
+        "date": "2025-06-23",
+        "time": 1750636800000,
+        "price": 1060000,
+        "pricePerSquareFoot": 315,
+        "priceChangeRate": 0,
+        "event": "Sold",
+        "source": "Public Record",
+        "buyerAgent": null,
+        "sellerAgent": null,
+        "showCountyLink": false,
+        "postingIsRental": false,
+        "attributeSource": {
+          "infoString1": null,
+          "infoString2": "Public Record",
+          "infoString3": null
+        }
+      }
+    ],
+    "taxHistory": [
+      {
+        "time": 1763622350348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 864874,
+        "valueIncreaseRate": 0.01999481
+      },
+      {
+        "time": 1732086350348,
+        "taxPaid": 11257.18,
+        "taxIncreaseRate": 0.027891506,
+        "value": 847920,
+        "valueIncreaseRate": 0.01999401
+      },
+      {
+        "time": 1700463950348,
+        "taxPaid": 10951.72,
+        "taxIncreaseRate": 0.024124347,
+        "value": 831299,
+        "valueIncreaseRate": 0.01999627
+      },
+      {
+        "time": 1668927950348,
+        "taxPaid": 10693.74,
+        "taxIncreaseRate": 0.7949685,
+        "value": 815002,
+        "valueIncreaseRate": 0.96756303
+      },
+      {
+        "time": 1637391950348,
+        "taxPaid": 5957.62,
+        "taxIncreaseRate": -0.031126896,
+        "value": 414219,
+        "valueIncreaseRate": 0.010354315
+      },
+      {
+        "time": 1605855950348,
+        "taxPaid": 6149.02,
+        "taxIncreaseRate": -0.093596965,
+        "value": 409974,
+        "valueIncreaseRate": 0.019876413
+      },
+      {
+        "time": 1574233550348,
+        "taxPaid": 6783.98,
+        "taxIncreaseRate": -0.053624377,
+        "value": 401984,
+        "valueIncreaseRate": 0.020121556
+      },
+      {
+        "time": 1542697550348,
+        "taxPaid": 7168.38,
+        "taxIncreaseRate": 0.11369735,
+        "value": 394055,
+        "valueIncreaseRate": 0.019758293
+      },
+      {
+        "time": 1511161550348,
+        "taxPaid": 6436.56,
+        "taxIncreaseRate": -0.029223291,
+        "value": 386420,
+        "valueIncreaseRate": 0.019997677
+      },
+      {
+        "time": 1479625550348,
+        "taxPaid": 6630.32,
+        "taxIncreaseRate": 0.009276361,
+        "value": 378844,
+        "valueIncreaseRate": 0.015245675
+      },
+      {
+        "time": 1448003150348,
+        "taxPaid": 6569.38,
+        "taxIncreaseRate": 0.004562988,
+        "value": 373155,
+        "valueIncreaseRate": 0.019978352
+      },
+      {
+        "time": 1416467150348,
+        "taxPaid": 6539.54,
+        "taxIncreaseRate": 0,
+        "value": 365846,
+        "valueIncreaseRate": 0.004536044
+      },
+      {
+        "time": 1384931150348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 364194,
+        "valueIncreaseRate": 0.019996975
+      },
+      {
+        "time": 1353395150348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 357054,
+        "valueIncreaseRate": 0.019996915
+      },
+      {
+        "time": 1321772750348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 350054,
+        "valueIncreaseRate": 0.007526501
+      },
+      {
+        "time": 1290236750348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 347439,
+        "valueIncreaseRate": -0.0023688925
+      },
+      {
+        "time": 1258700750348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 348264,
+        "valueIncreaseRate": 0.019997891
+      },
+      {
+        "time": 1227164750348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 341436,
+        "valueIncreaseRate": 0.01999749
+      },
+      {
+        "time": 1195542350348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 334742,
+        "valueIncreaseRate": 0.019995125
+      },
+      {
+        "time": 1164006350348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 328180,
+        "valueIncreaseRate": 0.01999714
+      },
+      {
+        "time": 1132470350348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 321746,
+        "valueIncreaseRate": 0.039036613
+      },
+      {
+        "time": 1069311950348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 309658,
+        "valueIncreaseRate": 0.019994203
+      },
+      {
+        "time": 1037775950348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 303588,
+        "valueIncreaseRate": 0.019997582
+      },
+      {
+        "time": 1006239950348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 297636,
+        "valueIncreaseRate": 0.02
+      },
+      {
+        "time": 974703950348,
+        "taxPaid": null,
+        "taxIncreaseRate": 0,
+        "value": 291800,
+        "valueIncreaseRate": 0
+      }
+    ]
+  },
+  "nearby": {
+    "nearbyHomes": [
+      {
+        "zpid": 450782999,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/559427840aa4bef1eb415eecb888b6dc-p_c.jpg"
+          }
+        ],
+        "price": 1060000,
+        "currency": "USD",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "livingArea": 3360,
+        "livingAreaValue": 3360,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1374,
+        "lotAreaValue": 1374,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "43-47 John St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "43-47 John St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.795868,
+        "longitude": -122.41076,
+        "homeStatus": "RECENTLY_SOLD",
+        "homeType": "MULTI_FAMILY",
+        "hdpUrl": "/homedetails/43-47-John-St-San-Francisco-CA-94133/450782999_zpid/",
+        "hdpTypeDimension": "RecentlySold",
+        "propertyTypeDimension": "Multi Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": "425036843",
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 448056345,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0905d74e92a457145febbf9a51aa3afb-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "37-41 John St #37",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "37-41 John St #37"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.795845,
+        "longitude": -122.41067,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/37-41-John-St-37-San-Francisco-CA-94133/448056345_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3kdfqh3uka567",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 448179794,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0905d74e92a457145febbf9a51aa3afb-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "37-41 John St #37B",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "37-41 John St #37B"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.795845,
+        "longitude": -122.41067,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/37-41-John-St-37B-San-Francisco-CA-94133/448179794_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": "3kdfqh3uka567",
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2060544125,
+        "miniCardPhotos": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/streetview?location=39+John+St%2C+San+Francisco%2C+CA+94133&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VLZlq0Su2MYsFZ9Vv-JGvC5r4ks="
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": null,
+        "bathrooms": null,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "39 John St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "39 John St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.795845,
+        "longitude": -122.41067,
+        "homeStatus": "OTHER",
+        "homeType": "SINGLE_FAMILY",
+        "hdpUrl": "/homedetails/39-John-St-San-Francisco-CA-94133/2060544125_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Single Family",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2060811717,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/0905d74e92a457145febbf9a51aa3afb-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "37-41 John St #39",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "37-41 John St #39"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.795845,
+        "longitude": -122.41067,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/37-41-John-St-39-San-Francisco-CA-94133/2060811717_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2060838963,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6fae8c5b1f8b9d0176d5d583f504190b-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "livingArea": null,
+        "livingAreaValue": null,
+        "livingAreaUnits": null,
+        "livingAreaUnitsShort": null,
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "37-41 John St #39A",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "37-41 John St #39A"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.795845,
+        "longitude": -122.41067,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/37-41-John-St-39A-San-Francisco-CA-94133/2060838963_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 332850169,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/4bb63da56d75cbda29e03411cc3002bb-p_c.jpg"
+          }
+        ],
+        "price": 1477400,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1500,
+        "livingAreaValue": 1500,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": 1372,
+        "lotAreaValue": 1372,
+        "lotAreaUnits": "Square Feet",
+        "address": {
+          "streetAddress": "49 John St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "49 John St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79583,
+        "longitude": -122.41082,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/49-John-St-San-Francisco-CA-94133/332850169_zpid/",
+        "hdpTypeDimension": "Zestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      },
+      {
+        "zpid": 2086180567,
+        "miniCardPhotos": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/e2f597eba441d2560146c1091e4319bf-p_c.jpg"
+          }
+        ],
+        "price": 0,
+        "currency": "USD",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "livingArea": 1050,
+        "livingAreaValue": 1050,
+        "livingAreaUnits": "Square Feet",
+        "livingAreaUnitsShort": "sqft",
+        "listPriceIncludesRequiredMonthlyFees": null,
+        "baseRent": null,
+        "totalRequiredMonthlyMinFee": null,
+        "totalRequiredMonthlyMaxFee": null,
+        "state": "CA",
+        "listingMetadata": {
+          "comminglingCategoryIsRulesApplicable": false
+        },
+        "resoFacts": {
+          "bathroomsOneQuarter": null,
+          "bathroomsHalf": null,
+          "bathroomsThreeQuarter": null,
+          "bathroomsFull": null
+        },
+        "lotSize": null,
+        "lotAreaValue": null,
+        "lotAreaUnits": "sqft",
+        "address": {
+          "streetAddress": "53 John St",
+          "city": "San Francisco",
+          "state": "CA",
+          "zipcode": "94133"
+        },
+        "parentRegion": null,
+        "formattedChip": {
+          "location": [
+            {
+              "fullValue": "53 John St"
+            },
+            {
+              "fullValue": null
+            }
+          ]
+        },
+        "latitude": 37.79583,
+        "longitude": -122.41082,
+        "homeStatus": "OTHER",
+        "homeType": "APARTMENT",
+        "hdpUrl": "/homedetails/53-John-St-San-Francisco-CA-94133/2086180567_zpid/",
+        "hdpTypeDimension": "NoZestimate",
+        "propertyTypeDimension": "Apartment",
+        "listingTypeDimension": "Unknown Listed By",
+        "listing_sub_type": {
+          "is_newHome": false,
+          "is_forAuction": false,
+          "is_bankOwned": false,
+          "is_foreclosure": false,
+          "is_FSBO": false,
+          "is_comingSoon": false,
+          "is_FSBA": false
+        },
+        "providerListingID": null,
+        "attributionInfo": {
+          "mlsId": null,
+          "mlsName": null,
+          "providerLogo": null,
+          "agentName": null,
+          "agentPhoneNumber": null,
+          "brokerName": null,
+          "brokerPhoneNumber": null,
+          "trueStatus": null
+        },
+        "isShowcaseListing": false,
+        "isPremierBuilder": false,
+        "newConstructionType": null
+      }
+    ],
+    "nearbyNeighborhoods": [
+      {
+        "regionUrl": {
+          "path": "/bernal-heights-san-francisco-ca/"
+        },
+        "name": "Bernal Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/excelsior-san-francisco-ca/"
+        },
+        "name": "Excelsior",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/inner-richmond-san-francisco-ca/"
+        },
+        "name": "Inner Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/mission-san-francisco-ca/"
+        },
+        "name": "Mission",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-richmond-san-francisco-ca/"
+        },
+        "name": "Outer Richmond",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/outer-sunset-san-francisco-ca/"
+        },
+        "name": "Outer Sunset",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/pacific-heights-san-francisco-ca/"
+        },
+        "name": "Pacific Heights",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/parkside-san-francisco-ca/"
+        },
+        "name": "Parkside",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/south-of-market-san-francisco-ca/"
+        },
+        "name": "South of Market",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/tenderloin-san-francisco-ca/"
+        },
+        "name": "Tenderloin",
+        "body": null
+      }
+    ],
+    "nearbyZipcodes": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94109/"
+        },
+        "name": "94109",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94110/"
+        },
+        "name": "94110",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94112/"
+        },
+        "name": "94112",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94116/"
+        },
+        "name": "94116",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94117/"
+        },
+        "name": "94117",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94118/"
+        },
+        "name": "94118",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94121/"
+        },
+        "name": "94121",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94122/"
+        },
+        "name": "94122",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94134/"
+        },
+        "name": "94134",
+        "body": null
+      },
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca-94175/"
+        },
+        "name": "94175",
+        "body": null
+      }
+    ],
+    "nearbyCities": [
+      {
+        "regionUrl": {
+          "path": "/san-francisco-ca/"
+        },
+        "name": "San Francisco",
+        "body": null
+      }
+    ]
+  },
+  "features": {
+    "hasAssociation": null,
+    "associationFee": null,
+    "associationFeeIncludes": null,
+    "hasPetsAllowed": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "isNewConstruction": null,
+    "numberOfUnitsInCommunity": null
+  },
+  "photos": {
+    "photoCount": 1,
+    "responsivePhotos": [
+      {
+        "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=400x300&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=wfgXo900Q5ODQ3ACwkIYtorta48=",
+        "caption": "",
+        "subjectType": null,
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=k0Al3LL4MPnEAcRqynfXTzvSK9c=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Cge9fsPVfEUhbif_Ks04rB_9eyk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zRlOoLnLXTZp_tVHwQ_WM1IpURs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zSj-_sMnpgplI1eVN95jjkLp3Gs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9YXnoQTPbI6J1af1Yq5UnYUMmps=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UZd20cne537JeQ2XRlQbrhPAOgc=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=j_GEwVwloSV099ktzZiCcvqhkh0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fOdEHGMMbKNiJ60en-1Ji3p7roo=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=192x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=k0Al3LL4MPnEAcRqynfXTzvSK9c=",
+              "width": 192
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=384x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Cge9fsPVfEUhbif_Ks04rB_9eyk=",
+              "width": 384
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=576x432&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zRlOoLnLXTZp_tVHwQ_WM1IpURs=",
+              "width": 576
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=zSj-_sMnpgplI1eVN95jjkLp3Gs=",
+              "width": 768
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=960x720&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9YXnoQTPbI6J1af1Yq5UnYUMmps=",
+              "width": 960
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1152x864&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UZd20cne537JeQ2XRlQbrhPAOgc=",
+              "width": 1152
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=j_GEwVwloSV099ktzZiCcvqhkh0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fOdEHGMMbKNiJ60en-1Ji3p7roo=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "originalPhotos": [
+      {
+        "caption": "",
+        "resolutions": {
+          "jpeg": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=El6LccAkI-WlCYovQMO7--ask0k=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Nz_5FfRjMfP3AVHpf1yC9jpgtEs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=j_GEwVwloSV099ktzZiCcvqhkh0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fOdEHGMMbKNiJ60en-1Ji3p7roo=",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=800x600&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=El6LccAkI-WlCYovQMO7--ask0k=",
+              "width": 800
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1024x768&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Nz_5FfRjMfP3AVHpf1yC9jpgtEs=",
+              "width": 1024
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1344x1008&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=j_GEwVwloSV099ktzZiCcvqhkh0=",
+              "width": 1344
+            },
+            {
+              "url": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=1536x1152&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fOdEHGMMbKNiJ60en-1Ji3p7roo=",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "thumbnail": "https://maps.googleapis.com/maps/api/streetview?location=43+John+St%2C+San+Francisco%2C+CA+94133&size=46x46&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XnTOJdMXJpVSbEvReEYKfYjspoQ="
+  },
+  "metadata": {
+    "url": "https://www.zillow.com/homedetails/43-John-St-San-Francisco-CA-94133/332850170_zpid/",
+    "scrapedUrl": "https://www.zillow.com/homedetails/43-John-St-San-Francisco-CA-94133/332850170_zpid/",
+    "zpid": 332850170
+  }
+}
