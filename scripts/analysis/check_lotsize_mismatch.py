@@ -85,7 +85,7 @@ def check_lotsize_mismatches():
             print()
         
         # Save to file
-        output_file = "lotsize_mismatches.json"
+        output_file = "data/lotsize_mismatches.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(mismatches, f, indent=2)
         print(f"\nFull list saved to {output_file}")

@@ -59,7 +59,7 @@ def find_key_paths(obj, target_keys, path="", results=None):
     
     return results
 
-def analyze_detail_data(file_path="nodriver_detail_test.json"):
+def analyze_detail_data(file_path="data/nodriver_detail_test.json"):
     """Analyze the detail page data structure."""
     print("="*80)
     print("ZILLOW DETAIL PAGE DATA ANALYSIS")

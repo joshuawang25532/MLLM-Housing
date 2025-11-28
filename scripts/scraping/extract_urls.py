@@ -1,5 +1,5 @@
 """
-Extract all detail URLs from nodriver_results tiles, deduplicate by ZPID,
+Extract all detail URLs from data/raw_tiles tiles, deduplicate by ZPID,
 and save as source of truth file.
 """
 

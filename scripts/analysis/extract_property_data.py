@@ -4,7 +4,7 @@ Parses gdpClientCache to show all available fields.
 """
 import json
 
-def extract_property_data(file_path="nodriver_detail_test.json"):
+def extract_property_data(file_path="data/nodriver_detail_test.json"):
     """Extract and display property data structure."""
     print("="*80)
     print("PROPERTY DATA EXTRACTION")
@@ -169,7 +169,7 @@ def extract_property_data(file_path="nodriver_detail_test.json"):
         print("   (They may be in a different location or loaded dynamically)")
     
     # Save extracted property data
-    output_file = "property_data_extracted.json"
+    output_file = "data/property_data_extracted.json"
     with open(output_file, "w") as f:
         json.dump(property_data, f, indent=2)
     print(f"\n✅ Full property data saved to {output_file}")

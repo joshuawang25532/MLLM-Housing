@@ -5,7 +5,7 @@ import os
 import json
 from pathlib import Path
 
-RESULTS_FOLDER = "nodriver_results"
+RESULTS_FOLDER = "data/raw_tiles"
 
 def house_count(results_sold):
     """Count houses from mapResults (constant per tile - all properties visible on map)."""

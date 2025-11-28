@@ -8,7 +8,7 @@ from collections import defaultdict, Counter
 from typing import Dict, List, Set
 
 
-def analyze_categorical_features(houses_dir: str = "filtered_houses", output_file: str = None):
+def analyze_categorical_features(houses_dir: str = "data/preprocessed_houses", output_file: str = None):
     """
     Analyze categorical features across all houses.
     
@@ -308,8 +308,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--dir",
         type=str,
-        default="filtered_houses",
-        help="Directory containing house JSON files (default: filtered_houses)"
+        default="data/preprocessed_houses",
+        help="Directory containing house JSON files (default: data/preprocessed_houses)"
     )
     parser.add_argument(
         "--output",

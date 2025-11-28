@@ -9,8 +9,8 @@ Key changes:
 4. Each process maintains its own browser instance (no shared globals)
 
 Large-scale scraper for Zillow property detail pages.
-Iterates over all houses in nodriver_results tile files and scrapes their detail pages.
-Saves parsed results to nodriver_houses folder, tracking visited houses.
+Iterates over all houses in data/raw_tiles tile files and scrapes their detail pages.
+Saves parsed results to data/raw_houses folder, tracking visited houses.
 """
 import json
 import os
@@ -296,7 +296,7 @@ def save_visited_house(zpid, detail_url, visited_zpids=None, visited_urls=None):
 
 
 def extract_all_detail_urls():
-    """Load all detail URLs from nodriver_results/all_house_urls.json (source of truth)."""
+    """Load all detail URLs from data/raw_tiles/all_house_urls.json (source of truth)."""
     all_house_urls_file = os.path.join(RESULTS_FOLDER, "all_house_urls.json")
     
     if not os.path.exists(all_house_urls_file):
@@ -365,7 +365,7 @@ def get_next_nullzpid_counter():
 
 
 def save_house_data(parsed_data, zpid):
-    """Save parsed house data to nodriver_houses folder with atomic operations."""
+    """Save parsed house data to data/raw_houses folder with atomic operations."""
     ensure_houses_dir()
     
     if not zpid:

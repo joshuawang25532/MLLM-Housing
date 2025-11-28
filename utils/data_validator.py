@@ -1,5 +1,5 @@
 """
-Validator script for nodriver_houses directory.
+Validator script for data/raw_houses directory.
 Validates all house JSON files and reports issues.
 """
 import json
@@ -371,7 +371,7 @@ def main():
     """Main entry point."""
     import argparse
     
-    parser = argparse.ArgumentParser(description="Validate house JSON files in nodriver_houses directory")
+    parser = argparse.ArgumentParser(description="Validate house JSON files in data/raw_houses directory")
     parser.add_argument(
         "--dir",
         type=str,
