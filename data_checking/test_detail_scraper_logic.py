@@ -8,11 +8,13 @@ from pathlib import Path
 import tempfile
 import shutil
 
-# Import the functions we want to test
+# Add root directory to path to allow importing modules
 import sys
-sys.path.insert(0, os.path.dirname(__file__))
+root_dir = str(Path(__file__).parent.parent)
+if root_dir not in sys.path:
+    sys.path.insert(0, root_dir)
 
-from nodriver_detail_scraper import (
+from nodriver_detail_scraper_concurrent import (
     ensure_houses_dir,
     load_visited_houses,
     save_visited_house,
