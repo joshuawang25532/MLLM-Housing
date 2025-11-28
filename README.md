@@ -22,7 +22,7 @@ A unified pipeline orchestrates the transformation of raw JSON data into a model
 - **Feature Engineering**: Merges structured data with LLM-derived features (`gemini_encoded_descriptions.csv`).
 
 ### 3. Predictive Modeling
-- **XGBoost Regressor**: The core model for price prediction, tuned via RandomizedSearchCV.
+- **XGBoost + LLM Price Predictor**: The core model for price prediction, tuned via RandomizedSearchCV.
 - **Evaluation**: Comprehensive metrics including RMSE, MAE, RMSLE, and R².
 
 ## Collaboration Scheme Summary
