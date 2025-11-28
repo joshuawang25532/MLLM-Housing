@@ -6,6 +6,7 @@ Use nodriver_parser.py to parse the raw data into clean JSON.
 import json
 import os
 import sys
+import asyncio
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -31,22 +32,64 @@ async def get_shared_browser():
     if _shared_browser is None or not _browser_initialized:
         print("Creating new browser instance...")
         browser_args = []
-        try:
-            if BROWSER_PATH:
-                print(f"Starting browser with path: {BROWSER_PATH}")
-                _shared_browser = await uc.start(
-                    headless=False,
-                    browser_executable_path=BROWSER_PATH,
-                    browser_args=browser_args
-                )
-            else:
-                print("Starting browser without custom path...")
-                _shared_browser = await uc.start(
-                    headless=False,
-                    browser_args=browser_args
-                )
-            print("Browser started successfully")
+        max_retries = 3
+        retry_delay = 2
+        
+        for attempt in range(max_retries):
+            try:
+                if BROWSER_PATH:
+                    # Verify browser path exists
+                    if not os.path.exists(BROWSER_PATH):
+                        print(f"❌ ERROR: Browser path does not exist: {BROWSER_PATH}")
+                        print(f"   Please check your .env file and update BROWSER_PATH")
+                        print(f"   Common paths:")
+                        print(f"     macOS: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
+                        print(f"     macOS: /Applications/Chromium.app/Contents/MacOS/Chromium")
+                        print(f"     Linux: /usr/bin/google-chrome or /usr/bin/chromium")
+                        print(f"     Windows: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe")
+                        raise FileNotFoundError(f"Browser executable not found: {BROWSER_PATH}")
+                    
+                    print(f"Starting browser with path: {BROWSER_PATH}")
+                    _shared_browser = await uc.start(
+                        headless=False,
+                        browser_executable_path=BROWSER_PATH,
+                        browser_args=browser_args,
+                        timeout=30  # 30 second timeout
+                    )
+                else:
+                    print("Starting browser without custom path (nodriver will auto-detect)...")
+                    _shared_browser = await uc.start(
+                        headless=False,
+                        browser_args=browser_args,
+                        timeout=30  # 30 second timeout
+                    )
+                print("✅ Browser started successfully")
+                break  # Success, exit retry loop
+                
+            except Exception as e:
+                error_msg = str(e).lower()
+                print(f"❌ Attempt {attempt + 1}/{max_retries} failed: {type(e).__name__}: {e}")
+                
+                # Check for specific error types
+                if "connection" in error_msg or "connect" in error_msg or "timeout" in error_msg:
+                    if attempt < max_retries - 1:
+                        print(f"   ⏳ Waiting {retry_delay}s before retry...")
+                        await asyncio.sleep(retry_delay)
+                        retry_delay *= 2  # Exponential backoff
+                        continue
+                    else:
+                        print("\n💡 TROUBLESHOOTING TIPS:")
+                        print("   1. Make sure no other browser automation is running")
+                        print("   2. Close all Chrome/Chromium windows and try again")
+                        print("   3. Check if BROWSER_PATH in .env is correct")
+                        print("   4. Try running: killall -9 'Google Chrome' (macOS) or similar")
+                        print("   5. Restart your computer if the issue persists")
+                        raise
+                else:
+                    # Non-connection error, don't retry
+                    raise
             
+            # Browser started successfully, now initialize it
             tab = _shared_browser.tabs[0]
             
             # Navigate to Zillow homepage to establish session
@@ -68,11 +111,6 @@ async def get_shared_browser():
             
             _browser_initialized = True
             print("Browser initialized successfully")
-        except Exception as e:
-            print(f"ERROR: Failed to create browser: {type(e).__name__}: {e}")
-            import traceback
-            traceback.print_exc()
-            raise
     else:
         print("Reusing existing browser instance")
     
