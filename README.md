@@ -55,7 +55,7 @@ jupyter notebook model/xgboost.ipynb
 Alternatively, start from the beginning. This system is designed to be run end-to-end, starting with data collection.
 
 ### 1. Data Collection (Scraping)
-The data collection process has 4 steps:
+The data collection process has 3 steps:
 
 **Step 1: Generate Search Links**
 Generate grid-based search URLs to cover the target area.
@@ -64,21 +64,14 @@ python -m scripts.scraping.generate_links
 ```
 *Output: `data/zillow_links.json`*
 
-**Step 2: Scrape Tiles (Search Results)**
-Visit the generated search links to collect lists of properties.
-```bash
-python -m scripts.scraping.scrape_tiles
-```
-*Output: `data/raw_tiles/*.json`*
-
-**Step 3: Extract URLs**
-Extract unique property URLs from the scraped search results.
+**Step 2: Extract Property URLs**
+Extract unique property URLs from the search grid. This step processes the generated links to identify all available properties.
 ```bash
 python -m scripts.scraping.extract_urls
 ```
 *Output: `data/raw_tiles/all_house_urls.json`*
 
-**Step 4: Scrape Property Details**
+**Step 3: Scrape Property Details**
 Visit each property URL to scrape detailed listing data. This script supports concurrent execution.
 ```bash
 python -m scripts.scraping.scrape_listings
@@ -108,7 +101,7 @@ jupyter notebook model/xgboost.ipynb
 MLLM-Housing/
 ├── data/                       # All data files (Input/Output)
 │   ├── raw_houses/             # Raw JSON files containing scraped property details
-│   ├── raw_tiles/              # Raw tile results from initial search
+│   ├── raw_tiles/              # Intermediate search result data (auto-generated)
 │   ├── preprocessed_houses/    # Intermediate filtered & cleaned JSONs
 │   ├── encoded_houses/         # Intermediate one-hot encoded JSONs
 │   ├── imputed_houses/         # Intermediate KNN-imputed JSONs
@@ -128,9 +121,8 @@ MLLM-Housing/
 │   │   └── json_to_csv.py      # Final conversion
 │   ├── scraping/               # Data collection scripts
 │   │   ├── generate_links.py   # Step 1: Generate search grid
-│   │   ├── scrape_tiles.py     # Step 2: Scrape search results
-│   │   ├── extract_urls.py     # Step 3: Extract property URLs
-│   │   └── scrape_listings.py  # Step 4: Scrape property details
+│   │   ├── extract_urls.py    # Step 2: Extract property URLs
+│   │   └── scrape_listings.py  # Step 3: Scrape property details
 │   └── analysis/               # Data checking and verification scripts
 │
 ├── utils/                      # Shared utility modules
