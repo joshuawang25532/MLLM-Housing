@@ -122,33 +122,20 @@ async def get_shared_browser():
     
     if _shared_browser is None or not _browser_initialized:
         print("Creating new browser instance...")
-        # Common browser args to help with connection issues
-        browser_args = [
-            "--disable-blink-features=AutomationControlled",
-            "--disable-dev-shm-usage",  # Overcome limited resource problems
-            "--no-sandbox",  # Disable sandbox for better compatibility
-        ]
+        browser_args = []
         try:
             if BROWSER_PATH:
-                # Verify browser path exists
-                if not os.path.exists(BROWSER_PATH):
-                    raise FileNotFoundError(
-                        f"Browser executable not found at: {BROWSER_PATH}\n"
-                        f"Please check your .env file and ensure BROWSER_PATH is correct."
-                    )
                 print(f"Starting browser with path: {BROWSER_PATH}")
                 _shared_browser = await uc.start(
                     headless=False,  # Keep visible for debugging, set True for production
                     browser_executable_path=BROWSER_PATH,
-                    browser_args=browser_args,
-                    no_sandbox=True  # Required to avoid connection failures
+                    browser_args=browser_args
                 )
             else:
                 print("Starting browser without custom path...")
                 _shared_browser = await uc.start(
                     headless=False,
-                    browser_args=browser_args,
-                    no_sandbox=True  # Required to avoid connection failures
+                    browser_args=browser_args
                 )
             print("Browser started successfully")
             
@@ -186,25 +173,8 @@ async def get_shared_browser():
             
             _browser_initialized = True
             print("Browser initialized successfully")
-        except FileNotFoundError as e:
-            print(f"❌ Browser executable not found: {e}")
-            print("\nTroubleshooting:")
-            print("1. Check that BROWSER_PATH in .env points to the correct browser executable")
-            print("2. For macOS, the path should be: /Applications/Brave Browser.app/Contents/MacOS/Brave Browser")
-            print("3. For Chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
-            print("4. Make sure the browser is installed and the path is correct")
-            raise
         except Exception as e:
-            error_type = type(e).__name__
-            error_msg = str(e)
-            print(f"❌ ERROR: Failed to create browser: {error_type}: {error_msg}")
-            print("\nCommon causes:")
-            print("1. Browser is already running - try closing all browser windows and retry")
-            print("2. Port conflict - another process may be using the required port")
-            print("3. Browser path is incorrect - check your .env file")
-            print("4. Permissions issue - ensure the browser executable has execute permissions")
-            print("5. Browser crashed - try restarting your computer if the issue persists")
-            print("\nFull error details:")
+            print(f"ERROR: Failed to create browser: {type(e).__name__}: {e}")
             import traceback
             traceback.print_exc()
             raise
