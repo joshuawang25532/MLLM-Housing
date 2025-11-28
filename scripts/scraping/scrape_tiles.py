@@ -155,7 +155,21 @@ async def get_shared_browser():
                 )
             print("Browser started successfully")
             
+            # Wait a moment for the connection to fully establish
+            import asyncio
+            await asyncio.sleep(1.0)
+            print("Waiting for browser connection to stabilize...")
+            
+            # Check if browser and tabs are available
+            if _shared_browser is None:
+                raise Exception("Browser instance is None after start")
+            
+            if not hasattr(_shared_browser, 'tabs') or len(_shared_browser.tabs) == 0:
+                raise Exception(f"Browser has no tabs available. Browser state: {type(_shared_browser)}")
+            
+            print(f"Browser has {len(_shared_browser.tabs)} tab(s)")
             tab = _shared_browser.tabs[0]
+            print("Tab accessed successfully")
             
             # First, navigate to Zillow homepage to establish session
             print("Establishing session with Zillow...")
