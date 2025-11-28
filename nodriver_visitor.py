@@ -12,8 +12,8 @@ import re
 import random
 import copy
 from dotenv import load_dotenv
-import sleep_utils
-from pyzill_scraper import dedupe_results
+import utils
+from utils import dedupe_results
 
 load_dotenv()
 BROWSER_PATH = os.getenv("BROWSER_PATH", None)
@@ -528,7 +528,7 @@ async def visit_zillow_link(link_url, index=None, page_number=1):
             print(f"⚠️  Link{index_str}{page_str} loaded but no listings detected")
         
         # Add a small delay between visits (configurable for throughput)
-        sleep_utils.gaussian_sleep(
+        utils.gaussian_sleep(
             mean=GAUSSIAN_SLEEP_MEAN,
             std_dev=GAUSSIAN_SLEEP_STD,
             min_sleep=GAUSSIAN_SLEEP_MIN,
