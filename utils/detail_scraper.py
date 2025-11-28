@@ -29,90 +29,102 @@ async def get_shared_browser():
     """Get or create a shared browser instance."""
     global _shared_browser, _browser_initialized
     
-    if _shared_browser is None or not _browser_initialized:
-        print("Creating new browser instance...")
-        browser_args = []
-        max_retries = 3
-        retry_delay = 2
-        
-        for attempt in range(max_retries):
-            try:
-                if BROWSER_PATH:
-                    # Verify browser path exists
-                    if not os.path.exists(BROWSER_PATH):
-                        print(f"❌ ERROR: Browser path does not exist: {BROWSER_PATH}")
-                        print(f"   Please check your .env file and update BROWSER_PATH")
-                        print(f"   Common paths:")
-                        print(f"     macOS: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
-                        print(f"     macOS: /Applications/Chromium.app/Contents/MacOS/Chromium")
-                        print(f"     Linux: /usr/bin/google-chrome or /usr/bin/chromium")
-                        print(f"     Windows: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe")
-                        raise FileNotFoundError(f"Browser executable not found: {BROWSER_PATH}")
-                    
-                    print(f"Starting browser with path: {BROWSER_PATH}")
-                    _shared_browser = await uc.start(
-                        headless=False,
-                        browser_executable_path=BROWSER_PATH,
-                        browser_args=browser_args,
-                        timeout=30  # 30 second timeout
-                    )
-                else:
-                    print("Starting browser without custom path (nodriver will auto-detect)...")
-                    _shared_browser = await uc.start(
-                        headless=False,
-                        browser_args=browser_args,
-                        timeout=30  # 30 second timeout
-                    )
-                print("✅ Browser started successfully")
-                break  # Success, exit retry loop
+    # Check if browser exists and is still alive
+    if _shared_browser is not None and _browser_initialized:
+        try:
+            # Try to access tabs to verify browser is still alive
+            _ = _shared_browser.tabs
+            print("♻️  Reusing existing browser instance")
+            return _shared_browser
+        except (AttributeError, RuntimeError, Exception):
+            # Browser is dead, reset and create new one
+            print("⚠️  Existing browser instance is dead, creating new one...")
+            _shared_browser = None
+            _browser_initialized = False
+    
+    # Create new browser instance
+    print("🆕 Creating new browser instance...")
+    browser_args = []
+    max_retries = 3
+    retry_delay = 2
+    
+    for attempt in range(max_retries):
+        try:
+            if BROWSER_PATH:
+                # Verify browser path exists
+                if not os.path.exists(BROWSER_PATH):
+                    print(f"❌ ERROR: Browser path does not exist: {BROWSER_PATH}")
+                    print(f"   Please check your .env file and update BROWSER_PATH")
+                    print(f"   Common paths:")
+                    print(f"     macOS: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
+                    print(f"     macOS: /Applications/Chromium.app/Contents/MacOS/Chromium")
+                    print(f"     Linux: /usr/bin/google-chrome or /usr/bin/chromium")
+                    print(f"     Windows: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe")
+                    raise FileNotFoundError(f"Browser executable not found: {BROWSER_PATH}")
                 
-            except Exception as e:
-                error_msg = str(e).lower()
-                print(f"❌ Attempt {attempt + 1}/{max_retries} failed: {type(e).__name__}: {e}")
-                
-                # Check for specific error types
-                if "connection" in error_msg or "connect" in error_msg or "timeout" in error_msg:
-                    if attempt < max_retries - 1:
-                        print(f"   ⏳ Waiting {retry_delay}s before retry...")
-                        await asyncio.sleep(retry_delay)
-                        retry_delay *= 2  # Exponential backoff
-                        continue
-                    else:
-                        print("\n💡 TROUBLESHOOTING TIPS:")
-                        print("   1. Make sure no other browser automation is running")
-                        print("   2. Close all Chrome/Chromium windows and try again")
-                        print("   3. Check if BROWSER_PATH in .env is correct")
-                        print("   4. Try running: killall -9 'Google Chrome' (macOS) or similar")
-                        print("   5. Restart your computer if the issue persists")
-                        raise
+                print(f"Starting browser with path: {BROWSER_PATH}")
+                _shared_browser = await uc.start(
+                    headless=False,
+                    browser_executable_path=BROWSER_PATH,
+                    browser_args=browser_args,
+                    timeout=30  # 30 second timeout
+                )
+            else:
+                print("Starting browser without custom path (nodriver will auto-detect)...")
+                _shared_browser = await uc.start(
+                    headless=False,
+                    browser_args=browser_args,
+                    timeout=30  # 30 second timeout
+                )
+            print("✅ Browser started successfully")
+            break  # Success, exit retry loop
+            
+        except Exception as e:
+            error_msg = str(e).lower()
+            print(f"❌ Attempt {attempt + 1}/{max_retries} failed: {type(e).__name__}: {e}")
+            
+            # Check for specific error types
+            if "connection" in error_msg or "connect" in error_msg or "timeout" in error_msg:
+                if attempt < max_retries - 1:
+                    print(f"   ⏳ Waiting {retry_delay}s before retry...")
+                    await asyncio.sleep(retry_delay)
+                    retry_delay *= 2  # Exponential backoff
+                    continue
                 else:
-                    # Non-connection error, don't retry
+                    print("\n💡 TROUBLESHOOTING TIPS:")
+                    print("   1. Make sure no other browser automation is running")
+                    print("   2. Close all Chrome/Chromium windows and try again")
+                    print("   3. Check if BROWSER_PATH in .env is correct")
+                    print("   4. Try running: killall -9 'Google Chrome' (macOS) or similar")
+                    print("   5. Restart your computer if the issue persists")
                     raise
-            
-            # Browser started successfully, now initialize it
-            tab = _shared_browser.tabs[0]
-            
-            # Navigate to Zillow homepage to establish session
-            print("Establishing session with Zillow...")
-            await tab.get("https://www.zillow.com")
-            print("Navigated to Zillow, waiting for page load...")
-            await tab.wait(3)
-            
-            # Quick CAPTCHA check (non-blocking, just warn)
-            try:
-                page_content = await tab.get_content()
-                if any(indicator in page_content.lower() for indicator in ["press and hold", "px-captcha", "access denied"]):
-                    print("⚠️  WARNING: CAPTCHA detected! The script may hang. Please solve it manually.")
-                    print("   You can continue - the script will try to proceed anyway.")
-                else:
-                    print("✅ No CAPTCHA detected")
-            except:
-                pass  # Don't fail if we can't check
-            
-            _browser_initialized = True
-            print("Browser initialized successfully")
-    else:
-        print("Reusing existing browser instance")
+            else:
+                # Non-connection error, don't retry
+                raise
+    
+    # Browser started successfully, now initialize it (only once)
+    if not _browser_initialized:
+        tab = _shared_browser.tabs[0]
+        
+        # Navigate to Zillow homepage to establish session
+        print("Establishing session with Zillow...")
+        await tab.get("https://www.zillow.com")
+        print("Navigated to Zillow, waiting for page load...")
+        await tab.wait(3)
+        
+        # Quick CAPTCHA check (non-blocking, just warn)
+        try:
+            page_content = await tab.get_content()
+            if any(indicator in page_content.lower() for indicator in ["press and hold", "px-captcha", "access denied"]):
+                print("⚠️  WARNING: CAPTCHA detected! The script may hang. Please solve it manually.")
+                print("   You can continue - the script will try to proceed anyway.")
+            else:
+                print("✅ No CAPTCHA detected")
+        except:
+            pass  # Don't fail if we can't check
+        
+        _browser_initialized = True
+        print("✅ Browser initialized successfully")
     
     return _shared_browser
 
