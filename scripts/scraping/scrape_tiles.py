@@ -4,7 +4,6 @@ Loads zillow_links.json and visits each URL directly using nodriver browser auto
 Supports pagination to visit all pages for each link.
 Scales up to scrape all tiles with randomized order and immediate saving.
 """
-import nodriver as uc
 import json
 import os
 import sys
@@ -13,6 +12,14 @@ import urllib.parse
 import re
 import random
 import copy
+from pathlib import Path
+
+# Add project root to path so imports work when run directly
+project_root = Path(__file__).parent.parent.parent
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+
+import nodriver as uc
 from dotenv import load_dotenv
 import utils.common as utils
 from utils.common import dedupe_results
