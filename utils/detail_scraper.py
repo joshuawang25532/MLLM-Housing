@@ -3,10 +3,18 @@ nodriver-based scraper for Zillow property detail pages.
 Scrapes individual property detail pages and returns raw data.
 Use nodriver_parser.py to parse the raw data into clean JSON.
 """
-import nodriver as uc
 import json
 import os
+import sys
+from pathlib import Path
 from dotenv import load_dotenv
+
+# Add project root to path so imports work when run directly
+project_root = Path(__file__).parent.parent
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+
+import nodriver as uc
 import utils.html_parser as html_parser
 
 load_dotenv()
@@ -22,50 +30,24 @@ async def get_shared_browser():
     
     if _shared_browser is None or not _browser_initialized:
         print("Creating new browser instance...")
-        # Browser args - use separate user data directory to avoid conflicts with running browser
-        import tempfile
-        user_data_dir = os.path.join(tempfile.gettempdir(), "nodriver_scraper_profile")
-        os.makedirs(user_data_dir, exist_ok=True)
-        browser_args = [
-            f"--user-data-dir={user_data_dir}",  # Use separate profile to avoid conflicts
-            # sandbox=False parameter handles --no-sandbox automatically
-        ]
-        
+        browser_args = []
         try:
             if BROWSER_PATH:
                 print(f"Starting browser with path: {BROWSER_PATH}")
-                print(f"Using user data dir: {user_data_dir}")
                 _shared_browser = await uc.start(
                     headless=False,
                     browser_executable_path=BROWSER_PATH,
-                    browser_args=browser_args,
-                    sandbox=False  # Disable sandbox to avoid connection issues
+                    browser_args=browser_args
                 )
             else:
                 print("Starting browser without custom path...")
-                print(f"Using user data dir: {user_data_dir}")
                 _shared_browser = await uc.start(
                     headless=False,
-                    browser_args=browser_args,
-                    sandbox=False  # Disable sandbox to avoid connection issues
+                    browser_args=browser_args
                 )
             print("Browser started successfully")
             
-            # Wait a moment for the connection to fully establish
-            import asyncio
-            await asyncio.sleep(1.0)
-            print("Waiting for browser connection to stabilize...")
-            
-            # Check if browser and tabs are available
-            if _shared_browser is None:
-                raise Exception("Browser instance is None after start")
-            
-            if not hasattr(_shared_browser, 'tabs') or len(_shared_browser.tabs) == 0:
-                raise Exception(f"Browser has no tabs available. Browser state: {type(_shared_browser)}")
-            
-            print(f"Browser has {len(_shared_browser.tabs)} tab(s)")
             tab = _shared_browser.tabs[0]
-            print("Tab accessed successfully")
             
             # Navigate to Zillow homepage to establish session
             print("Establishing session with Zillow...")

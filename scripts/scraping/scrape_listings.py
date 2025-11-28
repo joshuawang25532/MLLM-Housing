@@ -21,6 +21,12 @@ import sys
 from pathlib import Path
 from dotenv import load_dotenv
 from datetime import datetime
+
+# Add project root to path so imports work when run directly
+project_root = Path(__file__).parent.parent.parent
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+
 # Lazy imports to avoid requiring nodriver at import time
 # import nodriver_detail
 # import nodriver_parser

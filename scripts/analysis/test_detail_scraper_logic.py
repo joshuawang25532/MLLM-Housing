@@ -8,11 +8,11 @@ from pathlib import Path
 import tempfile
 import shutil
 
-# Add root directory to path to allow importing modules
+# Add project root to path so imports work when run directly
 import sys
-root_dir = str(Path(__file__).parent.parent)
-if root_dir not in sys.path:
-    sys.path.insert(0, root_dir)
+project_root = Path(__file__).parent.parent.parent
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
 
 from scripts.scraping.scrape_listings import (
     ensure_houses_dir,

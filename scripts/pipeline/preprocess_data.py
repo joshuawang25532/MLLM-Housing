@@ -6,7 +6,14 @@ Removes leaking/noisy features and transforms data structure.
 """
 import json
 import shutil
+import sys
 from pathlib import Path
+
+# Add project root to path so imports work when run directly
+project_root = Path(__file__).parent.parent.parent
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+
 from utils.data_validator import HouseValidator
 
 # Fields to remove by section (leaking or noisy features)
