@@ -122,12 +122,13 @@ async def get_shared_browser():
     
     if _shared_browser is None or not _browser_initialized:
         print("Creating new browser instance...")
-        # Browser args - keep minimal like the old working code
-        browser_args = []
-        # Use a separate user data directory to avoid conflicts with running browser
+        # Browser args - use separate user data directory to avoid conflicts with running browser
         import tempfile
         user_data_dir = os.path.join(tempfile.gettempdir(), "nodriver_scraper_profile")
         os.makedirs(user_data_dir, exist_ok=True)
+        browser_args = [
+            f"--user-data-dir={user_data_dir}",  # Use separate profile to avoid conflicts
+        ]
         
         try:
             if BROWSER_PATH:
@@ -138,19 +139,19 @@ async def get_shared_browser():
                         f"Please check your .env file and ensure BROWSER_PATH is correct."
                     )
                 print(f"Starting browser with path: {BROWSER_PATH}")
+                print(f"Using user data dir: {user_data_dir}")
                 _shared_browser = await uc.start(
                     headless=False,  # Keep visible for debugging, set True for production
                     browser_executable_path=BROWSER_PATH,
                     browser_args=browser_args,
-                    user_data_dir=user_data_dir,
                     no_sandbox=True  # Required per error message
                 )
             else:
                 print("Starting browser without custom path...")
+                print(f"Using user data dir: {user_data_dir}")
                 _shared_browser = await uc.start(
                     headless=False,
                     browser_args=browser_args,
-                    user_data_dir=user_data_dir,
                     no_sandbox=True  # Required per error message
                 )
             print("Browser started successfully")
