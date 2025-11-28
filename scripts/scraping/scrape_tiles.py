@@ -128,6 +128,7 @@ async def get_shared_browser():
         os.makedirs(user_data_dir, exist_ok=True)
         browser_args = [
             f"--user-data-dir={user_data_dir}",  # Use separate profile to avoid conflicts
+            # sandbox=False parameter handles --no-sandbox automatically
         ]
         
         try:
@@ -144,7 +145,7 @@ async def get_shared_browser():
                     headless=False,  # Keep visible for debugging, set True for production
                     browser_executable_path=BROWSER_PATH,
                     browser_args=browser_args,
-                    no_sandbox=True  # Required per error message
+                    sandbox=False  # Disable sandbox to avoid connection issues
                 )
             else:
                 print("Starting browser without custom path...")
@@ -152,7 +153,7 @@ async def get_shared_browser():
                 _shared_browser = await uc.start(
                     headless=False,
                     browser_args=browser_args,
-                    no_sandbox=True  # Required per error message
+                    sandbox=False  # Disable sandbox to avoid connection issues
                 )
             print("Browser started successfully")
             
