@@ -8,6 +8,7 @@ import nodriver as uc
 import json
 import os
 import sys
+import time
 import urllib.parse
 import re
 import random
@@ -122,56 +123,24 @@ async def get_shared_browser():
     
     if _shared_browser is None or not _browser_initialized:
         print("Creating new browser instance...")
-        # Browser args - use separate user data directory to avoid conflicts with running browser
-        import tempfile
-        user_data_dir = os.path.join(tempfile.gettempdir(), "nodriver_scraper_profile")
-        os.makedirs(user_data_dir, exist_ok=True)
-        browser_args = [
-            f"--user-data-dir={user_data_dir}",  # Use separate profile to avoid conflicts
-            # sandbox=False parameter handles --no-sandbox automatically
-        ]
-        
+        browser_args = []
         try:
             if BROWSER_PATH:
-                # Verify browser path exists
-                if not os.path.exists(BROWSER_PATH):
-                    raise FileNotFoundError(
-                        f"Browser executable not found at: {BROWSER_PATH}\n"
-                        f"Please check your .env file and ensure BROWSER_PATH is correct."
-                    )
                 print(f"Starting browser with path: {BROWSER_PATH}")
-                print(f"Using user data dir: {user_data_dir}")
                 _shared_browser = await uc.start(
                     headless=False,  # Keep visible for debugging, set True for production
                     browser_executable_path=BROWSER_PATH,
-                    browser_args=browser_args,
-                    sandbox=False  # Disable sandbox to avoid connection issues
+                    browser_args=browser_args
                 )
             else:
                 print("Starting browser without custom path...")
-                print(f"Using user data dir: {user_data_dir}")
                 _shared_browser = await uc.start(
                     headless=False,
-                    browser_args=browser_args,
-                    sandbox=False  # Disable sandbox to avoid connection issues
+                    browser_args=browser_args
                 )
             print("Browser started successfully")
             
-            # Wait a moment for the connection to fully establish
-            import asyncio
-            await asyncio.sleep(1.0)
-            print("Waiting for browser connection to stabilize...")
-            
-            # Check if browser and tabs are available
-            if _shared_browser is None:
-                raise Exception("Browser instance is None after start")
-            
-            if not hasattr(_shared_browser, 'tabs') or len(_shared_browser.tabs) == 0:
-                raise Exception(f"Browser has no tabs available. Browser state: {type(_shared_browser)}")
-            
-            print(f"Browser has {len(_shared_browser.tabs)} tab(s)")
             tab = _shared_browser.tabs[0]
-            print("Tab accessed successfully")
             
             # First, navigate to Zillow homepage to establish session
             print("Establishing session with Zillow...")
@@ -205,25 +174,8 @@ async def get_shared_browser():
             
             _browser_initialized = True
             print("Browser initialized successfully")
-        except FileNotFoundError as e:
-            print(f"❌ Browser executable not found: {e}")
-            print("\nTroubleshooting:")
-            print("1. Check that BROWSER_PATH in .env points to the correct browser executable")
-            print("2. For macOS, the path should be: /Applications/Brave Browser.app/Contents/MacOS/Brave Browser")
-            print("3. For Chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
-            print("4. Make sure the browser is installed and the path is correct")
-            raise
         except Exception as e:
-            error_type = type(e).__name__
-            error_msg = str(e)
-            print(f"❌ ERROR: Failed to create browser: {error_type}: {error_msg}")
-            print("\nCommon causes:")
-            print("1. Browser is already running - try closing all browser windows and retry")
-            print("2. Port conflict - another process may be using the required port")
-            print("3. Browser path is incorrect - check your .env file")
-            print("4. Permissions issue - ensure the browser executable has execute permissions")
-            print("5. Browser crashed - try restarting your computer if the issue persists")
-            print("\nFull error details:")
+            print(f"ERROR: Failed to create browser: {type(e).__name__}: {e}")
             import traceback
             traceback.print_exc()
             raise
