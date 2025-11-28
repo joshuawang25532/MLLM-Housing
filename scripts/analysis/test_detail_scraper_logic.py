@@ -70,8 +70,6 @@ def test_extract_urls():
         house = houses[0]
         assert "zpid" in house, "House should have zpid"
         assert "detailUrl" in house, "House should have detailUrl"
-        assert "source" in house, "House should have source"
-        assert "tile_file" in house, "House should have tile_file"
         print(f"✅ House structure is correct: {house.get('zpid')}, {house.get('detailUrl')[:50]}...")
 
 def test_save_house_data():

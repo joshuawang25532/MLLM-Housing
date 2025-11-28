@@ -255,7 +255,7 @@ async def rescrape_house(zpid, url, filepath):
 async def main(issues_json_file=None):
     """Main entry point."""
     # Lazy import
-    import nodriver_detail
+    import utils.detail_scraper as nodriver_detail
     
     print("="*70)
     print("RESCRAPE HOUSES WITH MISSING SCORES")
