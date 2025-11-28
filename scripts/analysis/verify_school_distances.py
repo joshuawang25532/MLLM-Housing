@@ -100,10 +100,10 @@ def check_code_for_conversions():
     print("=" * 70)
     
     files_to_check = [
-        "nodriver_parser.py",
-        "house_preprocessing.py",
-        "house_imputation.py",
-        "one_hot_encode_houses.py"
+        "utils/html_parser.py",
+        "scripts/pipeline/preprocess_data.py",
+        "scripts/pipeline/impute_missing.py",
+        "scripts/pipeline/encode_features.py"
     ]
     
     conversion_patterns = [
@@ -145,7 +145,7 @@ def check_dataset():
     print("CHECKING FINAL DATASET")
     print("=" * 70)
     
-    csv_file = Path("houses_dataset.csv")
+    csv_file = Path("data/final_dataset.csv")
     if not csv_file.exists():
         print(f"❌ Dataset {csv_file} does not exist!")
         return

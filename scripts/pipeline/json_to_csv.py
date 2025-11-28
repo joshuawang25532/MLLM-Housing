@@ -1,7 +1,7 @@
 """
 Convert all house JSON files to a single CSV file.
 
-Takes all individual JSON files from houses_imputed/ (or houses_onehot_encoded/)
+Takes all individual JSON files from data/imputed_houses/ (or data/encoded_houses/)
 and converts them into a single CSV file for easy loading into pandas/sklearn.
 
 Usage:
