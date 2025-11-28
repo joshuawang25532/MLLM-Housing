@@ -1,28 +1,69 @@
-.husky/
-node_modules/
-package-lock.json
-package.json
-/2/
-commitlint.config.js
-/outputs/
-azure_test.py
-job.yml
-/most-recent/
-/recommended-filter/
-/redfin_properties/
-.env
-.DS_Store
-/__pycache__/
-deprecated_auto_pyzill.py
-unmodified_pyzill.py
-/pyzill_results/
-/nodriver_results_alltime/
-/.ipynb_checkpoints/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
-/filtered_houses/
-/houses_imputed/
-/houses_onehot_encoded/
-/houses_preprocessed/
-/nodriver_houses/
-/models/
-/nodriver_results/
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.idea/
+.vscode/
+.cursor/
+*.swp
+*.swo
+*.DS_Store
+
+# Project Data (Large files)
+data/raw_houses/*.json
+data/raw_houses/*.lock
+data/raw_tiles/*.json
+data/preprocessed_houses/*.json
+data/encoded_houses/*.json
+data/imputed_houses/*.json
+data/houses_preprocessed_legacy/
+data/debug_results/
+data/*.csv
+data/*.json
+
+# Keep gitkeep files if any (to track directories)
+!data/**/.gitkeep
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Models
+model/artifacts/*.pkl
+model/artifacts/*.joblib
+model/artifacts/*.model
+
+# Notebook checkpoints
+.ipynb_checkpoints
