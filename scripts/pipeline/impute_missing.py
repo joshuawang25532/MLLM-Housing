@@ -175,10 +175,10 @@ def identify_feature_columns(df: pd.DataFrame) -> Dict[str, List[str]]:
     
     # Other numeric features that should be included in KNN distance calculation
     # (but won't be imputed - they're already complete or handled elsewhere)
+    # financial_lastSoldPrice is the model's target, so it must never influence imputed features
     other_numeric_features = [
         'location_latitude',
         'location_longitude',
-        'financial_lastSoldPrice',
         'financial_monthlyHoaFee',
         'financial_taxAssessedValue',
         'financial_taxAssessedValue_is_missing',
@@ -218,6 +218,19 @@ def identify_feature_columns(df: pd.DataFrame) -> Dict[str, List[str]]:
         'other_numeric': other_numeric_features,
         'one_hot': one_hot_features,
     }
+
+
+def get_distance_features(feature_groups: Dict[str, List[str]]) -> List[str]:
+    """
+    Features used for KNN distance: location + one-hot + other numeric.
+    Phase 4 features are also included in the distance calculation by apply_knn_imputation.
+    """
+    return (
+        feature_groups['zipcode'] +
+        feature_groups['neighborhood'] +
+        feature_groups['one_hot'] +
+        feature_groups['other_numeric']
+    )
 
 
 def analyze_missingness(df: pd.DataFrame, feature_cols: List[str]) -> Dict[str, Tuple[int, float]]:
@@ -267,7 +280,8 @@ def apply_knn_imputation(
     df_imputed = df.copy()
     
     # Combine features: those to impute + those for distance calculation only
-    all_features_for_knn = list(set(features_to_impute + features_for_distance))
+    # dict.fromkeys keeps a stable column order (set() order changes between runs)
+    all_features_for_knn = list(dict.fromkeys(features_to_impute + features_for_distance))
     
     # Extract the feature matrix
     X = df[all_features_for_knn].copy()
@@ -771,14 +785,7 @@ def process_houses(
     # Step 4: Apply KNN imputation
     print("\n🤖 Step 4: Applying KNN imputation...")
     
-    # Features for distance calculation: location + one-hot + other numeric
-    # Note: Phase 4 features are also included in distance calculation
-    features_for_distance = (
-        feature_groups['zipcode'] +
-        feature_groups['neighborhood'] +
-        feature_groups['one_hot'] +
-        feature_groups['other_numeric']
-    )
+    features_for_distance = get_distance_features(feature_groups)
     
     df_imputed, imputation_counts, scaler, feature_names = apply_knn_imputation(
         df,

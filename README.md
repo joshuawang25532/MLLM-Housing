@@ -1,14 +1,16 @@
 # MLLM-Housing
 
 ## Project Overview
-MLLM-Housing is a machine learning project designed to predict housing prices by integrating traditional structured data with abstract quality assessments (e.g., beauty, cleanliness, spaciousness) derived from Multimodal Large Language Models (MLLMs).
+MLLM-Housing predicts San Francisco housing sale prices with XGBoost and tests whether qualitative features extracted by an LLM add anything on top of traditional structured listing data.
 
-The project utilizes a robust scraping pipeline to collect real estate data (Zillow), processes it through a comprehensive cleaning and imputation workflow, and employs XGBoost for price prediction. Unique to this project is the use of Gemini-encoded descriptions to capture qualitative features from property text.
+The project scrapes listing data from Zillow, runs it through a cleaning, encoding and imputation pipeline, and asks Gemini to score each listing's text description on five qualitative dimensions (luxury, renovation, distress, marketing hype, location premium). The model notebook then compares XGBoost with and without those scores on identical splits.
+
+> **Scope note:** the LLM features currently come from listing **text only**. The scraped data includes listing photos, but image-based (multimodal) features are not implemented yet; that is the natural next step and the reason for the project name.
 
 ## Core Functions
 
 ### 1. Advanced Data Collection (Scraping)
-The project implements a custom, driverless scraping solution using `nodriver` to bypass standard bot detection mechanisms.
+The project implements a browser-automation scraper built on `nodriver` that drives a real Chrome instance, paced with randomized delays to keep request rates low.
 - **Concurrent Scraping**: Supports running multiple scraper instances simultaneously to maximize throughput.
 - **Resilience**: Implements retry logic, rate limiting (Gaussian-distributed delays), and error handling for network issues.
 - **Data Integrity**: Validates scraped data against expected schemas to ensure quality.
@@ -19,11 +21,28 @@ A unified pipeline orchestrates the transformation of raw JSON data into a model
 - **Preprocessing**: Cleans raw fields, handles missing values, and normalizes data.
 - **One-Hot Encoding**: Converts categorical variables for machine learning compatibility.
 - **Imputation**: Uses KNN imputation to fill missing numerical data.
-- **Feature Engineering**: Merges structured data with LLM-derived features (`gemini_encoded_descriptions.csv`).
+- **Feature Engineering**: Joins structured data with LLM-derived features (`gemini_encoded_descriptions.csv`) on the listing ID (`zpid`).
+- **Leakage guard**: The sale price (the target) is excluded from the features KNN imputation uses to find neighbours, and imputation is deterministic run to run.
 
 ### 3. Predictive Modeling
-- **XGBoost + LLM Price Predictor**: The core model for price prediction, tuned via RandomizedSearchCV.
-- **Evaluation**: Comprehensive metrics including RMSE, MAE, RMSLE, and R².
+- **Baseline vs. LLM features**: Two XGBoost models (structured features only, and structured + Gemini scores), each tuned separately with RandomizedSearchCV on the training split.
+- **Evaluation**: Paired 5x3 repeated K-fold CV on the training split, then a single held-out test set. Reports log-RMSE plus dollar MAE, MAPE, median APE and R². Results are written to `results.txt`.
+
+**Current results** (4,838 SF sales after removing 15 non-market transfers under $100k; 80/20 split):
+
+| Model | CV RMSE (log) | Test RMSE (log) | Test MAE | Test MAPE | Test median APE | Test R² ($) |
+|---|---|---|---|---|---|---|
+| XGBoost (baseline) | 0.2530 ± 0.0175 | 0.2641 | $371,036 | 18.7% | 11.8% | 0.625 |
+| XGBoost + Gemini | 0.2446 ± 0.0174 | 0.2601 | $359,525 | 18.0% | 10.9% | 0.645 |
+
+The Gemini features give a small but consistent improvement: about 3% lower log-RMSE, better in 14 of 15 paired CV folds, and about $11.5k lower test MAE. Most of the predictive power still comes from the structured features.
+
+### Limitations
+- **Text only:** the LLM features come from listing descriptions; photos are scraped but not yet used.
+- **Small effect, one market:** the gain is modest and measured on a single city (San Francisco) over one scrape.
+- **Dollar R² is outlier-sensitive:** a few very expensive sales (up to $44M) dominate dollar-scale R², so log-RMSE and median APE are the more reliable summaries.
+- **Imputation is fit on all rows:** KNN imputation never sees the sale price, but it does use other rows' features (including test rows) to fill gaps. Moving it into a train-only sklearn `Pipeline` would remove that last bit of overlap.
+- **Gemini scores are a snapshot:** they were generated once with `gemini-flash-lite-latest`; re-running `model/description.ipynb` with a newer model may give slightly different scores.
 
 ## Collaboration Scheme Summary
 The project features a **Concurrent Scraping Architecture** designed for scalability:
@@ -34,25 +53,32 @@ The project features a **Concurrent Scraping Architecture** designed for scalabi
 
 ## Environment Setup
 
-1. **Prerequisites**: Ensure you have [Anaconda](https://www.anaconda.com/) or Miniconda installed.
+Dependencies are pinned in `requirements.txt`; `environment.yml` wraps them for conda. Works on macOS, Linux and Windows.
 
-2. **Create Environment**:
-   ```bash
-   conda env create -f environment.yml
-   ```
+**With conda:**
+```bash
+conda env create -f environment.yml
+conda activate MLLMHousing
+```
 
-3. **Activate Environment**:
-   ```bash
-   conda activate MLLMHousing
-   ```
+**Or with pip** (Python 3.10):
+```bash
+pip install -r requirements.txt
+```
+
+**Run the tests:**
+```bash
+pytest
+```
+The tests check that imputation never uses the sale price and is deterministic, that the final CSV is keyed by `zpid`, and that the committed datasets join correctly and respect the Gemini scoring rubric. They run in GitHub Actions on Ubuntu and Windows.
 
 ## Quick-Start Commands
 
-To run the model, run the command:
+To reproduce the results, open the model notebook and run all cells (about a minute on a laptop). It only needs the two committed tables, `data/final_dataset.csv` and `data/gemini_encoded_descriptions.csv`:
 ```bash
 jupyter notebook model/xgboost.ipynb
 ```
-Alternatively, start from the beginning. This system is designed to be run end-to-end, starting with data collection.
+Alternatively, start from the beginning. Raw and intermediate data (~1 GB of scraped JSON) is not committed, so the full pipeline starts with data collection.
 
 ### 1. Data Collection (Scraping)
 The data collection process has 3 steps:
@@ -93,24 +119,23 @@ Open the Jupyter Notebook to train the XGBoost model on the processed dataset:
 ```bash
 jupyter notebook model/xgboost.ipynb
 ```
-*Note: Ensure you update file paths in the notebook to point to `../data/final_dataset.csv`.*
 
 ## Directory Structure
 
 ```
 MLLM-Housing/
-├── data/                       # All data files (Input/Output)
-│   ├── raw_houses/             # Raw JSON files containing scraped property details
-│   ├── raw_tiles/              # Intermediate search result data (auto-generated)
-│   ├── preprocessed_houses/    # Intermediate filtered & cleaned JSONs
-│   ├── encoded_houses/         # Intermediate one-hot encoded JSONs
-│   ├── imputed_houses/         # Intermediate KNN-imputed JSONs
-│   ├── final_dataset.csv       # Final merged and processed dataset for training
-│   └── gemini_encoded_descriptions.csv # Pre-computed features from LLM analysis
+├── data/                       # All data files (only the two CSVs are committed)
+│   ├── raw_houses/             # Raw JSON files containing scraped property details (generated)
+│   ├── raw_tiles/              # Intermediate search result data (generated)
+│   ├── preprocessed_houses/    # Intermediate filtered & cleaned JSONs (generated)
+│   ├── encoded_houses/         # Intermediate one-hot encoded JSONs (generated)
+│   ├── imputed_houses/         # Intermediate KNN-imputed JSONs (generated)
+│   ├── final_dataset.csv       # Final processed dataset for training, keyed by zpid
+│   └── gemini_encoded_descriptions.csv # Gemini scores per listing, keyed by zpid
 │
-├── model/                      # Model training and artifacts
-│   ├── artifacts/              # Saved .pkl models and feature names
-│   └── xgboost.ipynb           # Model training and evaluation notebook
+├── model/                      # Modeling notebooks
+│   ├── description.ipynb       # Gemini scoring of listing descriptions
+│   └── xgboost.ipynb           # Baseline vs. + Gemini model comparison
 │
 ├── scripts/                    # Executable scripts
 │   ├── pipeline/               # Data processing pipeline scripts
@@ -131,7 +156,11 @@ MLLM-Housing/
 │   ├── detail_scraper.py       # Core scraping logic (nodriver)
 │   └── html_parser.py          # HTML parsing logic
 │
-├── environment.yml             # Conda environment dependency file
+├── tests/                      # pytest suite (imputation, CSV conversion, dataset contracts)
+├── .github/workflows/tests.yml # CI: runs pytest on Ubuntu and Windows
+├── requirements.txt            # Pinned dependencies
+├── environment.yml             # Conda wrapper around requirements.txt
+├── results.txt                 # Latest model comparison, written by model/xgboost.ipynb
 └── README.md                   # Project documentation
 ```
 
@@ -139,9 +168,9 @@ MLLM-Housing/
 
 ### Dataset
 - **Source**: Zillow (Scraped via `nodriver`).
-- **Processed Data**: `data/final_dataset.csv` (Contains ~4,800 listings with 100+ features).
-- **LLM Features**: `data/gemini_encoded_descriptions.csv` (Contains embedding-like features representing qualitative aspects).
+- **Processed Data**: `data/final_dataset.csv` (4,853 listings, ~110 columns, keyed by `zpid`; the model drops 15 sales under $100k).
+- **LLM Features**: `data/gemini_encoded_descriptions.csv` (5 scalar scores per listing from `model/description.ipynb`, keyed by `zpid`; empty for the 25 listings with no description).
 
 ### Experiment Logs
-- Model performance metrics (MAE, RMSE, R²) are output directly in `model/xgboost.ipynb` after training.
+- Model comparison (baseline vs. + Gemini) is written to `results.txt` by `model/xgboost.ipynb`.
 - Scraping progress is logged to the console and tracked via `data/raw_houses/visited_houses.json` (internal state file).

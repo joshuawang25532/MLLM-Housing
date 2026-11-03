@@ -48,8 +48,14 @@ data/encoded_houses/*.json
 data/imputed_houses/*.json
 data/houses_preprocessed_legacy/
 data/debug_results/
+data/imputed_houses/*.pkl
+data/raw_houses/visited_houses.*
 data/*.csv
 data/*.json
+
+# The two tables the model notebook needs are small enough to commit
+!data/final_dataset.csv
+!data/gemini_encoded_descriptions.csv
 
 # Keep gitkeep files if any (to track directories)
 !data/**/.gitkeep
@@ -67,3 +73,6 @@ model/artifacts/*.model
 
 # Notebook checkpoints
 .ipynb_checkpoints
+
+# Exported documents
+*.docx
