@@ -220,6 +220,19 @@ def identify_feature_columns(df: pd.DataFrame) -> Dict[str, List[str]]:
     }
 
 
+def get_distance_features(feature_groups: Dict[str, List[str]]) -> List[str]:
+    """
+    Features used for KNN distance: location + one-hot + other numeric.
+    Phase 4 features are also included in the distance calculation by apply_knn_imputation.
+    """
+    return (
+        feature_groups['zipcode'] +
+        feature_groups['neighborhood'] +
+        feature_groups['one_hot'] +
+        feature_groups['other_numeric']
+    )
+
+
 def analyze_missingness(df: pd.DataFrame, feature_cols: List[str]) -> Dict[str, Tuple[int, float]]:
     """
     Analyze missing data patterns in Phase 4 features.
@@ -772,14 +785,7 @@ def process_houses(
     # Step 4: Apply KNN imputation
     print("\n🤖 Step 4: Applying KNN imputation...")
     
-    # Features for distance calculation: location + one-hot + other numeric
-    # Note: Phase 4 features are also included in distance calculation
-    features_for_distance = (
-        feature_groups['zipcode'] +
-        feature_groups['neighborhood'] +
-        feature_groups['one_hot'] +
-        feature_groups['other_numeric']
-    )
+    features_for_distance = get_distance_features(feature_groups)
     
     df_imputed, imputation_counts, scaler, feature_names = apply_knn_imputation(
         df,
