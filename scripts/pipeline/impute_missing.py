@@ -175,10 +175,10 @@ def identify_feature_columns(df: pd.DataFrame) -> Dict[str, List[str]]:
     
     # Other numeric features that should be included in KNN distance calculation
     # (but won't be imputed - they're already complete or handled elsewhere)
+    # financial_lastSoldPrice is the model's target, so it must never influence imputed features
     other_numeric_features = [
         'location_latitude',
         'location_longitude',
-        'financial_lastSoldPrice',
         'financial_monthlyHoaFee',
         'financial_taxAssessedValue',
         'financial_taxAssessedValue_is_missing',
@@ -267,7 +267,8 @@ def apply_knn_imputation(
     df_imputed = df.copy()
     
     # Combine features: those to impute + those for distance calculation only
-    all_features_for_knn = list(set(features_to_impute + features_for_distance))
+    # dict.fromkeys keeps a stable column order (set() order changes between runs)
+    all_features_for_knn = list(dict.fromkeys(features_to_impute + features_for_distance))
     
     # Extract the feature matrix
     X = df[all_features_for_knn].copy()

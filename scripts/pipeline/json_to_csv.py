@@ -45,6 +45,8 @@ def load_houses_to_dataframe(houses_dir: str) -> pd.DataFrame:
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 data = json.load(f)
+            # Files are named <zpid>.json; keep the ID so other feature tables can join on it
+            data['zpid'] = int(filepath.stem)
             houses_data.append(data)
         except Exception as e:
             print(f"⚠️  Error loading {filepath.name}: {e}")
@@ -107,8 +109,8 @@ def convert_to_csv(source_dir: str, output_file: str):
     if initial_rows != len(df):
         print(f"   Total rows removed: {initial_rows - len(df)}")
     
-    # Sort columns for consistency
-    df = df.reindex(sorted(df.columns), axis=1)
+    # Sort columns for consistency (zpid first as the row key)
+    df = df.reindex(['zpid'] + sorted(c for c in df.columns if c != 'zpid'), axis=1)
     
     # Save to CSV
     print(f"\n💾 Saving to {output_file}...")

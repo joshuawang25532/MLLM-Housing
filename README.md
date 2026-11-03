@@ -1,9 +1,11 @@
 # MLLM-Housing
 
 ## Project Overview
-MLLM-Housing is a machine learning project designed to predict housing prices by integrating traditional structured data with abstract quality assessments (e.g., beauty, cleanliness, spaciousness) derived from Multimodal Large Language Models (MLLMs).
+MLLM-Housing predicts San Francisco housing sale prices with XGBoost and tests whether qualitative features extracted by an LLM add anything on top of traditional structured listing data.
 
-The project utilizes a robust scraping pipeline to collect real estate data (Zillow), processes it through a comprehensive cleaning and imputation workflow, and employs XGBoost for price prediction. Unique to this project is the use of Gemini-encoded descriptions to capture qualitative features from property text.
+The project scrapes listing data from Zillow, runs it through a cleaning, encoding and imputation pipeline, and asks Gemini to score each listing's text description on five qualitative dimensions (luxury, renovation, distress, marketing hype, location premium). The model notebook then compares XGBoost with and without those scores on identical splits.
+
+> **Scope note:** the LLM features currently come from listing **text only**. The scraped data includes listing photos, but image-based (multimodal) features are not implemented yet; that is the natural next step and the reason for the project name.
 
 ## Core Functions
 
@@ -19,11 +21,21 @@ A unified pipeline orchestrates the transformation of raw JSON data into a model
 - **Preprocessing**: Cleans raw fields, handles missing values, and normalizes data.
 - **One-Hot Encoding**: Converts categorical variables for machine learning compatibility.
 - **Imputation**: Uses KNN imputation to fill missing numerical data.
-- **Feature Engineering**: Merges structured data with LLM-derived features (`gemini_encoded_descriptions.csv`).
+- **Feature Engineering**: Joins structured data with LLM-derived features (`gemini_encoded_descriptions.csv`) on the listing ID (`zpid`).
+- **Leakage guard**: The sale price (the target) is excluded from the features KNN imputation uses to find neighbours, and imputation is deterministic run to run.
 
 ### 3. Predictive Modeling
-- **XGBoost + LLM Price Predictor**: The core model for price prediction, tuned via RandomizedSearchCV.
-- **Evaluation**: Comprehensive metrics including RMSE, MAE, RMSLE, and R².
+- **Baseline vs. LLM features**: Two XGBoost models (structured features only, and structured + Gemini scores), each tuned separately with RandomizedSearchCV on the training split.
+- **Evaluation**: Paired 5x3 repeated K-fold CV on the training split, then a single held-out test set. Reports log-RMSE plus dollar MAE, MAPE, median APE and R². Results are written to `results.txt`.
+
+**Current results** (4,853 SF listings, 80/20 split):
+
+| Model | CV RMSE (log) | Test RMSE (log) | Test MAE | Test MAPE | Test R² |
+|---|---|---|---|---|---|
+| XGBoost (baseline) | 0.3792 ± 0.0725 | 0.2606 | $368,342 | 18.9% | 0.732 |
+| XGBoost + Gemini | 0.3719 ± 0.0708 | 0.2585 | $356,049 | 18.5% | 0.748 |
+
+The Gemini features give a small but consistent improvement: about 2% lower log-RMSE, better in 14 of 15 paired CV folds. Most of the predictive power still comes from the structured features.
 
 ## Collaboration Scheme Summary
 The project features a **Concurrent Scraping Architecture** designed for scalability:
@@ -93,7 +105,6 @@ Open the Jupyter Notebook to train the XGBoost model on the processed dataset:
 ```bash
 jupyter notebook model/xgboost.ipynb
 ```
-*Note: Ensure you update file paths in the notebook to point to `../data/final_dataset.csv`.*
 
 ## Directory Structure
 
@@ -110,7 +121,8 @@ MLLM-Housing/
 │
 ├── model/                      # Model training and artifacts
 │   ├── artifacts/              # Saved .pkl models and feature names
-│   └── xgboost.ipynb           # Model training and evaluation notebook
+│   ├── description.ipynb       # Gemini scoring of listing descriptions
+│   └── xgboost.ipynb           # Baseline vs. + Gemini model comparison
 │
 ├── scripts/                    # Executable scripts
 │   ├── pipeline/               # Data processing pipeline scripts
@@ -139,9 +151,9 @@ MLLM-Housing/
 
 ### Dataset
 - **Source**: Zillow (Scraped via `nodriver`).
-- **Processed Data**: `data/final_dataset.csv` (Contains ~4,800 listings with 100+ features).
-- **LLM Features**: `data/gemini_encoded_descriptions.csv` (Contains embedding-like features representing qualitative aspects).
+- **Processed Data**: `data/final_dataset.csv` (4,853 listings, ~110 columns, keyed by `zpid`).
+- **LLM Features**: `data/gemini_encoded_descriptions.csv` (5 scalar scores per listing from `model/description.ipynb`, keyed by `zpid`; empty for the 25 listings with no description).
 
 ### Experiment Logs
-- Model performance metrics (MAE, RMSE, R²) are output directly in `model/xgboost.ipynb` after training.
+- Model comparison (baseline vs. + Gemini) is written to `results.txt` by `model/xgboost.ipynb`.
 - Scraping progress is logged to the console and tracked via `data/raw_houses/visited_houses.json` (internal state file).
