@@ -324,6 +324,17 @@ def transform_schools(data: dict) -> dict:
     return data
 
 
+def is_post_sale_assessment(tax_assessed_year, date_sold_string) -> bool:
+    """
+    True when the tax assessment is from a later year than the sale, i.e. it already
+    reflects the sale price. Unknown years are treated as not post-sale.
+    """
+    try:
+        return int(tax_assessed_year) > int(str(date_sold_string)[:4])
+    except (TypeError, ValueError):
+        return False
+
+
 def clean_house_data(data: dict) -> dict:
     """
     Remove leaking/noisy features from house data.
@@ -397,6 +408,13 @@ def clean_house_data(data: dict) -> dict:
             # If lotAreaValue is None, set lotSize_sqft to None
             cleaned_data["basic_info"]["lotSize_sqft"] = None
     
+    # California reassesses a property at its sale price (Prop 13), so an assessment from a
+    # later year than the sale is the target in disguise. Treat it as missing.
+    if "financial" in cleaned_data and isinstance(cleaned_data["financial"], dict):
+        financial = cleaned_data["financial"]
+        if is_post_sale_assessment(financial.get("taxAssessedYear"), financial.get("dateSoldString")):
+            financial["taxAssessedValue"] = None
+
     # Preprocess appliances before removing them
     appliances_list = None
     if "property_details" in cleaned_data and isinstance(cleaned_data["property_details"], dict):

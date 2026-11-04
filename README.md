@@ -22,7 +22,7 @@ A unified pipeline orchestrates the transformation of raw JSON data into a model
 - **One-Hot Encoding**: Converts categorical variables for machine learning compatibility.
 - **Imputation**: Uses KNN imputation to fill missing numerical data.
 - **Feature Engineering**: Joins structured data with LLM-derived features (`gemini_encoded_descriptions.csv`) on the listing ID (`zpid`).
-- **Leakage guard**: The sale price (the target) is excluded from the features KNN imputation uses to find neighbours, and imputation is deterministic run to run.
+- **Leakage guard**: The sale price (the target) is excluded from the features KNN imputation uses to find neighbours, and imputation is deterministic run to run. Listing-side price signals (list price, Zestimate, price per sq ft, price history) are dropped. California reassesses a home at its sale price, so a tax assessment from a later year than the sale is treated as missing.
 
 ### 3. Predictive Modeling
 - **Baseline vs. LLM features**: Two XGBoost models (structured features only, and structured + Gemini scores), each tuned separately with RandomizedSearchCV on the training split.
@@ -32,17 +32,17 @@ A unified pipeline orchestrates the transformation of raw JSON data into a model
 
 | Model | CV RMSE (log) | Test RMSE (log) | Test MAE | Test MAPE | Test median APE | Test R² ($) |
 |---|---|---|---|---|---|---|
-| XGBoost (baseline) | 0.2530 ± 0.0175 | 0.2641 | $371,036 | 18.7% | 11.8% | 0.625 |
-| XGBoost + Gemini | 0.2446 ± 0.0174 | 0.2601 | $359,525 | 18.0% | 10.9% | 0.645 |
+| XGBoost (baseline) | 0.2544 ± 0.0176 | 0.2619 | $364,344 | 18.5% | 11.4% | 0.641 |
+| XGBoost + Gemini | 0.2456 ± 0.0179 | 0.2596 | $355,639 | 18.1% | 11.0% | 0.666 |
 
-The Gemini features give a small but consistent improvement: about 3% lower log-RMSE, better in 14 of 15 paired CV folds, and about $11.5k lower test MAE. Most of the predictive power still comes from the structured features.
+The Gemini features give a small but consistent improvement: about 3.5% lower CV log-RMSE, better in all 15 paired CV folds, and about $8.7k lower test MAE. Most of the predictive power still comes from the structured features.
 
 ### Limitations
 - **Text only:** the LLM features come from listing descriptions; photos are scraped but not yet used.
 - **Small effect, one market:** the gain is modest and measured on a single city (San Francisco) over one scrape.
 - **Dollar R² is outlier-sensitive:** a few very expensive sales (up to $44M) dominate dollar-scale R², so log-RMSE and median APE are the more reliable summaries.
 - **Imputation is fit on all rows:** KNN imputation never sees the sale price, but it does use other rows' features (including test rows) to fill gaps. Moving it into a train-only sklearn `Pipeline` would remove that last bit of overlap.
-- **Gemini scores are a snapshot:** they were generated once with `gemini-flash-lite-latest`; re-running `model/description.ipynb` with a newer model may give slightly different scores.
+- **Gemini scores are a snapshot:** they were generated once with `gemini-flash-lite-latest`. That run had Google Search grounding switched on; `model/description.ipynb` now scores from the description text only (no tools, temperature 0), so re-running it may give slightly different scores.
 
 ## Collaboration Scheme Summary
 The project features a **Concurrent Scraping Architecture** designed for scalability:
@@ -70,11 +70,11 @@ pip install -r requirements.txt
 ```bash
 pytest
 ```
-The tests check that imputation never uses the sale price and is deterministic, that the final CSV is keyed by `zpid`, and that the committed datasets join correctly and respect the Gemini scoring rubric. They run in GitHub Actions on Ubuntu and Windows.
+The tests check that preprocessing drops tax assessments made after the sale, that imputation never uses the sale price and is deterministic, that the final CSV is keyed by `zpid`, and that the committed datasets join correctly and respect the Gemini scoring rubric. They run in GitHub Actions on Ubuntu and Windows.
 
 ## Quick-Start Commands
 
-To reproduce the results, open the model notebook and run all cells (about a minute on a laptop). It only needs the two committed tables, `data/final_dataset.csv` and `data/gemini_encoded_descriptions.csv`:
+To reproduce the results, open the model notebook and run all cells (roughly 10-15 minutes on a laptop, mostly the two hyperparameter searches). It only needs the two committed tables, `data/final_dataset.csv` and `data/gemini_encoded_descriptions.csv`:
 ```bash
 jupyter notebook model/xgboost.ipynb
 ```
